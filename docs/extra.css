@@ -1,0 +1,36 @@
+ol {
+    counter-reset: list;
+}
+ol > li {
+    counter-increment: list;
+}
+ol > li::marker {
+    content: "(" counter(list) ") ";
+}
+li ol > li::marker {
+    content: counter(list) ". ";
+}
+li li ol > li::marker {
+    content: counter(list, lower-alpha) ") ";
+}
+
+ul li::marker {
+    content: "– ";
+}
+
+.toc *::marker {
+    content: " "
+}
+.toc ul li:nth-child(1) {
+    color: red;
+/*    display: none;*/
+}
+.toc ul li ul {
+/*    display: unset;*/
+}
+h1 a {
+    color: unset;
+}
+h2 a {
+    color: unset;
+}

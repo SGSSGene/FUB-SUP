@@ -1,0 +1,16 @@
+site_name: SuPOrdnung
+nav:
+  - SOP Bsc Informatik 2014: sop_bsc_inf_2014.md
+  - SOP Bsc Informatik 2023: sop_bsc_inf_2023.md
+theme: readthedocs
+extra_css:
+  - extra.css
+markdown_extensions:
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      anchorlink: true
+      baselevel: 1
+      toc_depth: 2
