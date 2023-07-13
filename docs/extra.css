@@ -34,3 +34,23 @@ h1 a {
 h2 a {
     color: unset;
 }
+
+div.wy-table-responsive {
+    overflow: visible !important;
+}
+
+.wy-table-responsive thead,tbody {
+    background: #fff !important;
+}
+
+.wy-table-responsive th {
+    white-space: normal !important;
+}
+
+.wy-table-responsive td {
+    white-space: normal !important;
+}
+
+table.docutils {
+    overflow: visible !important;
+}

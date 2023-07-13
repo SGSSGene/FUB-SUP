@@ -175,18 +175,17 @@ Die Regelstudienzeit beträgt sechs Semester.
     - Modul: Projektmanagement in agilen Umgebungen (5 LP),
     - Modul: Systemverwaltung (5 LP).
 
-    Im Bereich Praktika wird das Modul „Berufsbezogenes
-    Praktikum Informatik“ (10 LP) angeboten.
+    Im Bereich Praktika wird das Modul „Berufsbezogenes Praktikum Informatik“ (10 LP) angeboten.
 
 7. Über die Zugangsvoraussetzungen, die Inhalte
-und Qualifikationsziele, die Lehr- und Lernformen, den
-zeitlichen Arbeitsaufwand, die Formen der aktiven Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die Angaben über die Pflicht zur regelmäßigen Teilnahme an den Lehr- und Lernformen, die
-den Modulen jeweils zugeordneten Leistungspunkte,
-die Regeldauer und die Angebotshäufigkeit informieren
-für die Module des Bachelorstudiengangs die Modulbeschreibungen in der Anlage 1.
+    und Qualifikationsziele, die Lehr- und Lernformen, den
+    zeitlichen Arbeitsaufwand, die Formen der aktiven Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die Angaben über die Pflicht zur regelmäßigen Teilnahme an den Lehr- und Lernformen, die
+    den Modulen jeweils zugeordneten Leistungspunkte,
+    die Regeldauer und die Angebotshäufigkeit informieren
+    für die Module des Bachelorstudiengangs die Modulbeschreibungen in der Anlage 1.
 8. Über den empfohlenen Verlauf des Studiums
-unterrichtet der exemplarische Studienverlaufsplan in
-der Anlage 2.
+    unterrichtet der exemplarische Studienverlaufsplan in
+    der Anlage 2.
 
 ## § 8 Lehr- und Lernformen
 1. Im Rahmen des Lehrangebots werden folgende
@@ -438,3 +437,13 @@ für Computerprogramme muss der vollständige Quelltext eingereicht werden.
     Grundlage der Studien- und Prüfungsordnung gemäß
     Abs. 2 wird bis zum Ende des Sommersemesters 2027
     gewährleistet.
+
+## Anlage 2: Exemplaricher Studienverlaufsplan für den Bachelorstudiengang Informatik
+| Semester                  | Pflichtbereich {colspan=4}                                  | empty {hidden}                            | empty {hidden}                             | empty {hidden}                                 | Wahlpflichtbereich       | Wahlbereich                 | ABV                                          | SWS  |
+| --------                  |:--------------------------------                           :|:--------------------------               :|:--------------                            :|:--------------                                :|:------------------      :|:-----------                :|:---                                         :| ---  |
+| 1. FS<br> 29 LP           | Konzepte der Programierung (9 LP)                           | Diskrete Strukturen für Informatik (9 LP) | Auswirkung der Informatik (6LP)            |                                                |                          |                             | ABV (5 LP)                                   | 20   |
+| 2. FS<br> 30 LP           | Algorithmen und Datenstrukturen (9 LP)                      | Lineare Algebra für Informatik (9 LP)     | Betriebs- und Kommunikationssysteme (6 LP) | Datenbanksysteme (6 LP)                        |                          |                             |                                              | 20   |
+| 3. FS<br> 30 LP           | Nebenläufige, parallele und verteilte Programmierung (9 LP) | Analysis für Informatik (9 LP)            | Rechnerarchitektur (6 LP)                  | Grundlagen der Theoretischen Informatik (6 LP) |                          |                             |                                              | 20   |
+| 4. FS<br> 31 LP           | Programmierpraktikum (5 LP)                                 | Statistik für Informatik (6 LP)           | Informationssicherheit (6 LP)              | Softwaretechnik (9 LP)                         |                          |                             | ABV (5 LP)                                   | 20   |
+| 5. FS<br> 32 LP           | Wissenschaftliches Arbeiten in der Informatik (6 LP)        |                                           |                                            |                                                | Wahlpflichtmodule (6 LP) | Wahlbereichsmodul(e) 10 LP) | Berufsbezogenes Praktikum Informatik (10 LP) | 13\* |
+| 6. FS<br> 28 LP           |                                                             |                                           |                                            |                                                | Wahlpflichtmodule (6 LP) |                             | Softwareprojekt (10 LP)                      | 8\*  |

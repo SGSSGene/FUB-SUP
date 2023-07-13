@@ -14,3 +14,5 @@ markdown_extensions:
       anchorlink: true
       baselevel: 1
       toc_depth: 2
+  - tables
+  - attr_list
