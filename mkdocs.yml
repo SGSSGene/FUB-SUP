@@ -1,7 +1,10 @@
 site_name: SuPOrdnung
 nav:
-  - SOP Bsc Informatik 2014: sop_bsc_inf_2014.md
-  - SOP Bsc Informatik 2023: sop_bsc_inf_2023.md
+  - SOP Bsc Informatik 2014:
+    - Studien- und Prüfungsordnung: sop_bsc_inf_2014.md
+  - SOP Bsc Informatik 2023:
+    - Studien- und Prüfungsordnung: sop_bsc_inf_2023.md
+    - Module: mods.md
 theme: readthedocs
 extra_css:
   - extra.css
@@ -16,3 +19,8 @@ markdown_extensions:
       toc_depth: 2
   - tables
   - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde

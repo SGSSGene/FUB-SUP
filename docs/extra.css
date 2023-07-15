@@ -14,19 +14,22 @@ li li ol > li::marker {
     content: counter(list, lower-alpha) ") ";
 }
 
-ul li::marker {
+li ul li::marker {
     content: "– ";
 }
+
+li ul li::marker {
+    content: circle;
+}
+
 
 .toc *::marker {
     content: " "
 }
 .toc ul li:nth-child(1) {
     color: red;
-/*    display: none;*/
 }
 .toc ul li ul {
-/*    display: unset;*/
 }
 h1 a {
     color: unset;
@@ -53,4 +56,13 @@ div.wy-table-responsive {
 
 table.docutils {
     overflow: visible !important;
+}
+
+code del.critic {
+    color: black;
+    background: #ff8080;
+}
+code ins.critic {
+    color: black;
+    background: #80ff80;
 }

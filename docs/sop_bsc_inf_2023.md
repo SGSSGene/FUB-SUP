@@ -1,4 +1,33 @@
 # Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
+## Original und Modifikation
+Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des Informatik Bachelors an der FU-Berlin.
+Das Original ist hier zu finden: [StO/PO 2023 (Bachelor)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/StOPO_BSc_Inf_-2023.pdf).
+Während der Aufbereitung wurden kleinere Änderungen vorgenommen:
+
+- Seite 536: In der Auflistung wurde ein 'und' mit einem Komma ersetzt:
+    - `- Modul: Rechnerarchitektur (6 LP){-- und--}{++,++}`
+- Seite 536: Punkt mit Komma ersetzt:
+    - `- Modul: Betriebs- und Kommunikationssysteme (6 LP){--.--}{++,++}`
+- Seite 522: Zellenbezeichnung vereinheitlicht:
+    - `Hochschule/Fachbereich/{--Institut--}{++Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
+- Seite 562: Überflüssiges Leerzeichen entfernt:
+    - `Hochschule/Fachbereich/Lehreinheit: Freie Universität Berlin/{-- --}Mathematik und Informatik/Informatik`
+- Seite 566: Falsche Zellenbezeichnung korrigiert:
+    - `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
+    - `{--ul--}{++Modulverantwortung++}: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen`
+    - `{--ul--}{++Zugangsvoraussetzungen++}: Programmierpraktikum, Softwaretechnik`
+- Seite 567: Falsche Zellenbezeichnung korrigiert:
+    - `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
+- Seite 576: Fehlende Klammer hinzugefügt:
+    - `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
+- Seite 577: Fehlende Klammer hinzugefügt:
+    - `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
+- In den Modulbeschreibungen wurde Zelle 'Moduleverantwortung' vereinheitlicht:
+    - `{--Modulverantwortliche--}{++Modulverantwortung++}:` (Seite 543, 563, 564)
+    - `{--Modulverantwortlicher--}{++Modulverantwortung++}:` (Seite 546, 550, 574)
+- In den Modulbeschreibungen wurde Zelle 'Modulsprache' vereinheitlicht:
+    - `{--Veranstaltungssprache--}{++Modulsprache++}:` (Seite 553, 571, 572, 575)
+
 ## Präambel
 Aufgrund von § 14 Abs. 1 Satz 1 Nr. 2 Teilgrundordnung
 (Erprobungsmodell) der Freien Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
@@ -437,6 +466,67 @@ für Computerprogramme muss der vollständige Quelltext eingereicht werden.
     Grundlage der Studien- und Prüfungsordnung gemäß
     Abs. 2 wird bis zum Ende des Sommersemesters 2027
     gewährleistet.
+## Anlage 1: Modulbeschreibungen
+**Erläuterungen:**
+Die folgenden Modulbeschreibungen benennen, soweit
+nicht auf andere Ordnungen verwiesen wird, für jedes
+Modul des Bachelorstudiengangs
+
+ - die Bezeichnung des Moduls,
+ - die\*den Verantwortliche\*n des Moduls,
+ - die Voraussetzungen für den Zugang zum jeweiligen Modul,
+ - Inhalte und Qualifikationsziele des Moduls,
+ - Lehr- und Lernformen des Moduls,
+ - den studentischen Arbeitsaufwand, der für die erfolgreiche Absolvierung eines Moduls veranschlagt wird,
+ - Formen der aktiven Teilnahme,
+ - die Prüfungsformen,
+ - die Pflicht zu regelmäßiger Teilnahme,
+ - die den Modulen zugeordneten Leistungspunkte,
+ - die Regeldauer des Moduls,
+ - die Häufigkeit des Angebots,
+ - die Verwendbarkeit des Moduls.
+
+Die Angaben zum zeitlichen Arbeitsaufwand berücksichtigen insbesondere
+
+ - die aktive Teilnahme im Rahmen der Präsenzstudienzeit,
+ - den Arbeitszeitaufwand für die Erledigung kleinerer Aufgaben im Rahmen der Präsenzstudienzeit,
+ - die Zeit für eine eigenständige Vor- und Nachbereitung,
+ - die Bearbeitung von Studieneinheiten in den Online-Studienphasen,
+ - die unmittelbare Vorbereitungszeit für Prüfungsleistungen,
+ - die Prüfungszeit selbst.
+
+Die Zeitangaben zum Selbststudium (unter anderem
+Vor- und Nachbereitung, Prüfungsvorbereitung) stellen
+Richtwerte dar und sollen den Studierenden Hilfestellung für die zeitliche Organisation ihres modulbezogenen Arbeitsaufwands liefern. Die Angaben zum Arbeitsaufwand korrespondieren mit der Anzahl der dem jeweiligen Modul zugeordneten LP als Maßeinheit für den
+studentischen Arbeitsaufwand, der für die erfolgreiche
+Absolvierung des Moduls in etwa zu erbringen ist. Ein
+Leistungspunkt entspricht 30 Stunden.
+
+Soweit für die jeweiligen Lehr- und Lernformen die
+Pflicht zu regelmäßiger Teilnahme festgelegt ist, ist sie
+neben der aktiven Teilnahme an den Lehr- und Lernformen und der erfolgreichen Absolvierung der Prüfungsleistungen eines Moduls Voraussetzung für den
+Erwerb der dem jeweiligen Modul zugeordneten LP.
+Eine regelmäßige Teilnahme liegt vor, wenn mindestens
+85 % der in den Lehr- und Lernformen eines Moduls
+vorgesehenen Präsenzstudienzeit besucht wurden. Besteht keine Pflicht zu regelmäßiger Teilnahme an einer
+Lehr- und Lernform eines Moduls, so wird sie dennoch
+dringend empfohlen. Die Festlegung einer Präsenzpflicht durch die jeweilige Lehrkraft ist für Lehr- und
+Lernformen, für die im Folgenden die Teilnahme lediglich empfohlen wird, ausgeschlossen. In Modulen, in
+denen alternative Formen der aktiven Teilnahme vorgesehen sind, sind die entsprechend dem studentischen
+Arbeitsaufwand zu bestimmenden Formen der aktiven
+Teilnahme für das jeweilige Semester von der verantwortlichen Lehrkraft spätestens im ersten Lehrveranstaltungstermin festzulegen.
+
+Zu jedem Modul muss – soweit vorgesehen – die zugehörige Modulprüfung abgelegt werden. Bewertete
+Module werden mit nur einer Prüfungsleistung (Modulprüfung) abgeschlossen. Die Modulprüfung ist auf die
+Qualifikationsziele des Moduls zu beziehen und überprüft die Erreichung der Ziele des Moduls exemplarisch.
+Der Prüfungsumfang wird auf das dafür notwendige
+Maß beschränkt. In Modulen, in denen alternative Prüfungsformen vorgesehen sind, ist die Prüfungsform des
+jeweiligen Semesters von der verantwortlichen Lehrkraft
+spätestens im ersten Lehrveranstaltungstermin festzulegen.
+
+Die aktive und – soweit vorgesehen – regelmäßige Teilnahme an den Lehr- und Lernformen sowie die erfolgreiche Absolvierung der Prüfungsleistungen eines Moduls sind Voraussetzung für den Erwerb der dem jeweiligen Modul zugeordneten Leistungspunkte. Bei Modulen ohne Modulprüfung ist die aktive Teilnahme und
+regelmäßige Teilnahme an den Lehr- und Lernformen
+Voraussetzung für den Erwerb der dem jeweiligen Modul zugeordneten Leistungspunkte.
 
 ## Anlage 2: Exemplaricher Studienverlaufsplan für den Bachelorstudiengang Informatik
 | Semester                  | Pflichtbereich {colspan=4}                                  | empty {hidden}                            | empty {hidden}                             | empty {hidden}                                 | Wahlpflichtbereich       | Wahlbereich                 | ABV                                          | SWS  |
