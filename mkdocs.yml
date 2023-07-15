@@ -4,7 +4,7 @@ nav:
     - Studien- und Prüfungsordnung: sop_bsc_inf_2014.md
   - SOP Bsc Informatik 2023:
     - Studien- und Prüfungsordnung: sop_bsc_inf_2023.md
-    - Module: mods.md
+    - Modul Beschreibungen: mods.md
 theme: readthedocs
 extra_css:
   - extra.css
