@@ -1,0 +1,27 @@
+formatversion: 1
+name: "Statistik für Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Keine"
+goals: |
+    Die Studierenden erläutern grundlegende Begriffe der Wahrscheinlichkeitstheorie und Statistik und modellieren Fragestellungen der (Bio-)Informatik mit Hilfe der Wahrscheinlichkeitstheorie und wählen dazu geeignete diskrete oder stetige Wahrscheinlichkeitsverteilungen aus. Sie bestimmen Wahrscheinlichkeiten von Zufallsereignissen und analysieren empirische Daten mit Hilfe statistischer Modelle. Sie können Schätzer für statistische Größe herleiten und Hypothesen mit Hilfe statistischer Tests evaluieren.
+content: |
+    Die Studierenden erlernen die Grundlagen der Statistik, in dem sie sich mit der Datenanalyse und deskriptiven Statistik befassen und Histogramme, empirische Verteilungen, Häufigkeit, Mittelwert und Streuung, Kovarianz und Korrelation kennenlernen. Des Weiteren setzen sich Studierende mit der Modellierung vom Zufall abhängiger Vorgänge, Zufallsexperimenten und Wahrscheinlichkeitsräumen auseinander und lernen bedingte Wahrscheinlichkeiten, Unabhängigkeit, den Satz von Bayes, den Satz von der totalen Wahrscheinlichkeit kennen. Ebenfalls lernen Studierende Zufallsvariablen, Verteilung und Dichte sowie Erwartungswert und Varianz kennen. Darüber hinaus erarbeiten Studierende die Eigenschaften von speziellen diskreten und kontinuierlichen Verteilungen, u. a. Binomialverteilung, Poissonverteilung, Normalverteilung. Sie setzen sich mit dem Gesetz der großen Zahlen und Zentraler Grenzwertsatz auseinander. Daneben werden Themen wie Statistische Modelle und Likelihood-Funktion, Maximum-Likelihood-Schätzverfahren, Testtheorie, Signifikanz, p-Wert und deren Anwendungen in der Informatik und Bioinformatik vermittelt.
+exam: |
+    Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Übungs- und Programmieraufgaben"
+language: "Deutsch"
+total_work: 180
+credit_points: 6
+duration: "Ein Semester"
+repeat: "Jedes Sommersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg

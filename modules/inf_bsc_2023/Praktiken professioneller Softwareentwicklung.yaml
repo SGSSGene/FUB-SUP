@@ -1,0 +1,27 @@
+formatversion: 1
+name: "Praktiken professioneller Softwareentwicklung"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Programmierpraktikum, Softwaretechnik"
+goals: |
+    Die Studierenden kennen und verstehen verschiedene Praktiken und können deren Grundgedanken und Zwecke erklären. Sie besitzen praktische Fertigkeiten in der Anwendung dieser Praktiken und beurteilen, wann und in welchem Grad der Einsatz welcher dieser Praktiken sinnvoll ist.
+content: |
+    Studierenden setzen sich mit Entwicklungspraktiken auseinander, d. h. sie erarbeiten sich und diskutieren konkrete Ausprägungen von allgemeinen Prinzipien der Softwaretechnik in Methodenelemente, die alle Aufgabenfelder der Erst- und Fortentwicklung von Software betreffen können, z. B. Anforderungsbestimmung, Spezifikation; Projektplanung, Projektsteuerung und -koordination, Teamarbeit; Softwareentwurf, Implementierung, Test, Optimierung, Dokumentation; Programmverstehen, Reengineering und Qualitätsmanagement, Wissensmanagement, Organisationsentwicklung. Einen erheblichen Teil davon üben sie auch, durch konkrete Anwendung ein einem eigenen Softwareprojekt. Die Studierenden diskutieren Vorteile, Nachteile und Grenzen jeder Praktik und reflektieren ggf. ihre eigenen Erfahrungen damit.
+exam: |
+    Keine
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "required"
+      activity: "Teilnahme an der Diskussion"
+    - type: "Übung"
+      swstime: 2
+      attendance: "requiured"
+      activity: "Bearbeitung von Übungsaufgaben; Teilnahme an der Diskussion"
+language: "Deutsch"
+total_work: 180
+credit_points: 6
+duration: "Ein Semester"
+repeat: "Zweijährlich im Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg

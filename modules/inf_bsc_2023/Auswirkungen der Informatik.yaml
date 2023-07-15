@@ -1,0 +1,27 @@
+formatversion: 1
+name: "Auswirkungen der Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Keine"
+goals: |
+    Die Studierenden verstehen den Unterschied zwischen Verfügungswissen und Orientierungswissen und unterscheiden beim Nachdenken über Informatiksysteme zwischen technischen Fragestellungen, Technikfolgenabschätzung und Technikfolgenbewertung. Sie nehmen6 die Verantwortungsaspekte der Ingenieurtätigkeit an und gestalten Technik und ihren Wandel verantwortungsbewusst mit5. Sie verstehen einige Aspekte der Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B. Sicherheit, Schutz der Privatsphäre, Künstliche Intelligenz und können Bezüge zum gesellschaftlichen Wandel herstellen und anhand ihrer persönlichen Haltungen bewerten. Dies Studierenden kennen einige Gender- und Diversity-Aspekte von Entwicklung und Einsatz von Informatiksystemen und verstehen Konzepte und Lösungsansätze von Benutzbarkeit und Barrierefreiheit.
+content: |
+    Studierende erarbeiten, welche Auswirkungen die Informatik hat und lernen die Konzepte Auswirkung, sozio-technisches System, Verfügungswissen, Gestaltungswissen, Verantwortung, Techniksoziologie sowie Entscheiden und Handeln. Dabei diskutieren sie Beispiele für Technikfolgen in ausgewählten informatiklastigen Gebieten hoher Relevanz, z. B. Sicherheit softwareintensiver technischer Systeme, Schutz der Privatsphäre, Computerisierung des Alltagslebens, Computerisierung der Arbeitswelt.
+exam: |
+    Keine
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Bearbeitung von Ünugaufgaben; Teilnahme an der Diskussion."
+language: "Deutsch"
+total_work: 180
+credit_points: 6
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, Einführungs- und Orientierungsstudium, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg

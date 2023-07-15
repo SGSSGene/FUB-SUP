@@ -1,0 +1,27 @@
+formatversion: 1
+name: "Maschinelles Lernen"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Keine"
+goals: |
+    Die Studierenden lernen Formen der Datenrepräsentation und deren Visualisierung, können Abhängigkeiten aufzeigen und wenden Verfahren für Dimensionsreduktion und Datenvorverarbeitung an. Sie lernen die Grundbegriffe und Prinzipien des maschinellen Lernens, können Zielkriterien formulieren, benennen Eigenschaften von Optimierungsproblemen und können algorithmische Ansätze zur Lösung umsetzen. Sie können unterschiedlichste Lernverfahren zur Regression, Klassifikation und Entscheidungsfindung einordnen und umsetzen. Sie lernen die Grundstrukturen und Architekturen von neuronalen Netzen und deren vielfältige Einsatzgebiete. Sie können algorithmisch Lösungen für eine gegebene Problemstellung umsetzen und evaluieren.
+content: |
+    Die Studierenden erlernen die Grundlagen des maschinellen Lernens, der Lerntheorie, der Generalisierung und PAC. Sie erarbeiten ebenfalls die Grundlagen der konvexen Optimierung (z. B. Subgradient Methode), des Stochastischen Gradientenabstieg, der Regularisierung und Konvergenz. Sie üben Verfahren des Supervised Learning (z. B. Linear Regression, SVM, Kernel-Trick), des Unsupervised Learning (z. B. Clustering, Decision Trees, Matrix Decomposition, wie PCA) und des Dictionary Learning. Des Weiteren erlernen Studierende die Grundlagen der Künstliche Neuronale Netze (KNN), indem mögliche Architekturen und das Konzept der Backpropagation erarbeitet werden. Darüber hinaus setzen sich Studierende mit den Aspekten der Evaluierung (Crossvalidation, Hyper-Parameter-Tuning usw.) auseinander.
+exam: |
+    Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung oder eines Teils davon."
+language: "Deutsch"
+total_work: 180
+credit_points: 6
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg

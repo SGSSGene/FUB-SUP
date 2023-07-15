@@ -1,0 +1,27 @@
+formatversion: 1
+name: "Architektur eingebetteter Systeme"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Rechnerarchitektur, Betriebs- und Kommunikationssysteme"
+goals: |
+    Die Studierenden kennen den Aufbau und die Komponenten eingebetteter Systeme, können die Unterschiede in den Anforderungen und Komponenten von eingebetteten Systemen in Vergleich zu Arbeitsplatzrechnern darstellen und entscheiden, welche Komponenten für gegebene Aufgabenstellungen notwendig sind. Sie können einfache Anwendungen auf Basis eines gegebenen eingebetteten Systems programmieren. Darüber hinaus kennen sie den Aufbau und die Komponenten von Betriebssystemen für eingebettete Systeme, können den Einsatz von Komponenten eines eingebetteten Systems und eines zugehörigen Betriebssystems unter gegebenen Anforderungen entsprechend begründet auswählen und Optimierungen in Hard- und Software für gegebene Anwendungen entwickeln.
+content: |
+    Studierende erarbeiten sich den grundlegenden Aufbau von Mikroprozessor-Architekturen für eingebettete Systeme einschl. Datenformate, Befehlsformate, Befehlssätze und Speicherorganisation. Sie erlernen und üben den praktischen Umfang mit Schnittstellen und Ein-/Ausgabe-Systemen und Peripherie-Geräten. Sie erlernen Eigenschaften von Cyber Physical Systems, Sensoren, Aktuatoren und Sensornetzen (WSN) und diskutieren deren Anwendungsgebiete. Darüber hinaus erlernen sie die Anbindung und den Einsatz von Field Programmable Gate Arrays (FPGAs) und üben die Anwendungsbezogene Programmierung eingebetteter Systeme in C und Assembler. Zudem erarbeiten sie sich den grundlegenden Aufbau aktueller Betriebssysteme für eingebettete Systeme, insbes. Realtime Operating Systems, Realtime Scheduling, Realtime Communication und üben dessen Implementierung. Zuletzt werden Aspekte der Sicherheit eingebetteter Systeme einschl. Angriffsvektoren, Prozessisolation, Trusted Computing diskutiert und bewertet.
+exam: |
+    Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Moderation einer Übung oder eines Teils davon; Bearbeiten von Übungsaufgaben."
+language: "Deutsch (Vorträge nach Absprache auch auf Englisch)"
+total_work: 180
+credit_points: 6
+duration: "Ein Semester"
+repeat: "Jedes Sommersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg 6 LP

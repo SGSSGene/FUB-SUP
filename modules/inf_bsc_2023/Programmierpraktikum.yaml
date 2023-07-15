@@ -1,0 +1,23 @@
+formatversion: 1
+name: "Programmierpraktikum"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Keine"
+goals: |
+    Die Studierenden verstehen zahlreiche Konzepte praktischer Softwareentwicklung über die Grundlagenvorlesungen hinaus. Sie erwerben eine Palette von praktischen Fertigkeiten und Urteilsvermögen, die in der professionellen Softwareentwicklung zum Handwerkszeug gehören. Sie lernen, sich selbstständig in neue Technologien einzuarbeiten und auf wechselnde Anforderungen und Arbeitsgebiete einzustellen.
+content: |
+    Studierende lösen weitgehend selbstständig und mit vielen Freiheitsgraden bei Auswahl und inhaltlicher Ausgestaltung zahlreiche kleine Lernaufgaben. Die Aufgaben liegen z. B. in den Bereichen Fortgeschrittene Konstrukte der Programmiersprache, Auswahl und Einsatz von Bibliotheken, Datenbanken und SQL, automatisierte Tests, Arbeiten mit Bestandscode oder Umgang mit Werkzeugen wie Versionsverwaltung, Paketmanager, IDEs, Testwerkzeuge. Dabei erarbeiten sie sich einige komplexe Konzepte (z. B. zu Team-Workflows), erlernen zahlreiche Einzelheiten und diskutieren das Gelernte durch Reflexion der Ergebnisse.
+exam: |
+    Keine
+teachingunit:
+    - type: "Seminar am PC"
+      swstime: 2
+      attendance: "recommended"
+      activity: "Anfertigung und Dokumentation von Lösungen zu vielen der Aufgaben"
+language: "Deutsch"
+total_work: 150
+credit_points: 5
+duration: "Ein Semester"
+repeat: "Jedes Semester"
+usability: |
+    Bachelorstudiengang Informatik 5 LP

@@ -1,0 +1,27 @@
+formatversion: 1
+name: "Grundlagen der Theoretischen Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Keine"
+goals: |
+    Die Studierenden können algorithmische Probleme als formale Sprachen darstellen und die Vor- und Nachteile dieser Modellierung diskutieren. Sie sind in der Lage, verschiedene Darstellungen von regulären Sprachen ineinander umzuwandeln und zu interpretieren sowie zu einer gegebenen Beschreibung eine geeignete Darstellung als reguläre Sprache anzugeben oder zu argumentieren, dass eine solche nicht existiert. Sie können Turing-Maschinen zu elementaren algorithmischen Problemen angeben und das Verhältnis zwischen Turing-Maschinen und dem Phänomen der Berechenbarkeit diskutieren. Sie können gegebene algorithmische Probleme auf ihre (Semi-)Entscheidbarkeit untersuchen4 und das Ergebnis formal begründen. Sie sind in der Lage, zu einer gegebenen Beschreibung eine kontextfreie Grammatik anzugeben oder die Nichtexistenz einer kontextfreien Grammatik zu begründen, gängige Verfahren für kontextfreie Grammatiken anzuwenden und zu interpretieren sowie algorithmische Probleme auf ihre Komplexität zu untersuchen und durch Reduktionen zueinander in Beziehung setzen.
+content: |
+    Studierende lernen formale Sprachen und verschiedene algorithmische Probleme kennen und üben deren Anwendung. Darüber hinaus erlernen sie reguläre Sprachen, erarbeiten sich deren Darstellungsformen und Automatenmodelle und diskutieren ihre grundlegenden Eigenschaften. Sie lernen Turing-Maschinen kennen, erarbeiten sich Entscheidbarkeit und Semi-Entscheidbarkeit, die Church-Turing-These, sowie Reduktionen und üben deren Anwendung. Zuletzt erlernen sie formale Grammatiken, Chomsky-Hierarchie, kontextfreie Sprachen und die Theorie der NP-Vollständigkeit und üben deren Anwendung.
+exam: |
+    Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung oder eines Teils davon."
+language: "Deutsch"
+total_work: 180
+credit_points: 6
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg

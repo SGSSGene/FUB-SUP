@@ -1,0 +1,23 @@
+formatversion: 1
+name: "Forschungspraktikum"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen"
+requirements: "Wissenschaftliches Arbeiten in der Informatik"
+goals: |
+    Die Studierenden können eine bereits konzipierte Beobachtungsreihe planen, vorbereiten (Messaufbau herstellen, testen, kalibrieren, prüfen) und durchführen und verstehen deren Zusammenhang mit einer Forschungsfrage. Sie können die Beobachtungsdaten ordnungsgemäß sammeln, katalogisieren und archivieren. Sie können die Qualität der Daten einschätzen und überwachen und verstehen den Einfluss der Datenqualität auf die Gültigkeit der Forschung. Die Studierenden können die Beobachtungsreihe beeinträchtigende oder sonst problematische Daten erkennen und können diese annotieren und/oder bereinigen. Sie können die gesammelten Daten nach vorgegebenen Kriterien analysieren.
+content: |
+    Studierende üben wissenschaftliche Tätigkeiten, indem sie diese in enger Zusammenarbeit mit und unter genauer Anleitung und Rückmeldung durch Forschende direkt im Kontext der Forschungsarbeit durchführen. Die Formen und der Inhalt, den Studierende erlernen, können erheblich variieren, aber sind jeweils an den Qualifikationszielen ausgerichtet. Die Studierenden vereinbaren vorab separat mit der Dozentin oder dem Dozenten das Verfahren der Durchführung (Zeitrahmen, Präsenztermine und Betreuung, Arbeitsnachweise, Kolloquium zur Notenfindung etc.).
+exam: |
+    Schriftliche Ausarbeitung (2.000 bis 4.000 Wörter) mit Präsentation der Ergebnisse (ca. 30 Minuten) sowie Diskussion (ca. 30 Minuten)
+teachingunit:
+    - type: "Praxisseminar"
+      swstime: 2
+      attendance: "required"
+      activity: "Aufbereitete Arbeitsergebnisse"
+language: "Deutsch"
+total_work: 180
+credit_points: 6
+duration: "Ein Semester"
+repeat: "unregelmäßig"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg 6 LP
