@@ -1,4 +1,9 @@
 # Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
+## Original und Modifikation
+Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des Informatik Bachelors an der FU-Berlin.
+Das Original ist hier zu finden: [StO/PO 2014 (Bachelor, 0086c/0086d)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/StOPO_BSc_Inf_-2014.pdf).
+ - Anlage 1-4: nicht im Markdown übernommen
+
 ## Präambel
 Aufgrund von § 14 Abs. 1 Nr. 2 Teilgrundordnung (Erprobungsmodell) der Freien Universität Berlin vom 27.
 Oktober 1998 (FU-Mitteilungen 24/1998) hat der Fachbereichsrat des Fachbereichs Mathematik und Informatik
@@ -328,9 +333,8 @@ Die Regelstudienzeit beträgt sechs Semester.
     Informatik der Freien Universität Berlin wählbar; auf die
     entsprechende Studien- und Prüfungsordnung wird verwiesen.
 
-    //!TODO there is some formatting error here
-
     2. Frei wählbare Module in anderen Kompetenzbereichen im Umfang von 5 oder 10 LP.
+    {class="offset2"}
     3. Berufsbezogenes Praktikum: Es ist das Modul „Berufsbezogenes Praktikum Informatik“ (10 LP) zu absolvieren.
 
 4. Das im Rahmen des Studienbereichs ABV zu absolvierende Modul „Berufsbezogenes Praktikum Informatik“ soll den Studentinnen und Studenten einen Einblick in mögliche Berufs- und Tätigkeitsfelder eröffnen

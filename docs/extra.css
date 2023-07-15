@@ -4,6 +4,12 @@ ol {
 ol > li {
     counter-increment: list;
 }
+
+/* Hack to get the intendation in Paragraph 9 of Inf Bsc 2014 correct*/
+ol > li .offset2 {
+    counter-increment: list +2;
+}
+
 ol > li::marker {
     content: "(" counter(list) ") ";
 }
