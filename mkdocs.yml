@@ -4,7 +4,43 @@ nav:
     - Studien- und Prüfungsordnung: sop_bsc_inf_2014.md
   - SOP Bsc Informatik 2023:
     - Studien- und Prüfungsordnung: sop_bsc_inf_2023.md
-    - Modul Beschreibungen: mods.md
+    - Modul Beschreibungen:
+      - bsc_inf_2023_modules/Aktuelle Themen in der Informatik.md
+      - bsc_inf_2023_modules/Algorithmen und Datenstrukturen.md
+      - bsc_inf_2023_modules/Analysis für Informatik.md
+      - bsc_inf_2023_modules/Angewandte Biometrie.md
+      - bsc_inf_2023_modules/Arbeits- und Lebensmethodik.md
+      - bsc_inf_2023_modules/Architektur eingebetteter Systeme.md
+      - bsc_inf_2023_modules/Auswirkungen der Informatik.md
+      - bsc_inf_2023_modules/Berufsbezogenes Praktikum Informatik.md
+      - bsc_inf_2023_modules/Betriebs- und Kommunikationssysteme.md
+      - bsc_inf_2023_modules/Datenbanksysteme.md
+      - bsc_inf_2023_modules/Datenvisualisierung.md
+      - bsc_inf_2023_modules/Diskrete Strukturen für Informatik.md
+      - bsc_inf_2023_modules/Forschungspraktikum.md
+      - bsc_inf_2023_modules/Funktionale Programmierung.md
+      - bsc_inf_2023_modules/Gender and Diversity.md
+      - bsc_inf_2023_modules/Grundlagen der Theoretischen Informatik.md
+      - bsc_inf_2023_modules/Grundlagen des Datenschutzrechts.md
+      - bsc_inf_2023_modules/Informationssicherheit.md
+      - bsc_inf_2023_modules/Informationstheorie.md
+      - bsc_inf_2023_modules/Konzepte der Programmierung.md
+      - bsc_inf_2023_modules/Lineare Algebra für Informatik.md
+      - bsc_inf_2023_modules/Maschinelles Lernen.md
+      - bsc_inf_2023_modules/Mensch-Computer Interaktion.md
+      - bsc_inf_2023_modules/Nebenläufige, parallele und verteilte Programmierung.md
+      - bsc_inf_2023_modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md
+      - bsc_inf_2023_modules/Praktiken professioneller Softwareentwicklung.md
+      - bsc_inf_2023_modules/Programmierpraktikum.md
+      - bsc_inf_2023_modules/Projektmanagement in agilen Umgebungen.md
+      - bsc_inf_2023_modules/Rechnerarchitektur.md
+      - bsc_inf_2023_modules/Softwareprojekt.md
+      - bsc_inf_2023_modules/Softwaretechnik.md
+      - bsc_inf_2023_modules/Statistik für Informatik.md
+      - bsc_inf_2023_modules/Systemverwaltung.md
+      - bsc_inf_2023_modules/Vertiefte Aspekte der Informatik.md
+      - bsc_inf_2023_modules/Vertiefung Theoretische Informatik.md
+      - bsc_inf_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md
 theme: readthedocs
 extra_css:
   - extra.css

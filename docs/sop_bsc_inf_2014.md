@@ -2,7 +2,10 @@
 ## Original und Modifikation
 Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des Informatik Bachelors an der FU-Berlin.
 Das Original ist hier zu finden: [StO/PO 2014 (Bachelor, 0086c/0086d)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/StOPO_BSc_Inf_-2014.pdf).
+
  - Anlage 1-4: nicht im Markdown übernommen
+ - Seite 775: Anpassung der Modulbeschreibungszelle:
+    - `Hochschule/Fachbereich/Institut: Freie Universität Berlin/{--Fachbereich --}Mathematik und Informatik/{--Institut für --}Informatik`
 
 ## Präambel
 Aufgrund von § 14 Abs. 1 Nr. 2 Teilgrundordnung (Erprobungsmodell) der Freien Universität Berlin vom 27.
