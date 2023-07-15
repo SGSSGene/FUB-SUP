@@ -1,10 +1,11 @@
 site_name: SuPOrdnung
 nav:
+  - Home: index.md
   - SOP Bsc Informatik 2014:
     - Studien- und Prüfungsordnung: sop_bsc_inf_2014.md
   - SOP Bsc Informatik 2023:
     - Studien- und Prüfungsordnung: sop_bsc_inf_2023.md
-    - Modul Beschreibungen:
+    - Modulbeschreibungen:
       - bsc_inf_2023_modules/Aktuelle Themen in der Informatik.md
       - bsc_inf_2023_modules/Algorithmen und Datenstrukturen.md
       - bsc_inf_2023_modules/Analysis für Informatik.md
@@ -42,6 +43,7 @@ nav:
       - bsc_inf_2023_modules/Vertiefung Theoretische Informatik.md
       - bsc_inf_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md
 theme: readthedocs
+repo_url: https://github.com/SGSSGene/FUB-SuP-Ordnung
 extra_css:
   - extra.css
 markdown_extensions:
