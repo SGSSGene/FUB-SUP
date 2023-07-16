@@ -1,0 +1,30 @@
+formatversion: 1
+name: "Gesellschaftliche Aspekte der Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten können exemplarisch informatische Systeme und deren Auswirkungen auf die Gesellschaft verstehen und einordnen. Umgekehrt verstehen sie, wie der Bedarf der Gesellschaft informatische Systeme prägt. Sie können beschreiben und beurteilen, wie Informatik und informatische Systeme sowohl Benachteiligungen beseitigen können als auch diese erst erzeugen können. Sie sind in der Lage, solche Interaktionen zwischen den Systemen, den Individuen und der Gesellschaft zu beschreiben, einzuordnen und daraus konkrete Handlungsstrategien abzuleiten. Sie können ihre Rechercheergebnisse adressatenorientiert präsentieren.
+content: |
+    Fortschritte der Informatik und neue Anwendungen der Informatik sowie gesellschaftliche Aspekte und Auswirkungen ihrer Anwendung (z. B. Mensch-Maschine-Interaktion, Barrierefreiheit, Chancengleichheit, Wirkung von informatischen Systemen auf das Geschlechterverhältnis, Personalführung, Dokumentation)
+exam: |
+    Schriftliche Ausarbeitung eines Referats (ca. 2 000 Wörter); die Modulprüfung wird nicht differenziert bewertet.
+teachingunit:
+    - type: "Seminaristische Übung"
+      swstime: 3
+      attendance: "required"
+      activity: "Beteiligung an den Diskussionen im Seminar"
+workload:
+    - type: "Präsenzzeit"
+      time: 45
+    - type: "Vor- und Nachbereitung"
+      time: 75
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
+language: "Deutsch"
+total_work: 150
+credit_points: 5
+duration: "Ein Semester"
+repeat: "Unregelmäßig"
+usability: |
+    Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen); Masterstudiengang Informatik: Praktische Informatik 5 LP

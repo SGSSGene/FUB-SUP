@@ -1,0 +1,34 @@
+formatversion: 1
+name: "Basisdidaktik Informatik"
+organizer: "Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut für Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Erfolgreiche Absolvierung des Moduls Funktionale Programmierung oder des Moduls"
+goals: |
+    Das Modul vermittelt grundlegendes informatikdidaktisches Wissen und Können. Im Seminar wird in die Didaktik der Informatik eingeführt, in den begleitenden Unterrichtsprojekten wird das erworbene Wissen unter einer forschenden Perspektive angewendet, vertieft und erweitert.
+content: |
+    ● Reflexion der Vorstellungen über die Fachdisziplin Informatik ● Rolle des Programmierens ● Entwicklungslinien fachdidaktischer Konzeptionen ● Informatische Bildung und Allgemeinbildung ● ● Soziologische Bedingungen (Genderaspekte, außerunterrichtliche Erfahrungen, Lernbiografien in der Informatik) Unterrichtsforschungsprojekt: Informatische Lernprozesse gestalten, unterrichten, reflektieren und adaptieren
+exam: |
+    Beschreibung und Analyse des Unterrichtsprojekts anhand einer individuell entwickelten Forschungsfrage mit schriftlicher Ausarbeitung (ca. 20 Seiten) plus Anhang (Forschungsinstrument und Daten)
+teachingunit:
+    - type: "Seminar"
+      swstime: 2
+      attendance: "required"
+      activity: "Texte lesen und für andere Teilnehmer vorstellen"
+    - type: "Forschungsprojekt"
+      swstime: 2
+      attendance: "required"
+      activity: "Texte lesen und für andere Teilnehmer vorstellen"
+workload:
+    - type: "Präsenzzeit"
+      time: 60
+    - type: "Vor- und Nachbereitung"
+      time: 180
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 60
+language: "Deutsch"
+total_work: 300
+credit_points: 10
+duration: "Zwei Semester"
+repeat: "Jährlich"
+usability: |
+    Bachelorstudiengang Informatik

@@ -1,0 +1,36 @@
+formatversion: 1
+name: "Auswirkungen der Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten – verstehen den Unterschied zwischen Verfügungswissen und Orientierungswissen, – lernen, beim Nachdenken über Informatiksysteme zu unterscheiden zwischen technischen Fragestellungen, Technikfolgenabschätzung und Technikfolgenbewertung, – verstehen die Verantwortungsaspekte der Ingenieurtätigkeit, – erlernen einige Aspekte der Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B. Sicherheit, Schutz der Privatsphäre, – verstehen Gender- und Diversityaspekte von Anwendungen und in der Anwendungsentwicklung.
+content: |
+    Dieses Modul behandelt die Auswirkungen der Informatik. Nach grundlegenden Fragen (Konzept, Verfügungswissen, Verantwortungsbegriff, Subjektivität von Techniksoziologie) werden konkret an Beispielen Technikfolgen in informatiklastigen Gebieten behandelt, z. B. die Sicherheit softwareintensiver technischer Systeme, der Schutz der Privatsphäre oder Auswirkungen der Computerisierung der Arbeitswelt.
+exam: |
+    Keine
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "recommended"
+      activity: "-"
+    - type: "Seminar"
+      swstime: 2
+      attendance: "required"
+      activity: "Beteiligung an den Diskussionen im Seminar"
+workload:
+    - type: "Präsenzzeit V"
+      time: 30
+    - type: "Vor- und Nachbereitung V"
+      time: 45
+    - type: "Präsenzzeit S"
+      time: 30
+    - type: "Vor- und Nachbereitung S"
+      time: 45
+language: "Deutsch Arbeitsaufwand (Stunden) Präsenzzeit V 30 Vor- und Nachbereitung V 45 Präsenzzeit S 30 Vor- und Nachbereitung S 45"
+total_work: 150
+credit_points: 5
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt

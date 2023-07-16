@@ -1,0 +1,38 @@
+formatversion: 1
+name: "Logik und Diskrete Mathematik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten kennen am Ende des Moduls grundlegende Konzepte der Logik, Mengenlehre und Kombinatorik. Sie können diese zur mathematischen Modellierung von Anwendungen in der Informatik anwenden. Sie sind in der Lage, mathematische Beweise nachzuvollziehen und im Kontext mit informatischen Problemstellungen einfache Beweise selbst zu entwickeln. Sie können abstrakt denken und einfache Sachverhalte in einer Logik formalisieren. Sie beherrschen grundlegende Konzepte der Diskreten Mathematik und können kombinatorische Techniken in der Praxis (z. B. bei Entwurf und Analyse von Algorithmen) anwenden.
+content: |
+    Aussagenlogik und mathematische Beweistechniken – Boolesche Formeln und Boolesche Funktionen, DNF und KNF, Erfüllbarkeit, Resolutionskalkül – Mengenlehre: Mengen, Relationen, Äquivalenz- und Ordnungsrelationen, Funktionen – Natürliche Zahlen und vollständige Induktion, Abzählbarkeit – Prädikatenlogik und mathematische Strukturen – Kombinatorik: Abzählprinzipien, Binomialkoeffizienten und Stirling-Zahlen, Rekursion, Schubfachprinzip, diskrete Wahrscheinlichkeitsverteilungen – Graphentheorie: Graphen und ihre Darstellungen, Wege und Kreise in Graphen, Bäume
+exam: |
+    Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden; die Modulprüfung wird nicht differenziert bewertet.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 4
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen"
+workload:
+    - type: "Präsenzzeit V"
+      time: 60
+    - type: "Vor- und Nachbereitung V"
+      time: 45
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 105
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
+language: "Deutsch"
+total_work: 270
+credit_points: 9
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt

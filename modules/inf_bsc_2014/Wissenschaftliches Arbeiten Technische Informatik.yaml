@@ -1,0 +1,30 @@
+formatversion: 1
+name: "Wissenschaftliches Arbeiten Technische Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentinnen und Dozenten des Moduls"
+requirements: "Erfolgreicher Abschluss des Moduls Rechnerarchitektur, Betriebs- und Kommunikationssysteme"
+goals: |
+    Die Studentinnen und Studenten können sich selbstständig in ein Thema der Technischen Informatik anhand wissenschaftlicher Originalliteratur einarbeiten und sich gegebenenfalls zusätzliches Hintergrundwissen besorgen. Sie können ihr Thema in einem Vortrag verständlich vermitteln. Dabei können sie wesentliche Elemente gegenüber weniger wichtigen Elementen hervorheben, Einzelaussagen in Beziehung zueinander setzen und auf ihren inhaltlichen Kern reduzieren. Sie können geeignete Darstellungsformen und Medien bewusst auswählen und einsetzen. Sie sind dazu bereit, bei Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen beteiligen und können in sachlicher Weise Kritik üben. Gleichzeitig erwerben die Studentinnen und Studenten vertiefte Kenntnisse in einem speziellen Thema der Technischen Informatik und werden auf ihre Bachelorarbeit vorbereitet.
+content: |
+    Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Technischen Informatik (z. B. Mobilkommunikation, Sensornetze oder Robotik).
+exam: |
+    Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca. 45 Minuten)
+teachingunit:
+    - type: "Hauptseminar"
+      swstime: 2
+      attendance: "required"
+      activity: "Vortrag"
+workload:
+    - type: "Präsenzzeit HS"
+      time: 30
+    - type: "Vor- und Nachbereitung HS"
+      time: 60
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 60
+language: "Deutsch (ggf. Englisch)"
+total_work: 150
+credit_points: 5
+duration: "Ein Semester"
+repeat: "Jedes Semester"
+usability: |
+    Bachelorstudiengang Informatik

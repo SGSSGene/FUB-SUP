@@ -1,0 +1,30 @@
+formatversion: 1
+name: "Forschungspraktikum"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Erfolgreiche Absolvierung von Modulen im Umfang von insgesamt 40 LP aus den ersten beiden Semestern gemäß dem exemplarischen Studienverlaufsplan für den Bachelorstudiengang"
+goals: |
+    Die Studentinnen und Studenten können eine bereits konzipierte Beobachtungsreihe planen, vorbereiten (Messaufbau herstellen, testen, kalibrieren, prüfen) und durchführen und verstehen deren Zusammenhang mit einer Forschungsfrage. Sie können die Beobachtungsdaten ordnungsgemäß Sammeln, Katalogisieren und Archivieren. Sie können die Qualität der Daten einschätzen und überwachen und verstehen den Einfluss der Datenqualität auf die Gültigkeit der Forschung. Sie können die Beobachtungsreihe beeinträchtigende oder sonst problematische Daten erkennen und können diese annotieren und/oder bereinigen. Sie können die gesammelten Daten nach vorgegebenen Kriterien analysieren.
+content: |
+    Die Tätigkeiten werden in enger Zusammenarbeit mit und unter genauer Anleitung und Rückmeldung durch Forschende sowie direkt im Kontext derer Forschungsarbeit durchgeführt, sodass Formen und Inhalte erheblich variieren können, aber jeweils an den Qualifikationszielen ausgerichtet sind. Das Verfahren der Durchführung (Zeitrahmen, Präsenztermine und Betreuung, Arbeitsnachweise, Kolloquium zur Notenfindung etc.) ist vorab separat mit der Dozentin oder dem Dozenten zu vereinbaren.
+exam: |
+    Präsentation der Ergebnisse (ca. 15 Minuten) mit Diskussion (ca. 15 Minuten)
+teachingunit:
+    - type: "Praxisseminar"
+      swstime: 2
+      attendance: "required"
+      activity: "Aufbereitete Arbeitsergebnisse"
+workload:
+    - type: "Präsenzzeit"
+      time: 30
+    - type: "Vor- und Nachbereitung"
+      time: 90
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
+language: "Deutsch"
+total_work: 150
+credit_points: 5
+duration: "Ein Semester"
+repeat: "Unregelmäßig"
+usability: |
+    Bachelorstudiengang Informatik

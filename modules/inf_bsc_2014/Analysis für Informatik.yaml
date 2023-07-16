@@ -1,0 +1,40 @@
+formatversion: 1
+name: "Analysis für Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten kennen am Ende des Moduls die Zahlbereiche von den natürlichen bis zu den komplexen Zahlen und Probleme ihrer Repräsentation in Rechnern. Sie können Situationen klassifizieren, in denen man Anwendungsprobleme (z. B. bei der Bewegungsplanung für Roboter oder bei Optimierungsaufgaben) mit dem Apparat der Analysis bearbeiten kann. Sie sind in der Lage, solche Aufgabenstellungen zu modellieren, geeignete Lösungsmethoden auszuwählen und anzuwenden. Sie können beschreiben, welche praktischen Probleme bei der Implementierung von Verfahren aus der Differential- und Integralrechnung auftreten und einige numerische Standardmethoden anwenden. Sie sind in der Lage, Phänomene aus der Praxis mit Mitteln der Stochastik zu erklären und zu analysieren.
+content: |
+    Aufbau der Zahlenbereiche von den natürlichen bis zu den reellen Zahlen, Polynominterpolation; Exponential- und Logarithmusfunktion, trigonometrische Funktionen; komplexe Exponentialfunktion und komplexe Wurzeln; Konvergenz von Folgen und Reihen, Konvergenz und Stetigkeit von Funktionen; Differentialrechnung: Ableitung einer Funktion, ihre Interpretation und Anwendungen; partielle Ableitungen; Integralrechnung: Bestimmtes und unbestimmtes Integral, Hauptsatz der Differential- und Integralrechnung, Anwendungen; Potenzreihen; Grundbegriffe der Stochastik: Diskrete und stetige Wahrscheinlichkeitsräume, Unabhängigkeit von Ereignissen; Zufallsvariable und Standardverteilungen; Erwartungswert und Varianz.
+exam: |
+    Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 4
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen"
+workload:
+    - type: "Präsenzzeit V"
+      time: 60
+    - type: "Vor- und Nachbereitung V"
+      time: 60
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 45
+    - type: "Schriftliche Übungsaufgaben"
+      time: 45
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 60
+language: "Deutsch"
+total_work: 300
+credit_points: 10
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik

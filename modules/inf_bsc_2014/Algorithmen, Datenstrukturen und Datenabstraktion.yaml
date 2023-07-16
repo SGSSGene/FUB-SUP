@@ -1,0 +1,40 @@
+formatversion: 1
+name: "Algorithmen, Datenstrukturen und Datenabstraktion"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Studentinnen und Studenten können die Grundbegriffe der Algorithmik definieren. Sie wissen, was ein abstrakter Datentyp ist, und verstehen den Unterschied zwischen Spezifikation und Implementierung. Sie kennen die wichtigsten abstrakten Datentypen und die Datenstrukturen zu deren Implementierung und können diese in Bezug auf ihre Eigenschaften beurteilen und geeignet auswählen und einsetzen. Sie können die Korrektheit von Algorithmen nachweisen und die asymptotische Laufzeit von Algorithmen bestimmen. Sie kennen die Definition und verstehen die praktische Bedeutung von NP-Vollständigkeit für die effiziente Lösbarkeit von Problemen.
+content: |
+    Die grundlegenden Datenstrukturen Listen, Schlangen, Keller, Bäume; Sortierverfahren (Mergesort, Quicksort, u. a.), Suchverfahren, Auswahlverfahren; Abstrakte Datentypen Prioritätswarteschlange und Wörterbuch und zugehörige Datenstrukturen wie Heaps, Hashtabellen, binäre Suchbäume, B-Bäume u. a.; Algorithmen auf Graphen wie Breiten- und Tiefensuche, topologisches Sortieren, kürzeste Spannbäume, kürzeste Wege; Algorithmen für Zeichenketten; Speicherverwaltung; Allgemeine Lösungsstrategien wie Teile und Herrsche, dynamische Programmierung, Auswählen und Abschneiden, gierige Algorithmen. Mathematische Analyse von Algorithmen bezüglich Laufzeit und Speicherplatz. NP-Vollständigkeit.
+exam: |
+    Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 4
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Bearbeitung der Übungsblätter"
+workload:
+    - type: "Präsenzzeit V"
+      time: 60
+    - type: "Vor- und Nachbereitung V"
+      time: 30
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 120
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
+    - type: "Präsenzzeit V"
+      time: 60
+language: "Deutsch"
+total_work: 270
+credit_points: 9
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt

@@ -1,0 +1,28 @@
+formatversion: 1
+name: "Berufsbezogenes Praktikum Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Die oder der Praktikumsbeauftragte"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten besitzen überfachliche Kenntnisse und Fertigkeiten sowie Erfahrungen aus der Arbeitswelt der Informatik, die für das Finden und das Ausüben qualifikationsadäquater beruflicher Tätigkeiten auf europäischen und internationalen Arbeitsmärkten relevant sind. Sie können Strategien für die erfolgreiche Suche einer Praktikumsstelle anwenden und ein Praktikum mitgestalten.
+content: |
+    In der Praxis wird ein ausgewählter Tätigkeitsbereich vor Ort vorgestellt, in dem die bisher erworbenen Fach- und Schlüsselkompetenzen im konkreten Berufsalltag erprobt werden können. Das Modul bietet die Möglichkeit, durch intensive Vorbereitung und Reflexion die Praxisphase effektiv zu gestalten. Die Studentinnen und Studenten setzen sich mit Fragen der Berufsorientierung und Bewerbung auseinander und haben Gelegenheit, sich über den konkreten Arbeitsprozess auszutauschen. Das Modul vermittelt Strategien zur erfolgreichen Praktikumssuche und Gestaltung und ermöglicht Reflektion fachspezifischer und überfachlicher Kenntnisse, Fähigkeiten und Fertigkeiten sowie von Erfahrungen aus der Arbeitswelt, die für die Findung und Ausübung qualifikationsadäquater beruflicher Tätigkeiten auf europäischen und internationalen Arbeitsmärkten und für die Aufgabe des lebenslangen Lernens relevant sind.
+exam: |
+    Keine
+teachingunit:
+    - type: "Berufsbezogenes Praktikum"
+      swstime: 16
+      attendance: "required"
+      activity: "Praktikumsbezogene Tätigkeiten und Aufgaben; Diskussionsbeiträge"
+workload:
+    - type: "Präsenzzeit"
+      time: 240
+    - type: "Vor- und Nachbereitung"
+      time: 60
+language: "Deutsch"
+total_work: 300
+credit_points: 10
+duration: "6 bis 8 Wochen Praktikum als Block in der vorlesungsfreien Zeit"
+repeat: "Jedes Semester"
+usability: |
+    Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation)

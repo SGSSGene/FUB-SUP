@@ -1,0 +1,40 @@
+formatversion: 1
+name: "Lineare Algebra für Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten kennen am Ende des Moduls die grundlegenden Begriffe und Methoden der Linearen Algebra. Sie sind in der Lage, Anwendungsfelder (z. B. aus Computergraphik, Robotik oder statistischer Datenanalyse) zu bestimmen, die man mit Methoden der Linearen Algebra bearbeiten kann. Sie können solche Probleme mathematisch modellieren, geeignete Lösungsverfahren auswählen und anwenden. Sie können Phänomene der Codierungstheorie mit Hilfsmitteln der Linearen Algebra (über endlichen Körpern) erklären, entsprechende Problemstellungen klassifizieren und Lösungsansätze entwickeln.
+content: |
+    Lineare Algebra: Gruppe, Ringe, Körper; Polynomringe; Vektorraum, Basis und Dimension; Lineare Abbildung, Matrix und Rang; Gauss-Elimination und lineare Gleichungssysteme; Determinanten, Eigenwerte und Eigenvektoren; Euklidische Vektorräume und Orthonormalisierung; Hauptachsentransformation Anwendungen der Linearen Algebra in der affinen Geometrie, Statistische Datenanalyse und Codierungstheorie (lineare Codes).
+exam: |
+    Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 4
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen"
+workload:
+    - type: "Präsenzzeit V"
+      time: 60
+    - type: "Vor- und Nachbereitung V"
+      time: 60
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor und Nachbereitung Ü"
+      time: 45
+    - type: "Schriftliche Übungsaufgaben"
+      time: 45
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 60
+language: "Deutsch"
+total_work: 300
+credit_points: 10
+duration: "Ein Semester"
+repeat: "Jedes Sommersemester"
+usability: |
+    Bachelorstudiengang Informatik

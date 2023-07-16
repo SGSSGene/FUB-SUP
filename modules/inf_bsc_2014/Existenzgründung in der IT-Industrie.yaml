@@ -1,0 +1,30 @@
+formatversion: 1
+name: "Existenzgründung in der IT-Industrie"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten können ein eigenes Geschäftsmodell entwickeln und einen professionellen Businessplan ausarbeiten. Sie können eine Markt-, Konkurrenz- und SWOT-Analyse durchführen sowie eine sinnvolle Rechtsform und Finanzierung für eine exemplarische Gründung wählen. Sie besitzen die für eine erfolgreiche Gründung nötigen handwerklichen Fähigkeiten (Entwurf von für die IT-Industrie spezifischen Geschäftsmodellen und Einschätzen deren Qualität, Durchführung von Marktanalysen, Entwicklung von Finanzierungsplänen, Wahl von Rechtsformen. Erstellung eines Businessplans für eine Geschäftsidee in der IT-Industrie). Sie können ein Gründerteam bilden und Kompetenzen und Erweiterungsnotwendigkeiten um IT-ferne Kompetenzen identifizieren. Sie können ihr Geschäftsmodell und ihren Businessplan in Pitches für potentielle Investoren präsentieren.
+content: |
+    Erfolgreiche Geschäftsmodelle, Goldene Regeln der Existenzgründung, Businessplan, Finanzierung, Rechtsform, Marketing. Im Studium wird ein Businessplan im Rahmen eines Businessplan-Wettbewerbs mit externen Gutachtern aus der Gründerbranche erarbeitet. In Gastvorträgen von Praktikern werden u. a. Fallbeispiele vorgestellt.
+exam: |
+    Schriftliche Ausarbeitung einer Präsentation (ca. 1 500 Wörter); die Modulprüfung wird nicht differenziert bewertet.
+teachingunit:
+    - type: "Projektseminar"
+      swstime: 2
+      attendance: "required"
+      activity: "Regelmäßige Beteiligung an den Diskussionen"
+workload:
+    - type: "Präsenzzeit"
+      time: 30
+    - type: "Vor- und Nachbereitung"
+      time: 90
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
+language: "Deutsch"
+total_work: 150
+credit_points: 5
+duration: "Ein Semester"
+repeat: "Jedes Wintersemester"
+usability: |
+    Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)

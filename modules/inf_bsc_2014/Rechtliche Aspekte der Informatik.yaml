@@ -1,0 +1,32 @@
+formatversion: 1
+name: "Rechtliche Aspekte der Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten verstehen Interaktionen mit informatischen Systemen oder der Entwicklung solcher Systeme aus rechtlicher Perspektive. Sie besitzen einen Überblick über relevante Gesetzesregelungen in Bereichen des Patentrechts, des Urheberrechts, des Gebrauchsmusterschutzes, des Markenschutzes, des Datenschutzes, oder des Produkthaftungsrechts. Anhand von praxisbezogenen Beispielen können sie grundlegende Probleme bestimmen und einem Rechtsgebiet zuordnen. Sie können ihre Rechercheergebnisse präsentieren, hieraus konkrete Handlungsstrategien ableiten und in der Gruppe diskutieren, um informatische Systeme rechtssicher zu entwickeln oder zu betreiben.
+content: |
+    Fortschritte der Informatik und neue Anwendungen der Informatik sowie rechtliche Aspekte ihrer Anwendung in gesellschaftlichen Zusammenhängen (z. B. Datenschutz, Patentrecht, Rechtschutz, Vertragsrecht, Urheberrecht)
+exam: |
+    Keine
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 2
+      attendance: "required"
+      activity: "Beteiligung an den Diskussionen im Seminar"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Beteiligung an den Diskussionen im Seminar"
+workload:
+    - type: "Präsenzzeit"
+      time: 60
+    - type: "Vor- und Nachbereitung"
+      time: 90
+language: "Deutsch"
+total_work: 150
+credit_points: 5
+duration: "März bis August"
+repeat: "Jährlich"
+usability: |
+    Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen); Masterstudiengang Informatik: Praktische Informatik

@@ -1,0 +1,38 @@
+formatversion: 1
+name: "Grundlagen der Theoretischen Informatik"
+organizer: "Freie Universität Berlin/Mathematik und Informatik/Informatik"
+responsible: "Dozentin oder Dozent des Moduls"
+requirements: "Keine"
+goals: |
+    Die Studentinnen und Studenten verstehen bei erfolgreichem Abschluss des Moduls die Grundlagen der Beschreibung und syntaktischen Analyse von Programmiersprachen. Sie können formale Sprachen innerhalb der ChomskyHierarchie einordnen. Sie beherrschen die gängigen Verfahren, um formale Sprachen von einer Beschreibungsform in eine andere zu überführen, sowie Beschreibungen in Normalformen oder minimale Formen zu übersetzen. Aus einer Beschreibung können sie die gemeinte Sprache ableiten. Sie verstehen, dass unterschiedliche Beschreibungsformen von Berechnungsmodellen gleichartig sind und verstehen die Verfahren, um eine Form in die andere zu überführen. Sie verstehen die prinzipiellen Möglichkeiten und Grenzen der Berechenbarkeit. Insbesondere verstehen sie das Halteproblem und seine Unlösbarkeit.
+content: |
+    Theoretische Rechenmodelle: Automaten, Turing-Maschinen. Formale Sprachen, Sprachakzeptoren, reguläre Ausdrücke, Grammatiken, Chomsky-Hierarchie, Berechenbarkeit, Komplexität
+exam: |
+    Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden.
+teachingunit:
+    - type: "Vorlesung"
+      swstime: 3
+      attendance: "recommended"
+      activity: "-"
+    - type: "Übung"
+      swstime: 2
+      attendance: "required"
+      activity: "Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen"
+workload:
+    - type: "Präsenzzeit V"
+      time: 45
+    - type: "Vor- und Nachbereitung V"
+      time: 30
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 75
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
+language: "Deutsch"
+total_work: 210
+credit_points: 7
+duration: "Ein Semester"
+repeat: "Jedes Sommersemester"
+usability: |
+    Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, Bachelorstudiengang Bioinformatik
