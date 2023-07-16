@@ -18,6 +18,17 @@ teachingunit:
       swstime: 2
       attendance: "required"
       activity: "Bearbeitung von Übungsaufgaben; Beteiligung an Diskussionen"
+workload:
+    - type: "Präsenzzeit V"
+      time: 60
+    - type: "Vor- und Nachbereitung V"
+      time: 30
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 120
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
 language: "Deutsch"
 total_work: 270
 credit_points: 9

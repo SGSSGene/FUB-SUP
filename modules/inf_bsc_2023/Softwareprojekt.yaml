@@ -14,6 +14,11 @@ teachingunit:
       swstime: 2
       attendance: "required"
       activity: "Anfertigung einer Softwarelösung einschließlich entsprechender Dokumentation"
+workload:
+    - type: "Präsenzzeit PjS"
+      time: 30
+    - type: "Durchführung inkl. Vor- und Nachbereitung PjS"
+      time: 270
 language: "Deutsch"
 total_work: 300
 credit_points: 10

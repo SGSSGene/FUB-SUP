@@ -1,0 +1,37 @@
+Präsenzzeit V, 60|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 120|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 60|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 120|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 90
+Präsenzzeit V, 60|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 120|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 60|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 120|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit SPC, 30|Vor- und Nachbereitung SPC, 60|Prüfungsvorbereitung und Prüfung, 30
+Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 60|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 120|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 60|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 120|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit SPC, 30|Vor- und Nachbereitung SPC, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit SPC, 30|Vor- und Nachbereitung SPC, 120
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 60|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 120|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 15|Vor- und Nachbereitung V, 15|Präsenzzeit PS, 30|Vor- und Nachbereitung PS, 30|Prüfungsvorbereitung und Prüfung, 90
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 45|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 15|Ausarbeitung Seminarvorträge, 30|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 15|Schriftliche Übungsaufgaben, 45|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30|
+Präsenzzeit PrS, 30|Vor- und Nachbereitung PrS, 90|Prüfungsvorbereitung und Prüfung, 60
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit PS, 30|Vor- und Nachbereitung PS, 90
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 30|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 60|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit PjS, 30|Durchführung inkl. Vor- und Nachbereitung PjS, 270
+Präsenzzeit sU, 45|Vor- und Nachbereitung sU, 105
+Präsenzzeit SU, 30|Vor- und Nachbereitung SU, 90|Prüfungsvorbereitung und Prüfung, 30|
+Präsenzzeit S, 15|Vor- und Nachbereitung S, 15|Präsenzzeit Ü, 30|Vor- und Nachbereitung Ü, 90
+Präsenzzeit SU, 30|Vor- und Nachbereitung SU, 30
+Präsenzzeit SU, 30|Vor- und Nachbereitung SU, 30|Prüfungsvorbereitung und Prüfung, 30
+Präsenzzeit V, 30|Vor- und Nachbereitung V, 15|Präsenzzeit P, 45|Vor- und Nachbereitung P, 30|Prüfungsvorbereitung und Prüfung, 30
+Praktikumssuche eP, 10|Präsenzzeit eP, 260|Vor- und Nachbereitung eP, 30

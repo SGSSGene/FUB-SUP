@@ -18,6 +18,19 @@ teachingunit:
       swstime: 2
       attendance: "required"
       activity: "Halten von ein bis zwei Seminarvorträgen. Kommentierung der Vorträge der Mitstudierenden."
+workload:
+    - type: "Präsenzzeit V"
+      time: 30
+    - type: "Vor- und Nachbereitung V"
+      time: 45
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 15
+    - type: "Ausarbeitung Seminarvorträge"
+      time: 30
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
 language: "Deutsch (Vorträge nach Absprache auch auf Englisch)"
 total_work: 180
 credit_points: 6

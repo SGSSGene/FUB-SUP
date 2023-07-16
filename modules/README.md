@@ -34,6 +34,11 @@ teachingunit:
       attendance: "required"
     # If, and How active participation is being achieved
       activity: "By handing in all exercises"
+workload:
+    # Name/description of the unit
+    - unit: "Präsenzzeit sU"
+    # time in hours
+      time: 45
 
 # Modulprüfung: what type of exam
 exam: |

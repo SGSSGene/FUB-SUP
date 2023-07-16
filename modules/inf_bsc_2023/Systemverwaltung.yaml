@@ -18,6 +18,13 @@ teachingunit:
       swstime: 3
       attendance: "required"
       activity: "Implementation der gestllten Aufgaben während der Veranstaltung"
+workload:
+    - type: "Präsenzzeit SU"
+      time: 30
+    - type: "Vor- und Nachbereitung SU"
+      time: 30
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
 language: "Deutsch"
 total_work: 150
 credit_points: 5

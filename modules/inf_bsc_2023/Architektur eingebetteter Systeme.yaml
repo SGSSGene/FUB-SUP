@@ -18,6 +18,19 @@ teachingunit:
       swstime: 2
       attendance: "required"
       activity: "Moderation einer Übung oder eines Teils davon; Bearbeiten von Übungsaufgaben."
+workload:
+    - type: "Präsenzzeit V"
+      time: 30
+    - type: "Vor- und Nachbereitung V"
+      time: 30
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 15
+    - type: "Schriftliche Übungsaufgaben"
+      time: 45
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 30
 language: "Deutsch (Vorträge nach Absprache auch auf Englisch)"
 total_work: 180
 credit_points: 6

@@ -14,6 +14,13 @@ teachingunit:
       swstime: 2
       attendance: "required"
       activity: "Aufbereitete Arbeitsergebnisse"
+workload:
+    - type: "Präsenzzeit PrS"
+      time: 30
+    - type: "Vor- und Nachbereitung PrS"
+      time: 90
+    - type: "Prüfungsvorbereitung und Prüfung"
+      time: 60
 language: "Deutsch"
 total_work: 180
 credit_points: 6

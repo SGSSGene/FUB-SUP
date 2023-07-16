@@ -18,6 +18,15 @@ teachingunit:
       swstime: 2
       attendance: "required"
       activity: "Leitung des Tutoriums; Dokumentation der Ergebnisse jedes durchgeführten Tutoriums; Beratungsgespräch über den Erfolg des betreuten Tutoriums; Diskussion mit anderen Studierenden"
+workload:
+    - type: "Präsenzzeit S"
+      time: 15
+    - type: "Vor- und Nachbereitung S"
+      time: 15
+    - type: "Präsenzzeit Ü"
+      time: 30
+    - type: "Vor- und Nachbereitung Ü"
+      time: 90
 language: "Deutsch"
 total_work: 150
 credit_points: 5

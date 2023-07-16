@@ -14,6 +14,11 @@ teachingunit:
       swstime: 2
       attendance: "recommended"
       activity: "Anfertigung und Dokumentation von Lösungen zu vielen der Aufgaben"
+workload:
+    - type: "Präsenzzeit SPC"
+      time: 30
+    - type: "Vor- und Nachbereitung SPC"
+      time: 120
 language: "Deutsch"
 total_work: 150
 credit_points: 5
