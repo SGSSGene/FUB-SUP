@@ -7,7 +7,6 @@ im YAML Format hinterlegt um coole neue Tools darauf aufzubauen.
 Aktuell sind folgende Ordnungen digital abgebildet:
 
 1. Informatik Bachelor 2014
-    - Es fehlen die Modulbeschreibung
     - Liste aller Abweichung durch Digitalisierung
     - Anlage 2, 3 und 4
 2. Informatik Bachelor 2023
