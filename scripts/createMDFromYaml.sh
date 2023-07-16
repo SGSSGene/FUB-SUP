@@ -36,3 +36,14 @@ for i in $(seq 0 $max); do
     echo "| $(h type) | $(h swstime) | $(h attendance) | $(h activity) |"
 done
 
+
+echo ""
+echo "|   | Aufwand in Stunden |"
+echo "| - |--------------------|"
+max=$(expr $(yq -r '.workload[].type' "${input}" | wc -l) - 1)
+h() {
+    yq -r .workload[$i].${1} "${input}" | perl -p -e 's/\*/\\\*/g'
+}
+for i in $(seq 0 $max); do
+    echo "| $(h type) | $(h time) |"
+done

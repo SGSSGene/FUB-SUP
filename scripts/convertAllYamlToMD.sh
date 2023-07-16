@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
-for i in  modules/inf_bsc_2023/*.yaml; do
+
+sop=$1 # example inf_bsc_2023
+
+mkdir -p docs/${sop}_modules
+for i in  modules/${sop}/*.yaml; do
     stemname=$(basename "$i" | rev | cut -b 6- | rev)
-    echo $stemname
-    ./scripts/createMDFromYaml.sh "modules/inf_bsc_2023/${stemname}.yaml" > "docs/bsc_inf_2023_modules/${stemname}.md"
+    ./scripts/createMDFromYaml.sh "modules/${sop}/${stemname}.yaml" > "docs/${sop}_modules/${stemname}.md"
+
 done
