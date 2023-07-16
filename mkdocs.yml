@@ -1,8 +1,8 @@
 site_name: SuPOrdnung
 nav:
   - Home: index.md
-  - SOP Bsc Informatik 2014:
-    - Studien- und Prüfungsordnung: sop_bsc_inf_2014.md
+  - SOP Informatik Bsc 2014:
+    - Studien- und Prüfungsordnung: sop_inf_bsc_2014.md
     - Modulbeschreibungen:
       - inf_bsc_2014_modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
       - inf_bsc_2014_modules/Analysis für Informatik.md
@@ -34,8 +34,8 @@ nav:
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten Technische Informatik.md
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik.md
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten in der Informatik.md
-  - SOP Bsc Informatik 2023:
-    - Studien- und Prüfungsordnung: sop_bsc_inf_2023.md
+  - SOP Informatik Bsc 2023:
+    - Studien- und Prüfungsordnung: sop_inf_bsc_2023.md
     - Modulbeschreibungen:
       - inf_bsc_2023_modules/Aktuelle Themen in der Informatik.md
       - inf_bsc_2023_modules/Algorithmen und Datenstrukturen.md
