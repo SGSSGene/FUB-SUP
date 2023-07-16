@@ -11,5 +11,4 @@ Aktuell sind folgende Ordnungen digital abgebildet:
     - Liste aller Abweichung durch Digitalisierung
     - Anlage 2, 3 und 4
 2. Informatik Bachelor 2023
-    - Es fehlen Teile der Modulbeschreibung (im Speziellen der Arbeitsaufwand)
     - Anlage 3 und 4
