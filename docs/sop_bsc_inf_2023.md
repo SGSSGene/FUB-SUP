@@ -174,48 +174,48 @@ Die Regelstudienzeit beträgt sechs Semester.
 
 3. Pflichtbereich: In diesem Studienbereich sind die
     folgenden Module zu absolvieren:
-    - Modul: [Konzepte der Programmierung](bsc_inf_2023_modules/Konzepte der Programmierung.md) (9 LP),
-    - Modul: [Diskrete Strukturen für Informatik](bsc_inf_2023_modules/Diskrete Strukturen für Informatik.md) (9 LP),
-    - Modul: [Auswirkungen der Informatik](bsc_inf_2023_modules/Auswirkungen der Informatik.md)  (6 LP),
-    - Modul: [Algorithmen und Datenstrukturen](bsc_inf_2023_modules/Algorithmen und Datenstrukturen.md)  (9 LP),
-    - Modul: [Lineare Algebra für Informatik](bsc_inf_2023_modules/Lineare Algebra für Informatik.md)  (9 LP),
-    - Modul: [Rechnerarchitektur](bsc_inf_2023_modules/Rechnerarchitektur.md)  (6 LP) und
-    - Modul: [Grundlagen der Theoretischen Informatik](bsc_inf_2023_modules/Grundlagen der Theoretischen Informatik.md)  (6 LP),
-    - Modul: [Nebenläufige, parallele und verteilte Programmierung](bsc_inf_2023_modules/Nebenläufige, parallele und verteilte Programmierung.md)  (9 LP),
-    - Modul: [Analysis für Informatik](bsc_inf_2023_modules/Analysis für Informatik.md)  (9 LP),
-    - Modul: [Betriebs- und Kommunikationssysteme](bsc_inf_2023_modules/Betriebs- und Kommunikationssysteme.md)  (6 LP),
-    - Modul: [Datenbanksysteme](bsc_inf_2023_modules/Datenbanksysteme.md)  (6 LP),
-    - Modul: [Programmierpraktikum](bsc_inf_2023_modules/Programmierpraktikum.md)  (5 LP),
-    - Modul: [Statistik für Informatik](bsc_inf_2023_modules/Statistik für Informatik.md)  (6 LP),
-    - Modul: [Informationssicherheit](bsc_inf_2023_modules/Informationssicherheit.md)  (6 LP),
-    - Modul: [Softwaretechnik](bsc_inf_2023_modules/Softwaretechnik.md)  (9 LP),
-    - Modul: [Wissenschaftliches Arbeiten in der Informatik](bsc_inf_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md)  (6 LP),
+    - Modul: [Konzepte der Programmierung](inf_bsc_2023_modules/Konzepte der Programmierung.md) (9 LP),
+    - Modul: [Diskrete Strukturen für Informatik](inf_bsc_2023_modules/Diskrete Strukturen für Informatik.md) (9 LP),
+    - Modul: [Auswirkungen der Informatik](inf_bsc_2023_modules/Auswirkungen der Informatik.md)  (6 LP),
+    - Modul: [Algorithmen und Datenstrukturen](inf_bsc_2023_modules/Algorithmen und Datenstrukturen.md)  (9 LP),
+    - Modul: [Lineare Algebra für Informatik](inf_bsc_2023_modules/Lineare Algebra für Informatik.md)  (9 LP),
+    - Modul: [Rechnerarchitektur](inf_bsc_2023_modules/Rechnerarchitektur.md)  (6 LP) und
+    - Modul: [Grundlagen der Theoretischen Informatik](inf_bsc_2023_modules/Grundlagen der Theoretischen Informatik.md)  (6 LP),
+    - Modul: [Nebenläufige, parallele und verteilte Programmierung](inf_bsc_2023_modules/Nebenläufige, parallele und verteilte Programmierung.md)  (9 LP),
+    - Modul: [Analysis für Informatik](inf_bsc_2023_modules/Analysis für Informatik.md)  (9 LP),
+    - Modul: [Betriebs- und Kommunikationssysteme](inf_bsc_2023_modules/Betriebs- und Kommunikationssysteme.md)  (6 LP),
+    - Modul: [Datenbanksysteme](inf_bsc_2023_modules/Datenbanksysteme.md)  (6 LP),
+    - Modul: [Programmierpraktikum](inf_bsc_2023_modules/Programmierpraktikum.md)  (5 LP),
+    - Modul: [Statistik für Informatik](inf_bsc_2023_modules/Statistik für Informatik.md)  (6 LP),
+    - Modul: [Informationssicherheit](inf_bsc_2023_modules/Informationssicherheit.md)  (6 LP),
+    - Modul: [Softwaretechnik](inf_bsc_2023_modules/Softwaretechnik.md)  (9 LP),
+    - Modul: [Wissenschaftliches Arbeiten in der Informatik](inf_bsc_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md)  (6 LP),
 4. Wahlpflichtbereich: In diesem Studienbereich sind
     aus den folgenden Modulen zwei Module zu wählen und
     zu absolvieren:
-    - Modul: [Angewandte Biometrie](bsc_inf_2023_modules/Angewandte Biometrie.md)  (6 LP),
-    - Modul: [Architektur eingebetteter Systeme](bsc_inf_2023_modules/Architektur eingebetteter Systeme.md)  (6 LP),
-    - Modul: [Datenvisualisierung](bsc_inf_2023_modules/Datenvisualisierung.md)  (6 LP),
-    - Modul: [Forschungspraktikum](bsc_inf_2023_modules/Forschungspraktikum.md)  (6 LP),
-    - Modul: [Funktionale Programmierung](bsc_inf_2023_modules/Funktionale Programmierung.md)  (6 LP),
-    - Modul: [Informationstheorie](bsc_inf_2023_modules/Informationstheorie.md)  (6 LP),
-    - Modul: [Maschinelles Lernen](bsc_inf_2023_modules/Maschinelles Lernen.md)  (6 LP),
-    - Modul: [Mensch-Computer Interaktion](bsc_inf_2023_modules/Mensch-Computer Interaktion.md)  (6 LP),
-    - Modul: [Praktiken professioneller Softwareentwicklung](bsc_inf_2023_modules/Praktiken professioneller Softwareentwicklung.md)  (6 LP),
-    - Modul: [Grundlagen des Datenschutzrechts](bsc_inf_2023_modules/Grundlagen des Datenschutzrechts.md)  (6 LP),
-    - Modul: [Vertiefung Theoretische Informatik](bsc_inf_2023_modules/Vertiefung Theoretische Informatik.md)  (6 LP),
-    - Modul: [Aktuelle Forschungsthemen in der Informatik](bsc_inf_2023_modules/Aktuelle Forschungsthemen in der Informatik.md)  (6 LP),
-    - Modul: [Vertiefte Aspekte der Informatik](bsc_inf_2023_modules/Vertiefte Aspekte der Informatik.md)  (6 LP).
+    - Modul: [Angewandte Biometrie](inf_bsc_2023_modules/Angewandte Biometrie.md)  (6 LP),
+    - Modul: [Architektur eingebetteter Systeme](inf_bsc_2023_modules/Architektur eingebetteter Systeme.md)  (6 LP),
+    - Modul: [Datenvisualisierung](inf_bsc_2023_modules/Datenvisualisierung.md)  (6 LP),
+    - Modul: [Forschungspraktikum](inf_bsc_2023_modules/Forschungspraktikum.md)  (6 LP),
+    - Modul: [Funktionale Programmierung](inf_bsc_2023_modules/Funktionale Programmierung.md)  (6 LP),
+    - Modul: [Informationstheorie](inf_bsc_2023_modules/Informationstheorie.md)  (6 LP),
+    - Modul: [Maschinelles Lernen](inf_bsc_2023_modules/Maschinelles Lernen.md)  (6 LP),
+    - Modul: [Mensch-Computer Interaktion](inf_bsc_2023_modules/Mensch-Computer Interaktion.md)  (6 LP),
+    - Modul: [Praktiken professioneller Softwareentwicklung](inf_bsc_2023_modules/Praktiken professioneller Softwareentwicklung.md)  (6 LP),
+    - Modul: [Grundlagen des Datenschutzrechts](inf_bsc_2023_modules/Grundlagen des Datenschutzrechts.md)  (6 LP),
+    - Modul: [Vertiefung Theoretische Informatik](inf_bsc_2023_modules/Vertiefung Theoretische Informatik.md)  (6 LP),
+    - Modul: [Aktuelle Forschungsthemen in der Informatik](inf_bsc_2023_modules/Aktuelle Forschungsthemen in der Informatik.md)  (6 LP),
+    - Modul: [Vertiefte Aspekte der Informatik](inf_bsc_2023_modules/Vertiefte Aspekte der Informatik.md)  (6 LP).
 5. Im Wahlbereich können Module beliebiger wissenschaftlicher Studienfächer (einschließlich der Informatik)
     im Umfang von 10 LP absolviert werden, die die erworbenen Qualifikationen ergänzen. Im Pflicht- oder Wahlpflichtbereich absolvierte Module oder andere gleichwertige Module der Informatik aus anderen Studiengängen dürfen im Wahlbereich nicht eingebracht werden.
 6. Im Bereich Allgemeine Berufsvorbereitung ist im
     Kompetenzbereich Fachnahe Zusatzqualifikationen das
-    Modul „[Softwareprojekt](bsc_inf_2023_modules/Softwareprojekt.md)“ (10 LP) zu absolvieren. Zusätzlich werden die folgenden Module angeboten:
-    - Modul: [Arbeits- und Lebensmethodik](bsc_inf_2023_modules/Arbeits- und Lebensmethodik.md)  (5 LP),
-    - Modul: [Gender and Diversity](bsc_inf_2023_modules/Gender and Diversity.md)  (5 LP),
-    - Modul: [Planung, Durchführung und Evaluation eines Tutoriums in der Informatik](bsc_inf_2023_modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md)  (5 LP),
-    - Modul: [Projektmanagement in agilen Umgebungen](bsc_inf_2023_modules/Projektmanagement in agilen Umgebungen.md)  (5 LP),
-    - Modul: [Systemverwaltung](bsc_inf_2023_modules/Systemverwaltung.md)  (5 LP).
+    Modul „[Softwareprojekt](inf_bsc_2023_modules/Softwareprojekt.md)“ (10 LP) zu absolvieren. Zusätzlich werden die folgenden Module angeboten:
+    - Modul: [Arbeits- und Lebensmethodik](inf_bsc_2023_modules/Arbeits- und Lebensmethodik.md)  (5 LP),
+    - Modul: [Gender and Diversity](inf_bsc_2023_modules/Gender and Diversity.md)  (5 LP),
+    - Modul: [Planung, Durchführung und Evaluation eines Tutoriums in der Informatik](inf_bsc_2023_modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md)  (5 LP),
+    - Modul: [Projektmanagement in agilen Umgebungen](inf_bsc_2023_modules/Projektmanagement in agilen Umgebungen.md)  (5 LP),
+    - Modul: [Systemverwaltung](inf_bsc_2023_modules/Systemverwaltung.md)  (5 LP).
 
     Im Bereich Praktika wird das Modul „[Berufsbezogenes Praktikum Informatik](bsc_inf_2023_modules/Berufsbezogenes Praktikum Informatik.md)“ (10 LP) angeboten.
 
