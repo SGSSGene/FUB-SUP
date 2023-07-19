@@ -3,7 +3,8 @@
 set -Eeuo pipefail
 
 degree=inf_msc_2014
-url=https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/STOPO_MSc_Bioinf_-2019.pdf
+url=https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/0089c_SPO_2014.pdf
+
 source scripts/convertHelper.sh
 
 # extract front pages
