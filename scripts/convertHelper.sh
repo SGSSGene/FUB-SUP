@@ -34,44 +34,70 @@ clean_text() {
 # receives a page that consist out of two columns
 get_two_column_page() {
     page=$1
-    pdftotext -fixed 16 ${input} tmp/astext.txt -x 1 -y 240 -W 3200 -H 2900 -r 288 -f ${page} -l ${page}
-#    cat tmp/astext.txt
-    cat tmp/astext.txt | cut -c 11-75
-    cat tmp/astext.txt | cut -c 76-
+    pdftotext -fixed 16 ${input} $tmp/astext.txt -x 1 -y 240 -W 3200 -H 2900 -r 288 -f ${page} -l ${page}
+    cat $tmp/astext.txt | cut -c 11-75
+    cat $tmp/astext.txt | cut -c 76-
+}
+
+fix_spelling_mistakes() {
+    perl -i -p -e "s|ul: Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen|Modulverantwortliche: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen|g" ${1}
+    perl -i -p -e "s|ul: Freie Universität Berlin/Mathematik und Informatik/Informatik|Hochschule/Fachbereich/Lehreinheit: Freie Universität Berlin/Mathematik und Informatik/Informatik|g" ${1}
+    perl -i -p -e "s|ul: Programmierpraktikum, Softwaretechnik|Zugangsvoraussetzungen: Programmierpraktikum, Softwaretechnik|g" ${1}
+    perl -i -p -e "s|Veranstaltungssprache|Modulsprache:|g" ${1}
+    perl -i -p -e "s|Freie Universität Berlin/ Mathematik und Informatik/Informatik|Freie Universität Berlin/Mathematik und Informatik/Informatik|g" ${1}
+    perl -i -p -e "s|Erfolgreiche Absolvierung des Moduls „Wissenschaftliches Arbeiten in der Informatik“|Wissenschaftliches Arbeiten in der Informatik|g" ${1}
+    perl -i -p -e "s|Bachelorstudiengang Informatik: Studienbereich ABV \(Fachnahe Zusatzqualifikation 5 LP|Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation 5 LP)|g" ${1}
 }
 
 get_module_description_page() {
     page=$1
     lastpage=${2:-$1}
-    pdftotext -nopgbrk -fixed 16 ${input} tmp/astext.txt -x 1 -y 240 -W 3200 -H 2900 -r 288 -f ${page} -l ${lastpage}
-    startlinenbr=$(cat tmp/astext.txt | grep -n " Modul:" | head -n 1 | cut -d ':' -f 1)
-    linenbr=$(expr $(cat tmp/astext.txt | grep -n "Lehr- und" | head -n 1 | cut -d ':' -f 1) - 1)
+    pdftotext -nopgbrk -fixed 16 ${input} $tmp/astext.txt -x 1 -y 240 -W 3200 -H 2900 -r 288 -f ${page} -l ${lastpage}
+    fix_spelling_mistakes $tmp/astext.txt
+
+
+    startlinenbr=$(cat $tmp/astext.txt | grep -P -n " (V-M|Praxism|M)odul:" | head -n 1 | cut -d ':' -f 1)
+    linenbr=$(expr $(cat $tmp/astext.txt | grep -n "Lehr- und" | head -n 1 | cut -d ':' -f 1) - 1)
 
     # extract top Part: until the "Lehr- und Lernformen" boxes start
-    head -n $linenbr tmp/astext.txt | tail -n +${startlinenbr} > tmp/front.txt
-    clean_text tmp/front.txt
-    cat tmp/front.txt
+    head -n $linenbr $tmp/astext.txt | tail -n +${startlinenbr} > $tmp/front.txt
+    clean_text $tmp/front.txt
+    cat $tmp/front.txt
 
     # Extract the Part starting with "Modulprüfung"
-    pdftotext -nopgbrk -fixed 120 ${input} -r 2048 -f $page -l $lastpage /dev/stdout -bbox-layout > tmp/teachingunits.xml
+    pdftotext -nopgbrk -fixed 120 ${input} -r 2048 -f $page -l $lastpage /dev/stdout -bbox-layout > $tmp/teachingunits.xml
 
-    XQPDFCOL=1 xq -r -f scripts/extractDescriptionPart2.xq tmp/teachingunits.xml > tmp/descPart2_left.txt
-    XQPDFCOL=2 xq -r -f scripts/extractDescriptionPart2.xq tmp/teachingunits.xml > tmp/descPart2_right.txt
+    XQPDFCOL=1 xq -r -f scripts/extractDescriptionPart2.xq $tmp/teachingunits.xml > $tmp/descPart2_left.txt
+    XQPDFCOL=2 xq -r -f scripts/extractDescriptionPart2.xq $tmp/teachingunits.xml > $tmp/descPart2_right.txt
 
     for i in $(seq 1 7); do
-        cat tmp/descPart2_left.txt | head -n $i | tail -n 1
-        cat tmp/descPart2_right.txt | head -n $i | tail -n 1
+        cat $tmp/descPart2_left.txt | head -n $i | tail -n 1
+        cat $tmp/descPart2_right.txt | head -n $i | tail -n 1
     done
 
     # extract the "Lehr- und Lernformen" part
     echo "units:";
-    cat tmp/teachingunits.xml | XQPDFCOL=1 xq -r -f scripts/extractTeachingUnits.xq
+    cat $tmp/teachingunits.xml | XQPDFCOL=1 xq -r -f scripts/extractTeachingUnits.xq
     echo "sws:";
-    cat tmp/teachingunits.xml | XQPDFCOL=2 xq -r -f scripts/extractTeachingUnits.xq
+    cat $tmp/teachingunits.xml | XQPDFCOL=2 xq -r -f scripts/extractTeachingUnits.xq
     echo "active participation:";
-    cat tmp/teachingunits.xml | XQPDFCOL=3 xq -r -f scripts/extractTeachingUnits.xq
+    cat $tmp/teachingunits.xml | XQPDFCOL=3 xq -r -f scripts/extractTeachingUnits.xq
     echo "work_load_name:";
-    cat tmp/teachingunits.xml | XQPDFCOL=4 xq -r -f scripts/extractTeachingUnits.xq
+    cat $tmp/teachingunits.xml | XQPDFCOL=4 xq -r -f scripts/extractTeachingUnits.xq
     echo "work_load_hours:";
-    cat tmp/teachingunits.xml | XQPDFCOL=5 xq -r -f scripts/extractTeachingUnits.xq
+    cat $tmp/teachingunits.xml | XQPDFCOL=5 xq -r -f scripts/extractTeachingUnits.xq
 }
+
+# Some setup lines
+if [ ! -e caches/$degree.pdf ]; then
+    mkdir -p caches
+    wget $url -O caches/$degree.pdf
+fi
+
+input=caches/$degree.pdf
+tmp=caches/$degree
+rm -rf $tmp
+mkdir -p $tmp
+mkdir -p result
+log=${tmp}/log
+rm -f $log

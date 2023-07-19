@@ -1,6 +1,8 @@
 [
-    .html.body.doc.page.flow
+    .html.body.doc.page
         | (env.XQPDFCOL | tonumber) as $col
+#        | try (.[0].flow = .[0].flow + .[1].flow | . = .[0] | .) catch .
+        | .flow
         | .[].block |= ([.] | flatten)
         | .[].block[].line |= ([.] | flatten)
         | .[].block[].line[].word |= ([.] | flatten)
