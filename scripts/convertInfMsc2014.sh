@@ -11,8 +11,8 @@ source scripts/convertHelper.sh
 for i in $(seq 99 106); do
     echo "page: $i" >> $log
     get_two_column_page $i
-done > result/${degree}_paragraphs.txt
-clean_text result/${degree}_paragraphs.txt
+done > result/${degree}_stopo.txt
+clean_text result/${degree}_stopo.txt
 
 # extract module description
 (
