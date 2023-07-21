@@ -1,4 +1,4 @@
-[
+[[
     .html.body.doc.page.flow
         | (env.XQPDFCOL | tonumber) as $col
         | .[].block |= ([.] | flatten)
@@ -31,4 +31,5 @@
                                                      else
                                                         . + [{"max": $max, "min": $min, "text": $text}]
                                                      end)
-| .[].text | sub("- (?<c1>[a-z])"; "\(.c1)")
+| .[].text | gsub("- (?<c1>[a-z])"; "\(.c1)") | sub("(?<c1>.*)\n"; "\(.c1)")
+]

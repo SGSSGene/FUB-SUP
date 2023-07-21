@@ -5,14 +5,6 @@ input=modules.txt
 
 #rm -rf tmp
 mkdir -p tmp
-# Some error corrections for inf bsc 2023
-perl -i -p -e "s|^ul: Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen|Modulverantwortliche: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen|g" ${input}
-perl -i -p -e "s|^ul: Freie Universität Berlin/Mathematik und Informatik/Informatik|Hochschule/Fachbereich/Lehreinheit: Freie Universität Berlin/Mathematik und Informatik/Informatik|g" ${input}
-perl -i -p -e "s|^ul: Programmierpraktikum, Softwaretechnik|Zugangsvoraussetzungen: Programmierpraktikum, Softwaretechnik|g" ${input}
-perl -i -p -e "s|^Veranstaltungssprache|Modulsprache:|g" ${input}
-perl -i -p -e "s|Freie Universität Berlin/ Mathematik und Informatik/Informatik|Freie Universität Berlin/Mathematik und Informatik/Informatik|g" ${input}
-perl -i -p -e "s|Erfolgreiche Absolvierung des Moduls „Wissenschaftliches Arbeiten in der Informatik“|Wissenschaftliches Arbeiten in der Informatik|g" ${input}
-perl -i -p -e "s|Bachelorstudiengang Informatik: Studienbereich ABV \(Fachnahe Zusatzqualifikation 5 LP|Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation 5 LP)|g" ${input}
 
 cat ${input} | grep  "^Modul:" | cut -d ' ' -f 2- > tmp/mod_name.txt
 cat ${input} | grep  "^Hochschule" | cut -d ' ' -f 2- > tmp/mod_organizer.txt
