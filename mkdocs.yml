@@ -2,7 +2,7 @@ site_name: SuPOrdnung
 nav:
   - Home: index.md
   - SOP Informatik Bsc 2014:
-    - Studien- und Prüfungsordnung: sop_inf_bsc_2014.md
+    - Studien- und Prüfungsordnung: inf_bsc_2014_sop.md
     - Modulbeschreibungen:
       - inf_bsc_2014_modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
       - inf_bsc_2014_modules/Analysis für Informatik.md
@@ -35,7 +35,7 @@ nav:
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik.md
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten in der Informatik.md
   - SOP Informatik Bsc 2023:
-    - Studien- und Prüfungsordnung: sop_inf_bsc_2023.md
+    - Studien- und Prüfungsordnung: inf_bsc_2023_sop.md
     - Modulbeschreibungen:
       - inf_bsc_2023_modules/Aktuelle Themen in der Informatik.md
       - inf_bsc_2023_modules/Algorithmen und Datenstrukturen.md
@@ -74,8 +74,62 @@ nav:
       - inf_bsc_2023_modules/Vertiefung Theoretische Informatik.md
       - inf_bsc_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md
   - SOP Informatik Msc 2014:
-    - Studien- und Prüfungsordnung: sop_inf_msc_2014.md
-
+    - Studien- und Prüfungsordnung: inf_msc_2014_sop.md
+    - Modulebeschreibung:
+      - inf_msc_2014_modules/Verteilte Systeme.md
+      - inf_msc_2014_modules/Medizinische Bildverarbeitung.md
+      - inf_msc_2014_modules/Modellgetriebene Softwareentwicklung.md
+      - inf_msc_2014_modules/Softwareprojekt – Theoretische Informatik A.md
+      - inf_msc_2014_modules/Netzbasierte Informationssysteme.md
+      - inf_msc_2014_modules/Wissenschaftliches Arbeiten Technische Informatik A.md
+      - inf_msc_2014_modules/Mobilkommunikation.md
+      - inf_msc_2014_modules/Softwareprojekt – Praktische Informatik A.md
+      - inf_msc_2014_modules/Semantik von Programmiersprachen.md
+      - inf_msc_2014_modules/Praktiken professioneller Softwareentwicklung.md
+      - inf_msc_2014_modules/Projektmanagement – Vertiefung.md
+      - inf_msc_2014_modules/Wissenschaftliches Arbeiten Praktische Informatik B.md
+      - inf_msc_2014_modules/XML-Technologien.md
+      - inf_msc_2014_modules/Spezielle Aspekte der Theoretischen Informatik.md
+      - inf_msc_2014_modules/Bildverarbeitung.md
+      - inf_msc_2014_modules/Ausgewählte Themen der Technischen Informatik.md
+      - inf_msc_2014_modules/Fortgeschrittene Themen der Theoretischen Informatik.md
+      - inf_msc_2014_modules/Höhere Algorithmik.md
+      - inf_msc_2014_modules/Betriebssysteme.md
+      - inf_msc_2014_modules/Aktuelle Forschungsthemen der Theoretischen Informatik.md
+      - inf_msc_2014_modules/Grundlagen des Softwaretestens.md
+      - inf_msc_2014_modules/Aktuelle Forschungsthemen der Praktischen Informatik.md
+      - inf_msc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik A.md
+      - inf_msc_2014_modules/Rechnersicherheit.md
+      - inf_msc_2014_modules/Softwareprozesse.md
+      - inf_msc_2014_modules/Robotik.md
+      - inf_msc_2014_modules/Softwareprojekt – Technische Informatik B.md
+      - inf_msc_2014_modules/Künstliche Intelligenz.md
+      - inf_msc_2014_modules/Kryptographie und Sicherheit in Verteilten Systemen.md
+      - inf_msc_2014_modules/Datenbanktechnologie.md
+      - inf_msc_2014_modules/Softwareprojekt – Praktische Informatik B.md
+      - inf_msc_2014_modules/Projektmanagement.md
+      - inf_msc_2014_modules/Spezielle Aspekte der Technischen Informatik.md
+      - inf_msc_2014_modules/Semantisches Geschäftsprozessmanagement.md
+      - inf_msc_2014_modules/Ausgewählte Themen der Theoretischen Informatik.md
+      - inf_msc_2014_modules/Wissenschaftliches Arbeiten Technische Informatik B.md
+      - inf_msc_2014_modules/Spezielle Aspekte der Datenverwaltung.md
+      - inf_msc_2014_modules/Mustererkennung.md
+      - inf_msc_2014_modules/Algorithmische Geometrie.md
+      - inf_msc_2014_modules/Softwareprojekt – Theoretische Informatik B.md
+      - inf_msc_2014_modules/Computer-Vision.md
+      - inf_msc_2014_modules/Modelchecking.md
+      - inf_msc_2014_modules/Telematik.md
+      - inf_msc_2014_modules/Spezielle Aspekte der Softwareentwicklung.md
+      - inf_msc_2014_modules/Aktuelle Forschungsthemen der Technischen Informatik.md
+      - inf_msc_2014_modules/Softwareprojekt – Technische Informatik A.md
+      - inf_msc_2014_modules/Ausgewählte Themen der Praktischen Informatik.md
+      - inf_msc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik B.md
+      - inf_msc_2014_modules/Mikroprozessor-Praktikum.md
+      - inf_msc_2014_modules/Computergrafik.md
+      - inf_msc_2014_modules/Wissenschaftliches Arbeiten Praktische Informatik A.md
+      - inf_msc_2014_modules/Übersetzerbau.md
+      - inf_msc_2014_modules/Empirische Bewertung in der Informatik.md
+      - inf_msc_2014_modules/Spezielle Aspekte der Praktischen Informatik.md
 theme: readthedocs
 repo_url: https://github.com/SGSSGene/FUB-SuP-Ordnung
 extra_css:
