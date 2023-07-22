@@ -1,0 +1,2649 @@
+- page: 107
+  name: Bildverarbeitung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können Bilder, die von Digital- und Videokameras
+    stammen, verbessern und verändern und sie für den weitergehenden Gebrauch durch
+    Menschen oder die Verarbeitung durch Maschinen nutzbar machen. Sie verstehen die
+    grundlegenden Qualitätsbegriffe, auf die es dabei ankommt, und die algorithmischen
+    Techniken, die dabei verwendet werden.
+  content: Es werden grundlegende Bildverarbeitungstechniken behandelt. Diese umfassen
+    Farbkorrekturen von Bildern, Fouriertransformation, Glätten, Schärfen, Kantendetektion,
+    Aufbau von Bildpyramiden, ScaleSpace-Theory sowie grundlegende Verfahren zur Mustererkennung,
+    wie z. B. die Hough-Transformation.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 108
+  name: Computergrafik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Studierende kennen die auf dem gesamten Weg von der Modellierung zur graphischen
+    Darstellung auftretenden Problemstellungen. Sie wissen exemplarisch, wie diese
+    Fragen in den gängigen Systemen in Hardware oder in Software gelöst werden können
+    und sie verstehen die geometrischen und physikalischen Grundlagen, die nötig sind,
+    um mit fortgeschrittenen Computergrafik-Systemen umzugehen.
+  content: Mathematische Grundlagen der Computergrafik, Darstellung von 3-D-Szenen
+    im Rechner, geometrische Transformationen, Projektionen auf die Bildebene, Bestimmung
+    sichtbarer Flächen, Beleuchtungsmodelle, Ray-Tracing, Radiosity, Animation.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden.
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 109
+  name: Computer-Vision
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen Methoden des Computersehens auf einem
+    aktuellen Stand und können ein Computersystem für die Erkennung von Objekten und
+    Umgebungen programmieren (z. B. für den Betrieb eines Roboters).
+  content: Computer-Vision arbeitet im Gegensatz zur reinen Bildverarbeitung mit einer
+    Folge von Bildern und versucht daraus Objekte zu erkennen und ein räumliches Modell
+    zu konstruieren. Die Teilnehmerinnen und Teilnehmer werden anhand von aktueller
+    Literatur mit dem gegenwärtigen Stand der Forschung auf diesem Gebiet vertrautgemacht.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 110
+  name: Datenbanktechnologie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen aktuelle, technische Verfahren
+    zur effizienten und sicheren Verwaltung von Daten und können fehlertolerante,
+    effiziente Datenbanksysteme entwickeln und deren Qualität beurteilen.
+  content: Das Studium beinhaltet alle technischen Fragen, die sich im Zusammenhang
+    mit der Implementierung von Datenverwaltungssystemen stellen. Dazu gehören Zugriffstechniken
+    und Anfrageoptimierung, die Realisierung von Transaktionen, insbesondere Synchronisationsverfahren,
+    die technische Maßnahmen, die Datenbanksysteme fehlertolerant machen. Neben den
+    in relationalen Systemen verwendeten Techniken werden Verfahren zur effizienten
+    Verwaltung andersartiger großer Datenbestände, insbesondere von XML-Dokumenten,
+    behandelt. Ein Schwerpunkt der Veranstaltung ist die korrekte Implementierung
+    transaktionaler Garantien in Datenverwaltungssystemen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 111
+  name: Empirische Bewertung in der Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen die für die Einsatzsituationen und
+    den Nutzen empirischer Forschungsmethoden und besitzen einen Überblick über die
+    wichtigsten Klassen von Methoden und ihrer Eigenschaften. Sie sind in der Lage,
+    die Qualität einer empirischen Studie zu beurteilen.
+  content: 'Das Modul behandelt zunächst die Rolle empirischer Untersuchungen für
+    den Informationsgewinn in der Forschung und Praxis der Informatik und stellt dann
+    generisch das Vorgehen bei empirischen Untersuchungen vor (mit den folgenden Phasen:
+    Definition der Fragestellung, Auswahl der Methode(n), Entwurf der Studie, Durchführung,
+    Auswertung, Bericht/Präsentation). Aufbauend auf diesem Grundverständnis und anhand
+    der zentralen Qualitätsbegriffe von Glaubwürdigkeit (insbesondere innere Gültigkeit)
+    und Relevanz (insbesondere äußere Gültigkeit) werden dann verschiedene Methodenklassen
+    (z. B. kontrollierte Experimente, Quasiexperimente, Umfragen etc.) behandelt und
+    jeweils anhand realer Fallbeispiele veranschaulicht: Eignung und Gegenanzeigen;
+    Stärken und Schwächen; Vorgehen; Fallstricke. Es wird die Benutzung von Software
+    für die Datenauswertung erlernt und eine kleine empirische Studie projekthaft
+    komplett von der Konzeption bis zur Präsentation durchgeführt.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Durchführung und Präsentation einer empirischen Studie
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Durchführung und Präsentation einer empirischen Studie
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Informatik
+- page: 112
+  name: Grundlagen des Softwaretestens
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen die Grundlagen des Softwaretestens
+    und die Rolle des Testens im gesamten Software-Lebenszyklus. Sie kennen die Stufen
+    und Typen von Softwaretests. Sie können Tests nach dem Stand der Technik entwerfen,
+    und sie können ihre Kenntnisse bei der Abwicklung von Tests anwenden.
+  content: 'Das Testen nimmt einen immer größeren Stellenwert in der Entwicklung und
+    Qualitätssicherung software-basierter Systeme ein. Diese Vorlesung wird Basiskonzepte
+    des Software-testens erläutern und praxisrelevante Methoden zum Testmanagement,
+    zum Testentwurf, zur Testspezifikation, Testgenerierung und Testbewertung vermitteln.
+    Folgende Themenblöcke werden behandelt: - Grundlagen des Softwaretestens - Testen
+    im Softwarelebenszyklus - Statischer Test - Dynamischer Test - Testfallentwurfsverfahren
+    - Testmanagement - Testwerkzeuge Die Vorlesung basiert auf dem ISTQB ® (International
+    Software Testing Qualification Board, www.istqb.org) Certified Tester Programm,
+    einem weltweit anerkannten, standardisierten Aus- und Weiterbildungsschema für
+    Software- Tester. Die Vorlesung vermittelt den Stoff des ISTQB Software Tester
+    Foundation Level und weiterführende aktuelle Testmethoden und -techniken. Im Anschluss
+    kann daher neben der Prüfung zur Vorlesung eine Prüfung zum Zertifikat Software
+    Tester Foundation Level abgelegt werden. Dieses Zertifikat wird mittlerweile in
+    vielen Stellenausschreibungen nachgefragt.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Informatik
+- page: 113
+  name: Künstliche Intelligenz
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die grundlegenden Techniken, Heuristiken
+    und Algorithmen auf dem Gebiet der Künstlichen Intelligenz und können sie sowohl
+    für symbolische als auch für Mustererkennungsprobleme anwenden.
+  content: Suchverfahren für die Lösung kombinatorischer Aufgaben, Prädikatenlogik
+    und ihre Mechanisierung, Resolution und Theorembeweise, Wissensbasierte- und Expertensysteme,
+    Diffuse Logik, Mensch-Maschinen-Schnittstellen, Mustererkennung insbesondere für
+    Handschrift und für gesprochene Sprache
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Informatik
+- page: 114
+  name: Medizinische Bildverarbeitung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können die Qualität und Eigenschaften medizinischen
+    Bildmaterials beurteilen. Sie kennen spezielle Eigenschaften medizinischen Bildmaterials,
+    die in der Anwendung von Algorithmen zu berücksichtigen sind und können eine problembezogene
+    Auswahl geeigneter Bildverarbeitungsalgorithmen treffen und diese zu Gesamtlösungen
+    verknüpfen. Sie beherrschen Methoden zu Bildverbesserung, Registrierung, Segmentierung
+    und Klassifikation und können diese selbstständig anwenden. Sie können die Güte
+    von Bildverarbeitungsalgorithmen sicher beurteilen.
+  content: 'Einführung in die medizinische Bildverarbeitung, Zielsetzungen digitaler
+    Bildverarbeitung in der Medizin, Extraktion von Informationen aus Bilddaten, Objekterkennung
+    (Unterstützung der Wahrnehmung von Bildinformation, Bildkontrast, Filterung, Texturerkennung,
+    Segmentierung) und Probleme in der medizinischen Praxis, relative Lage von Bildern
+    (Alignment, 3D-Bildrekonstruktion), Bewegtbildern und Objektverfolgung. Anwendungsbeispiele:
+    behandelt werden manuelle, interaktive und automatische Methoden (intensitäts-
+    und modellbasiert) auf der Grundlage medizinischen Bildmaterials.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+    - type: Übung
+      swstime: 1
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 45
+    - type: Präsenzzeit Ü
+      time: 15
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Informatik
+- page: 115
+  name: Modellgetriebene Softwareentwicklung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen Konzepte, Methoden und Werkzeuge der
+    modellgetriebenen Softwareentwicklung. Sie können die dynamischen und statischen
+    Aspekte von softwareintensiven Systemen anhand verschiedener Modellierungssprachen
+    beschreiben. Sie verstehen den Einsatz und die Anwendungsgrenzen von modellgetriebener
+    Softwareentwicklung im Rahmen des generellen Softwareentwicklungsprozesses.
+  content: 'Auf den bereits erworbenen Kenntnissen der UML aufbauend, werden zuerst
+    grundlegende Konzepte der Metamodellierung betrachtet. Anschließend wird der Bereich
+    der domänenspezifischen Sprachen (DSL
+
+    - Domain Specific Languages) behandelt. Es wird der Entwurf und die Implementierung
+    von DSLs im Rahmen des gesamten Softwareentwicklungsprozesses betrachtet, angefangen
+    von der Motivation über Konzeption bis hin zu Kodegeneration und Ausführung. Auf
+    der Ebene der Modelle werden Ansätze der Modellanalyse wie Model Checking und
+    die Transformation von Modellen behandelt. Dabei werden sowohl Modell-zu-Modell-Transformationen,
+    wie die Abbildung eines plattformunabhängigen Modells auf eine konkrete Ausführungsplattform
+    oder verhaltensneutrale Refactorings von Modellen als auch die Modell-zu-Text-Transformationen,
+    wie sie beispielsweise für die Kodeerzeugung verwendet werden, betrachtet. Der
+    letzte thematische Block des Moduls beschäftigt sich mit der Verwendung von Modellen
+    zur Laufzeit. Die Interpretation von Verhaltensmodellen wird genauer behandelt
+    und der Zusammenhang zwischen Strukturmodellen und dynamischen Komponentensystemen
+    wird näher beleuchtet. Die Übungen werden parallel durchgeführt und machen den
+    theoretisch vermittelten Stoff durch praktische Anwendung der gelernten Konzepte
+    und Ansätze besser verständlich.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 116
+  name: Mustererkennung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen grundlegende Verfahren der Mustererkennung
+    mit probabilistischen und neuronalen Verfahren sowie über konnektionistische Modelle
+    und können sie auf Mustererkennungsprobleme für die Erkennung von Schrift, Sprache,
+    Objekten in Bildern u. a. anwenden.
+  content: Baye’sche Verfahren der Mustererkennung, Clustering, Expectation Maximization,
+    Neuronale Netze und Lernalgorithmen, Assoziative Netze, Rekurrente Netze. Computer-Vision
+    mit neuronalen Netzen, Anwendungen in der Robotik
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 117
+  name: Netzbasierte Informationssysteme
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die Grundlagen von Technologien, die
+    zum Bau netzbasierter Informationssysteme notwendig sind und verstehen die wichtigsten
+    Mechanismen und ihre Zusammenhänge. Sie sind in der Lage, diese einzuordnen und
+    geeignet darzustellen.
+  content: 'Netzbasierte Informationssysteme stellen mit der Verbreitung des Web im
+    weltweiten Maßstab Informationen bereit. Die Vorlesung vermittelt Kenntnisse über
+    die wichtigsten Technologien, Probleme und Lösungsansätze solcher Systeme. Die
+    Veranstaltung gliedert sich in vier Bereiche (in Klammern behandelte Technologien
+    und Konzepte): - Das Web: Wie sind Inhalte repräsentiert (HTML/XML), wie findet
+    man sie (Crawling, Deep Web), wie kann man darauf zugreifen (Internet-Protokolle)?
+    - Web Suche: Information Retrieval für das Web, Indexing, Multimedia Indexing,
+    Collaborative Filtering, Nutzung der Web-Struktur bei der Suche (PageRank, HITS),
+    Metasuchmaschinen - Betrieb, Ausführung und Darstellung von Web-Sites: Nutzung
+    und Nutzer von Web-Sites, Betriebsaspekte sehr großer Dienste, Server- und Clientenseitige
+    Ausführung, Caching in Web, Clientenseitige Darstellung, Mehrsprachigkeit im Web
+    - Semantic Web: Technologien und Anwendungen Neben dem Vorlesungsteil werden im
+    Übungsteil ergänzende Themen, beispielsweise relevante Internet- und Web- Standarddokumente
+    in Referaten behandelt.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 118
+  name: Projektmanagement
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentin oder Dozent des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen grundlegende und fortgeschrittene
+    Techniken des Projektmanagements und können sie anwenden. Sie können einen Projektplan
+    erstellen und auf geeignetes Personal und eine Organisationsstruktur abbilden.
+    Sie können in der Leitung eines Projektes mitarbeiten und Verantwortung für jeden
+    Bereich des Projektmanagements einschließlich der Führung von Personal übernehmen.
+    Sie können ein kleines Projekts eigenverantwortlich leiten. Die Studentinnen und
+    Studenten können die Funktionen eines Projektmanagement-Softwarewerkzeugs (z.
+    B. MS Project) in geeigneter Form einsetzen.
+  content: 'Prinzipien, Methoden und Verfahrensweisen im Projektmanagement anhand
+    einer anerkannten Methodik (z. B. „Projekt Management Body of Knowledge“ (PMBoK)).
+    Die Veranstaltung deckt alle Themenbereiche des Projektmanagements ab.
+
+    - Projektentstehung, -definition und Planung des Projektumfangs
+
+    - Projektplanung
+
+    - Projektablaufsteuerung und -kontrolle
+
+    - Projektstatusermittlung und -reporting
+
+    - Untervergabe
+
+    - Projektorganisation
+
+    - Einbettung eines Projekts in die ausführende Organisation, Führen ohne formale
+    Macht
+
+    - Projektkommunikation
+
+    - Führung eines Projektteams
+
+    - Qualitätsmanagement
+
+    - Projektabschluss
+
+    - Professional Responsibility
+
+    - Nutzung von MS Project Damit umfasst dieses Modul alle möglichen Tätigkeitsfelder
+    eines Assistenten der Projektleitung und bietet das nötige Wissen für die Führung
+    kleinerer Projekte.'
+  teachingunit:
+    - type: Seminaristischer Unterricht
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge, ein Vortrag, Bearbeitung von Übungsaufgaben
+    - type: Seminaristischer Unterricht
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge, ein Vortrag, Bearbeitung von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (60 Minuten), die Klausur kann auch in Form einer elektromündliche
+    Prüfung (ca. 20 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Zwei Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 119
+  name: Projektmanagement – Vertiefung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentin oder Dozent des Moduls
+  requirements: Grundlagen des Managements von IT-Projekten oder gleichwertige Kenntnisse
+  goals: Die Studentinnen und Studenten verstehen die Prozesse des Projektmanagements
+    umfassend und können sie anwenden. Sie können Aufgaben definieren, schätzen, anordnen
+    und in einen Projektplan umsetzen. Sie können eine Projektdurchführung überwachen.
+    Sie können zahlreiche Funktionen eines Softwarewerkzeugs (z. B. MS Project) geeignet
+    anwenden. Sie können in der Leitung eines Projektes mitarbeiten und Verantwortung
+    für jeden Bereich des Projektmanagements übernehmen. Sie können ein kleines Projekt
+    eigenverantwortlich leiten.
+  content: 'Über die Ablauf- und Kostenplanung und -steuerung hinausgehende Prinzipien,
+    Methoden und Verfahrensweisen im Projektmanagement anhand einer anerkannten Methodik
+    (z. B. „Projekt Management Body of Knowledge“ (PMBoK)). Die Veranstaltung fokussiert
+    auf die Themenbereiche des Projektmanagements, die neben Projektplanung und -steuerung
+    bezüglich des Ablaufs und der Kosten relevant sind.
+
+    - Projektorganisation
+
+    - Einbettung eines Projekts in die ausführende Organisation
+
+    - Führen ohne formale Macht
+
+    - Projektkommunikation
+
+    - Führung eines Projektteams
+
+    - Qualitätsmanagement
+
+    - Professional Responsibility Die Planungsmethodik aus „Projektmanagement Grundlagen“
+    und die Anwendung von MS Project wird vertieft. Zusammen mit dem Modul „Projektmanagement
+    Grundlagen“ komplettiert dieses Modul die möglichen Tätigkeitsfelder eines Assistenten
+    der Projektleitung und bietet das nötige Wissen für die Führung kleinerer Projekte.'
+  teachingunit:
+    - type: Seminaristischer Unterricht
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge, ein Vortrag, Bearbeitung von Übungsaufgaben,
+        Hausarbeit
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 45
+    - type: Hausarbeit
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (60 Minuten), die Klausur kann auch in Form einer elektromündliche
+    Prüfung (ca. 20 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Informatik
+- page: 120
+  name: Rechnersicherheit
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten sind in der Lage, - typische Angriffe auf
+    Daten- und IT-Sicherheit zu benennen und ihr Schadenspotential anwendungsbezogen
+    einzuschätzen, - Prinzipien, Methoden und Mechanismen zum Schutz von Systemen
+    zu benennen und ihre Einsatzbereiche zu beschreiben, - in Kenntnis potentieller
+    Sicherheitslücken Systeme hinsichtlich ihrer Sicherheitseigenschaften zu analysieren,
+    - bei der Software-Entwicklung Sicherheitsbelange bereits bei der Anforderungsdefinition
+    und anschließend während des gesamten Entwicklungsprozesses zu berücksichtigen
+    und - betriebliche Sicherheitsrichtlinien sowie Datenschutzrichtlinien technisch
+    umzusetzen; sie kennen die Bestimmungen des Datenschutzrechts.
+  content: 'Grundbegriffe: Schutzziele, Sicherheitsmechanismen, Umsetzung von Sicherheitsanforderungen,
+    Systemsicherheit versus Netzsicherheit. Gesellschaftlicher Kontext: Historisches,
+    Politisches, Evaluation und Zertifizierung. Typische Angriffe: Trojanische Pferde,
+    Salamitaktik, Geheimtüren, Viren, Würmer, Logische Bomben, verdeckte Lecks, Ausnutzung
+    von Software-Qualitätsmängeln (z. B. Pufferüberlauf). Zugangskontrolle: Passwörter,
+    Sicherungskarten, Biometrie. Zugriffsschutz: Speicherschutz, Autorisierung eines
+    Prozesses, Dateischutz, Capabilities, Modellierung, rollenbasierter Zugriffsschutz,
+    Zugriffsschutzstrategien, Zugriffsschutz in Programmiersprachen, Sicherheitsmechanismen
+    in Java, anwendungsorientierte Schutzsysteme (Datenbanken, CORBA). Überwachungssysteme:
+    Auditing, Intrusion Detection. Informationsflusskontrolle: Elemente der Informationstheorie,
+    Informationsfluss zwischen Objekten, Sicherheitsklassen, mehrstufige Sicherheit,
+    flusssichere Programme, Zugriffsschutz und Flusskontrolle (Bell-LaPadula-Modell,
+    Chinese-Wall-Modell). Sicherheitsmechanismen in lokalen Netzen: Zugangskontrolle
+    über Sun NIS, Fernbenutzung (telnet, ssh), Zugriffsschutz in verteilten Dateisystemen.
+    Kryptographie: Grundbegriffe, Transpositionsverschlüsselung, Substitutionsverschlüsselung,
+    Sicherheit von Verschlüsselungsverfahren, Polyalphabetische Substitution, sichere
+    Blockverschlüsselung; asymmetrische Verschlüsselung (knapsack, RSA); Authentizität,
+    digitale Unterschriften, Hash-Codes, DSS. Kryptographische Protokolle: Elementare
+    Protokolle, Schlüsselverwaltung, Diffie-Hellman, Zertifikate, PKI, PGP, Authentisierungsdienste
+    (Kerberos, Sesame). Sichere Endsysteme: Trusted Computing: TCG, TPM, Secure Booting,
+    Pro&Contra, DRM.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 90
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) , die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20
+    bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 121
+  name: Semantisches Geschäftsprozessmanagement
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können mit Standards des modernen semantischen
+    Geschäftsprozessmanagements (Business Process Management, BPM) und BPM-Werkzeugen
+    praktisch umgehen. Sie können Geschäftsprozesse und Web Services modellieren und
+    implementieren. Sie beherrschen Methoden und Techniken an der Schnittstelle zwischen
+    Business Process Management und Corporate Semantic Web.
+  content: Beim Semantischen Geschäftsprozessmanagement handelt es sich um eine Verbindung
+    von Corporate Semantic Web Technologien, wie Regeln, komplexen Ereignissen und
+    Ontologien, mit dem Geschäftsprozessmanagement. Diese Kombination ermöglicht eine
+    weitgehende Automatisierung der Suche, Konfiguration und Komposition geeigneter
+    Prozessbausteine, Informationsobjekte und Dienste für bestimmte Ziele, eine automatische
+    Vermittlung zwischen unterschiedlichen heterogenen Schnittstellen und Abstraktionsebenen,
+    gezielte komplexe Anfragen an den Prozessraum und insgesamt ein wesentlich agileres
+    Prozessmanagement. Die Übung vertieft das Wissen über Business Process Management
+    (BPM) und Enterprise IT Service Management (ITSM) mit einem Fokus auf der Kombination
+    von BPM mit Corporate Semantic Web (CSW)-Technologien (Regeln, Ontologien). Behandelt
+    werden Methoden der Modellierung, Repräsentation und Implementierungstechnologien
+    (z. B. SOA, SOC, SWS, EDA, CEP, CSW, SBMP, EDBPM, ESB). Es werden Werkzeuge und
+    Industriestandards vorgestellt und praxisbezogen eingeübt (z. B. ITIL, BS 15000,
+    BPMN, BPDM BPEL, RuleML/RIF, PRR, SBVR, OWL).
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Informatik
+- page: 122
+  name: Softwareprozesse
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen verschiedene Prozessansätze und Werkzeuge
+    für unterschiedliche Aufgaben und Situationen. Sie können Softwareprozesse auf
+    ihre Eignung für gegebene Entwicklungsziele beurteilen. Sie können Softwareprozesse
+    analysieren und sinnvolle Verbesserungen vorschlagen.
+  content: 'Quantifizieren im Softwareprozess: Messen und Maße. Typische Prozesse
+    wie z. B. agile Prozesse (insbesondere eXtreme Programming), Prozesse für hochzuverlässige
+    Software (insbesondere Cleanroom Software Engineering), Prozesse für die verteilte
+    Kollaboration von Freiwilligen (Open-Source-Entwicklung). Fehlervorbeugungsstrategien.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich im Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 123
+  name: Übersetzerbau
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die wesentlichen Phasen eines Übersetzers
+    und beherrschen die allgemeinen Techniken für jede Phase. Sie können die Techniken
+    des Übersetzerbaus auch in anderen Anwendungsbereichen einsetzen.
+  content: Ein Übersetzer ist ein Programm, das Programme einer höheren Programmiersprache
+    in eine andere Programmiersprache (im Allgemeinen Maschinensprache) überführt.
+    In der Regel erfolgt die Übersetzung in mehreren Phasen, wovon die wichtigsten
+    die lexikalische Analyse, die Syntaxanalyse, die semantische Analyse und die Codeerzeugung
+    sind. Mit Hilfe der lexikalischen und syntaktischen Analyse wird das Quellprogramm
+    in eine computergerechte Repräsentation überführt (abstrakter Syntaxbaum). Diese
+    Repräsentation wird dann als Ausgangspunkt für Optimierungen und die Codeerzeugung
+    verwendet. Die hier vorgestellten Verfahren finden an vielen Stellen in der Informatik
+    Anwendung. Deshalb ist dieses Thema auch für solche Hörer von Interesse, die nie
+    vorhaben, einen Übersetzer zu schreiben.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 124
+  name: Verteilte Systeme
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten sind in der Lage, - Prinzipien und Architekturen
+    verteilter Systeme, insbesondere das Prinzip der Verteilungsabstraktion, zu beschreiben,
+    - die Architektur verteilter Systeme zu analysieren und die Dienste zu identifizieren,
+    die von Betriebssystemen, Middleware und verteilten Anwendungen angeboten werden,
+    - mehrere konkrete Beispiele für Middleware zu beschreiben und zu vergleichen,
+    - typische verteilte Algorithmen und ihre Einsatzbereiche zu benennen, - die Bedeutung
+    von Datenreplikation anwendungsbezogen einzuschätzen sowie typische Replikationstechniken
+    zu vergleichen, - verteilte Anwendungen unter Verwendung von Sockets, Fernaufrufen
+    und Web-Technologie zu entwickeln.
+  content: 'Einführung und Übersicht: Wozu verteilte Systeme? Problemfelder und Lösungsansätze.
+    Kommunikationssysteme: Kommunikationsnetze, -dienste und -protokolle, Klassifizierung
+    von Kommunikationsdiensten, Kommunikationsdienste des Betriebssystems (Pipes,
+    Message Queues, Sockets), Kommunikationsplattformen (PVM, MPI). Netzdienste im
+    Internet: Standarddienste, Fernerzeugung von Prozessen. Architektur verteilter
+    Systeme: Datenfluss- Architektur versus Client/Server-Architektur versus verteilte
+    Algorithmen. Verteilte Algorithmen: Zeit und Kausalität, Gruppenkommunikation,
+    Auswahlalgorithmen, Sperrsynchronisation, Sondieren mit Echos, Routing im Internet.
+    Verteilte Datenverwaltung: Replikation, Konsistenz (verschiedene Varianten), Caching,
+    verteilter virtueller Speicher, Object Caching, verteilte Transaktionen. Fehlertoleranz:
+    Terminologie und Fehlerklassifikation, Replikation mit Abstimmung (voting), Verteilte
+    Übereinkunft, Byzantinische Fehler. Verteilungsabstraktion: Fernaufrufe (Prinzipien,
+    Java RMI, .NET Remoting), mobiler Code, mobile Objekte, replizierte Objekte. Verteilte
+    Verzeichnisdienste (NIS, DNS). Middleware: Sun RPC, COMANDOS, COM/DCOM, CORBA,
+    .NET, WWW, Webdienste, nachrichtenorientierte Middleware (IBM MQSeries, CORBA
+    Notification Service, Java Message Service, SIENA).'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 125
+  name: XML-Technologien
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen vertiefte Kenntnis grundlegender
+    XML-Technologien. So können sie insbesondere deren Stellenwert für das Web der
+    Zukunft aber auch deren Beschränkungen einschätzen.
+  content: 'Die Extensible Markup Language (XML) ist die neue Sprache des Webs. Sie
+    wird zwar HTML nicht ersetzen, jedoch in einem wichtigen Bereich ergänzen: Während
+    HTML für die Präsentation von elektronischen Dokumenten entwickelt wurde (Mensch-Maschine-Kommunikation),
+    ist XML insbesondere für den Austausch von Daten zwischen Computern geeignet.
+    XML erlaubt dabei die Definition von speziellen Datenaustauschformaten (Standards)
+    sowie die einfache Kombination und Erweiterung solcher Standards. Zusammen mit
+    einer breiten Unterstützung der Software-Industrie ermöglicht dies eine schnelle
+    Verbreitung von XML im Web. Anwendungen von XML findet man heute u. a. in der
+    .NET-Architektur von Microsoft und im E-Business. Es werden folgende Themen behandelt:
+
+    - Ursprünge von XML
+
+    - Strukturierung von Inhalten mittels XML
+
+    - Namensräume
+
+    - Beschreibung von Dokumenten und Daten (DTD- und XML-Schema)
+
+    - Verarbeitung von XML-Daten (DOM- und SAX-Parser)
+
+    - Transformation von Dokumenten (XSLT)
+
+    - XML und Datenbanken
+
+    - Web Services (SOAP, WSDL)
+
+    - Semantic Web (RDF, RDFS) Es wird an mittelgroßen Beispielen gezeigt, wie diese
+    Technologien sinnvoll eingesetzt werden können. Gleichzeitig wird das in der Vorlesung
+    erworbene Wissen über die entsprechenden Standards vertieft.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Informatik
+- page: 126
+  name: Praktiken professioneller Softwareentwicklung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen und verstehen verschiedene Praktiken
+    und können deren Grundgedanken und Zwecke erklären. Sie besitzen praktische Fertigkeiten
+    in der Anwendung dieser Praktiken und können beurteilen, wann und in welchem Grad
+    der Einsatz welcher dieser Praktiken sinnvoll ist.
+  content: 'Thema sind Entwicklungspraktiken: Konkrete Ausprägungen von allgemeinen
+    Prinzipien der Softwaretechnik in Methoden und Methodenelemente, die alle Aufgabenfelder
+    der Erst- und Fortentwicklung von Software betreffen können (z. B. Anforderungsbestimmung,
+    Spezifikation, Projektplanung, Projektsteuerung und -koordination, Softwareentwurf,
+    Implementierung, Optimierung, Dokumentation, Test, Programmverstehen, Reengineering,
+    Qualitätsmanagement, Betrieb). Die Praktiken können zu eher plangetriebenen, eher
+    agilen oder beiden Entwicklungsstilen passen. Es wird eine Auswahl solcher Praktiken
+    vorgestellt, gemeinsam diskutiert und dann ausprobiert, eingeübt und kritisiert.'
+  teachingunit:
+    - type: Methodenkurs
+      swstime: 2
+      attendance: required
+      activity: 'Teilnahme an der Diskussion
+
+        Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe'
+    - type: Praxisseminar
+      swstime: 2
+      attendance: required 
+      activity: 'Teilnahme an der Diskussion
+
+        Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe'
+  workload:
+    - type: Präsenzzeit MK
+      time: 30
+    - type: Vor- und Nachbereitung MK
+      time: 30
+    - type: Präsenzzeit PS
+      time: 30
+    - type: Vor- und Nachbereitung PS
+      time: 60
+  exam: Keine
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich im Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 127
+  name: Softwareprojekt – Praktische Informatik A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+    komplexer Softwaresysteme auf dem Gebiet der Praktischen Informatik. Sie können
+    selbstständig ein größeres Projekt in Teilprojekte zerlegen, geeignete Schnittstellen
+    definieren und einen Zeitplan erstellen. Sie können sich im Team organisieren
+    und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte.
+    Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-,
+    Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+    schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen
+    Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber
+    (als Kundenprojekt). Sie können dabei Methoden des Projektmanagements und der
+    Software-Entwicklung sicher anwenden, insbesondere im Bereich des Entwurfs und
+    der Realisierung (Anforderungsermittlung, Spezifikation, Architekturentwurf, Modulentwurf,
+    Technologieauswahl, Implementierung).
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur
+    Lösung einer anwendungs- oder systemorientierten Aufgabe aus dem Bereich der Praktischen
+    Informatik, wie z. B. dem Übersetzerbau, der Künstlichen Intelligenz (Maschinelles
+    Lernen, Computer-Sehen oder Mustererkennung), der Datenverwaltung oder der Web-Technologien.
+    Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang
+    durchgeführt. Die Teams werden aus Bachelor- und Master-Studenten gemischt, wobei
+    die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft die
+    Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik
+    ein, insbesondere das Definieren, Abstimmen und Dokumentieren von Schnittstellen;
+    die Mitwirkung an der arbeitsteiligen Erstellung von Softwarekomponenten (bei
+    Verwendung noch nicht implementierter Schnittstellen); die Beurteilung und der
+    Umgang mit einer noch fremden Technologie oder größeren Softwarekomponente (Wiederverwendung).
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: laufende Berichte über den Projektstand; regelmäßige Präsentation
+        der Zwischenergebnisse
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Softwareentwicklung
+      time: 240
+    - type: Vorbereitung von Präsentationen und Dokumentation
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: der vorlesungsfreien Zeit als Blockveranstaltung.
+  usability: Masterstudiengang Informatik
+- page: 128
+  name: Softwareprojekt – Praktische Informatik B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+    komplexer Softwaresysteme auf dem Gebiet der Praktischen Informatik. Sie können
+    selbstständig ein größeres Projekt in Teilprojekte zerlegen, geeignete Schnittstellen
+    definieren und einen Zeitplan erstellen. Sie können sich im Team organisieren
+    und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte.
+    Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-,
+    Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+    schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen
+    Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber
+    (als Kundenprojekt). Sie können dabei Methoden des Projektmanagements und der
+    Softwareentwicklung sicher anwenden, insbesondere im Bereich der Qualitätssicherung
+    (Test, Inspektion, Prozessmanagement, Projektmanagement, Reengineering).
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur
+    Lösung einer anwendungs- oder systemorientierten Aufgabe aus dem Bereich der Praktischen
+    Informatik, wie z. B. dem Übersetzerbau, der Künstlichen Intelligenz (Maschinelles
+    Lernen, Computer-Sehen oder Mustererkennung), der Datenverwaltung oder der Web-Technologien.
+    Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang
+    Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
+    durchgeführt. Die Teams werden aus Bachelorund Master-Studenten gemischt, wobei
+    die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft die
+    Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik
+    ein, insbesondere das Durchsehen von Anforderungen, Schnittstellen, Implementierungen,
+    Testfällen; das Testen (Modultests, Integrationstests, Systemtests) und die Versions-
+    und Konfigurationsverwaltung.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: laufende Berichte über den Projektstand; regelmäßige Präsentation
+        der Zwischenergebnisse
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Softwareentwicklung
+      time: 240
+    - type: Vorbereitung von Präsentationen und Dokumentation
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten); die
+    Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: der vorlesungsfreien Zeit als Blockveranstaltung.
+  usability: Masterstudiengang Informatik
+- page: 129
+  name: Wissenschaftliches Arbeiten Praktische Informatik A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Studentinnen und Studenten können sich selbstständig in ein Thema der Praktischen
+    Informatik anhand wissenschaftlicher Originalliteratur einarbeiten und sich gegebenenfalls
+    zusätzliches Hintergrundwissen besorgen. Sie können auch ein schwieriges Thema
+    in einem Vortrag verständlich vermitteln. Dabei können sie wesentliche Elemente
+    gegenüber weniger wichtigen Elementen hervorheben, Einzelaussagen in Beziehung
+    zueinander setzen und auf ihren inhaltlichen Kern reduzieren. Sie können geeignete
+    Darstellungsformen und Medien bewusst auswählen und einsetzen. Sie sind dazu bereit,
+    bei Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und können in sachlicher Weise Kritik üben. Gleichzeitig erwerben
+    die Studentinnen und Studenten vertiefte Kenntnisse in einem speziellen Thema
+    der Informatik und werden auf eigene Forschungsarbeit vorbereitet, wie sie zur
+    Masterarbeit nötig ist.
+  content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Praktischen
+    Informatik (z. B. Software Engineering, Datenbanksysteme, Datenverwaltung, Sicherheit
+    in der Informationstechnologie, Künstliche Intelligenz, moderne Web-Technologien)
+  teachingunit:
+    - type: Hauptseminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+
+        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+  workload:
+    - type: Präsenzzeit HS
+      time: 30
+    - type: Vor- und Nachbereitung HS
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Informatik
+- page: 130
+  name: Wissenschaftliches Arbeiten Praktische Informatik B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können sich selbstständig in ein Thema der
+    Praktischen Informatik anhand wissenschaftlicher Originalliteratur einarbeiten
+    und sich gegebenenfalls zusätzliches Hintergrundwissen besorgen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Dabei können sie
+    wesentliche Elemente gegenüber weniger wichtigen Elementen hervorheben, Einzelaussagen
+    in Beziehung zueinander setzen und auf ihren inhaltlichen Kern reduzieren. Sie
+    können geeignete Darstellungsformen und Medien bewusst auswählen und einsetzen.
+    Sie sind dazu bereit, bei Unklarheiten Fragen zu stellen, sie können sich an einer
+    Diskussion über wissenschaftliche Fragen beteiligen und können in sachlicher Weise
+    Kritik üben. Gleichzeitig erwerben die Studentinnen und Studenten vertiefte Kenntnisse
+    in einem speziellen Thema der Informatik und werden auf eigene Forschungsarbeit
+    vorbereitet, wie sie zur Masterarbeit nötig ist.
+  content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Praktischen
+    Informatik (z. B. Software Engineering, Datenbanksysteme, Datenverwaltung, Sicherheit
+    in der Informationstechnologie, Künstliche Intelligenz, moderne Web-Technologien)
+  teachingunit:
+    - type: Hauptseminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+
+        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+  workload:
+    - type: Präsenzzeit HS
+      time: 30
+    - type: Vor- und Nachbereitung HS
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Informatik
+- page: 131
+  name: Aktuelle Forschungsthemen der Praktischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können die wesentlichen Begriffe und Techniken
+    eines aktuellen Forschungsgebietes im Bereich der Praktischen Informatik anwenden.
+  content: Dieses Modul mit wechselnden Inhalten gibt einen Einblick in eines der
+    Forschungsthemen, die in aktuellen Projekten am Institut für Informatik bearbeitet
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Wechselnd, in der Regel mindestens jedes zweite Semester
+  usability: Masterstudiengang Informatik
+- page: 132
+  name: Spezielle Aspekte der Praktischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Ergebnisse
+    eines ausgewählten Gebietes der Praktischen Informatik anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Praktischen
+    Informatik, beispielsweise in semantische Modellierung oder transaktionale Systeme.
+    Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 133
+  name: Spezielle Aspekte der Datenverwaltung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Ergebnisse
+    eines ausgewählten Gebietes der Praktischen Informatik im Bereich der Datenverwaltung
+    anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Datenverwaltung,
+    beispielsweise in räumliche Datenbanken, standortbezogene Dienste, Information
+    Retrieval, XML-Datenverwaltung, Datamining und Textmining oder Transaktionsverarbeitung.
+    Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 134
+  name: Spezielle Aspekte der Softwareentwicklung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Ergebnisse
+    eines ausgewählten Gebietes der Praktischen Informatik im Bereich des Software
+    Engineering anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Softwaretechnik,
+    beispielsweise in modellgetriebener Softwareentwicklung, Softwareprozesse, Systemsoftware
+    oder Open-Source-Softwareentwicklung. Zusätzlich werden Forschungsfragen und Anwendungsbereiche
+    berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 135
+  name: Ausgewählte Themen der Praktischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die Grundlagen in einem Spezialgebiet
+    oder einem Anwendungsgebiet der Praktischen Informatik. Sie können Erlerntes sicher
+    anwenden.
+  content: Wechselnde Inhalte, z. B. fortgeschrittene Aspekte von Programmiersprachen,
+    von Betriebssystemen, von Datenbanken oder der Softwaretechnik.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 136
+  name: Höhere Algorithmik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die gängigen Entwurfstechniken
+    für Algorithmen und können Algorithmen mit ihrer Hilfe entwerfen. Sie können Algorithmen
+    in Bezug auf ihren Laufzeit- und Speicherbedarf analysieren und dabei auch fortgeschrittene
+    Analysemethoden verwenden. Sie verstehen die Theorie der NP-Vollständigkeit. Sie
+    kennen die gängigen Komplexitätsklassen und können einfache Probleme in ihrer
+    Komplexität einordnen.
+  content: 'Es werden Themen wie:
+
+    - Wege- und Flussprobleme in Graphen,
+
+    - String-Matching,
+
+    - randomisierte Algorithmen,
+
+    - amortisierte Analyse,
+
+    - das „Master-Theorem“ zur Analyse von teile-und-herrsche-Rekursionsgleichungen,
+
+    - NP-Vollständigkeit,
+
+    - Approximationsalgorithmen für schwere Probleme,
+
+    - zahlentheoretische Algorithmen (einschließlich RSA-Kryptosystem),
+
+    - Arithmetische Algorithmen und Schaltkreise sowie schnelle Fourier-Transformation
+    behandelt.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 70
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 137
+  name: Modelchecking
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls Höhere Algorithmik
+  goals: Die Studentinnen und Studenten können Systeme, Protokolle und verteilte Algorithmen
+    selbstständig modellieren, Anforderungen in temporalen Logiken formalisieren,
+    Echtzeitmodelle entwickeln und Echtzeitanforderungen formulieren. Sie sind in
+    der Lage, für die Anforderungen geeignete Abstraktionen zu finden und Spezifikationen
+    mit Hilfe eines Modellüberprüfers zu beweisen.
+  content: '– Unterschied zwischen Programmieren und Modellieren
+
+    - Modellieren reaktiver Systeme in SPIN und Promela
+
+    - Spezifizieren von Anforderungen in temporalen Logiken
+
+    - Automatentheoretische Modelle von Systemen und Spezifikationen
+
+    - Entscheidungsverfahren für temporale Logiken
+
+    - Symbolisches Modelchecking und Binäre Entscheidungsdiagramme
+
+    - Modelchecking mit NuSMV
+
+    - Automatenmodelle mit Zeit
+
+    - Modellchecking von Zeitautomaten mit Uppaal
+
+    - Formale Methoden zur Abstraktion und dem Nachweis der erhaltenen Eigenschaften.
+    Miniprojekt: Es soll selbstständig ein nicht sequentielles System oder ein nicht
+    sequentieller Algorithmus modelliert, dessen Anforderungen formalisiert und schließlich
+    das Modell bezüglich der Anforderungen mit Hilfe von geeigneten Modellüberprüfern
+    verifiziert werden. Diese Leistung wird durch Abgabe der Modelle und eines schriftlichen
+    Berichts nachgewiesen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben und Bearbeitung eines Miniprojekts
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben und Bearbeitung eines Miniprojekts
+    - type: Projektseminar
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsaufgaben und Bearbeitung eines Miniprojekts
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Präsenzzeit PrS
+      time: 30
+    - type: Vor- und Nachbereitung PrS
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 120
+  exam: 'Projektbericht (ca. 20 Seiten) mit mündlicher Präsentation (ca. 15 Minuten)'
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersersemester
+  usability: Masterstudiengang Informatik
+- page: 138
+  name: Aktuelle Forschungsthemen der Theoretischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können die wesentlichen Begriffe und Techniken
+    eines aktuellen Forschungsgebietes im Bereich der Theoretischen Informatik anwenden.
+  content: Dieses Modul mit wechselnden Inhalten gibt einen Einblick in eines der
+    Forschungsthemen, die in aktuellen Projekten am Institut für Informatik bearbeitet
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Wechselnd, in der Regel mindestens jedes zweite Semester
+  usability: Masterstudiengang Informatik
+- page: 139
+  name: Algorithmische Geometrie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls Höhere Algorithmik
+  goals: Die Studentinnen und Studenten kennen Grundlagen der algorithmischen Geometrie
+    und können geometrische Probleme analysieren und algorithmische Methoden auf praktische
+    Probleme mit geometrischem Hintergrund anwenden.
+  content: Effiziente Algorithmen für geometrische Probleme, z. B. Finden der konvexen
+    Hülle einer Punktmenge, Voronoi- Diagramme, geometrische Datenstrukturen, etwa
+    zum Finden eines Punktes in einer ebenen Unterteilung. Anwendungen in Computer-Graphik,
+    Muster- und Formerkennung, geographischen Informationssystemen, CAD usw.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Schriftliche Bearbeitung der Übungsblätter
+
+        Mündliche Präsentation der Lösung ausgewählter Übungsaufgaben in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Schriftliche Bearbeitung der Übungsblätter
+
+        Mündliche Präsentation der Lösung ausgewählter Übungsaufgaben in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 140
+  name: Ausgewählte Themen der Theoretischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die Grundlagen in einem Spezialgebiet
+    oder einem Anwendungsgebiet der Theoretischen Informatik, insbesondere der Algorithmik.
+    Sie können Erlerntes sicher anwenden.
+  content: 'Wechselnde Inhalte, z. B.
+
+    - Datenkompression
+
+    - Externe Algorithmen und Datenstrukturen
+
+    - Online-Algorithmen'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Bearbeitung der Übungsblätter, mündliche Präsentation der Lösung ausgewählter
+        Übungsaufgaben in der Übung
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsblätter, mündliche Präsentation der Lösung ausgewählter
+        Übungsaufgaben in der Übung
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 141
+  name: Fortgeschrittene Themen der Theoretischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen fortgeschrittene Methoden und Begriffe
+    in einem Gebiet der Theoretischen Informatik und können sie anwenden.
+  content: 'Wechselnde Inhalte, z. B.
+
+    - Approximationsalgorithmen
+
+    - Externe Algorithmen und Datenstrukturen
+
+    - Fortgeschrittene Datenstrukturen
+
+    - Graphenalgorithmen
+
+    - Kombinatorische Optimierung
+
+    - Randomisierte Algorithmen'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Bearbeitung der Übungsblätter, mündliche Präsentation der Lösung ausgewählter
+        Übungsaufgaben in der Übung
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsblätter, mündliche Präsentation der Lösung ausgewählter
+        Übungsaufgaben in der Übung
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 142
+  name: Spezielle Aspekte der Theoretischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Ergebnisse
+    eines ausgewählten Gebietes der Theoretischen Informatik anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Theoretischen
+    Informatik, beispielsweise über fortgeschrittene Aspekte der Komplexitätstheorie,
+    der Algorithmik oder der Theorie der Programmiersprachen. Zusätzlich werden Forschungsfragen
+    und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 143
+  name: Kryptographie und Sicherheit in Verteilten Systemen
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen Grundlagen moderner Kryptographie,
+    kryptographischer Protokolle und deren Anwendung zur Sicherung verteilter Systeme.
+    Sie erkennen und verstehen Schwachstellen im Entwurf und der Anwendung kryptographischer
+    Primitive, welche die Integrität, Vertraulichkeit und Verfügbarkeit von Informationen
+    kompromittieren können.
+  content: Das Modul führt in die Kryptographie und die kryptographische Schlüsselverwaltung
+    ein, sowie in kryptographische Protokolle und deren Anwendung im Bereich der Sicherheit
+    in verteilten Systemen. Mathematische Werkzeuge werden im erforderlichen und einer
+    Einführungsveranstaltung angemessenen Umfang entwickelt. Zusätzlich wird das Bewusstsein
+    für die Bedeutung von Implementierungsdetails für die Systemsicherheit geschärft.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung
+        jeweils einer Übungsaufgabe in der Übung
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung
+        jeweils einer Übungsaufgabe in der Übung
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 70
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 144
+  name: Semantik von Programmiersprachen
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten formalisieren informelle Beschreibungen programmiersprachlicher
+    Konzepte in geeigneter Weise und können sicher mit solchen Formalisierungen arbeiten.
+  content: Das Modul vermittelt Techniken zur Formalisierung der Semantik (Bedeutungsinhalte)
+    von Programmiersprachen. Zunächst werden unterschiedliche Formalisierungsansätze
+    (die operationelle, denotationelle und axiomatische Semantik) vorgestellt und
+    diskutiert. Anschließend wird die mathematische Theorie der semantischen Bereiche
+    behandelt, die bei der denotationellen Methode Anwendung findet. Danach wird schrittweise
+    eine umfassende, imperative Programmiersprache entwickelt und die Semantik der
+    einzelnen Sprachelemente denotationell spezifiziert. Dabei wird die Fortsetzungstechnik
+    (continuation semantics) systematisch erklärt und verwendet. Schließlich wird
+    auf die Anwendung dieser Techniken eingegangen, insbesondere im Rahmen des Compilerbaus
+    und als Grundlage zur Entwicklung funktionaler Programmiersprachen. Dabei wird
+    die besondere Rolle der Verifikation von Programmeigenschaften und der semantikerhaltenden
+    Transformationen hervorgehoben.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 145
+  name: Softwareprojekt – Theoretische Informatik A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+    komplexer Softwaresysteme auf dem Gebiet der Theoretischen Informatik. Sie können
+    selbstständig ein größeres Projekt in Teilprojekte zerlegen, geeignete Schnittstellen
+    definieren, und einen Zeitplan erstellen. Sie können sich im Team organisieren
+    und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte.
+    Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-,
+    Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+    schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen
+    Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber.
+    Sie können dabei Methoden des Projektmanagements und der Softwareentwicklung sicher
+    anwenden, insbesondere im Bereich des Entwurfs und der Realisierung (Anforderungsermittlung,
+    Spezifikation, Architekturentwurf, Modulentwurf, Technologieauswahl, Implementierung).
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur
+    Lösung einer anwendungs- oder systemorientierten Aufgabe aus dem Bereich der Theoretischen
+    Informatik, wie z. B. der praktischen Anwendung von Algorithmen (geometrische
+    Aufgaben, Computer-Graphik, Mustererkennung, Computer-Sehen, Datenkompression).
+    Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang
+    Informatik durchgeführt. Die Teams werden aus Bachelor- und Master-Studenten gemischt,
+    wobei die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft
+    die Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik
+    ein, insbesondere das Definieren, Abstimmen und Dokumentieren von Schnittstellen;
+    die Mitwirkung an der arbeitsteiligen Erstellung von Softwarekomponenten (bei
+    Verwendung noch nicht implementierter Schnittstellen); die Beurteilung und der
+    Umgang mit einer noch fremden Technologie oder größeren Softwarekomponente (Wiederverwendung).
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: laufende Berichte über den Projektstand; regelmäßige Präsentation
+        der Zwischenergebnisse
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Softwareentwicklung
+      time: 240
+    - type: Vorbereitung von Präsentationen und Dokumentation
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: der vorlesungsfreien Zeit als Blockveranstaltung.
+  usability: Masterstudiengang Informatik
+- page: 146
+  name: Softwareprojekt – Theoretische Informatik B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+    komplexer Softwaresysteme auf dem Gebiet der Theoretischen Informatik. Sie können
+    selbstständig ein größeres Projekt in Teilprojekte zerlegen, geeignete Schnittstellen
+    definieren, und einen Zeitplan erstellen. Sie können sich im Team organisieren
+    und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte.
+    Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-,
+    Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+    schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen
+    Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber.
+    Sie können dabei Methoden des Projektmanagements und der Softwareentwicklung sicher
+    anwenden, insbesondere im Bereich der Qualitätssicherung (Test, Inspektion, Prozessmanagement,
+    Projektmanagement, Reengineering).
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur
+    Lösung einer anwendungs- oder systemorientierten Aufgabe aus dem Bereich der theoretischen
+    Informatik, wie z. B. der praktischen Anwendung von Algorithmen (geometrische
+    Aufgaben, Computer-Graphik, Mustererkennung, Computer-Sehen, Datenkompression).
+    Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang
+    Informatik durchgeführt. Die Teams werden aus Bachelor- und Master-Studenten gemischt,
+    wobei die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft
+    die Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik
+    ein, insbesondere das Durchsehen von Anforderungen, Schnittstellen, Implementierungen,
+    Testfällen sowie das Testen (Modultests, Integrationstests, Systemtests) und die
+    Versions- und Konfigurationsverwaltung.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: laufende Berichte über den Projektstand; regelmäßige Präsentation
+        der Zwischenergebnisse
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Softwareentwicklung
+      time: 240
+    - type: Vorbereitung von Präsentationen und Dokumentation
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten); die
+    Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: 'Ein Semester
+
+    Regelmäßig in Abwechslung mit den anderen Softwareprojekten,'
+  repeat: 'teilweise im Semester und teilweise in der vorlesungsfreien Zeit als
+
+    Blockveranstaltung'
+  usability: Masterstudiengang Informatik
+- page: 147
+  name: Wissenschaftliches Arbeiten Theoretische Informatik A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Studentinnen und Studenten können sich selbstständig in ein Thema der Theoretischen
+    Informatik anhand wissenschaftlicher Originalliteratur einarbeiten und sich gegebenenfalls
+    zusätzliches Hintergrundwissen besorgen. Sie können auch ein schwieriges Thema
+    in einem Vortrag verständlich vermitteln. Dabei können sie wesentliche Elemente
+    gegenüber weniger wichtigen Elementen hervorheben, Einzelaussagen in Beziehung
+    zueinander setzen und auf ihren inhaltlichen Kern reduzieren. Sie können geeignete
+    Darstellungsformen und Medien bewusst auswählen und einsetzen. Sie sind dazu bereit,
+    bei Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und können in sachlicher Weise Kritik üben. Gleichzeitig erwerben
+    die Studentinnen und Studenten vertiefte Kenntnisse in einem speziellen Thema
+    der Informatik und werden auf die eigene Forschungsarbeit vorbereitet, wie sie
+    zur Masterarbeit nötig ist.
+  content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Theoretischen
+    Informatik (z. B. Algorithmen, Komplexität, Theorie der Programmiersprachen).
+  teachingunit:
+    - type: Hauptseminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+
+        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+  workload:
+    - type: Präsenzzeit HS
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Informatik
+- page: 148
+  name: Wissenschaftliches Arbeiten Theoretische Informatik B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Studentinnen und Studenten können sich selbstständig in ein Thema der Theoretischen
+    Informatik anhand wissenschaftlicher Originalliteratur einarbeiten und sich gegebenenfalls
+    zusätzliches Hintergrundwissen besorgen. Sie können auch ein schwieriges Thema
+    in einem Vortrag verständlich vermitteln. Dabei können sie wesentliche Elemente
+    gegenüber weniger wichtigen Elementen hervorheben, Einzelaussagen in Beziehung
+    zueinander setzen und auf ihren inhaltlichen Kern reduzieren. Sie können geeignete
+    Darstellungsformen und Medien bewusst auswählen und einsetzen. Sie sind dazu bereit,
+    bei Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und können in sachlicher Weise Kritik üben. Gleichzeitig erwerben
+    die Studentinnen und Studenten vertiefte Kenntnisse in einem speziellen Thema
+    der Informatik und werden auf die eigene Forschungsarbeit vorbereitet, wie sie
+    zur Masterarbeit nötig ist.
+  content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Theoretischen
+    Informatik (z. B. Algorithmen, Komplexität, Theorie der Programmiersprachen).
+  teachingunit:
+    - type: Hauptseminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+
+        Schriftliche Ausarbeitung (ca. 4 500 Wörter) und mündliche Präsen-'
+  workload:
+    - type: Präsenzzeit HS
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) und mündliche Präsentation (ca.
+    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Informatik
+- page: 149
+  name: Betriebssysteme
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können Prinzipien, Architektur und Funktionsweise
+    von Betriebssystemen beschreiben und an Betriebssystemen, deren Quellcode vorliegt,
+    Änderungen von mittlerer Komplexität vornehmen. Sie sind in der Lage, typische
+    Dienste, wie sie in heutigen Betriebssystemen an der Systemschnittstelle angeboten
+    werden, für die Entwicklung von Systemsoftware sachgerecht einzusetzen und die
+    Einsatzmöglichkeiten von Betriebssystemen für verschiedene Anwendungsbereiche
+    einzuschätzen. Sie kennen aktuelle Forschungstendenzen und können die Entwicklungstendenzen
+    bei Betriebssystemen einschätzen.
+  content: 'Einführung: Betriebsarten, Betriebsmittelverwaltung, Historisches, Architektur.
+    Systemdienste: Prozessverwaltung, Adressraumverwaltung, Ein-/Ausgabesystem, Interprozesskommunikation,
+    Dateiverwaltung. Prozessverwaltung: Prozessdeskriptor, Prozessumschaltung, Ablaufsteuerung,
+    Synchronisation, Unterbrechungsbehandlung, Kommunikation. Gerätetreiber: Aufgaben,
+    Einbettung, Auftragspufferung, Fehlerbehandlung, Auftragssteuerung. Speicherverwaltung:
+    Adressraumverwaltung, Prozessumlagerung, Segmentierung, Virtueller Speicher, Segmentierte
+    Prozesse im virtuellen Speicher. Dateiverwaltung: Schnittstelle des Dateisystems,
+    Darstellung der Dateien auf Platten, Implementierung der Dateiverwaltung (Blockpuffer,
+    Deskriptorpuffer), Zugriffsschutz, Dateien als Segmente, persistenter virtueller
+    Speicher. Ein-/Ausgabe: Gerätebenutzung, asynchrone serielle Schnittstellen, Graphikbildschirm.
+    Verteilte Betriebssysteme: Verteilter virtueller Speicher, verteilte Dateisysteme,
+    mobile Prozesse. Stand der Kunst: ausgewählte Beispiele aus der aktuellen Forschung.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 150
+  name: Mikroprozessor-Praktikum
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten sind in der Lage, moderne Mikrocontroller-
+    Entwicklungsumgebungen zu nutzen, in Assembler und C hardwarenah zu programmieren,
+    Prozesse unter Nutzung des Interrupt- und DMA-Systems zu bearbeiten und unterschiedliche
+    Kommunikationsmodule zu programmieren. Sie beherrschen geeignete Dokumentationstechniken.
+  content: 'Die überwältigende Mehrheit zukünftiger Computersysteme wird durch miteinander
+    kommunizierende, eingebettete Systeme geprägt sein. Diese finden sich in Maschinensteuerungen,
+    Haushaltsgeräten, Kraftfahrzeugen, Flugzeugen, intelligenten Gebäuden etc. und
+    werden zukünftig immer mehr in Netze wie dem Internet eingebunden sein. Das Praktikum
+    wird auf die Architektur eingebetteter Systeme eingehen und die Unterschiede zu
+    traditionellen PC-Architekturen (z. B. Echtzeitfähigkeit, Interaktion mit der
+    Umgebung) anhand praktischer Beispiele aufzeigen. Das Praktikum basiert auf 16-
+    bzw. 32-Bit-Mikrocontrollersystemen. Schwerpunkte des in einzelne Versuche gegliederten
+    Praktikums sind: Registerstrukturen, Speicherorganisation, hardwarenahe Assembler-
+    und Hochsprachenprogrammierung, I/O-System- und Timer-Programmierung, Interrupt-System,
+    Watchdog-Logik, Analogschnittstellen, Bussystemanbindung von Komponenten, Kommunikation
+    (USART, WLAN, Ethernet, ISM-Funk und USB), Ansteuerung von Modellen und Nutzung
+    unterschiedlichster Sensorik.'
+  teachingunit:
+    - type: Praktikum
+      swstime: 3
+      attendance: recommended
+      activity: Bearbeitung der Aufgaben einschließlich Programmierung, Protokolle
+        mit schriftlicher Präsentation der Ergebnisse
+  workload:
+    - type: Präsenzzeit P
+      time: 45
+    - type: Vor- und Nachbereitung P
+      time: 195
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 5 Seiten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jeweils im Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 151
+  name: Mobilkommunikation
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen die Unterschiede zwischen klassischen
+    Festnetzen und mobilen, drahtlosen Netzen und deren Auswirkungen auf alle Protokollschichten.
+    Sie können Auswirkungen, insbesondere der unteren Schichten, auf Protokolle und
+    Anwendungen nachvollziehen. Sie bewerten und vergleichen basierend auf aktuellen
+    Systemen und erkennbaren Konvergenzen neue Systeme selbstständig.
+  content: 'Das Modul Mobilkommunikation stellt exemplarisch alle Aspekte mobiler
+    und drahtloser Kommunikation dar, welche derzeit den stärksten Wachstumsmarkt
+    überhaupt darstellt und in immer mehr Bereiche der Gesellschaft vordringt. Während
+    der gesamten Vorlesung wird ein starker Wert auf die Systemsicht gelegt und es
+    werden zahlreiche Querverweise auf reale Systeme, internationale Standardisierungen
+    und aktuellste Forschungsergebnisse gegeben. Die zu behandelnden Themen sind:
+    Technische Grundlagen der drahtlosen Übertragung: Frequenzen, Signale, Antennen,
+    Signalausbreitung, Multiplex, Modulation, Spreizspektrum, zellenbasierte Systeme;
+    Medienzugriff: SDMA, FDMA, TDMA, CDMA; Drahtlose Telekommunikationssysteme: GSM,
+    DECT, TETRA, UMTS, IMT- 2000; Satellitensysteme: GEO, MEO, LEO, Handover; Broadcast-Systeme:
+    Digital Audio Broadcasting, Digital Video Broadcasting; Drahtlose lokale Netze:
+    Infrastruktur/ad hoc, IEEE 802.11/15, Bluetooth; Mobile Netzwerkschicht: Mobile
+    IP, DHCP, Ad-hoc-Netze; Mobile Transportschicht: traditionelles TCP, angepasste
+    TCP-Varianten, weitere Mechanismen; Mobilitätsunterstützung: Dateisysteme, Datenbanken,
+    WWW, Wireless Application Protocol, Wireless Markup Language, i-mode; Ausblick:
+    4. Generation Mobilnetze.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Aktive Beteiligung an Vorlesungen und Diskussionen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 40
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Englisch (ggf. Deutsch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Informatik
+- page: 152
+  name: Robotik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die Grundlagen der Robotik und
+    kennen ausgewählte Methoden zur Steuerung von Robotern und zum autonomen Lernen.
+  content: 'Grundlagen der Robotik, darunter: Computer Vision (lokale, globale), Mechanik,
+    Energiezufuhr, Elektronik, Kommunikation, Steuerung und selbstständiges Lernen
+    der Roboter.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Regelmäßige Bearbeitung der Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Regelmäßige Bearbeitung der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich im Wintersemester (gerades Jahr)
+  usability: Masterstudiengang Informatik
+- page: 153
+  name: Telematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen den Aufbau von Kommunikationssystemen
+    im Kleinen wie im Großen. Sie beherrschen klassische wie neuartige Internet-Techniken
+    und können diese in der Praxis einsetzen. Sie können die Probleme bzgl. der Leistungsfähigkeit
+    und Sicherheit heutiger Kommunikationssysteme einordnen und Kommunikation von
+    der Anwendung bis zu den elektrotechnischen Grundlagen nachvollziehen.
+  content: 'Telematik ist Telekommunikation mit Hilfe von Mitteln der Informatik und
+    befasst sich mit Themen der technischen Nachrichtenübertragung, Rechnernetzen,
+    Internet-Techniken, WWW und Netzsicherheit. Behandelte Themen sind unter anderem
+    folgende: Allgemeine Grundlagen: Protokolle, Dienste, Modelle, Standards, Datenbegriff;
+    Nachrichtentechnische Grundlagen: Signale, Codierung, Modulation, Medien; Sicherungsschicht:
+    Datensicherung, Medienzugriff; Lokale Netze: IEEE-Standards, Ethernet, Brücken;
+    Vermittlungsschicht: Wegewahl, Router, Internet-Protokoll (IPv4, IPv6); Transportschicht:
+    Dienstgüte, Flusssteuerung, Staukontrolle, TCP; Internet: Protokollfamilie rund
+    um TCP/IP; Anwendungen: WWW, Sicherheitsdienste, Netzwerkmanagement; Konvergenz
+    der Netze: neue Dienste, Dienstgüte im Internet, Multimedia.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung einer Übungsaufgabe'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Informatik
+- page: 154
+  name: Softwareprojekt – Technische Informatik A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+    komplexer Softwaresysteme auf dem Gebiet der technischen Informatik. Sie können
+    selbstständig ein größeres Projekt in Teilprojekte zerlegen , geeignete Schnittstellen
+    definieren und einen Zeitplan erstellen. Sie können sich im Team organisieren
+    und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte.
+    Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-,
+    Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+    schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen
+    Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber.
+    Sie können dabei Methoden des Projektmanagements und der Softwareentwicklung sicher
+    anwenden, insbesondere im Bereich des Entwurfs und der Realisierung (Anforderungsermittlung,
+    Spezifikation, Architekturentwurf, Modulentwurf, Technologieauswahl, Implementierung).
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur
+    Lösung einer anwendungs-, hardware- oder systemorientierten Aufgabe aus dem Bereich
+    der technischen Informatik, wie z. B. der Telematik, der Mobilkommunikation, oder
+    der Robotik. Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang
+    Informatik durchgeführt. Die Teams werden aus Bachelor- und Master-Studenten gemischt,
+    wobei die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft
+    die Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik
+    ein, insbesondere das Definieren, Abstimmen und Dokumentieren von Schnittstellen;
+    die Mitwirkung an der arbeitsteiligen Erstellung von Softwarekomponenten (bei
+    Verwendung noch nicht implementierter Schnittstellen); die Beurteilung und der
+    Umgang mit einer noch fremden Technologie oder größeren Softwarekomponenten (Wiederverwendung).
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: Laufende Berichte über den Projektstand; regelmäßige Präsentation
+        und Dokumentation der Ergebnisse
+  workload:
+    - type: Präsenzzeit Pr
+      time: 30
+    - type: Softwareentwicklung
+      time: 240
+    - type: Vorbereitung von Präsentationen und Dokumentation
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: der vorlesungsfreien Zeit als Blockveranstaltung
+  usability: Masterstudiengang Informatik
+- page: 155
+  name: Softwareprojekt – Technische Informatik B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+    komplexer Softwaresysteme auf dem Gebiet der Technischen Informatik. Sie können
+    selbstständig ein größeres Projekt in Teilprojekte zerlegen, geeignete Schnittstellen
+    definieren und einen Zeitplan erstellen. Sie können sich im Team organisieren
+    und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte.
+    Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-,
+    Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+    schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen
+    Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber.
+    Sie können dabei Methoden des Projektmanagements und der Softwareentwicklung sicher
+    anwenden, insbesondere im Bereich der Qualitätssicherung (Test, Inspektion, Prozessmanagement,
+    Projektmanagement, Reengineering).
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur
+    Lösung einer anwendungs-, hardware- oder systemorientierten Aufgabe aus dem Bereich
+    der Technischen Informatik, wie z. B. der Telematik, der Mobilkommunikation oder
+    der Robotik. Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang
+    Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
+    durchgeführt. Die Teams werden aus Bachelor- und Master-Studenten gemischt, wobei
+    die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft die
+    Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik
+    ein, insbesondere das Durchsehen von Anforderungen, Schnittstellen, Implementierungen,
+    Testfällen; das Testen (Modultests, Integrationstests, Systemtests) und die Versions-
+    und Konfigurationsverwaltung.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: Laufende Berichte über den Projektstand; regelmäßige Präsentation
+        Zwischenergebnisse
+  workload:
+    - type: Präsenzzeit Pr
+      time: 30
+    - type: Softwareentwicklung
+      time: 240
+    - type: Vorbereitung von Präsentationen und Dokumentation
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten); die
+    Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: der vorlesungsfreien Zeit als Blockveranstaltung
+  usability: Masterstudiengang Informatik
+- page: 156
+  name: Wissenschaftliches Arbeiten Technische Informatik A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Studentinnen und Studenten können sich selbstständig in ein Thema der Technischen
+    Informatik anhand wissenschaftlicher Originalliteratur einarbeiten und sich gegebenenfalls
+    zusätzliches Hintergrundwissen besorgen. Sie können auch ein schwieriges Thema
+    in einem Vortrag verständlich vermitteln. Dabei können sie wesentliche Elemente
+    gegenüber weniger wichtigen Elementen hervorheben, Einzelaussagen in Beziehung
+    zueinander setzen und auf ihren inhaltlichen Kern reduzieren. Sie können geeignete
+    Darstellungsformen und Medien bewusst auswählen und einsetzen. Sie sind dazu bereit,
+    bei Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und können in sachlicher Weise Kritik üben. Gleichzeitig erwerben
+    die Studentinnen und Studenten vertiefte Kenntnisse in einem speziellen Thema
+    der Informatik und werden auf die eigene Forschungsarbeit vorbereitet, wie sie
+    zur Masterarbeit nötig ist.
+  content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Technischen
+    Informatik (z. B. Mobilkommunikation).
+  teachingunit:
+    - type: Hauptseminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+
+        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+  workload:
+    - type: Präsenzzeit HS
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Informatik
+- page: 157
+  name: Wissenschaftliches Arbeiten Technische Informatik B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Studentinnen und Studenten können sich selbstständig in ein Thema der Technischen
+    Informatik anhand wissenschaftlicher Originalliteratur einarbeiten und sich gegebenenfalls
+    zusätzliches Hintergrundwissen besorgen. Sie können auch ein schwieriges Thema
+    in einem Vortrag verständlich vermitteln. Dabei können sie wesentliche Elemente
+    gegenüber weniger wichtigen Elementen hervorheben, Einzelaussagen in Beziehung
+    zueinander setzen und auf ihren inhaltlichen Kern reduzieren. Sie können geeignete
+    Darstellungsformen und Medien bewusst auswählen und einsetzen. Sie sind dazu bereit,
+    bei Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und können in sachlicher Weise Kritik üben. Gleichzeitig erwerben
+    die Studentinnen und Studenten vertiefte Kenntnisse in einem speziellen Thema
+    der Informatik und werden auf die eigene Forschungsarbeit vorbereitet, wie sie
+    zur Masterarbeit nötig ist.
+  content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Technischen
+    Informatik (z. B. Mobilkommunikation).
+  teachingunit:
+    - type: Hauptseminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+
+        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+  workload:
+    - type: Präsenzzeit HS
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Informatik
+- page: 158
+  name: Aktuelle Forschungsthemen der Technischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können die wesentlichen Begriffe und Techniken
+    eines aktuellen Forschungsgebietes im Bereich der Technischen Informatik anwenden.
+  content: Dieses Modul mit wechselnden Inhalten gibt einen Einblick in eines der
+    Forschungsthemen, die in aktuellen Projekten am Institut für Informatik bearbeitet
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Informatik
+- page: 159
+  name: Spezielle Aspekte der Technischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen wesentliche Begriffe und Ergebnisse
+    eines ausgewählten Gebietes der Technischen Informatik und können sie anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Technischen
+    Informatik, z. B. zu mobilen oder Systemen, zu Sensornetzen oder zu fortgeschrittenen
+    Aspekte von verteilten Systemen, autonomen Systemen, oder der Robotik.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Regelmäßige, schriftliche Bearbeitung der Übungsblätter
+
+        Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der
+        Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik
+- page: 160
+  name: Ausgewählte Themen der Technischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die Grundlagen in einem Spezialgebiet
+    oder einem Anwendungsgebiet der Technischen Informatik. Sie können Erlerntes sicher
+    anwenden.
+  content: Wechselnde Inhalte, z. B. Echtzeitsysteme, eingebettete Systeme, oder fortgeschrittene
+    Aspekte von Rechnernetzen und Betriebssystemen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Bearbeitung der Übungsblätter
+
+        Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten)
+  language: Deutsch (ggf. Englisch)
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Zweijährlich
+  usability: Masterstudiengang Informatik

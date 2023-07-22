@@ -1,0 +1,1888 @@
+- name: Aktuelle Themen in der Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen die wesentlichen Begriffe und Techniken eines
+    aktuellen Forschungsgebietes der Informatik. Sie können für mäßig komplexe Fälle
+    darin Analyse, Synthese und Evaluation durchführen.
+  content: Studierende erarbeiten sich wechselnde Inhalte, die einen Einblick geben
+    in eines der Forschungsthemen, die in aktuellen Projekten am Institut für Informatik
+    bearbeitet werden. Sie erlernen den Forschungsstand und üben relevante Fertigkeiten
+    praktisch ein.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Moderation einer Übung oder eines Teils davon; Bearbeiten von Übungsaufgaben.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Wechselnd
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Algorithmen und Datenstrukturen
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden analysieren Algorithmen und Datenstrukturen und ihre Implementierungen
+    bezüglich Laufzeit, Speicherbedarf und Korrektheit und beschreiben verschiedene
+    Algorithmen und Datenstrukturen für typische Anwendungen und wenden diese auf
+    konkrete Beispiele an. Sie können passende Algorithmen und Datenstrukturen für
+    gegebene Aufgaben auswählen und passen diese entsprechend an. Sie erklären, identifizieren
+    und verwenden verschiedene Entwurfsparadigmen für Algorithmen.
+  content: Studierende lernen das Maschinenmodell, sowie verschiedene algorithmische
+    Probleme kennen. Sie erarbeiten und üben die Berechnung von Laufzeit, Korrektheit
+    und Speicherbedarf dieser Algorithmen und lernen die asymptotische worst-case
+    Analyse kennen. Darüber hinaus diskutieren sie die Rolle des Zufalls im Kontext
+    des Entwurfs von Algorithmen. Des Weiteren erlernen und üben sie Entwurfsparadigmen
+    für Algorithmen wie Teile und Herrsche, gierige Algorithmen, Dynamische Programmierung
+    und Erschöpfende Suche. Sie lernen Prioritätswarteschlangen und effiziente Datenstrukturen
+    für geordnete und ungeordnete Wörterbücher (z. B. ausgeglichene Suchbäume, Streuspeicher,
+    Skiplisten) kennen und üben den Umgang mit ihnen. Zudem lernen sie Algorithmen
+    für Zeichenketten (digitale Suchbäume und Suchen in Zeichenketten) und Graphenalgorithmen
+    kennen, diskutieren deren Anwendung und üben den Umgang mit ihnen.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 270
+  credit_points: 9
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, Bachelorstudiengang Bioinformatik, Einführungs- und Orientierungsstudium,
+    30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot
+    Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an
+    Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg, Masterstudiengang
+    Wirtschaftsinformatik, Masterstudiengang Computational Sciences
+- name: Analysis für Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden wählen geeignete Verfahren zur Lösung reeller (Un-)Gleichungen
+    aus, bestimmen die Lösung und stellen diese angemessen dar. Sie wenden unterschiedliche
+    Verfahren aus der Analysis auf konkrete Eingaben an und beurteilen die Wahl der
+    Verfahren. Sie können Eigenschaften unterschiedlicher reeller Mengen und Folgen
+    benennen und begründen diese mit Hilfe formaler Argumente. Sie benennen Eigenschaften
+    unterschiedlicher reeller Funktionen und begründen diese mit Hilfe der Differential-
+    und Integralrechnung. Sie sind in der Lage, Grenzwerte, Integrale, Ableitungen
+    und Gradienten zu bestimmen und klassifizieren das Wachstumsverhalten reeller
+    Folgen und Funktionen und vergleichen diese anhand des asymptotischen Wachstums.
+    Sie können Wachstums- und Anfangswertprobleme mit Hilfe von einfachen gewöhnlichen
+    Differentialgleichungen modellieren und bestimmen deren Lösungen. Sie beweisen
+    elementare Aussagen über das Konvergenzverhalten von Folgen und Funktionen.
+  content: Die Studierenden erarbeiten sich zahlreiche Konzepte der eindimensionalen
+    Analysis (z. B. asymptotisches Wachstum; Potenzreihen; Taylorreihen; Konvergenz;
+    Exponential- und Logarithmusfunktion; trigonometrische Funktionen; Stetigkeit).
+    Sie erarbeiten sich die Differential- und Integralrechnung (z. B. Ableitungen
+    und ihre Anwendungen, bestimmtes und unbestimmtes Integral, Hauptsatz der Differential-
+    und Integralrechnung) sowie Differentialgleichungen. Die meisten dieser Konzepte
+    werden an Rechen- oder Beweisaufgaben geübt. Anschließend erarbeiten sie sich
+    Teile der Analysis in höheren Dimensionen (z. B. Ableitungsmatrizen; Gradient;
+    Satz von Fubini; Extremwertberechnung). Sie lernen oder erarbeiten sich exemplarische
+    Anwendungen der Analysis in der Informatik und Bioinformatik (z. B. konvexe Optimierung;
+    Interpolations- und Näherungsverfahren). Auch hier wird weiter an Rechen- oder
+    Beweisaufgaben geübt.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 270
+  credit_points: 9
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Bioinformatik
+- name: Angewandte Biometrie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen, wie biometrische Verfahren grundsätzlich funktionieren.
+    Sie lernen die theoretischen Grundlagen der behandelten biometrischen Modalitäten
+    kennen und können biometrische Technologie in praktischen Projekten einsetzen.
+    Sie erkennen, dass biometrische Systeme immer mit personenbezogenen Daten arbeiten
+    und können die daraus resultierenden Anforderungen ableiten. Die Studierenden
+    sind in der Lage, die Eignung des Biometrie-Einsatzes in konkreten Anwendungsszenarien
+    zu beurteilen.
+  content: Die Studierenden arbeiten sich einen breiten Überblick über Biometriethemen
+    und biometrische Verfahren und deren Anwendung in vielen Lebensbereichen. Das
+    schließt aktuelle Themen wie den elektronischen Pass, den elektronischen Personalausweis
+    und andere elektronische Identitätsdokumente und ihre Anwendung ein. Dazu erlernen
+    Studierende unter anderem die allgemeine Struktur biometrischer Systeme und typische
+    Anwendungen, die grundlegenden Eigenschaften biometrischer Modalitäten sowie die
+    Grundlagen zu IT-Sicherheit, Risikoabschätzung und Datenschutz. Des Weiteren erlernen
+    Studierende die Fehlergrößen in biometrischen Verfahren sowie setzen sich mit
+    Fingerabdruckverfahren, Gesichts- und Iriserkennung sowie Spracherkennung und
+    weitere Modalitäten auseinander. Ebenfalls lernen Studierende Standards in der
+    Biometrie kennen und setzen sich mit Fragen der maschinenlesbaren Reisedokumente
+    und deren Anwendung auseinander.
+  exam: Klausur (90 Minuten); die auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden kann.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Halten von ein bis zwei Seminarvorträgen. Kommentierung der Vorträge
+        der Mitstudierenden.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 45
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 15
+    - type: Ausarbeitung Seminarvorträge
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch (Vorträge nach Absprache auch auf Englisch)
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Arbeits- und Lebensmethodik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: 'Die Studierenden können folgende Methoden zur Weiterentwicklung ihrer personalen
+    Kompetenzen praxisbezogen anwenden, unterschiedliche Formen der Anwendung entwickeln5
+    und die Angemessenheit ihres Einsatzes beurteilen: das Setzen und konzentrierte
+    Verfolgen konkreter, realistischer, motivierender Ziele; das gezielte Stärken
+    des eigenen Selbstvertrauens; das kommunikative Aufklären eigener und fremder
+    Erwartungen und das Rückmelden der Erfüllung; die günstige Formung der eigenen
+    subjektiven Weltsicht; das Aufdecken und Bearbeiten vormals unbewusster Programme;
+    die Förderung der eigenen Motivation; die Wertepriorisierung und das Ausbalancieren
+    konkurrierender Lebensbereiche'
+  content: Die Studierenden erarbeiten sich die psychologischen Grundlagen der oben
+    genannten Methoden, erlernen die nötigen Einzelheiten der Methoden (z. B. Regeln
+    der Zielsetzung, Feedback-Regeln) und üben konkrete Formen des Einsatzes. Sie
+    diskutieren immer wieder Vor- und Nachteile, sowie typische geschlechtsspezifischer
+    Muster. Sie erlernen und üben konkrete Anwendungen in aktuellen Lebenssituationen.
+  exam: Keine
+  teachingunit:
+    - type: Seminaristischer Unterricht
+      swstime: 3
+      attendance: required
+      activity: Regelmäßige Beteiligung
+  workload:
+    - type: Präsenzzeit sU
+      time: 45
+    - type: Vor- und Nachbereitung sU
+      time: 105
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
+    Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+- name: Architektur eingebetteter Systeme
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Rechnerarchitektur, Betriebs- und Kommunikationssysteme
+  goals: Die Studierenden kennen den Aufbau und die Komponenten eingebetteter Systeme,
+    können die Unterschiede in den Anforderungen und Komponenten von eingebetteten
+    Systemen in Vergleich zu Arbeitsplatzrechnern darstellen und entscheiden, welche
+    Komponenten für gegebene Aufgabenstellungen notwendig sind. Sie können einfache
+    Anwendungen auf Basis eines gegebenen eingebetteten Systems programmieren. Darüber
+    hinaus kennen sie den Aufbau und die Komponenten von Betriebssystemen für eingebettete
+    Systeme, können den Einsatz von Komponenten eines eingebetteten Systems und eines
+    zugehörigen Betriebssystems unter gegebenen Anforderungen entsprechend begründet
+    auswählen und Optimierungen in Hard- und Software für gegebene Anwendungen entwickeln.
+  content: Studierende erarbeiten sich den grundlegenden Aufbau von Mikroprozessor-Architekturen
+    für eingebettete Systeme einschl. Datenformate, Befehlsformate, Befehlssätze und
+    Speicherorganisation. Sie erlernen und üben den praktischen Umfang mit Schnittstellen
+    und Ein-/Ausgabe-Systemen und Peripherie-Geräten. Sie erlernen Eigenschaften von
+    Cyber Physical Systems, Sensoren, Aktuatoren und Sensornetzen (WSN) und diskutieren
+    deren Anwendungsgebiete. Darüber hinaus erlernen sie die Anbindung und den Einsatz
+    von Field Programmable Gate Arrays (FPGAs) und üben die Anwendungsbezogene Programmierung
+    eingebetteter Systeme in C und Assembler. Zudem erarbeiten sie sich den grundlegenden
+    Aufbau aktueller Betriebssysteme für eingebettete Systeme, insbes. Realtime Operating
+    Systems, Realtime Scheduling, Realtime Communication und üben dessen Implementierung.
+    Zuletzt werden Aspekte der Sicherheit eingebetteter Systeme einschl. Angriffsvektoren,
+    Prozessisolation, Trusted Computing diskutiert und bewertet.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Moderation einer Übung oder eines Teils davon; Bearbeiten von Übungsaufgaben.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 15
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch (Vorträge nach Absprache auch auf Englisch)
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Auswirkungen der Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen den Unterschied zwischen Verfügungswissen und
+    Orientierungswissen und unterscheiden beim Nachdenken über Informatiksysteme zwischen
+    technischen Fragestellungen, Technikfolgenabschätzung und Technikfolgenbewertung.
+    Sie nehmen6 die Verantwortungsaspekte der Ingenieurtätigkeit an und gestalten
+    Technik und ihren Wandel verantwortungsbewusst mit5. Sie verstehen einige Aspekte
+    der Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B.
+    Sicherheit, Schutz der Privatsphäre, Künstliche Intelligenz und können Bezüge
+    zum gesellschaftlichen Wandel herstellen und anhand ihrer persönlichen Haltungen
+    bewerten. Dies Studierenden kennen einige Gender- und Diversity-Aspekte von Entwicklung
+    und Einsatz von Informatiksystemen und verstehen Konzepte und Lösungsansätze von
+    Benutzbarkeit und Barrierefreiheit.
+  content: Studierende erarbeiten, welche Auswirkungen die Informatik hat und lernen
+    die Konzepte Auswirkung, sozio-technisches System, Verfügungswissen, Gestaltungswissen,
+    Verantwortung, Techniksoziologie sowie Entscheiden und Handeln. Dabei diskutieren
+    sie Beispiele für Technikfolgen in ausgewählten informatiklastigen Gebieten hoher
+    Relevanz, z. B. Sicherheit softwareintensiver technischer Systeme, Schutz der
+    Privatsphäre, Computerisierung des Alltagslebens, Computerisierung der Arbeitswelt.
+  exam: Keine
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Ünugaufgaben; Teilnahme an der Diskussion.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, Einführungs- und Orientierungsstudium, 30-Leistungspunkte-Modulangebot
+    Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik
+    im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten
+    Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Berufsbezogenes Praktikum Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: der*die Praktikumsbeauftragte
+  requirements: Keine
+  goals: Die Studierenden kennen diverse Aufgabenstellungen und Phänomene der informatischen
+    Berufspraxis aus eigener Anschauung. Sie können Kompetenzen aus dem Studium darauf
+    anwenden. Sie erkennen die Relevanz der Studieninhalte zur Bewältigung dieser
+    Aufgaben und Phänomene. Sie haben für einige Studieninhalte weitaus verbesserte
+    praktische Fertigkeiten und können diese Fertigkeiten weitaus besser einschätzen.
+    Die Studierenden können eine Arbeitsstelle auswählen, den Grad ihres Interesses
+    für verschiedene Arten von Aufgaben erkennen und artikulieren und mit einem Arbeitgeber
+    die Arbeitsbedingungen verhandeln.
+  content: Die Studierenden suchen sich selbstständig eine Praktikumsstelle und klären
+    deren Eignung. Sie üben im Rahmen dieser Praktikumsstelle die informatische Arbeit
+    (meist Softwareentwicklung) im Kontext einer Organisation und verfassen einen
+    Praktikumsbericht, in dem sie die Organisation und ihre Tätigkeiten beschreiben,
+    die erreichten Lernerfolge reflektierend diskutieren und das Praktikum insgesamt
+    bewerten.
+  exam: Keine
+  teachingunit:
+    - type: Externes Praktikum
+      swstime: 17.4
+      attendance: required
+      activity: Praktikumsbezogene Tätigkeiten
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 15
+    - type: Präsenzzeit P
+      time: 45
+    - type: Vor- und Nachbereitung P
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation)'
+- name: Betriebs- und Kommunikationssysteme
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen die Rolle des Betriebssystems als Abstraktion
+    des Rechnersystems, den grundlegenden Aufbau aktueller Betriebssysteme und die
+    Funktion und den Aufbau des Internets und nutzen Betriebssystemschnittstellen
+    zielgerichtet und programmieren Rechner systemnah, Sie bewerten6 die Vor- und
+    Nachteile verschiedener Mechanismen der Ressourcenverwaltung (Paging vs. Segmentation,
+    Scheduling-Strategien) und der Netzwerkprotokolle (Flusssteuerung, Fehlerkorrektur)
+    und programmieren Anwendungen, die über ein Netzwerk kommunizieren.
+  content: Studierende erarbeiten sich im Betriebssystemteil den grundlegenden Aufbau
+    aktueller Betriebssysteme und erlernen deren grundlegende Aufgaben. Sie lernen
+    die Verwaltung von Ein-/Ausgabe-Systemen und Peripheriegeräten zur Vernetzung
+    kennen und üben die Programmierung von DMA/PIO in C. Daneben erarbeiten sie sich
+    die Konzepte von Prozessen/Threads, Unterbrechungen und virtuellen Speichers und
+    Speicherverwaltung. Sie üben die Programmierung von Unterbrechungsbehandlung und
+    Speicherverwaltung in C, sowie die Nutzung von Utilities, wie Shells u. ä. Zudem
+    lernen sie Beispiele für Betriebssysteme (UNIX und Windows) kennen. Studierende
+    erarbeiten sich im Kommunikationssystemeteil den grundlegenden Aufbau von Netzen,
+    insbesondere des Internets. Sie erlernen den TCP/IP-Protokollstack und das ISO/OSI-Referenzmodell
+    und diskutieren Unterschiede und Anwendungsmöglichkeiten. Sie lernen Medienzugriffsverfahren
+    und Netzwerkgeräte kennen und ordnen diese den verschiedenen Schichten des Protokollstacks
+    zu. Sie erarbeiten sich den Umgang mit Übertragungsfehlern und diskutieren Grenzen
+    dieser Verfahren. Darüber hinaus lernen Sie Routingverfahren innerhalb und außerhalb
+    Autonomer Systeme, sowie TCP und UDP kennen und üben deren Implementierung in
+    C.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Seminar am PC
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit SPC
+      time: 30
+    - type: Vor- und Nachbereitung SPC
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Datenbanksysteme
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen die Unterschiede und Funktionsweisen von Dateisystemen
+    und Datenbanken und sind in der Lage (relationale) Datenbanken problembezogen
+    zu modellieren und geeignete Datenbankschemata zu entwickeln. Sie beherrschen
+    theoretisch und praktisch verschiedene Abfragesprachen, insbesondere SQL, SPARQL
+    und relationale Algebra und einfache Techniken und Verfahren des Data Minings
+    und Online Analytical Processing (OLAP). Sie kennen verschiedene Arten von Speichermedien
+    und beherrschen verschiedene Zugriffsmethoden und Indizierungsverfahren. Sie sind
+    in der Lage problembezogene Anwendungen mit Datenbankzugriff zu programmieren
+    und verstehen den Zweck von Normalisierung und sind praktisch in der Lage Datenbankschemata
+    zu normalisieren. Sie verstehen das Transaktionskonzept, können es anwenden und
+    Beziehungen bestimmen und können verschiedene Verfahren für die Nebenläufigkeitskontrolle
+    und Recovery-Verfahren für Datenbanksysteme anwenden. Sie können grundlegende
+    Techniken und Verfahren zur Optimierung von Datenbanksystemen anwenden sowie Datenbankschemata,
+    -modelle und die Umsetzung von Datenbanksystemen beurteilen.
+  content: Die Studierenden befassen sich mit der Modellierung und Entwurf von (relationalen)
+    DBS, dem Einsatz der Relationalen Algebra und Abfragesprachen (z. B. SQL und SPARQL).
+    Des Weiteren erarbeiten Studierende die Grundlagen des Data Mining und des Online
+    Analytical Processing. Sie lernen Speichermedien, Zugriffsmethoden und Indizierung
+    von Daten kennen und setzen sich mit Ansätzen wie den Connectivities, Embedded
+    SQL auseinander. Des Weiteren üben Studierenden, wie sie im Bereich der Anwendungsentwicklung
+    Datenbankzugriffe realisieren können. Darüber hinaus erlernen Studierenden die
+    Konzepte der Normalisierung von relationalen Datenbanken, der Transaktionen, der
+    Nebenläufigkeitskontrolle und Recovery sowie Optimierungsverfahren.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 3
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 1
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsblätter wöchentliche Übungszettel/Projekt
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch/Englisch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg,
+    Masterstudiengang Wirtschaftsinformatik
+- name: Datenvisualisierung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden erklären die Grundlagen der visuellen Wahrnehmung und Methoden
+    zur visuellen Codierung und Interaktion. Sie wenden wesentliche Visualisierungstechniken
+    und -theorien auf bestehenden Daten an und wählen geeignete Ansätze zur Visualisierung
+    von Daten (numerische Daten, Geodaten, Netzwerkdaten, Zeitreihen) aus. Sie entwerfen
+    Visualisierungen anhand von gegebenen Daten und evaluieren6 bestehende Visualisierungen
+    anhand ausgewählter Metriken (z. B. Verständlichkeit).
+  content: Die Studierenden erlernen die grundlegenden Prinzipien, Techniken und Werkzeuge
+    zur Erstellung effektiver Datenvisualisierungen. Sie erarbeiten und üben das methodische
+    Vorgehen, welches beim Entwurf, der Entwicklung und Evaluation von Datenvisualisierungen
+    Anwendung findet sowie den Aufbau einer reproduzierbaren Visualisierungs-Pipeline.
+    Des Weiteren setzen sich Studierende mit den Grundlagen der visuellen Wahrnehmung
+    und Kognition (z. B. Farbe) auseinander. Basierend darauf erlernen sie bestehende
+    Ansätze zur Visualisierung von numerischen Daten, Geodaten, Netzwerkdaten und
+    Zeitreihen, üben deren Anwendung und verstehen die Vor- und Nachteile dieser Ansätze.
+    Ebenfalls setzen sich Studierende mit den ethischen Aspekten der Datenvisualisierung,
+    insbesondere den Prinzipien der Graphischen Integrität, auseinander und befassen
+    sich mit fortgeschrittenen Themen der Datenvisualisierung (z. B. Dashboard-Design,
+    Barrierefreiheit, Unsicherheit in Daten, Sicherstellung der Privatsphäre).
+  exam: Klausur (120 Minuten); die auch in Form einer elektronischen Prüfungsleistung
+    (120 Minuten) durchgeführt werden kann.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Übungsaufgaben; Beteiligung an Diskussionen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Diskrete Strukturen für Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden formulieren Aussagen formal aussagenlogisch und prädikatenlogisch.
+    Sie analysieren und vereinfachen die logische Struktur gegebener Aussagen und
+    beschreiben die logische Struktur von Beweisen. Sie benennen Eigenschaften unterschiedlicher
+    Mengen, Relationen und Funktionen und begründen diese mit Hilfe formaler Argumente.
+    Sie können Beweise für elementare Aussagen unter Verwendung elementarer Beweistechniken
+    entwickeln und die Mächtigkeit von Mengen mit Hilfe kombinatorischer Techniken
+    sowie Wahrscheinlichkeiten von Zufallsereignissen bestimmen. Sie sind in der Lage,
+    Fragestellungen der (Bio-)Informatik mit Hilfe der Graphentheorie und der diskreten
+    Wahrscheinlichkeitstheorie zu modellieren. Die Studierenden benennen Eigenschaften
+    unterschiedlicher Graphen und begründen diese mit Hilfe formaler Argumente.
+  content: Studierende erlernen grundlegende Konzepte der Mengenlehre, Logik, Booleschen
+    Algebra, Kombinatorik und Graphentheorie und üben deren Anwendung. Sie erarbeiten
+    sich in der Mengenlehre Mengen, Relationen, Äquivalenz- und Ordnungsrelationen
+    und Funktionen. Im Bereich der Logik und Booleschen Algebra erarbeiten sie sich
+    Aspekte der Aussagenlogik, Prädikatenlogik, Erfüllbarkeitstests, sowie Boolesche
+    Funktionen und Normalformen. Im Themenfeld Kombinatorik erlernen und diskutieren
+    sie das Schubfachprinzip, Rekursion, Abzählprinzipien, Fakultät und Binomialkoeffizienten.
+    Im Themenfeld Graphentheorie erarbeiten sie Repräsentationsformen, Wege, Kreise
+    und Bäume. Zuletzt erarbeiten sie sich verschiedene Beweistechniken und grundlegende
+    Aspekte Diskreter Wahrscheinlichkeitstheorie. Die meisten dieser Konzepte werden
+    an Rechen- oder Beweisaufgaben geübt.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 270
+  credit_points: 9
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, Bachelorstudiengang Bioinformatik, Einführungs- und Orientierungsstudium,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg,
+- name: Forschungspraktikum
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Wissenschaftliches Arbeiten in der Informatik
+  goals: Die Studierenden können eine bereits konzipierte Beobachtungsreihe planen,
+    vorbereiten (Messaufbau herstellen, testen, kalibrieren, prüfen) und durchführen
+    und verstehen deren Zusammenhang mit einer Forschungsfrage. Sie können die Beobachtungsdaten
+    ordnungsgemäß sammeln, katalogisieren und archivieren. Sie können die Qualität
+    der Daten einschätzen und überwachen und verstehen den Einfluss der Datenqualität
+    auf die Gültigkeit der Forschung. Die Studierenden können die Beobachtungsreihe
+    beeinträchtigende oder sonst problematische Daten erkennen und können diese annotieren
+    und/oder bereinigen. Sie können die gesammelten Daten nach vorgegebenen Kriterien
+    analysieren.
+  content: Studierende üben wissenschaftliche Tätigkeiten, indem sie diese in enger
+    Zusammenarbeit mit und unter genauer Anleitung und Rückmeldung durch Forschende
+    direkt im Kontext der Forschungsarbeit durchführen. Die Formen und der Inhalt,
+    den Studierende erlernen, können erheblich variieren, aber sind jeweils an den
+    Qualifikationszielen ausgerichtet. Die Studierenden vereinbaren vorab separat
+    mit der Dozentin oder dem Dozenten das Verfahren der Durchführung (Zeitrahmen,
+    Präsenztermine und Betreuung, Arbeitsnachweise, Kolloquium zur Notenfindung etc.).
+  exam: Schriftliche Ausarbeitung (2.000 bis 4.000 Wörter) mit Präsentation der Ergebnisse
+    (ca. 30 Minuten) sowie Diskussion (ca. 30 Minuten)
+  teachingunit:
+    - type: Praxisseminar
+      swstime: 2
+      attendance: required
+      activity: Aufbereitete Arbeitsergebnisse
+  workload:
+    - type: Präsenzzeit PrS
+      time: 30
+    - type: Vor- und Nachbereitung PrS
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: unregelmäßig
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Funktionale Programmierung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Konzepte der Programmierung
+  goals: Die Studierenden beschreiben grundlegende und fortgeschrittene Konzepte der
+    funktionalen Programmierung. Sie implementieren Algorithmen und Datenstrukturen
+    mit Hilfe von Konzepten der funktionalen Programmierung. Sie analysieren funktionale
+    Programme bezüglich ihrer Korrektheit und Laufzeit und entwickeln komplexe funktionale
+    Programme mit Nebenwirkungen.
+  content: Studierende erlernen und üben die Grundlagen der Funktionalen Programmierung.
+    Sie lernen Listengeneratoren, Funktionen höherer Ordnung und algebraische Datentypen
+    kennen und üben deren praktische Anwendung. Darüber hinaus erarbeiten sie sich
+    Funktionen höherer Ordnung und fortgeschrittene Funktionale Konzepte (z. B. Monaden,
+    Funktoren) und wenden diese an. Zudem erarbeiten sie sich die Analyse von Funktionalen
+    Programmen. Zuletzt diskutieren sie die Möglichkeiten der Interaktion in Funktionaler
+    Programmierung und erlernen Funktionale Datentypen und üben dessen praktische
+    Anwendung.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Moderieren von Teilen des Tutoriums
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Gender and Diversity
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden kennen empirische Befunde, theoretische Grundlagen und zentrale
+    Diskurse der Geschlechterund Diversity-Forschung in der Informatik bzw. über die
+    Informatik. Sie verstehen exemplarisch auf soziale Kategorien beruhende Inklusions-
+    und Exklusionsmechanismen in der Entwicklung der Disziplin sowie ihrer Teilgebiete
+    und ordnen diese ein. Sie beschreiben und analysieren, wo und wie die in der Informatik
+    produzierten Artefakte und informatische Systeme soziale Kategorien, damit verbundene
+    Stereotypisierungen, Benachteiligungen und Diskriminierungen, aber auch damit
+    zusammenhängende fachspezifische Wissensformationen und Bilder der Informatik
+    selbst (re)produzieren oder aufbrechen und überwinden können. Die Studierenden
+    reflektieren die eigene Rolle als potentielle Co-Konstrukteur*innen dieser Prozesse,
+    leiten daraus konkrete Handlungsstrategien und fachkulturelle Partizipationsstrukturen
+    ab und entwickeln diese. Sie präsentieren ihre Arbeitsergebnisse adressat*innenorientiert.
+  content: Studierende erarbeiten sich wechselnde Themen aus dem Bereich der disziplinären
+    sowie der die Informatik betreffenden interdisziplinären Geschlechter- und Diversity-Forschung
+    auseinander (z. B. Gender- und DiversityAspekte im Studium und Berufsleben sowie
+    in der Geschichte der Informatik, diskriminierende Algorithmen, Data Bias, nicht-inklusive
+    Entwicklung von Technologie). Sie diskutieren beispielhaft Einzelfälle oder Szenarios.
+  exam: Schriftliche Ausarbeitung (2.000 bis 3.000 Wörter) und Vortrag (ca. 30 Minuten)
+    mit anschließender Diskussion (ca. 10 Minuten) Diese Modulprüfung wird nicht differenziert
+    bewertet.
+  teachingunit:
+    - type: Seminaristischer Unterricht
+      swstime: 3
+      attendance: required
+      activity: Regelmäßige Beteiligung
+  workload:
+    - type: Präsenzzeit SU
+      time: 30
+    - type: Vor- und Nachbereitung SU
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation)'
+- name: Grundlagen der Theoretischen Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden können algorithmische Probleme als formale Sprachen darstellen
+    und die Vor- und Nachteile dieser Modellierung diskutieren. Sie sind in der Lage,
+    verschiedene Darstellungen von regulären Sprachen ineinander umzuwandeln und zu
+    interpretieren sowie zu einer gegebenen Beschreibung eine geeignete Darstellung
+    als reguläre Sprache anzugeben oder zu argumentieren, dass eine solche nicht existiert.
+    Sie können Turing-Maschinen zu elementaren algorithmischen Problemen angeben und
+    das Verhältnis zwischen Turing-Maschinen und dem Phänomen der Berechenbarkeit
+    diskutieren. Sie können gegebene algorithmische Probleme auf ihre (Semi-)Entscheidbarkeit
+    untersuchen4 und das Ergebnis formal begründen. Sie sind in der Lage, zu einer
+    gegebenen Beschreibung eine kontextfreie Grammatik anzugeben oder die Nichtexistenz
+    einer kontextfreien Grammatik zu begründen, gängige Verfahren für kontextfreie
+    Grammatiken anzuwenden und zu interpretieren sowie algorithmische Probleme auf
+    ihre Komplexität zu untersuchen und durch Reduktionen zueinander in Beziehung
+    setzen.
+  content: Studierende lernen formale Sprachen und verschiedene algorithmische Probleme
+    kennen und üben deren Anwendung. Darüber hinaus erlernen sie reguläre Sprachen,
+    erarbeiten sich deren Darstellungsformen und Automatenmodelle und diskutieren
+    ihre grundlegenden Eigenschaften. Sie lernen Turing-Maschinen kennen, erarbeiten
+    sich Entscheidbarkeit und Semi-Entscheidbarkeit, die Church-Turing-These, sowie
+    Reduktionen und üben deren Anwendung. Zuletzt erlernen sie formale Grammatiken,
+    Chomsky-Hierarchie, kontextfreie Sprachen und die Theorie der NP-Vollständigkeit
+    und üben deren Anwendung.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Grundlagen des Datenschutzrechts
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen die Ziele, die Funktionen und die Bedeutung des
+    Grundrechts auf Datenschutz in einer digitalisierten Gesellschaft; besitzen einen
+    ersten Überblick über das europäische und deutsche Datenschutzrecht nach der Datenschutz-Grundverordnung;
+    können zentrale Begriffe und Prinzipien des Datenschutzrechts erklären und auf
+    einfache Sachverhalte anwenden; sind in der Lage, die rechtliche Zulässigkeit
+    einer Datenverarbeitung einzuschätzen; kennen ihre Datenschutzrechte und wissen,
+    wie man sie geltend macht; wissen, was bei der datenschutzkonformen Gestaltung
+    von informationstechnischen Systemen zu beachten ist.
+  content: 'Die Studierenden erlernen den Begriff und Ziele des Datenschutzes. Sie
+    erarbeiten die Geschichte des Datenschutzes und seine verfassungs- und europarechtlichen
+    Grundlagen. Sie setzen sich mit dem Rechtsrahmen auseinander, d. h., EU-Datenschutz-Grundverordnung,
+    Bundesdatenschutzgesetz, bereichsspezifisches Datenschutzrecht, und sie diskutieren
+    Grundbegriffe und Anwendungsbereich (u. a. personenbezogene Daten, Marktortprinzip).
+    Sie erarbeiten sich die Adressaten datenschutzrechtlicher Pflichten (Verantwortlicher,
+    Auftragsverarbeiter) und erlernen die Grundprinzipien (u. a. Transparenz, Zweckbindung,
+    Datenminimierung) und Zulässigkeit der Datenverarbeitung (u. a. Einwilligung,
+    Vertrag, berechtigte Interessen). Die Studierenden erarbeiten sich die Betroffenenrechte,
+    d. h. Information, Auskunft, Berichtigung, Löschung, Schadenersatz, etc. Sie setzen
+    sich mit technischem Datenschutz auseinander (Privacy by Design, Datensicherheit,
+    Datenschutz-Folgenabschätzung) und diskutieren die Durchsetzung des Datenschutzrechts:
+    Kontrollsystem, Aufsichtsbehörden, Sanktionen, Zertifizierung.'
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Beteiligung an den Diskussionen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jährlich
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Informationssicherheit
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen grundlegende Begriffe und Konzepte der Informationssicherheit
+    sowie die grundlegenden Ursachen von Schwachstellen, prinzipielle Wirkungsweisen
+    von Erzwingungsmechanismen und die Grenzen der Durchsetzbarkeit von Sicherheits-Regelwerken.
+    Sie können Regelwerke in exemplarischen Anwendungsgebieten formulieren und testen,
+    Mechanismen zur Beschreibung und Erzwingung von Regelwerken in einem anwendungsabhängigen
+    Kontext entwerfen, umsetzen und beurteilen sowie unterschiedliche Regelwerke und
+    Mechanismen hinsichtlich deren Möglichkeiten und Grenzen bewerten und zweckdienliche
+    auswählen6.
+  content: 'Die Studierenden erlernen die Grundlagen der Informationssicherheit aus
+    theoretischer und praktischer Perspektive. Dabei stehen folgende Fragen im Mittelpunkt:
+    „Wie wird Sicherheit definiert und gemessen?“, „Was sind Sicherheits-Regelwerke,
+    wie werden sie definiert und wie praktisch dargestellt?“, „Was sind Erzwingungsmechanismen
+    und wie verhalten sie sich zu Regelwerken?“ und „Welche funktionalen Aspekte eines
+    Systems stehen Erzwingungsmechanismen entgegen?“. Im Rahmen dieser Fragen erarbeiten
+    Studierenden Konzepte der Informationssicherheit auf der Ebene von Betriebssystemen,
+    Programmiersprachen, vernetzten Systemen und an der Schnittstelle zum Menschen.
+    Darüber hinaus üben und diskutieren Studierende, wie sie Sicherheit in vernetzten
+    Systemen realisieren können und erlernen die notwendigen Grundlagen der Kryptographie.'
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Übungsaufgaben; Beteiligung an Diskussionen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Informationstheorie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden erlernen grundlegende Konzepte der Repräsentation von Information
+    und Informationsübertragung. Sie analysieren Beziehungen und Grenzen der Darstellung
+    und Übertragung von Information und können diese auf konkrete Probleme in der
+    Statistik oder im maschinellen Lernen anwenden. Sie lernen elementare Prinzipien
+    der Kompression von Quellen, der Kanalkodierung und der Quantisierung und setzen
+    diese für die Konstruktion von Quellenkodes und Kanalkodes um. Sie evaluieren
+    die erlernten Konzepte für praktische Fragestellungen in Kommunikationsnetzen
+    und im Datenschutz.
+  content: Die Studierenden erarbeiten die Konzepte der Selbstinformation, Entropie,
+    bedingten Entropie, der Eigenschaften konvexer Mengen sowie den Satz von Caratheodory.
+    Sie setzen sich mit den Eigenschaften, fundamentalen Grenzen und Ungleichungen
+    (Jensen-, Log-sum-, Data Processing) auseinander. Sie erlernen die Berechnung
+    der KL-Distanz, Cross-Entropie und der Total Variation Norm sowie der Pinsker-,
+    Cszisar-Körner-Ungleichung. Die Studierenden üben Hypothesen-Tests, Fano-Ungleichung,
+    Neyman-Pearson und optimale Tests und erarbeiten sich die Typicality, Asymptoptic
+    Equipartion Property, die Methode der Types, das Quellentheorem, Slepian Wolf,
+    die Konstruktion von optimalen Quellenkodes, das Kanaltheorem, Kanalkodierung,
+    Kapazität, und Random Coding. Abschließend werden die Eigenschaften von Kodes
+    (Hamming-Distanz, Fehlerkorrektur, ...), algebraische Ansätze mit endlichen Körpern
+    sowie die Rate-Distortion Theory erlernt.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Konzepte der Programmierung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden erklären verschiedene Programmierparadigmen und stellen
+    diese gegenüber. Sie interpretieren Beschreibungen und Quelltexte zu elementaren
+    Datenstrukturen und charakterisieren deren Funktionsweise und implementieren elementare
+    Algorithmen und Datenstrukturen in verschiedenen Programmierparadigmen und passen
+    diese an unterschiedliche Anforderungen an. Sie diskutieren Vor- und Nachteile
+    verschiedener Lösungen von algorithmischen Problemen.
+  content: Studierende erlernen die Grundlagen des Programmierens und grundlegende
+    Programmierparadigmen wie Imperativ und Funktional. Sie erarbeiten sich Ausdrücke
+    und Datentypen und grundlegende Aspekte Imperativer Programmierung (Zustand, Anweisungen
+    Kontrollstrukturen, Ein-Ausgabe) und üben deren Anwendung. Die Studierenden erarbeiten
+    sich grundlegende Aspekte der Funktionalen Programmierung (Funktionen, Rekursion,
+    Funktionen höherer Ordnung, Currying), und Objektorientierte Konzepte wie Kapselung
+    und Vererbung, Polymorphie, sowie Grundlegende Algorithmische Fragestellungen
+    (z. B. Suchen, Sortieren, Auswählen und Einfache Feld- und Zeigerbasierte Datenstrukturen)
+    und üben deren Implementierung.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 270
+  credit_points: 9
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, Bachelorstudiengang Bioinformatik, Einführungs- und Orientierungsstudium,
+    30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot
+    Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an
+    Integrierten Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt
+    an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg, Masterstudiengang
+    Wirtschaftsinformatik, Masterstudiengang Computational Sciences
+- name: Lineare Algebra für Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden wenden unterschiedliche Verfahren aus der Zahlentheorie
+    und der Linearen Algebra auf konkrete Eingaben an und beurteilen die Wahl der
+    Verfahren. Sie wenden die unterschiedlichen Zerlegungs- und Auswertungsstrategien
+    von Polynomen an, um ihre fundamentalen Eigenschaften zu bestimmen, und verwenden
+    verschiedene Darstellungsformen, um die Eigenschaften adäquat zu benennen. Sie
+    können Eigenschaften unterschiedlicher linearer Abbildungen benennen und begründen
+    diese mit Hilfe formaler Argumente. Sie wählen geeignete Verfahren zur Lösung
+    von linearen Gleichungs- und Kongruenzsystemen aus, bestimmen die Lösung und stellen
+    diese angemessen dar. Sie sind in der Lag unterschiedliche algebraische Strukturen
+    identifizieren und begründen dies mit Hilfe formaler Argumente. Sie beweisen elementare
+    Aussagen über Matrizen und algebraischen Strukturen.
+  content: Die Studierenden erarbeiten sich Begriffe aus dem Bereich der Zahlentheorie
+    (z. B. größter gemeinsamer Teiler; Euklidischer Algorithmus; Modulo-Rechnung),
+    grundlegende Algebraische Strukturen (z. B. Darstellungen und Wurzeln im Körper
+    der komplexen Zahlen; endliche Körper; Polynomringe), Strukturen, Konzepte und
+    Verfahren der Linearen Algebra (z. B. Vektorräume mit Basis und Dimension; lineare
+    Abbildungen; Matrizen; Rang; Kern; lineare Gleichungssysteme; Gauß-Elimination)
+    und der weiterführenden Linearen Algebra (z. B. Eigenwerte und Eigenvektoren;
+    Diagonalisierbarkeit; Euklidische Vektorräume; Orthonormalisierung; Basistransformation;
+    Hauptachsentransformation). Sie üben den Umgang mit diesen Konzepten an konkreten
+    Rechen- und Beweisaufgaben. Sie lernen und diskutieren exemplarisch Anwendungen
+    der Linearen Algebra in der Informatik und Bioinformatik (z. B. Verschlüsselungsverfahren;
+    Affine Geometrie; Statistische Datenanalyse; Codierungstheorie).
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 270
+  credit_points: 9
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Bioinformatik, Einführungs-
+    und Orientierungsstudium
+- name: Maschinelles Lernen
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden lernen Formen der Datenrepräsentation und deren Visualisierung,
+    können Abhängigkeiten aufzeigen und wenden Verfahren für Dimensionsreduktion und
+    Datenvorverarbeitung an. Sie lernen die Grundbegriffe und Prinzipien des maschinellen
+    Lernens, können Zielkriterien formulieren, benennen Eigenschaften von Optimierungsproblemen
+    und können algorithmische Ansätze zur Lösung umsetzen. Sie können unterschiedlichste
+    Lernverfahren zur Regression, Klassifikation und Entscheidungsfindung einordnen
+    und umsetzen. Sie lernen die Grundstrukturen und Architekturen von neuronalen
+    Netzen und deren vielfältige Einsatzgebiete. Sie können algorithmisch Lösungen
+    für eine gegebene Problemstellung umsetzen und evaluieren.
+  content: Die Studierenden erlernen die Grundlagen des maschinellen Lernens, der
+    Lerntheorie, der Generalisierung und PAC. Sie erarbeiten ebenfalls die Grundlagen
+    der konvexen Optimierung (z. B. Subgradient Methode), des Stochastischen Gradientenabstieg,
+    der Regularisierung und Konvergenz. Sie üben Verfahren des Supervised Learning
+    (z. B. Linear Regression, SVM, Kernel-Trick), des Unsupervised Learning (z. B.
+    Clustering, Decision Trees, Matrix Decomposition, wie PCA) und des Dictionary
+    Learning. Des Weiteren erlernen Studierende die Grundlagen der Künstliche Neuronale
+    Netze (KNN), indem mögliche Architekturen und das Konzept der Backpropagation
+    erarbeitet werden. Darüber hinaus setzen sich Studierende mit den Aspekten der
+    Evaluierung (Crossvalidation, Hyper-Parameter-Tuning usw.) auseinander.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Mensch-Computer Interaktion
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden beschreiben den Prozess des Human-Centered Designs und wenden
+    diesen zur Entwicklung von grafischen Bedienoberflächen an. Sie erheben (z. B.
+    mit Hilfe von Interviews) und analysieren (z. B. mit Affinitätsdiagrammen) Anforderungen
+    von Nutzenden und überführen die erfassten Anforderungen in konzeptionelle Modelle
+    (z. B. Persona). Sie setzen grafische Bedienoberflächen innerhalb von Low- und
+    High Fidelity Prototypen auf Basis der Anforderungen um. Sie übertragen Erkenntnisse
+    aus der Wahrnehmungs- und Kognitionspsychologie auf die Gestaltung von grafischen
+    Bedienoberflächen und beurteilen grafische Bedienoberflächen auf Basis von Evaluationsmethoden
+    (z. B. Usability Studien).
+  content: Studierende erlernen den Prozess des Human-Centered Designs und die Anwendung
+    in der Softwareentwicklung. Sie erarbeiten die Grundlagen der visuellen Wahrnehmung
+    und Kognition (z. B. Aufmerksamkeit, Gedächtnis) und deren Anwendung auf die Gestaltung
+    von Bedienoberflächen sowie den Einsatz von Interaktionsparadigmen (z. B. Direct
+    Manipulation, Conversational Agent, Mixed Reality). Die Studierenden üben Methoden
+    zur Erhebung von Anforderungen (z. B. Interviews, Befragung, Beobachtung) und
+    erlernen konzeptionelle Modelle (z. B. Nutzenden, Kontext- und Aufgabenmodelle)
+    zur Strukturierung und Auswertung der Anforderungen. Die Studierenden üben das
+    Erstellen von Low- und High-Fi-Prototypen und deren Evaluation sowie das Anwenden
+    von Evaluationstechniken (z. B. Heuristische Evaluation, (Remote) Usability Studien,
+    Experiment, Feldstudie) und diskutieren deren Vorund Nachteile. Die Studierenden
+    erarbeiten ethische Aspekte in der Gestaltung von Bedienoberflächen (z. B. Dark
+    Pattern).
+  exam: Klausur (120 Minuten); die auch in Form einer elektronischen Prüfungsleistung
+    (120 Minuten) durchgeführt werden kann.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Übungsaufgaben. Beteiligung an Diskussionen.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Nebenläufige, parallele und verteilte Programmierung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden kennen die grundlegenden Begriffe im Zusammenhang mit der
+    nebenläufigen, parallelen und verteilten Programmierung und ordnen diese in das
+    Themengebiet ein. Sie wenden eine geeignete Modellierung für die Programmierung
+    und Ausführung an und begründen auf Basis von geeigneten Modellen die Entscheidung
+    für einen Programmieransatz und setzen diesen um. Sie können den Einfluss von
+    nichtdeterministischem Verhalten erkennen und mit Hilfe geeigneter Mechanismen
+    die Korrektheit des Programms sicherstellen und sind in der Lage, ihre und andere
+    Programme auf Basis geeigneter Modellierung in Hinblick auf funktionale und nichtfunktionale
+    Anforderungen zu analysieren und zu bewerten.
+  content: Die Studierenden erlernen die Grundlagen der deterministischen Programmausführung
+    (deterministische vs. determinierte Programmausführung, Maschinen-, Ausführungs-
+    und Programmiermodell) und setzen sich mit den Zielsetzungen der nebenläufigen,
+    parallelen und verteilten Programmierung einschließlich nichtfunktionaler Eigenschaften
+    auseinander. Sie erarbeiten sich die Fähigkeit der nebenläufigen Programmierung
+    mit Prozessen auf Systemen mit gemeinsamem Speicher, sowie der parallelen Programmierung
+    mit Threads auf Systemen mit gemeinsamem Speicher. Des Weiteren erlernen die Studierenden
+    Konzepte wie den kritischen Abschnitt und erarbeiten sich Methoden zum Schutz
+    des kritischen Abschnitts in Abhängigkeit vom Maschinenmodell (Schlossvariable
+    [Lock], Semaphore, Monitor). Sie erweitern ihre Fähigkeiten auf den Bereich der
+    parallelen Programmierung mit Nachrichtenaustausch auf Systemen ohne gemeinsamen
+    Speicher. Sie verstehen die Herausforderungen von Verklemmungen und erarbeiten
+    sich entsprechende Lösungsansätze. Im Bereich der verteilten Programmierung erlernen
+    Studierende, wie sie mit homogenen und heterogenen Systemen ohne gemeinsamen Speicher
+    umgehen. Daneben erarbeiten sie sich die Konzepte der verteilten Programmierung
+    (Fernaufrufe, Peer-to-Peer, Gruppenkommunikation) sowie Grundlagen der Infrastruktur
+    für und des Managements von verteilten Anwendungen. Studierende üben den Einsatz
+    von Programmierwerkzeugen für die Entwicklung von nebenläufigen, parallelen und
+    verteilten Programmen.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 270
+  credit_points: 9
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und
+    Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und
+    Gymnasien mit dem Profil Quereinstieg
+- name: Planung, Durchführung und Evaluation eines Tutoriums in der Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden diskutieren die unterschiedlichen Vor- und Nachteile von
+    Lehr-Lern-Formen und wenden3 diese in ihrem eigenen Tutorium an. Sie beschreiben
+    die verschiedenen Formen der Motivation, die Studierende am Anfang eines Studiums
+    mit sich bringen und können daraus Lehrangebote entwickeln. Sie nutzen das Prinzip
+    der Binnendifferenzierung für den Umgang mit einer heterogenen Gruppe in einem
+    Tutorium. Die Studierenden erörtern typische Konfliktsituationen in einem Tutorium
+    und entwickeln6 Strategien zur Problemlösung. Sie können ein Tutorium vorbereiten,
+    durchführen und evaluieren.
+  content: Die Studierenden erlernen die Grundlagen der Lernpsychologie sowie die
+    Rolle des Tutoriums und der Tutor*innen. Sie erlernen und üben Kriterien für die
+    Wahl von Übungsaufgaben, die Korrektur von Übungsaufgaben, Phänomene von Gender
+    & Diversity, den Umgang mit sensiblen Daten, die Nutzung der Lernmanagement-Software.
+    Sie erlernen, üben und diskutieren Methoden und Sozialformen im Tutorium, die
+    Motivierung von Studierenden, das Verhalten in kritischen Situationen, die Planung
+    von Tutorien. Das Üben findet im Rahmen eines Tutoriums über Ein Semester zu einer
+    selbst gewählten Veranstaltung des Pflichtbereichs statt. Das Diskutieren erfolgt
+    im Rahmen unterstützender Beratungsgespräche.
+  exam: Keine
+  teachingunit:
+    - type: Seminar
+      swstime: 1
+      attendance: required
+      activity: Leitung des Tutoriums; Dokumentation der Ergebnisse jedes durchgeführten
+        Tutoriums; Beratungsgespräch über den Erfolg des betreuten Tutoriums; Diskussion
+        mit anderen Studierenden
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Leitung des Tutoriums; Dokumentation der Ergebnisse jedes durchgeführten
+        Tutoriums; Beratungsgespräch über den Erfolg des betreuten Tutoriums; Diskussion
+        mit anderen Studierenden
+  workload:
+    - type: Präsenzzeit S
+      time: 15
+    - type: Vor- und Nachbereitung S
+      time: 15
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation)'
+- name: Praktiken professioneller Softwareentwicklung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Programmierpraktikum, Softwaretechnik
+  goals: Die Studierenden kennen und verstehen verschiedene Praktiken und können deren
+    Grundgedanken und Zwecke erklären. Sie besitzen praktische Fertigkeiten in der
+    Anwendung dieser Praktiken und beurteilen, wann und in welchem Grad der Einsatz
+    welcher dieser Praktiken sinnvoll ist.
+  content: Studierenden setzen sich mit Entwicklungspraktiken auseinander, d. h. sie
+    erarbeiten sich und diskutieren konkrete Ausprägungen von allgemeinen Prinzipien
+    der Softwaretechnik in Methodenelemente, die alle Aufgabenfelder der Erst- und
+    Fortentwicklung von Software betreffen können, z. B. Anforderungsbestimmung, Spezifikation;
+    Projektplanung, Projektsteuerung und -koordination, Teamarbeit; Softwareentwurf,
+    Implementierung, Test, Optimierung, Dokumentation; Programmverstehen, Reengineering
+    und Qualitätsmanagement, Wissensmanagement, Organisationsentwicklung. Einen erheblichen
+    Teil davon üben sie auch, durch konkrete Anwendung ein einem eigenen Softwareprojekt.
+    Die Studierenden diskutieren Vorteile, Nachteile und Grenzen jeder Praktik und
+    reflektieren ggf. ihre eigenen Erfahrungen damit.
+  exam: Keine
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: required
+      activity: Teilnahme an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: requiured
+      activity: Bearbeitung von Übungsaufgaben; Teilnahme an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit PS
+      time: 30
+    - type: Vor- und Nachbereitung PS
+      time: 90
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Zweijährlich im Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Programmierpraktikum
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen zahlreiche Konzepte praktischer Softwareentwicklung
+    über die Grundlagenvorlesungen hinaus. Sie erwerben eine Palette von praktischen
+    Fertigkeiten und Urteilsvermögen, die in der professionellen Softwareentwicklung
+    zum Handwerkszeug gehören. Sie lernen, sich selbstständig in neue Technologien
+    einzuarbeiten und auf wechselnde Anforderungen und Arbeitsgebiete einzustellen.
+  content: Studierende lösen weitgehend selbstständig und mit vielen Freiheitsgraden
+    bei Auswahl und inhaltlicher Ausgestaltung zahlreiche kleine Lernaufgaben. Die
+    Aufgaben liegen z. B. in den Bereichen Fortgeschrittene Konstrukte der Programmiersprache,
+    Auswahl und Einsatz von Bibliotheken, Datenbanken und SQL, automatisierte Tests,
+    Arbeiten mit Bestandscode oder Umgang mit Werkzeugen wie Versionsverwaltung, Paketmanager,
+    IDEs, Testwerkzeuge. Dabei erarbeiten sie sich einige komplexe Konzepte (z. B.
+    zu Team-Workflows), erlernen zahlreiche Einzelheiten und diskutieren das Gelernte
+    durch Reflexion der Ergebnisse.
+  exam: Keine
+  teachingunit:
+    - type: Seminar am PC
+      swstime: 2
+      attendance: recommended
+      activity: Anfertigung und Dokumentation von Lösungen zu vielen der Aufgaben
+  workload:
+    - type: Präsenzzeit SPC
+      time: 30
+    - type: Vor- und Nachbereitung SPC
+      time: 120
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Informatik
+- name: Projektmanagement in agilen Umgebungen
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen verschiedene Modelle skaliert agiler Software-Produktion
+    mehrerer kooperierender agiler Teams. Sie verstehen grundlegende und fortgeschrittene
+    Techniken des hybriden, prädiktiven sowie adaptiven Projektmanagements in solchen
+    agilen Umgebungen und können sie anwenden. Sie können einen Projektplan erstellen
+    und mit einem geeigneten Vorgehen abgleichen. Sie können in der Leitung eines
+    hybriden Projektes mitarbeiten und Verantwortung für wesentliche Bereiche des
+    Projektmanagements übernehmen, einschließlich der Führung von Personal. Sie können
+    ein einfaches Projekt eigenverantwortlich leiten.
+  content: 'Studierende erlernen Prinzipien, Methoden und Verfahrensweisen skaliert
+    agiler Softwareproduktion anhand etablierter Modelle (z. B. Scaled Agile Framework)
+    und des Projektmanagements anhand einer anerkannten Methodik (z. B. „Projekt Management
+    Body of Knowledge“ (PMBoK)) und üben deren praktische Anwendung. Sie erarbeiten
+    sich agile Prinzipien und Werte sowie Scrum und üben beides ein. Darüber hinaus
+    diskutieren und üben sie die Planung des Produktumfangs und Koordination mehrerer
+    daran gemeinsam arbeitender Teams, nötige Prozesse und involvierte Rollen. Weiterhin
+    lernen sie alle Bereiche des Projektmanagements kennen, diskutieren deren Anwendung
+    und üben teilweise deren Umsetzung: Projektentstehung, -definition und Planung
+    des Projektumfangs, Projektplanung, Projektablaufsteuerung, -statusermittlung
+    und -reporting, Projektorganisation und Einbettung eines Projekts in die ausführende
+    Organisation, Führen ohne formale Macht, Projektkommunikation, Führung eines Projektteams
+    und Qualitätsmanagement.'
+  exam: Arbeitsaufwand (Stunden) Regelmäßige Diskussionsbeiträge, ggf. ein Vortrag,
+    Bearbeitung von Übungsaufgaben Präsenzzeit SU 30 Vor- und Nachbereitung SU 30
+    Präsenzzeit SU 30 Vor- und Nachbereitung SU 30 Prüfungsvorbereitung und Prüfung
+    30 Klausur (60 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 20 Minuten) Diese Modulprüfung
+    wird nicht differenziert bewertet.
+  teachingunit:
+    - type: Seminaristischer Unterricht
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit SU
+      time: 30
+    - type: Vor- und Nachbereitung SU
+      time: 30
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Zwei Semester
+  repeat: Jedes Wintersemester
+  usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation)'
+- name: Rechnerarchitektur
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden kennen die grundlegenden Architekturmerkmale von Rechnersystemen
+    und Rechner auf Assembler-Ebene und können systemnah programmieren. Sie beurteilen
+    die Vor- und Nachteile verschiedener Mechanismen zur Ein-/Ausgabesteuerung (PIO
+    vs. DMA, polling vs. Interrupt) und beschreiben die Interaktionen der Architekturmerkmale
+    in Mehrkern- und Mehrprozessorsystemen und die elementaren Möglichkeiten der Beschleunigung
+    von Rechnersystemen, bewerten diese grundlegend und nutzen sie für eigene (systemnahe)
+    Programmierung.
+  content: Studierende erarbeiten sich grundlegende Rechnerarchitekturen insbesondere
+    Harvard-/von-Neumann-Architektur, RISC/CISC Mikroarchitektur, Mikroprogrammierung
+    und Befehlssatzarchitektur. Sie erlernen und üben den Umgang mit verschiedenen
+    Pipelines und erarbeiten sich hier auch die Einbeziehung von Sprungvorhersage,
+    VLIW und Superskalarität. Des Weiteren erlernen sie das Konzept der Speicherhierarchie
+    inkl. Caches, erarbeiten sich das Konzept Virtuellen Speichers und diskutieren
+    Speicherschutzmechanismen sowie den Umgang mit Multikern- und Multiprozessorsystemen.
+    Zudem erlernen sie grundlegende interne Zahlendarstellungen, Rechnerarithmetik
+    und Datenrepräsentation im Rechner und üben die Umrechnung von Daten in verschiedene
+    Darstellungsformate. Studierende erarbeiten sich darüber hinaus Grundlagen der
+    Assembler-Programmierung und lösen selbstständig in Kleingruppenarbeit verschiedene
+    Aufgabenkomplexe u. a. zu Zahldarstellungen, Arithmetik und Konvertierung von
+    Datentypen.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Seminar am PC
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung
+        oder eines Teils davon.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit SPC
+      time: 30
+    - type: Vor- und Nachbereitung SPC
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, Einführungs- und Orientierungsstudium, 30-Leistungspunkte-Modulangebot
+    Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik
+    im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten
+    Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an Integrierten
+    Sekundarschulen und Gymnasien mit dem Profil Quereinstieg 6 LP
+- name: Softwareprojekt
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Programmierpraktikum, Softwaretechnik
+  goals: Die Studierenden sind in der Lage, ein kleines Softwareentwicklungsprojekt
+    im Team eigenständig durchzuführen. Hierzu haben Sie die theoretischen Grundlagen
+    durch praktische Expertise angereichert. Die Studierenden können komplexe Aufgabenstellungen
+    geeignet zerlegen, die Anforderungen von Seiten der Nutzenden erheben, geeignete
+    Softwarelösungen entwerfen und umsetzen und sich dabei nach Bedarf in ihnen unbekannte
+    Technologien einarbeiten. Sie können die Arbeit in einer Projektgruppe selbstständig
+    organisieren und setzen für die Umsetzung angemessene Werkzeuge ein. Sie verstehen
+    Qualitäts-, Aufwands-, Akzeptanz- und Erfolgsfaktoren eines Softwareprojekts.
+    Sie können ihre Ergebnisse mündlich und schriftlich geeignet darstellen.
+  content: Studierende erhalten hier eine Aufgabenstellung aus Forschung, Wirtschaft
+    oder Gesellschaft und erarbeiten die Entwicklung oder Fortentwicklung einer Softwarelösung
+    in Teamarbeit. Dabei üben sie die Arbeit und Zusammenarbeit auf Basis der Kompetenzen
+    aus insbesondere den Modulen Konzepte der Programmierung, Programmierpraktikum
+    und Softwaretechnik. Sie führen eine Anforderungsanalyse durch, erarbeiten die
+    Entwicklung eines Lösungsvorschlags, üben die Unterteilung in Arbeitspakete und
+    die Umsetzung mit Hilfe angemessener Werkzeuge. Dabei üben sie eine möglichst
+    weitgehend selbstständige Organisation des Projektablaufs und der Teamarbeit.
+    Zuletzt diskutieren sie reflektierend den Lösungsansatz, das Produkt und vor allem
+    den Prozess der Softwareentwicklung.
+  exam: Keine
+  teachingunit:
+    - type: Praxisseminar
+      swstime: 2
+      attendance: required
+      activity: Anfertigung einer Softwarelösung einschließlich entsprechender Dokumentation
+  workload:
+    - type: Präsenzzeit PjS
+      time: 30
+    - type: Durchführung inkl. Vor- und Nachbereitung PjS
+      time: 270
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: 8 Wochen im Block bzw. ein Semester
+  repeat: Jedes Semester
+  usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+- name: Softwaretechnik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden können alle wesentlichen Belange (Problemstellungen) des
+    Software Engineerings (Programmieren im Großen), also der Softwareentwicklung
+    im Team verstehen, manche davon auch analysieren und beurteilen. Sie können grob
+    die wesentlichen unterschiedlichen Randbedingungen beurteilen, unter denen diese
+    Entwicklung erfolgen kann, und verstehen die Vor- und Nachteile der wichtigsten
+    Ansätze, mit denen diese Fragestellungen gelöst werden, und unter welchen Umständen
+    diese erfolgversprechend sind. Sie können sich insofern auf unterschiedliche Arbeitsgebiete
+    einstellen und einen Wandel von Softwareentwicklungsprozessen mitgestalten und
+    manche dieser Ansätze selbst anwenden, z. B. Methoden der Analyse, der Qualitätssicherung
+    sowie des Projektmanagements einschließlich der Berücksichtigung von Gender- und
+    Diversity-Aspekten.
+  content: Studierende erlernen die Prinzipien, Methoden und Techniken für die Entwicklung
+    großer Programmsysteme sowie die Anleitung zum Projektmanagement. Sie üben wichtige
+    Einzelfertigkeiten an konkreten Aufgaben, wie der Anforderungsermittlung, Analyse
+    und -beschreibung, Qualitätsmerkmale von Software, Architektur, Entwurf und Entwurfsmuster
+    und ihr Zusammenhang mit den Qualitätsmerkmalen, analytische Qualitätssicherung
+    (Tests, Durchsichten, etc.), konstruktive Qualitätssicherung sowie Prozessmodelle
+    und Projektmanagement. Dabei vergleichen sie klassische phasenorientierte Ansätze
+    mit agilen Ansätzen und diskutieren deren Spannungsfeld.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Übungsaufgaben; Beteiligung an Diskussionen
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 270
+  credit_points: 9
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien,
+    Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien
+    mit dem Profil Quereinstieg, Masterstudiengang Wirtschaftsinformatik
+- name: Statistik für Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden erläutern grundlegende Begriffe der Wahrscheinlichkeitstheorie
+    und Statistik und modellieren Fragestellungen der (Bio-)Informatik mit Hilfe der
+    Wahrscheinlichkeitstheorie und wählen dazu geeignete diskrete oder stetige Wahrscheinlichkeitsverteilungen
+    aus. Sie bestimmen Wahrscheinlichkeiten von Zufallsereignissen und analysieren
+    empirische Daten mit Hilfe statistischer Modelle. Sie können Schätzer für statistische
+    Größe herleiten und Hypothesen mit Hilfe statistischer Tests evaluieren.
+  content: Die Studierenden erlernen die Grundlagen der Statistik, in dem sie sich
+    mit der Datenanalyse und deskriptiven Statistik befassen und Histogramme, empirische
+    Verteilungen, Häufigkeit, Mittelwert und Streuung, Kovarianz und Korrelation kennenlernen.
+    Des Weiteren setzen sich Studierende mit der Modellierung vom Zufall abhängiger
+    Vorgänge, Zufallsexperimenten und Wahrscheinlichkeitsräumen auseinander und lernen
+    bedingte Wahrscheinlichkeiten, Unabhängigkeit, den Satz von Bayes, den Satz von
+    der totalen Wahrscheinlichkeit kennen. Ebenfalls lernen Studierende Zufallsvariablen,
+    Verteilung und Dichte sowie Erwartungswert und Varianz kennen. Darüber hinaus
+    erarbeiten Studierende die Eigenschaften von speziellen diskreten und kontinuierlichen
+    Verteilungen, u. a. Binomialverteilung, Poissonverteilung, Normalverteilung. Sie
+    setzen sich mit dem Gesetz der großen Zahlen und Zentraler Grenzwertsatz auseinander.
+    Daneben werden Themen wie Statistische Modelle und Likelihood-Funktion, Maximum-Likelihood-Schätzverfahren,
+    Testtheorie, Signifikanz, p-Wert und deren Anwendungen in der Informatik und Bioinformatik
+    vermittelt.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Übungs- und Programmieraufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Systemverwaltung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden sind in der Lage, Unix- und unix-ähnliche Computersysteme
+    zu planen, aufzusetzen, zu konfigurieren. Sie können die Systeme in einen heterogenen
+    Netzverbund integrieren und entsprechend administrieren. Sie können die Konzepte
+    der Partitionierung, der Virtualisierung und von Containern beschreiben. Sie können
+    Technologie zur Virtualisierung und Partitionierung planen und einsetzen. Sie
+    können RAID-Konzepte erklären und Storagesysteme anwendungsspezifisch aufsetzen,
+    und sie können die Storagesysteme konfigurieren und Fehler bzw. Komponentenausfälle
+    beheben.
+  content: Die Studierenden erlernen die Grundlagen der Betriebssystemtechnik (u.
+    a. Scheduler, Cache- und Memorymanagement, Kommunikationsprotokolle), der Filesysteme
+    und die Grundaufgaben der Systemverwaltung. Des Weiteren erlernen sie die Umsetzung
+    der Benutzerverwaltung und setzen sich mit Fragen des Storagemanagement sowie
+    der Partitionierung und Virtualisierung von Betriebssysteminstanzen, der Storagevirtualisierung
+    (z. B. RAID) sowie Container-Konzepten praktisch auseinander. Ebenfalls üben sie
+    die Netzwerkeinbindung sowie die Umsetzung von Netzwerkdiensten und Netzwerkinformationssystemen.
+    Daher erarbeiten sich Studierende zunächst einen belastbaren Kenntnisstand im
+    Umgang mit den Shells sh, ksh und csh anhand von praktischen Beispielen, die es
+    erlauben, kleine administratorisch-relevante Shellskripte zu erstellen. Danach
+    üben Studierende Betriebsumgebungen auf partitionierbaren Systemen und auf Virtualisierern
+    zu erstellen, Betriebssysteminstanzen in die zuvor erstellten Partitionen und
+    virtuellen Maschinen zu installieren, einzurichten, in den Netzwerkverbund zu
+    stellen und so aufzusetzen, dass die erstellten Betriebsysteminstanzen in einem
+    Labornetzwerk einen selbst erstellten Dienst anbieten.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden. Diese Modulprüfung wird nicht differenziert bewertet.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: required
+      activity: '-'
+    - type: Praktikum
+      swstime: 3
+      attendance: required
+      activity: Implementation der gestllten Aufgaben während der Veranstaltung
+  workload:
+    - type: Präsenzzeit SU
+      time: 30
+    - type: Vor- und Nachbereitung SU
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Blockkurs in der vorlesungsfreien Zeit
+  repeat: Jährlich
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien,
+    Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien
+    mit dem Profil Quereinstieg
+- name: Vertiefte Aspekte der Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen die wesentlichen Begriffe und Techniken eines
+    detaillierten Gebietes der Informatik. Sie können diese auf bekannte Arten von
+    Fällen anwenden, und auf mäßig komplexe unbekannte Arten von Fällen im Sinne der
+    Analyse, Synthese und Evaluation.
+  content: Studierende erarbeiten sich wechselnde Inhalte, die einen Einblick geben
+    in ein Themengebiet, das in einem aktuellen Projekt am Institut für Informatik
+    bearbeitet wird. Sie erlernen einschlägiges Faktenwissen und üben einige der damit
+    verbundenen Fertigkeiten praktisch ein.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Moderation einer Übung oder eines Teils davon; Bearbeiten von Übungsaufgaben.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Wechselnd
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Vertiefung Theoretische Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden verstehen die wesentlichen Begriffe und Techniken eines
+    Gebiets der theoretischen Informatik. Sie können diese auf bekannte Arten von
+    Fällen anwenden, und auf mäßig komplexe unbekannte Arten von Fällen im Sinne der
+    Analyse, Synthese und Evaluation.
+  content: Studierende erarbeiten sich hier wechselnde vertiefende Aspekte der Theoretischen
+    Informatik. Sie lernen z. B. fortgeschrittene Datenstrukturen kennen und erarbeiten
+    sich Algorithmen für schwierige Probleme (Approximationsalgorithmen, Parametrisierte
+    Algorithmen, Heuristiken) oder spezielle Modelle (parallele Algorithmen, Streaming-Algorithmen,
+    externe Algorithmen) und üben deren Anwendung. Weiterhin lernen sie z. B. Kombinatorische
+    Optimierung oder Randomisierte Algorithmen und üben deren Anwendung. Zuletzt erarbeiten
+    und diskutieren sie z. B. ausgewählte Themen der Berechenbarkeitstheorie oder
+    zu formalen Sprachen.
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: '-'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Moderation einer Übung oder eines Teils davon; Bearbeiten von Übungsaufgaben.
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang
+    für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+- name: Wissenschaftliches Arbeiten in der Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
+  requirements: Keine
+  goals: Die Studierenden können sich selbstständig in ein Thema der Informatik anhand
+    von wissenschaftlicher Literatur einarbeiten und sind in der Lage, sich den entsprechenden
+    Stand der Wissenschaft anzueignen. Sie können geeignete kohärente und relevante
+    Teile aus einem Wissensgebiet identifizieren und verarbeiten diese in ein Vortragskonzept.
+    Sie können diese Inhalte strukturiert und verständlich in einer Präsentation vortragen
+    und vertiefen alles in einer schriftlichen Ausarbeitung. Sie können dabei gängige
+    Vortrags- und Präsentationstechniken und -werkzeuge verwenden und sind in der
+    Lage, Gender- und Diversity-Aspekte im Vortrag und in der Präsentation zu beachten.
+    Sie können Inhalte eines gehörten Vortrags in einen Kontext einordnen und fachlich
+    diskutieren.
+  content: Die Studierenden erarbeiten den Begriff des „wissenschaftliches Arbeitens“
+    im Kontext der Informatik und setzen sich mit den Formen der schriftlichen und
+    mündlichen Wissensgenerierung und -repräsentation (z. B. Verständlichkeit; Genauigkeit)
+    auseinander. Sie lernen die Grundbegriffe des wissenschaftlichen Publizierens,
+    Peer Reviews und der Open Science sowie von Problemen und Lösungsansätzen im Bereich
+    Gender und Diversity in der Informatikforschung. Sie wählen ein Vortragsthema
+    (z. B. auf Grundlage eines Vorlesungsthemas) unter Nutzung der bereitgestellten
+    Literatur und erweitern diese Literatur durch selbstständige Recherche. Die Studierenden
+    bereiten das Thema basierend auf der Literatur auf und erarbeiten sich so ein
+    Verständnis für das Thema, in das auch eigene Überlegungen einfließen sollen.
+    Basierend darauf erarbeiten Studierende einen Vortrag, halten diesen und diskutieren
+    eventuelle Fragen. Sie erstellen eine schriftliche Ausarbeitung basierend auf
+    den Vortrag.
+  exam: Schriftliche Ausarbeitung (3.000 bis 4.000 Wörter) und Vortrag (ca. 30 Minuten)
+    mit anschließender Diskussion (ca. 10 Minuten)
+  teachingunit:
+    - type: Vorlesung
+      swstime: 1
+      attendance: required
+      activity: '-'
+    - type: Proseminar
+      swstime: 2
+      attendance: required
+      activity: Teilnahme an der Diskussion zum Vortrag
+  workload:
+    - type: Präsenzzeit V
+      time: 15
+    - type: Vor- und Nachbereitung V
+      time: 15
+    - type: Präsenzzeit PS
+      time: 30
+    - type: Vor- und Nachbereitung PS
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt
