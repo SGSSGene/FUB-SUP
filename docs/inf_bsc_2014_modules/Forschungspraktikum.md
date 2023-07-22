@@ -1,7 +1,6 @@
 # Forschungspraktikum
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Forschungspraktikum |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Die Tätigkeiten werden in enger Zusammenarbeit mit und unter genauer Anleitung und Rückmeldung durch Forschende sowie direkt im Kontext derer Forschungsarbeit durchgeführt, sodass Formen und Inhalte erheblich variieren können, aber jeweils an den Qualifikationszielen ausgerichtet sind. Das Verfahren der Durchführung (Zeitrahmen, Präsenztermine und Betreuung, Arbeitsnachweise, Kolloquium zur Notenfindung etc.) ist vorab separat mit der Dozentin oder dem Dozenten zu vereinbaren. |
 |**Modulprüfung**                    | Präsentation der Ergebnisse (ca. 15 Minuten) mit Diskussion (ca. 15 Minuten) |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150|
+|**Arbeitsaufwand (Stunden)**        | 150 |
 |**Leistungspunkte (LP)**            | 5 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Unregelmäßig |
@@ -18,10 +17,10 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Praxisseminar | 2 | required | Aufbereitete Arbeitsergebnisse |
+| Praxisseminar        | 2                         | required                           | Aufbereitete Arbeitsergebnisse |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit | 30 |
-| Vor- und Nachbereitung | 90 |
-| Prüfungsvorbereitung und Prüfung | 30 |
+| Präsenzzeit                              | 30    |
+| Vor- und Nachbereitung                   | 90    |
+| Prüfungsvorbereitung und Prüfung         | 30    |

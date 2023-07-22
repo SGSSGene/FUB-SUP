@@ -1,7 +1,6 @@
 # Arbeits- und Lebensmethodik
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Arbeits- und Lebensmethodik |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
@@ -10,17 +9,17 @@
 |**Inhalte**                         | Psychologische Grundlagen der oben genannten Methoden, Einzelheiten der Methoden (z. B. Regeln der Zielsetzung, Feedback-Regeln), konkrete Formen des Einsatzes, Diskussion der Vor- und Nachteile. Diskussion konkreter Anwendungen in der aktuellen Lebenssituation der Studentinnen und Studenten. |
 |**Modulprüfung**                    | Keine |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150|
+|**Arbeitsaufwand (Stunden)**        | 150 |
 |**Leistungspunkte (LP)**            | 5 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen) 5 LP |
+|**Verwendbarkeit**                  | Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen) |
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminaristischer Unterricht | 3 | required | Regelmäßige Beteiligung an den Diskussionen; aufgabenbezogene Ausarbeitungen und Präsentationen; Einzel- und Gruppenarbeiten |
+| Seminaristischer Unterricht | 3                         | required                           | Regelmäßige Beteiligung an den Diskussionen; aufgabenbezogene Ausarbeitungen und Präsentationen; Einzel- und Gruppenarbeiten |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit | 45 |
-| Vor- und Nachbereitung | 105 |
+| Präsenzzeit                              | 45    |
+| Vor- und Nachbereitung                   | 105   |

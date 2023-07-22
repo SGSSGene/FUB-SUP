@@ -1,7 +1,6 @@
 # Rechtliche Aspekte der Informatik
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Rechtliche Aspekte der Informatik |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Fortschritte der Informatik und neue Anwendungen der Informatik sowie rechtliche Aspekte ihrer Anwendung in gesellschaftlichen Zusammenhängen (z. B. Datenschutz, Patentrecht, Rechtschutz, Vertragsrecht, Urheberrecht) |
 |**Modulprüfung**                    | Keine |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150|
+|**Arbeitsaufwand (Stunden)**        | 150 |
 |**Leistungspunkte (LP)**            | 5 |
 |**Dauer des Moduls**                | März bis August |
 |**Häufigkeit des Angebots**         | Jährlich |
@@ -18,10 +17,10 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung | 2 | required | Beteiligung an den Diskussionen im Seminar |
-| Übung | 2 | required | Beteiligung an den Diskussionen im Seminar |
+| Vorlesung            | 2                         | required                           | Beteiligung an den Diskussionen im Seminar |
+| Übung                | 2                         | required                           | Beteiligung an den Diskussionen im Seminar |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit | 60 |
-| Vor- und Nachbereitung | 90 |
+| Präsenzzeit                              | 60    |
+| Vor- und Nachbereitung                   | 90    |

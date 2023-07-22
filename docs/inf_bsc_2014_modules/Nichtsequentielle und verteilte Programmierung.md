@@ -1,7 +1,6 @@
 # Nichtsequentielle und verteilte Programmierung
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Nichtsequentielle und verteilte Programmierung |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Programmieren und synchronisieren von gleichzeitig laufenden Prozessen, die auf gemeinsamen Speicher zugreifen oder über Nachrichtenaustausch interagieren. – Nichtsequentielle Programme und Prozesse in ihren verschiedenen Ausprägungen, Nichtdeterminismus, Determinierung – Synchronisationsmechanismen: Sperren, Monitore, Wachen, Ereignisse, Semaphore – Nichtsequentielle Programmausführung und Objektorientierung Ablaufsteuerung, Auswahlstrategien, Prioritäten, Umgang mit und Vermeidung von Verklemmung – Koroutinen, Implementierung, Mehrprozessorsysteme – Interaktion über Nachrichten, Sicherheitsaspekte von Anwendungen im Netzwerk – Programmieren und synchronisieren von gleichzeitig laufenden Prozessen, die über Nachrichtenaustausch interagieren. – Fernaufruftechniken – Client-Server, Peer-to-Peer – Parallelrechnen im Netz – Koordinierungssprachen, Orchestrierung, Choreographie – Verarbeitung auf dem Server und auf dem Client, Mobilität – Middleware, strukturierte Kommunikation, statische und dynamische Schnittstellen – Ereignisbasierte und strombasierte Verarbeitung – Sicherheit von Anwendungen im Netzwerk, Absicherung der Protokolle – Ausblick auf nichtfunktionale Eigenschaften (Zeit, Speicher, Dienstgüte) |
 |**Modulprüfung**                    | Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden. |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 270|
+|**Arbeitsaufwand (Stunden)**        | 270 |
 |**Leistungspunkte (LP)**            | 9 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Sommersemester |
@@ -18,12 +17,12 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung | 4 | recommended | - |
-| Übung | 2 | required | Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen |
+| Vorlesung            | 4                         | recommended                        | -                        |
+| Übung                | 2                         | required                           | Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Vor- und Nachbereitung V | 30 |
-| Präsenzzeit Ü | 30 |
-| Vor- und Nachbereitung Ü | 120 |
-| Prüfungsvorbereitung und Prüfung | 30 |
+| Vor- und Nachbereitung V                 | 30    |
+| Präsenzzeit Ü                            | 30    |
+| Vor- und Nachbereitung Ü                 | 120   |
+| Prüfungsvorbereitung und Prüfung         | 30    |

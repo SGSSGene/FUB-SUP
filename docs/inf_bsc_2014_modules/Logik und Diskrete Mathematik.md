@@ -1,7 +1,6 @@
 # Logik und Diskrete Mathematik
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Logik und Diskrete Mathematik |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Aussagenlogik und mathematische Beweistechniken – Boolesche Formeln und Boolesche Funktionen, DNF und KNF, Erfüllbarkeit, Resolutionskalkül – Mengenlehre: Mengen, Relationen, Äquivalenz- und Ordnungsrelationen, Funktionen – Natürliche Zahlen und vollständige Induktion, Abzählbarkeit – Prädikatenlogik und mathematische Strukturen – Kombinatorik: Abzählprinzipien, Binomialkoeffizienten und Stirling-Zahlen, Rekursion, Schubfachprinzip, diskrete Wahrscheinlichkeitsverteilungen – Graphentheorie: Graphen und ihre Darstellungen, Wege und Kreise in Graphen, Bäume |
 |**Modulprüfung**                    | Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden; die Modulprüfung wird nicht differenziert bewertet. |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 270|
+|**Arbeitsaufwand (Stunden)**        | 270 |
 |**Leistungspunkte (LP)**            | 9 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Wintersemester |
@@ -18,13 +17,13 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung | 4 | recommended | - |
-| Übung | 2 | required | Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen |
+| Vorlesung            | 4                         | recommended                        | -                        |
+| Übung                | 2                         | required                           | Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit V | 60 |
-| Vor- und Nachbereitung V | 45 |
-| Präsenzzeit Ü | 30 |
-| Vor- und Nachbereitung Ü | 105 |
-| Prüfungsvorbereitung und Prüfung | 30 |
+| Präsenzzeit V                            | 60    |
+| Vor- und Nachbereitung V                 | 45    |
+| Präsenzzeit Ü                            | 30    |
+| Vor- und Nachbereitung Ü                 | 105   |
+| Prüfungsvorbereitung und Prüfung         | 30    |

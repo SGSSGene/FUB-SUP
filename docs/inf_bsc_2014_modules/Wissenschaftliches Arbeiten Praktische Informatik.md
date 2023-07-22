@@ -1,7 +1,6 @@
 # Wissenschaftliches Arbeiten Praktische Informatik
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Wissenschaftliches Arbeiten Praktische Informatik |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Praktischen Informatik (z. B. Software Engineering, Datenbanksysteme, Datenverwaltung, Sicherheit in der Informationstechnologie, Künstliche Intelligenz, moderne Web-Technologien). |
 |**Modulprüfung**                    | Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca. 45 Minuten) |
 |**Modulsprache**                    | Deutsch (ggf. Englisch) |
-|**Arbeitsaufwand (Stunden)**        | 150|
+|**Arbeitsaufwand (Stunden)**        | 150 |
 |**Leistungspunkte (LP)**            | 5 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Semester |
@@ -18,10 +17,10 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Hauptseminar | 2 | required | Vortrag |
+| Hauptseminar         | 2                         | required                           | Vortrag                  |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit HS | 30 |
-| Vor- und Nachbereitung HS | 60 |
-| Prüfungsvorbereitung und Prüfung | 60 |
+| Präsenzzeit HS                           | 30    |
+| Vor- und Nachbereitung HS                | 60    |
+| Prüfungsvorbereitung und Prüfung         | 60    |

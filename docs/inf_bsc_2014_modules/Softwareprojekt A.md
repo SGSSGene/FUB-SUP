@@ -1,7 +1,6 @@
 # Softwareprojekt A
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Softwareprojekt A |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
@@ -10,18 +9,18 @@
 |**Inhalte**                         | Im Softwareprojekt wird das implizite Wissen (tacit knowing) der Softwareentwicklung angeeignet. Dazu wird von den Studentinnen und Studenten im Team unter Anleitung der Dozentin oder des Dozenten ein größeres Softwaresystem arbeitsteilig entwickelt. Dabei sollen alle Phasen eines Softwareprojekts, so wie sie in einem Unternehmen heute stattfinden, durchlaufen sowie typische Methoden, wie sie im Modul Softwaretechnik kennen gelernt wurden, anhand der im Unternehmenseinsatz typischen Werkzeuge und Hilfsmittel durchgeführt werden. Es werden exemplarisch unternehmenstypische Softwarekomponenten und Werkzeuge zur Durchführung aller auftretenden Aufgaben vorgestellt und erprobt. |
 |**Modulprüfung**                    | Keine |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 300|
+|**Arbeitsaufwand (Stunden)**        | 300 |
 |**Leistungspunkte (LP)**            | 10 |
 |**Dauer des Moduls**                | 8 Wochen im Block bzw. ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen) 10 LP |
+|**Verwendbarkeit**                  | Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen) |
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Projektseminar | 2 | required | Erfolgreiches Bearbeiten und Dokumentieren der Teilaufgaben |
+| Projektseminar       | 2                         | required                           | Erfolgreiches Bearbeiten und Dokumentieren der Teilaufgaben |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit | 30 |
-| Vor | und Nachbereitung |
-| Prüfungsvorbereitung und Prüfung | 30 |
+| Präsenzzeit                              | 30    |
+| Vor                                      | und Nachbereitung |
+| Prüfungsvorbereitung und Prüfung         | 30    |

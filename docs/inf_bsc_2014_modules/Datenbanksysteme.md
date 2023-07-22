@@ -1,7 +1,6 @@
 # Datenbanksysteme
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Datenbanksysteme |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Datenbankentwurf mit Entity-Releationship-Modellen und der UML; theoretische Grundlagen relationaler Datenbanksysteme, relationale Algebra; funktionale Abhängigkeiten, Normalformen, relationale Datenbankentwicklung: Datendefinition, Fremdschlüssel, andere Integritätsbedingungen, objektrelationale Abbildung, Sicherheits- und Schutzkonzepte; Transaktionsbegriff, transaktionale Garantien, Synchronisierung des Mehrbenutzerbetriebs, Fehlertoleranzeigenschaften. |
 |**Modulprüfung**                    | Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden. |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 210|
+|**Arbeitsaufwand (Stunden)**        | 210 |
 |**Leistungspunkte (LP)**            | 7 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Sommersemester |
@@ -18,14 +17,14 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung | 3 | recommended | - |
-| Übung | 2 | required | Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen |
+| Vorlesung            | 3                         | recommended                        | -                        |
+| Übung                | 2                         | required                           | Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit V | 45 |
-| Vor- und Nachbereitung V | 45 |
-| Präsenzzeit Ü | 15 |
-| Betreut im PC-Labor | 15 |
-| Vor- und Nachbereitung Ü | 60 |
-| Prüfungsvorbereitung und Prüfung | 30 |
+| Präsenzzeit V                            | 45    |
+| Vor- und Nachbereitung V                 | 45    |
+| Präsenzzeit Ü                            | 15    |
+| Betreut im PC-Labor                      | 15    |
+| Vor- und Nachbereitung Ü                 | 60    |
+| Prüfungsvorbereitung und Prüfung         | 30    |
