@@ -10,6 +10,7 @@ Während der Aufbereitung wurden kleinere Änderungen vorgenommen:
     - `- Modul: Betriebs- und Kommunikationssysteme (6 LP){--.--}{++,++}`
 - Seite 522: Zellenbezeichnung vereinheitlicht:
     - `Hochschule/Fachbereich/{--Institut--}{++Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
+- Seite 548: Qualifikationsziele angepasst: {{...untersuchen{--4--} und...}}
 - Seite 558: Bindestrich entfernt:
     - `Kommentierung der Vorträge der Mit{-----}studierenden.`
 - Seite 559: hinzufügen von Satzzeichen, für bessere Lesbarkeit

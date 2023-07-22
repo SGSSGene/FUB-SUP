@@ -73,7 +73,7 @@ get_module_description_page() {
     export JQ_CONTENT=$(cat ${front} | sed -n '/Inhalte:/,$p' | tail +2)
 
     # Extract the Part starting with "Modulprüfung"
-    pdftotext ${input} -r 2048 -f $page -l $lastpage /dev/stdout -bbox-layout > $tmp/teachingunits.xml
+    pdftotext ${input} -fixed 120 -r 2048 -f $page -l $lastpage /dev/stdout -bbox-layout > $tmp/teachingunits.xml
 
     XQPDFCOL=1 xq -f scripts/extractDescriptionPart2.xq $tmp/teachingunits.xml > $tmp/descPart2_left.json
     XQPDFCOL=2 xq -f scripts/extractDescriptionPart2.xq $tmp/teachingunits.xml > $tmp/descPart2_right.json

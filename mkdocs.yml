@@ -73,6 +73,9 @@ nav:
       - inf_bsc_2023_modules/Vertiefte Aspekte der Informatik.md
       - inf_bsc_2023_modules/Vertiefung Theoretische Informatik.md
       - inf_bsc_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md
+  - SOP Informatik Msc 2014:
+    - Studien- und Prüfungsordnung: sop_inf_msc_2014.md
+
 theme: readthedocs
 repo_url: https://github.com/SGSSGene/FUB-SuP-Ordnung
 extra_css:
