@@ -75,7 +75,7 @@ nav:
       - inf_bsc_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md
   - SOP Informatik Msc 2014:
     - Studien- und Prüfungsordnung: inf_msc_2014_sop.md
-    - Modulebeschreibung:
+    - Modulebeschreibungen:
       - inf_msc_2014_modules/Verteilte Systeme.md
       - inf_msc_2014_modules/Medizinische Bildverarbeitung.md
       - inf_msc_2014_modules/Modellgetriebene Softwareentwicklung.md
@@ -130,7 +130,9 @@ nav:
       - inf_msc_2014_modules/Übersetzerbau.md
       - inf_msc_2014_modules/Empirische Bewertung in der Informatik.md
       - inf_msc_2014_modules/Spezielle Aspekte der Praktischen Informatik.md
-theme: readthedocs
+theme:
+  name: material
+
 repo_url: https://github.com/SGSSGene/FUB-SuP-Ordnung
 extra_css:
   - extra.css
