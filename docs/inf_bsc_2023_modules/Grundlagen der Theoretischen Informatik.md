@@ -1,7 +1,6 @@
 # Grundlagen der Theoretischen Informatik
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Grundlagen der Theoretischen Informatik |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Studierende lernen formale Sprachen und verschiedene algorithmische Probleme kennen und üben deren Anwendung. Darüber hinaus erlernen sie reguläre Sprachen, erarbeiten sich deren Darstellungsformen und Automatenmodelle und diskutieren ihre grundlegenden Eigenschaften. Sie lernen Turing-Maschinen kennen, erarbeiten sich Entscheidbarkeit und Semi-Entscheidbarkeit, die Church-Turing-These, sowie Reduktionen und üben deren Anwendung. Zuletzt erlernen sie formale Grammatiken, Chomsky-Hierarchie, kontextfreie Sprachen und die Theorie der NP-Vollständigkeit und üben deren Anwendung. |
 |**Modulprüfung**                    | Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden. |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 180|
+|**Arbeitsaufwand (Stunden)**        | 180 |
 |**Leistungspunkte (LP)**            | 6 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Wintersemester |
@@ -18,12 +17,12 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung | 2 | recommended | - |
-| Übung | 2 | required | Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung oder eines Teils davon. |
+| Vorlesung            | 2                         | recommended                        | -                        |
+| Übung                | 2                         | required                           | Schriftliche Bearbeitung von Übungsaufgaben. Moderation einer Übung oder eines Teils davon. |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Vor- und Nachbereitung V | 30 |
-| Präsenzzeit Ü | 30 |
-| Vor- und Nachbereitung Ü | 60 |
-| Prüfungsvorbereitung und Prüfung | 30 |
+| Vor- und Nachbereitung V                 | 30    |
+| Präsenzzeit Ü                            | 30    |
+| Vor- und Nachbereitung Ü                 | 60    |
+| Prüfungsvorbereitung und Prüfung         | 30    |

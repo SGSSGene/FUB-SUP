@@ -1,7 +1,6 @@
 # Auswirkungen der Informatik
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Auswirkungen der Informatik |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Studierende erarbeiten, welche Auswirkungen die Informatik hat und lernen die Konzepte Auswirkung, sozio-technisches System, Verfügungswissen, Gestaltungswissen, Verantwortung, Techniksoziologie sowie Entscheiden und Handeln. Dabei diskutieren sie Beispiele für Technikfolgen in ausgewählten informatiklastigen Gebieten hoher Relevanz, z. B. Sicherheit softwareintensiver technischer Systeme, Schutz der Privatsphäre, Computerisierung des Alltagslebens, Computerisierung der Arbeitswelt. |
 |**Modulprüfung**                    | Keine |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 180|
+|**Arbeitsaufwand (Stunden)**        | 180 |
 |**Leistungspunkte (LP)**            | 6 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Wintersemester |
@@ -18,12 +17,12 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung | 2 | recommended | - |
-| Übung | 2 | required | Bearbeitung von Ünugaufgaben; Teilnahme an der Diskussion. |
+| Vorlesung            | 2                         | recommended                        | -                        |
+| Übung                | 2                         | required                           | Bearbeitung von Ünugaufgaben; Teilnahme an der Diskussion. |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit V | 30 |
-| Vor- und Nachbereitung V | 30 |
-| Präsenzzeit Ü | 30 |
-| Vor- und Nachbereitung Ü | 90 |
+| Präsenzzeit V                            | 30    |
+| Vor- und Nachbereitung V                 | 30    |
+| Präsenzzeit Ü                            | 30    |
+| Vor- und Nachbereitung Ü                 | 90    |

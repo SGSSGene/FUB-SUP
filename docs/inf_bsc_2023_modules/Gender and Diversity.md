@@ -1,7 +1,6 @@
 # Gender and Diversity
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Gender and Diversity |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen |
@@ -10,18 +9,18 @@
 |**Inhalte**                         | Studierende erarbeiten sich wechselnde Themen aus dem Bereich der disziplinären sowie der die Informatik betreffenden interdisziplinären Geschlechter- und Diversity-Forschung auseinander (z. B. Gender- und DiversityAspekte im Studium und Berufsleben sowie in der Geschichte der Informatik, diskriminierende Algorithmen, Data Bias, nicht-inklusive Entwicklung von Technologie). Sie diskutieren beispielhaft Einzelfälle oder Szenarios. |
 |**Modulprüfung**                    | Schriftliche Ausarbeitung (2.000 bis 3.000 Wörter) und Vortrag (ca. 30 Minuten) mit anschließender Diskussion (ca. 10 Minuten) Diese Modulprüfung wird nicht differenziert bewertet. |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150|
+|**Arbeitsaufwand (Stunden)**        | 150 |
 |**Leistungspunkte (LP)**            | 5 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Unregelmäßig |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation) 5 LP |
+|**Verwendbarkeit**                  | Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation) |
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminaristischer Unterricht | 3 | required | Regelmäßige Beteiligung |
+| Seminaristischer Unterricht | 3                         | required                           | Regelmäßige Beteiligung  |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit SU | 30 |
-| Vor- und Nachbereitung SU | 90 |
-| Prüfungsvorbereitung und Prüfung | 30 |
+| Präsenzzeit SU                           | 30    |
+| Vor- und Nachbereitung SU                | 90    |
+| Prüfungsvorbereitung und Prüfung         | 30    |

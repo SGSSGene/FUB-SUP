@@ -1,7 +1,6 @@
 # Arbeits- und Lebensmethodik
-
-| | |
-|-|-|
+|                                    |   |
+|------------------------------------|---|
 |**Modul**                           | Arbeits- und Lebensmethodik |
 |**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
 |**Modulverantwortung**              | Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen |
@@ -10,7 +9,7 @@
 |**Inhalte**                         | Die Studierenden erarbeiten sich die psychologischen Grundlagen der oben genannten Methoden, erlernen die nötigen Einzelheiten der Methoden (z. B. Regeln der Zielsetzung, Feedback-Regeln) und üben konkrete Formen des Einsatzes. Sie diskutieren immer wieder Vor- und Nachteile, sowie typische geschlechtsspezifischer Muster. Sie erlernen und üben konkrete Anwendungen in aktuellen Lebenssituationen. |
 |**Modulprüfung**                    | Keine |
 |**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150|
+|**Arbeitsaufwand (Stunden)**        | 150 |
 |**Leistungspunkte (LP)**            | 5 |
 |**Dauer des Moduls**                | Ein Semester |
 |**Häufigkeit des Angebots**         | Jedes Wintersemester |
@@ -18,9 +17,9 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminaristischer Unterricht | 3 | required | Regelmäßige Beteiligung |
+| Seminaristischer Unterricht | 3                         | required                           | Regelmäßige Beteiligung  |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
-| Präsenzzeit sU | 45 |
-| Vor- und Nachbereitung sU | 105 |
+| Präsenzzeit sU                           | 45    |
+| Vor- und Nachbereitung sU                | 105   |

@@ -1,0 +1,50 @@
+#!/usr/bin/env -S yq -r -f
+def expand(n):
+    if length < n then
+        . + " " | expand(n)
+    else
+        .
+    end
+;
+
+def cleanup:
+    . | gsub("\\*"; "\\*") # escape * for markdown
+;
+
+.[env.YQ_MODULE_IDX | tonumber]
+| .name |= cleanup
+| .organizer |= cleanup
+| .responsible |= cleanup
+| .requirements |= cleanup
+| .goals |= cleanup
+| .content |= cleanup
+| .exam |= cleanup
+| [   "# " + .name
+    , "|                                    |   |"
+    , "|------------------------------------|---|"
+    , "|**Modul**                           | " + .name + " |"
+    , "|**Hochschule/Fachbereich/Institut** | " + .organizer + " |"
+    , "|**Modulverantwortung**              | " + .responsible + " |"
+    , "|**Zugangsvoraussetzungen**          | " + .requirements + " |"
+    , "|**Qualifikationsziele**             | " + .goals + " |"
+    , "|**Inhalte**                         | " + .content + " |"
+    , "|**Modulprüfung**                    | " + .exam + " |"
+    , "|**Modulsprache**                    | " + .language + " |"
+    , "|**Arbeitsaufwand (Stunden)**        | " + (.total_work | tostring) + " |"
+    , "|**Leistungspunkte (LP)**            | " + (.credit_points | tostring) + " |"
+    , "|**Dauer des Moduls**                | " + .duration + " |"
+    , "|**Häufigkeit des Angebots**         | " + .repeat + " |"
+    , "|**Verwendbarkeit**                  | " + .usability + " |"
+    , ""
+    , "| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |"
+    , "| ---------------------|---------------------------|------------------------------------|------------------------- |"
+    , ([.teachingunit[] | "| " + (.type | expand(20)) + " | "
+                               + (.swstime | tostring | expand(25)) + " | "
+                               + (.attendance | expand(34)) + " | "
+                               + (.activity | expand(24)) + " |" ])
+    , ""
+    , "|   | Aufwand in Stunden |"
+    , "| - |--------------------|"
+    , ([.workload[] | "| " + (.type | expand(40)) + " | " + (.time | tostring | expand(5)) + " |"])
+  ] | flatten
+| .[]
