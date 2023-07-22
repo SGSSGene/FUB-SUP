@@ -142,10 +142,10 @@ Die Regelstudienzeit beträgt sechs Semester.
     1. Themengebiet: Algorithmen und Programmierung im Umfang von 35 LP
         1. Es sind folgende drei Module zu absolvieren:
             - Modul: [Funktionale Programmierung](inf_bsc_2014_modules/Funktionale Programmierung.md) (9 LP),
-            - Modul: [Algorithmen, Datenstrukturen und Datenabstraktion](url/Algorithmen, Datenstrukturen und Datenabstraktion.md) (9 LP) und
-            - Modul: [Nichtsequentielle und verteilte Programmierung](url/Nichtsequentielle und verteilte Programmierung.md) (9 LP).
+            - Modul: [Algorithmen, Datenstrukturen und Datenabstraktion](inf_bsc_2014_modules/Algorithmen, Datenstrukturen und Datenabstraktion.md) (9 LP) und
+            - Modul: [Nichtsequentielle und verteilte Programmierung](inf_bsc_2014_modules/Nichtsequentielle und verteilte Programmierung.md) (9 LP).
         2. Sowie entsprechend dem Ergebnis eines vorher zu absolvierenden Einstufungstests ist eines der beiden folgenden Module zu absolvieren:
-            - Modul: [Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnisse](inf_bsc_2014_modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnisse.md) (8 LP) oder
+            - Modul: [Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen](inf_bsc_2014_modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md) (8 LP) oder
             - Modul: [Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse](inf_bsc_2014_modules/Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse.md) (8 LP).
     2. Themengebiet: Technische Informatik im Umfang von
         10 LP; es ist folgendes Modul zu absolvieren:
@@ -315,7 +315,7 @@ Die Regelstudienzeit beträgt sechs Semester.
             - Modul: [Gesellschaftliche Aspekte der Informatik](inf_bsc_2014_modules/Gesellschaftliche Aspekte der Informatik.md) (5 LP),
             - Modul: [Rechtliche Aspekte der Informatik](inf_bsc_2014_modules/Rechtliche Aspekte der Informatik.md) (5 LP),
             - Modul: [Planung, Durchführung und Analyse eines Tutoriums in der Informatik](inf_bsc_2014_modules/Planung, Durchführung und Analyse eines Tutoriums in der Informatik.md) (5 LP),
-            - Modul: [Grundlagen des Managements von ITProjekten](inf_bsc_2014_modules/Grundlagen des Managements von ITProjekten.md) (5 LP),
+            - Modul: [Grundlagen des Managements von IT-Projekten](inf_bsc_2014_modules/Grundlagen des Managements von IT-Projekten.md) (5 LP),
             - Modul: [Systemverwaltung](inf_bsc_2014_modules/Systemverwaltung.md) (5 LP).
 
     Ferner sind im Rahmen des Kompetenzbereichs Fachnahe Zusatzqualifikationen gemäß Nr. 1. Buchst. b) die Module Computeralgebra (5 LP), Statistik-Software
@@ -354,9 +354,9 @@ Die Regelstudienzeit beträgt sechs Semester.
     absolviert haben, darunter die folgenden Module:
         - Modul: [Algorithmen, Datenstrukturen und Datenabstraktion](inf_bsc_2014_modules/Algorithmen, Datenstrukturen und Datenabstraktion.md) (9 LP),
         - Modul: [Grundlagen der Theoretischen Informatik](inf_bsc_2014_modules/Grundlagen der Theoretischen Informatik.md) (7 LP),
-        - Modul: [Logik und diskrete Mathematik](inf_bsc_2014_modules/Logik und diskrete Mathematik.md) (9 LP),
+        - Modul: [Logik und Diskrete Mathematik](inf_bsc_2014_modules/Logik und Diskrete Mathematik.md) (9 LP),
         - Modul: [Lineare Algebra für Informatik](inf_bsc_2014_modules/Lineare Algebra für Informatik.md) (10 LP) oder Lineare Algebra 1 (10 LP),
-        - Modul: [Rechnerarchitektur, Betriebssysteme und Netzwerke](inf_bsc_2014_modules/Rechnerarchitektur, Betriebssysteme und Netzwerke.md) (10 LP) und
+        - Modul: [Rechnerarchitektur, Betriebssysteme und Netzwerke](inf_bsc_2014_modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md) (10 LP) und
         - Modul: [Wissenschaftliches Arbeiten in der Informatik](inf_bsc_2014_modules/Wissenschaftliches Arbeiten in der Informatik.md) (5 LP).
 3. Dem Antrag auf Zulassung zur Bachelorarbeit sind
     Nachweise über das Vorliegen der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer

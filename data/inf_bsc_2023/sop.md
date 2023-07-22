@@ -166,7 +166,7 @@ Die Regelstudienzeit beträgt sechs Semester.
     - Modul: [Praktiken professioneller Softwareentwicklung](inf_bsc_2023_modules/Praktiken professioneller Softwareentwicklung.md)  (6 LP),
     - Modul: [Grundlagen des Datenschutzrechts](inf_bsc_2023_modules/Grundlagen des Datenschutzrechts.md)  (6 LP),
     - Modul: [Vertiefung Theoretische Informatik](inf_bsc_2023_modules/Vertiefung Theoretische Informatik.md)  (6 LP),
-    - Modul: [Aktuelle Forschungsthemen in der Informatik](inf_bsc_2023_modules/Aktuelle Forschungsthemen in der Informatik.md)  (6 LP),
+    - Modul: [Aktuelle Themen in der Informatik](inf_bsc_2023_modules/Aktuelle Themen in der Informatik.md)  (6 LP),
     - Modul: [Vertiefte Aspekte der Informatik](inf_bsc_2023_modules/Vertiefte Aspekte der Informatik.md)  (6 LP).
 5. Im Wahlbereich können Module beliebiger wissenschaftlicher Studienfächer (einschließlich der Informatik)
     im Umfang von 10 LP absolviert werden, die die erworbenen Qualifikationen ergänzen. Im Pflicht- oder Wahlpflichtbereich absolvierte Module oder andere gleichwertige Module der Informatik aus anderen Studiengängen dürfen im Wahlbereich nicht eingebracht werden.
@@ -179,7 +179,7 @@ Die Regelstudienzeit beträgt sechs Semester.
     - Modul: [Projektmanagement in agilen Umgebungen](inf_bsc_2023_modules/Projektmanagement in agilen Umgebungen.md)  (5 LP),
     - Modul: [Systemverwaltung](inf_bsc_2023_modules/Systemverwaltung.md)  (5 LP).
 
-    Im Bereich Praktika wird das Modul „[Berufsbezogenes Praktikum Informatik](bsc_inf_2023_modules/Berufsbezogenes Praktikum Informatik.md)“ (10 LP) angeboten.
+    Im Bereich Praktika wird das Modul „[Berufsbezogenes Praktikum Informatik](inf_bsc_2023_modules/Berufsbezogenes Praktikum Informatik.md)“ (10 LP) angeboten.
 
 7. Über die Zugangsvoraussetzungen, die Inhalte
     und Qualifikationsziele, die Lehr- und Lernformen, den

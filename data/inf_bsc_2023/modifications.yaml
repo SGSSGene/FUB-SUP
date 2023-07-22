@@ -5,6 +5,10 @@
   Seite 536: Punkt mit Komma ersetzt:
     - `- Modul: Betriebs- und Kommunikationssysteme (6 LP){--.--}{++,++}`
 - |
+  Seite 536: Modul falsch benannt:
+    - `Modul: Aktuelle {{--Forschungst--}}{{++T++}}hemen in der Informatik] (6 LP),`
+        - Modul: [Rechnerarchitektur, Betriebssysteme und Netzwerke](inf_bsc_2014_modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md) (10 LP) und
+- |
   Seite 522: Zellenbezeichnung vereinheitlicht:
     - `Hochschule/Fachbereich/{--Institut--}{++Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
 - |
