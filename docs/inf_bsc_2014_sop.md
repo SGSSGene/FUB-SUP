@@ -222,8 +222,7 @@ Die Regelstudienzeit beträgt sechs Semester.
         zwanzig Teilnehmerinnen und Teilnehmer umfassen
         sollen. Die Übungen werden von studentischen Tutorinnen oder Tutoren oder wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern unter der Leitung der
         Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu
-        einer Vorlesung erscheinen in regelmäßigen Abstän-
-        den Übungsblätter mit Aufgaben, die von den Studentinnen und Studenten selbstständig in freier
+        einer Vorlesung erscheinen in regelmäßigen Abständen Übungsblätter mit Aufgaben, die von den Studentinnen und Studenten selbstständig in freier
         Hausarbeit oder in selbstorganisierten Kleingruppen
         zu lösen oder zu bearbeiten sind. Die Lösungen oder
         Lösungsansätze werden in den Übungsgruppen vorgetragen und diskutiert. Zweck der Übungsgruppen
@@ -293,8 +292,7 @@ Die Regelstudienzeit beträgt sechs Semester.
     die fachwissenschaftlichen Studien hinaus eine breitere
     wissenschaftliche Bildung und weitere berufsfeldbezogene Kompetenzen zur Vorbereitung auf qualifikationsadäquate, auch international ausgerichtete berufliche
     Tätigkeiten nach dem Studium.
-2. Die Module des Studienbereichs ABV werden jeweils in der Studien- und Prüfungsordnung für den Stu-
-    dienbereich Allgemeine Berufsvorbereitung in Bachelorstudiengängen der Freien Universität Berlin (StO-ABV
+2. Die Module des Studienbereichs ABV werden jeweils in der Studien- und Prüfungsordnung für den Studienbereich Allgemeine Berufsvorbereitung in Bachelorstudiengängen der Freien Universität Berlin (StO-ABV
     und PO-ABV) oder dieser Studien- und Prüfungsordnung beschrieben.
 3. Der Studienbereich ABV im Umfang von 30 LP
     umfasst ein obligatorisches Berufspraktikum im Umfang
@@ -370,8 +368,7 @@ Die Regelstudienzeit beträgt sechs Semester.
     Bearbeitungsfrist abgeschlossen werden kann. Ausgabe
     und Fristeinhaltung sind aktenkundig zu machen.
 5. Die Arbeit kann auch extern in einem geeigneten
-    Betrieb oder in einer wissenschaftlichen Einrichtung an-
-    gefertigt werden, sofern die wissenschaftliche Betreuung
+    Betrieb oder in einer wissenschaftlichen Einrichtung angefertigt werden, sofern die wissenschaftliche Betreuung
     gemäß Abs. 3 gewährleistet ist.
 6. Der schriftliche Teil der Bachelorarbeit soll etwa
     25 Seiten mit 7 500 Wörtern umfassen. Die Bearbeitungszeit für die Bachelorarbeit beträgt 12 Wochen. Er
@@ -436,14 +433,13 @@ Die Regelstudienzeit beträgt sechs Semester.
     digitalen Technologien ist die Geeignetheit dieser Technologien im Hinblick auf die vorgesehenen Prüfungsaufgaben und die Durchführung der elektronischen Prüfungsleistung von zwei Prüferinnen oder Prüfern festzustellen.
 3. Die Authentizität des Urhebers und die Integrität
     der Prüfungsergebnisse sind sicherzustellen. Hierfür
-    werden die Prüfungsergebnisse in Form von elektroni-
-    schen Daten eindeutig identifiziert sowie unverwechselbar und dauerhaft der Studentin oder dem Studenten zugeordnet. Es ist zu gewährleisten, dass die elektronischen Daten für die Bewertung und Nachprüfbarkeit
+    werden die Prüfungsergebnisse in Form von elektronischen Daten eindeutig identifiziert sowie unverwechselbar und dauerhaft der Studentin oder dem Studenten zugeordnet. Es ist zu gewährleisten, dass die elektronischen Daten für die Bewertung und Nachprüfbarkeit
     unverändert und vollständig sind.
 4. Eine automatisiert erstellte Bewertung einer Prüfungsleistung ist auf Antrag der geprüften Studentin oder
     des geprüften Studenten von einer Prüferin oder einem
     Prüfer zu überprüfen.
 ## § 13 Antwort-Wahl-Verfahren
-1. Prüfungsaufgaben in der Form des Antwort-WahlVerfahrens sind von zwei Prüfungsberechtigten zu stellen.
+1. Prüfungsaufgaben in der Form des Antwort-Wahl-Verfahrens sind von zwei Prüfungsberechtigten zu stellen.
 2. Erweist sich bei der Bewertung von Prüfungsleistungen, die nach dem Antwort-Wahl-Verfahren abgelegt
     worden sind, eine auffällige Fehlerhäufung bei der Beantwortung einzelner Prüfungsaufgaben, so leitet eine
     Prüferin oder ein Prüfer die gesamten Prüfungsunterlagen unverzüglich und vor der Bekanntgabe von Prüfungsergebnissen an den Prüfungsausschuss. Der Prüfungsausschuss überprüft die Prüfungsaufgaben darauf,
