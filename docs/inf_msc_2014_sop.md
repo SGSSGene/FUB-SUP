@@ -115,69 +115,69 @@ Die Regelstudienzeit beträgt vier Semester.
     1. Praktische Informatik im Umfang von 20 bis 50 LP, mit
         den Modulen:
 
-        - Modul: Bildverarbeitung (5 LP),
-        - Modul: Computergrafik (10 LP),
-        - Modul: Computer-Vision (5 LP),
-        - Modul: Datenbanktechnologie (5 LP),
-        - Modul: Empirische Bewertung in der Informatik (5 LP),
-        - Modul: Existenzgründung in der IT-Industrie (5 LP),
-        - Modul: Grundlagen des Softwaretestens (5 LP),
-        - Modul: Grundlagen des Managements von IT-Projekten (5 LP),
-        - Modul: Künstliche Intelligenz (5 LP),
-        - Modul: Medizinische Bildverarbeitung (5 LP),
-        - Modul: Modellgetriebene Softwareentwicklung (5 LP),
-        - Modul: Mustererkennung (5 LP),
-        - Modul: Netzbasierte Informationssysteme (5 LP),
-        - Modul: Projektmanagement (5 LP),
-        - Modul: Projektmanagement - Vertiefung (5 LP),
-        - Modul: Rechnersicherheit (10 LP),
-        - Modul: Semantisches Geschäftsprozessmanagement (5 LP),
-        - Modul: Softwareprozesse (5 LP),
-        - Modul: Übersetzerbau (10 LP),
-        - Modul: Verteilte Systeme (5 LP),
-        - Modul: XML-Technologien (5 LP),
-        - Modul: Praktiken professioneller Softwareentwicklung (5 LP),
-        - Modul: Softwareprojekt Praktische Informatik A (10 LP),
-        - Modul: Softwareprojekt Praktische Informatik B (10 LP),
-        - Modul: Wissenschaftliches Arbeiten Praktische Informatik A (5 LP),
-        - Modul: Wissenschaftliches Arbeiten Praktische Informatik B (5 LP),
-        - Modul: Aktuelle Forschungsthemen der Praktischen Informatik (5 LP),
-        - Modul: Spezielle Aspekte der Praktischen Informatik (5 LP),
-        - Modul: Spezielle Aspekte der Datenverwaltung (5 LP),
-        - Modul: Spezielle Aspekte der Softwareentwicklung (5 LP) und
-        - Modul: Ausgewählte Themen der Praktischen Informatik (10 LP).
+        - Modul: [Bildverarbeitung](inf_msc_2014_modules/Bildverarbeitung.md)  (5 LP),
+        - Modul: [Computergrafik](inf_msc_2014_modules/Computergrafik.md)  (10 LP),
+        - Modul: [Computer-Vision](inf_msc_2014_modules/Computer-Vision.md)  (5 LP),
+        - Modul: [Datenbanktechnologie](inf_msc_2014_modules/Datenbanktechnologie.md)  (5 LP),
+        - Modul: [Empirische Bewertung in der Informatik](inf_msc_2014_modules/Empirische Bewertung in der Informatik.md)  (5 LP),
+        - Modul: [Existenzgründung in der IT-Industrie](inf_msc_2014_modules/Existenzgründung in der IT-Industrie.md)  (5 LP),
+        - Modul: [Grundlagen des Softwaretestens](inf_msc_2014_modules/Grundlagen des Softwaretestens.md)  (5 LP),
+        - Modul: [Grundlagen des Managements von IT-Projekten](inf_msc_2014_modules/Grundlagen des Managements von IT-Projekten.md)  (5 LP),
+        - Modul: [Künstliche Intelligenz](inf_msc_2014_modules/Künstliche Intelligenz.md)  (5 LP),
+        - Modul: [Medizinische Bildverarbeitung](inf_msc_2014_modules/Medizinische Bildverarbeitung.md)  (5 LP),
+        - Modul: [Modellgetriebene Softwareentwicklung](inf_msc_2014_modules/Modellgetriebene Softwareentwicklung.md)  (5 LP),
+        - Modul: [Mustererkennung](inf_msc_2014_modules/Mustererkennung.md)  (5 LP),
+        - Modul: [Netzbasierte Informationssysteme](inf_msc_2014_modules/Netzbasierte Informationssysteme.md)  (5 LP),
+        - Modul: [Projektmanagement](inf_msc_2014_modules/Projektmanagement.md)  (5 LP),
+        - Modul: [Projektmanagement - Vertiefung](inf_msc_2014_modules/Projektmanagement - Vertiefung.md)  (5 LP),
+        - Modul: [Rechnersicherheit](inf_msc_2014_modules/Rechnersicherheit.md)  (10 LP),
+        - Modul: [Semantisches Geschäftsprozessmanagement](inf_msc_2014_modules/Semantisches Geschäftsprozessmanagement.md)  (5 LP),
+        - Modul: [Softwareprozesse](inf_msc_2014_modules/Softwareprozesse.md)  (5 LP),
+        - Modul: [Übersetzerbau](inf_msc_2014_modules/Übersetzerbau.md)  (10 LP),
+        - Modul: [Verteilte Systeme](inf_msc_2014_modules/Verteilte Systeme.md)  (5 LP),
+        - Modul: [XML-Technologien](inf_msc_2014_modules/XML-Technologien.md)  (5 LP),
+        - Modul: [Praktiken professioneller Softwareentwicklung](inf_msc_2014_modules/Praktiken professioneller Softwareentwicklung.md)  (5 LP),
+        - Modul: [Softwareprojekt Praktische Informatik A](inf_msc_2014_modules/Softwareprojekt Praktische Informatik A.md)  (10 LP),
+        - Modul: [Softwareprojekt Praktische Informatik B](inf_msc_2014_modules/Softwareprojekt Praktische Informatik B.md)  (10 LP),
+        - Modul: [Wissenschaftliches Arbeiten Praktische Informatik A](inf_msc_2014_modules/Wissenschaftliches Arbeiten Praktische Informatik A.md)  (5 LP),
+        - Modul: [Wissenschaftliches Arbeiten Praktische Informatik B](inf_msc_2014_modules/Wissenschaftliches Arbeiten Praktische Informatik B.md)  (5 LP),
+        - Modul: [Aktuelle Forschungsthemen der Praktischen Informatik](inf_msc_2014_modules/Aktuelle Forschungsthemen der Praktischen Informatik.md)  (5 LP),
+        - Modul: [Spezielle Aspekte der Praktischen Informatik](inf_msc_2014_modules/Spezielle Aspekte der Praktischen Informatik.md)  (5 LP),
+        - Modul: [Spezielle Aspekte der Datenverwaltung](inf_msc_2014_modules/Spezielle Aspekte der Datenverwaltung.md)  (5 LP),
+        - Modul: [Spezielle Aspekte der Softwareentwicklung](inf_msc_2014_modules/Spezielle Aspekte der Softwareentwicklung.md)  (5 LP) und
+        - Modul: [Ausgewählte Themen der Praktischen Informatik](inf_msc_2014_modules/Ausgewählte Themen der Praktischen Informatik.md)  (10 LP).
 
     2. Theoretische Informatik im Umfang von 10 bis 40 LP,
     mit den Modulen:
 
-        - Modul: Höhere Algorithmik (10 LP),
-        - Modul: Modelchecking (10 LP),
-        - Modul: Aktuelle Forschungsthemen der Theoretischen Informatik (5 LP),
-        - Modul: Algorithmische Geometrie (10 LP),
-        - Modul: Ausgewählte Themen der Theoretischen Informatik (10 LP),
-        - Modul: Fortgeschrittene Themen der Theoretischen Informatik (10 LP),
-        - Modul: Spezielle Aspekte der Theoretischen Informatik (5 LP),
-        - Modul: Kryptographie und Sicherheit in Verteilten Systemen (10 LP),
-        - Modul: Semantik von Programmiersprachen (5 LP),
-        - Modul: Softwareprojekt - Theoretische Informatik A (10 LP),
-        - Modul: Softwareprojekt - Theoretische Informatik B (10 LP),
-        - Modul: Wissenschaftliches Arbeiten Theoretische Informatik A (5 LP) und
-        - Modul: Wissenschaftliches Arbeiten Theoretische Informatik B (5 LP).
+        - Modul: [Höhere Algorithmik](inf_msc_2014_modules/Höhere Algorithmik.md)  (10 LP),
+        - Modul: [Modelchecking](inf_msc_2014_modules/Modelchecking.md)  (10 LP),
+        - Modul: [Aktuelle Forschungsthemen der Theoretischen Informatik](inf_msc_2014_modules/Aktuelle Forschungsthemen der Theoretischen Informatik.md)  (5 LP),
+        - Modul: [Algorithmische Geometrie](inf_msc_2014_modules/Algorithmische Geometrie.md)  (10 LP),
+        - Modul: [Ausgewählte Themen der Theoretischen Informatik](inf_msc_2014_modules/Ausgewählte Themen der Theoretischen Informatik.md)  (10 LP),
+        - Modul: [Fortgeschrittene Themen der Theoretischen Informatik](inf_msc_2014_modules/Fortgeschrittene Themen der Theoretischen Informatik.md)  (10 LP),
+        - Modul: [Spezielle Aspekte der Theoretischen Informatik](inf_msc_2014_modules/Spezielle Aspekte der Theoretischen Informatik.md)  (5 LP),
+        - Modul: [Kryptographie und Sicherheit in Verteilten Systemen](inf_msc_2014_modules/Kryptographie und Sicherheit in Verteilten Systemen.md)  (10 LP),
+        - Modul: [Semantik von Programmiersprachen](inf_msc_2014_modules/Semantik von Programmiersprachen.md)  (5 LP),
+        - Modul: [Softwareprojekt - Theoretische Informatik A](inf_msc_2014_modules/Softwareprojekt - Theoretische Informatik A.md)  (10 LP),
+        - Modul: [Softwareprojekt - Theoretische Informatik B](inf_msc_2014_modules/Softwareprojekt - Theoretische Informatik B.md)  (10 LP),
+        - Modul: [Wissenschaftliches Arbeiten Theoretische Informatik A](inf_msc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik A.md)  (5 LP) und
+        - Modul: [Wissenschaftliches Arbeiten Theoretische Informatik B](inf_msc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik B.md)  (5 LP).
 
     3. Technische Informatik im Umfang von 10 bis 40 LP, mit den Modulen:
 
-        - Modul: Betriebssysteme (10 LP),
-        - Modul: Mikroprozessor-Praktikum (10 LP),
-        - Modul: Mobilkommunikation (5 LP),
-        - Modul: Robotik (5 LP),
-        - Modul: Telematik (10 LP),
-        - Modul: Softwareprojekt - Technische Informatik A (10 LP),
-        - Modul: Softwareprojekt - Technische Informatik B (10 LP),
-        - Modul: Wissenschaftliches Arbeiten Technische Informatik A (5 LP),
-        - Modul: Wissenschaftliches Arbeiten Technische Informatik B (5 LP),
-        - Modul: Aktuelle Forschungsthemen der Technischen Informatik (5 LP),
-        - Modul: Spezielle Aspekte der Technischen Informatik (5 LP) und
-        - Modul: Ausgewählte Themen der Technischen Informatik (10 LP).
+        - Modul: [Betriebssysteme](inf_msc_2014_modules/Betriebssysteme.md)  (10 LP),
+        - Modul: [Mikroprozessor-Praktikum](inf_msc_2014_modules/Mikroprozessor-Praktikum.md)  (10 LP),
+        - Modul: [Mobilkommunikation](inf_msc_2014_modules/Mobilkommunikation.md)  (5 LP),
+        - Modul: [Robotik](inf_msc_2014_modules/Robotik.md)  (5 LP),
+        - Modul: [Telematik](inf_msc_2014_modules/Telematik.md)  (10 LP),
+        - Modul: [Softwareprojekt - Technische Informatik A](inf_msc_2014_modules/Softwareprojekt - Technische Informatik A.md)  (10 LP),
+        - Modul: [Softwareprojekt - Technische Informatik B](inf_msc_2014_modules/Softwareprojekt - Technische Informatik B.md)  (10 LP),
+        - Modul: [Wissenschaftliches Arbeiten Technische Informatik A](inf_msc_2014_modules/Wissenschaftliches Arbeiten Technische Informatik A.md)  (5 LP),
+        - Modul: [Wissenschaftliches Arbeiten Technische Informatik B](inf_msc_2014_modules/Wissenschaftliches Arbeiten Technische Informatik B.md)  (5 LP),
+        - Modul: [Aktuelle Forschungsthemen der Technischen Informatik](inf_msc_2014_modules/Aktuelle Forschungsthemen der Technischen Informatik.md)  (5 LP),
+        - Modul: [Spezielle Aspekte der Technischen Informatik](inf_msc_2014_modules/Spezielle Aspekte der Technischen Informatik.md)  (5 LP) und
+        - Modul: [Ausgewählte Themen der Technischen Informatik](inf_msc_2014_modules/Ausgewählte Themen der Technischen Informatik.md)  (10 LP).
 3. Im Studiengebiet Praktische Informatik sind Module im Umfang von mindestens 20 LP zu wählen und zu
     absolvieren, in den Studiengebieten Theoretische Informatik und Technische Informatik sind Module im Umfang
     von je mindestens 10 LP zu wählen und zu absolvieren.
