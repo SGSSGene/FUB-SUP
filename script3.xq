@@ -27,7 +27,12 @@ def loop(_begin; _end; f):
 ;
 
 def fixes:
-    . | gsub("Pflicht zur regelmäßigen Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
+    .
+    | gsub(" +"; " ")
+    | gsub("\n+"; "\n")
+    | gsub("Pflicht +zur +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
+    | gsub("Veranstaltungssprache:"; "Modulsprache:")
+    | gsub("Aktuelle\\(r\\) Verantwortliche\\(r\\):"; "Modulverantwortliche/r:")
 ;
 
 def mergeSimilar:
@@ -81,17 +86,18 @@ def extractTeachingUnit:
         col2: (([$fcol2] | mergeSimilar2)[0] | .[] |= .text | [.[] | gsub("[\n ]+"; " ")
                 | {
                     type: (. | split(" ")[0:-1] | join(" ")),
-                    swstime: (. | split(" ")[-1] | tonumber),
+                    swstime: (. | split(" ")[-1] | gsub(","; ".") | tonumber),
                     attendance: "TODO: missing info",
                     activity: $activity
                    }
                 ]),
-        col4: (([$fcol4] | mergeSimilar2)[0] | .[] |= .text | map(.
+        col4: (([$fcol4] | [.[] | sort_by(.top)] | mergeSimilar2)[0] | .[] |= .text | map(.
             |= {
                 type: (. | split(" ")[0:-1] | join(" ") | gsub("\n"; " ")),
-                time: (. | split(" ")[-1] | tonumber)
+                time: (. | split(" ")[-1] | gsub(","; ".") | tonumber)
             })),
         }
+    | .
 ;
 
 
@@ -99,9 +105,9 @@ def extractTeachingUnit:
 [
 .pdf2xml.page[]
     | (."@number" | tonumber) as $number
-    | select(107 <= $number and $number <= 160)
+    | select(6 <= $number and $number <= 21)
 #    | select(68 != $number and 69 != $number)
-#    | select(65 == $number)
+#    | select(14 == $number or 13 == $number)
     | .text
     | convert
     | .[].text |= fixes
@@ -113,9 +119,9 @@ def extractTeachingUnit:
        "Qualifikationsziele:",
        "Inhalte:",
        "Präsenzstudium",
-       "Modulprüfung:",
+#       "Modulprüfung:",
 #       "und Prüfung",
-       "Veranstaltungssprache",
+       "Modulsprache:",
        "Pflicht zu regelmäßiger Teilnahme:",
        "Arbeitszeitaufwand insgesamt:",
        "Dauer des Moduls",
@@ -129,25 +135,36 @@ def extractTeachingUnit:
            | textcleanup
       ]
     | .
-    | .[9] as $attendance
+    | (.[8] | sub(".*?: "; "")) as $attendance
     | {
         page: $number,
         name: (.[0] | removeTitle),
-        organizer: (.[1] | removeTitle),
+        organizer: (.[1] | removeTitle | gsub("\n"; " ")),
         responsible: (.[2] | removeTitle),
         requirements: (.[3] | removeTitle),
-        goals: (.[4] | removeTitle | textcleanup | gsub("\n"; " ") | gsub(" – "; "\n- ")),
-        content: (.[5] | removeTitle | textcleanup | gsub("\n"; " ") | gsub(" – "; "\n- ")),
+        goals: (.[4] | removeTitle | textcleanup | gsub("\n"; " ") | gsub(" [-–] "; "\n- ")),
+        content: (.[5] | removeTitle | textcleanup | gsub("\n"; " ") | gsub(" [-–] "; "\n- ")),
         teachingunit: $tu.col2,
         workload: $tu.col4,
-        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
-        language: (.[8] | removeTitle),
-        total_work: (.[10] | removeTitle | split(" ")[0] | tonumber),
-        credit_points: (.[10] | removeTitle | split(" ")[2] | tonumber),
-        duration: (.[11] | removeTitle),
-        repeat: (.[12] | removeTitle),
-        usability: (.[13] | removeTitle)
+#        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
+        language: (.[7] | removeTitle),
+        total_work: (.[9] | removeTitle | split(" ")[0] | tonumber),
+        credit_points: (.[9] | removeTitle | split(" ")[2] | tonumber),
+        duration: (.[10] | removeTitle),
+        repeat: (.[11] | removeTitle),
+        usability: (.[12] | removeTitle)
     }
-    | .teachingunit[].attendance = "TODO: " + $attendance
-
+    | .teachingunit[] |= (
+                            .type as $type
+                            | .attendance |= $attendance
+                            | .attendance |= if $attendance == "Ja" then "required"
+                                           elif $attendance == "Teilnahme wird empfohlen" then "recommended"
+                                           elif ($attendance | test($type + ": Ja")) then "required"
+                                           elif ($attendance | test($type + " und [a-zA-Z]*: Ja")) then "required"
+                                           elif ($attendance | test($type + ": Teilnahme wird empfohlen")) then "recommended"
+                                           else
+                                              "TODO: " + $attendance + ":: " + $type + ": Ja"
+                                           end
+                        )
+#    | .teachingunit[].attendance = "TODO: " + $attendance
 ]
