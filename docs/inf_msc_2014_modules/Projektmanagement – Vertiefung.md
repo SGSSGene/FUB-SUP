@@ -6,14 +6,7 @@
 |**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
 |**Zugangsvoraussetzungen**          | Grundlagen des Managements von IT-Projekten oder gleichwertige Kenntnisse |
 |**Qualifikationsziele**             | Die Studentinnen und Studenten verstehen die Prozesse des Projektmanagements umfassend und können sie anwenden. Sie können Aufgaben definieren, schätzen, anordnen und in einen Projektplan umsetzen. Sie können eine Projektdurchführung überwachen. Sie können zahlreiche Funktionen eines Softwarewerkzeugs (z. B. MS Project) geeignet anwenden. Sie können in der Leitung eines Projektes mitarbeiten und Verantwortung für jeden Bereich des Projektmanagements übernehmen. Sie können ein kleines Projekt eigenverantwortlich leiten. |
-|**Inhalte**                         | Über die Ablauf- und Kostenplanung und -steuerung hinausgehende Prinzipien, Methoden und Verfahrensweisen im Projektmanagement anhand einer anerkannten Methodik (z. B. „Projekt Management Body of Knowledge“ (PMBoK)). Die Veranstaltung fokussiert auf die Themenbereiche des Projektmanagements, die neben Projektplanung und -steuerung bezüglich des Ablaufs und der Kosten relevant sind.
-- Projektorganisation
-- Einbettung eines Projekts in die ausführende Organisation
-- Führen ohne formale Macht
-- Projektkommunikation
-- Führung eines Projektteams
-- Qualitätsmanagement
-- Professional Responsibility Die Planungsmethodik aus „Projektmanagement Grundlagen“ und die Anwendung von MS Project wird vertieft. Zusammen mit dem Modul „Projektmanagement Grundlagen“ komplettiert dieses Modul die möglichen Tätigkeitsfelder eines Assistenten der Projektleitung und bietet das nötige Wissen für die Führung kleinerer Projekte. |
+|**Inhalte**                         | Über die Ablauf- und Kostenplanung und -steuerung hinausgehende Prinzipien, Methoden und Verfahrensweisen im Projektmanagement anhand einer anerkannten Methodik (z. B. „Projekt Management Body of Knowledge“ (PMBoK)). Die Veranstaltung fokussiert auf die Themenbereiche des Projektmanagements, die neben Projektplanung und -steuerung bezüglich des Ablaufs und der Kosten relevant sind.<br>- Projektorganisation<br>- Einbettung eines Projekts in die ausführende Organisation<br>- Führen ohne formale Macht<br>- Projektkommunikation<br>- Führung eines Projektteams<br>- Qualitätsmanagement<br>- Professional Responsibility Die Planungsmethodik aus „Projektmanagement Grundlagen“ und die Anwendung von MS Project wird vertieft. Zusammen mit dem Modul „Projektmanagement Grundlagen“ komplettiert dieses Modul die möglichen Tätigkeitsfelder eines Assistenten der Projektleitung und bietet das nötige Wissen für die Führung kleinerer Projekte. |
 |**Modulprüfung**                    | Klausur (60 Minuten), die Klausur kann auch in Form einer elektromündliche Prüfung (ca. 20 Minuten); die Modulprüfung wird nicht differenziert bewertet. |
 |**Modulsprache**                    | Deutsch |
 |**Arbeitsaufwand (Stunden)**        | 150 |

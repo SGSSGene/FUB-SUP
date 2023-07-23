@@ -17,8 +17,7 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Hauptseminar         | 2                         | required                           | Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
-Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen- |
+| Hauptseminar         | 2                         | required                           | Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge |
 
 |   | Aufwand in Stunden |
 | - |--------------------|

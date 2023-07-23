@@ -17,10 +17,8 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Bearbeitung der Übungsblätter
-Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung |
-| Übung                | 2                         | recommended                        | Bearbeitung der Übungsblätter
-Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung |
+| Vorlesung            | 2                         | recommended                        | Bearbeitung der Übungsblätter<br>Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung |
+| Übung                | 2                         | recommended                        | Bearbeitung der Übungsblätter<br>Mündliche Präsentationen der Lösung ausgewählter Übungsaufgaben in der Übung |
 
 |   | Aufwand in Stunden |
 | - |--------------------|

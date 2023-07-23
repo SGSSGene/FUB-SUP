@@ -8,7 +8,10 @@ def expand(n):
 ;
 
 def cleanup:
-    . | gsub("\\*"; "\\*") # escape * for markdown
+    .
+    | gsub("\\*"; "\\*") # escape * for markdown
+    | gsub("\n"; "<br>") # using line breaks markdown can handle
+
 ;
 
 .[env.YQ_MODULE_IDX | tonumber]
@@ -41,7 +44,7 @@ def cleanup:
     , ([.teachingunit[] | "| " + (.type | expand(20)) + " | "
                                + (.swstime | tostring | expand(25)) + " | "
                                + (.attendance | expand(34)) + " | "
-                               + (.activity | expand(24)) + " |" ])
+                               + (.activity | cleanup | expand(24)) + " |" ])
     , ""
     , "|   | Aufwand in Stunden |"
     , "| - |--------------------|"

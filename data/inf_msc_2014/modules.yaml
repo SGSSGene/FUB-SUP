@@ -1177,9 +1177,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
-
-        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -1219,9 +1217,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
-
-        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2042,9 +2038,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
-
-        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2083,9 +2077,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
-
-        Schriftliche Ausarbeitung (ca. 4 500 Wörter) und mündliche Präsen-'
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2460,9 +2452,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
-
-        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2501,9 +2491,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
-
-        Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsen-'
+      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
   workload:
     - type: Präsenzzeit HS
       time: 30

@@ -6,10 +6,7 @@
 |**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
 |**Zugangsvoraussetzungen**          | Keine |
 |**Qualifikationsziele**             | Die Studentinnen und Studenten kennen die Grundlagen in einem Spezialgebiet oder einem Anwendungsgebiet der Theoretischen Informatik, insbesondere der Algorithmik. Sie können Erlerntes sicher anwenden. |
-|**Inhalte**                         | Wechselnde Inhalte, z. B.
-- Datenkompression
-- Externe Algorithmen und Datenstrukturen
-- Online-Algorithmen |
+|**Inhalte**                         | Wechselnde Inhalte, z. B.<br>- Datenkompression<br>- Externe Algorithmen und Datenstrukturen<br>- Online-Algorithmen |
 |**Modulprüfung**                    | Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten) |
 |**Modulsprache**                    | Deutsch (ggf. Englisch) |
 |**Arbeitsaufwand (Stunden)**        | 300 |

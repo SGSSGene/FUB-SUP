@@ -6,13 +6,7 @@
 |**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
 |**Zugangsvoraussetzungen**          | Keine |
 |**Qualifikationsziele**             | Die Studentinnen und Studenten kennen fortgeschrittene Methoden und Begriffe in einem Gebiet der Theoretischen Informatik und können sie anwenden. |
-|**Inhalte**                         | Wechselnde Inhalte, z. B.
-- Approximationsalgorithmen
-- Externe Algorithmen und Datenstrukturen
-- Fortgeschrittene Datenstrukturen
-- Graphenalgorithmen
-- Kombinatorische Optimierung
-- Randomisierte Algorithmen |
+|**Inhalte**                         | Wechselnde Inhalte, z. B.<br>- Approximationsalgorithmen<br>- Externe Algorithmen und Datenstrukturen<br>- Fortgeschrittene Datenstrukturen<br>- Graphenalgorithmen<br>- Kombinatorische Optimierung<br>- Randomisierte Algorithmen |
 |**Modulprüfung**                    | Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten) |
 |**Modulsprache**                    | Deutsch (ggf. Englisch) |
 |**Arbeitsaufwand (Stunden)**        | 300 |

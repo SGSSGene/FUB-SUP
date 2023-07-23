@@ -17,10 +17,8 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Methodenkurs         | 2                         | required                           | Teilnahme an der Diskussion
-Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe |
-| Praxisseminar        | 2                         | required                           | Teilnahme an der Diskussion
-Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe |
+| Methodenkurs         | 2                         | required                           | Teilnahme an der Diskussion<br>Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe |
+| Praxisseminar        | 2                         | required                           | Teilnahme an der Diskussion<br>Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
