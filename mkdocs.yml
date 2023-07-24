@@ -170,44 +170,42 @@ nav:
   - Bioinformatik Msc 2019:
     - Studien- und Prüfungsordnung: bioinf_msc_2019_sop.md
     - Modulbeschreibungen:
-      - bioinf_msc_2019_modules/Current research topics in Data Science in Life Sciences.md
-      - bioinf_msc_2019_modules/Machine Learning in Bioinformatics.md
+      - bioinf_msc_2019_modules/Advanced Algorithms for Bioinformatics.md
+      - bioinf_msc_2019_modules/Advanced Biometrical Methods.md
+      - bioinf_msc_2019_modules/Advanced Network Analysis.md
       - bioinf_msc_2019_modules/Applied Machine Learning in Bioinformatics.md
+      - bioinf_msc_2019_modules/Applied Sequence Analysis.md
+      - bioinf_msc_2019_modules/Big Data Analysis in Bioinformatics.md
       - bioinf_msc_2019_modules/Biodiversity and Evolution.md
       - bioinf_msc_2019_modules/Complex Data Analysis in Physiology.md
-      - bioinf_msc_2019_modules/Foundations in Mathematics and Statistics.md
-      - bioinf_msc_2019_modules/Current topics in cell-physiology.md
-      - bioinf_msc_2019_modules/Methodology for clinical trials.md
-      - bioinf_msc_2019_modules/Applied Sequence Analysis.md
-      - bioinf_msc_2019_modules/Structural Bioinformatics.md
-      - bioinf_msc_2019_modules/Foundations in Computer Science.md
-      - bioinf_msc_2019_modules/Selected topics in Complex Systems.md
-      - bioinf_msc_2019_modules/Methods in Life Sciences.md
-      - bioinf_msc_2019_modules/Advanced Algorithms for Bioinformatics.md
-      - bioinf_msc_2019_modules/Special aspects of Data Science in the Life Sciences.md
-      - bioinf_msc_2019_modules/Research Internship.md
-      - bioinf_msc_2019_modules/Current topics in medical genomics.md
-      - bioinf_msc_2019_modules/Selected topics in Data Science in the Life Sciences.md
-      - bioinf_msc_2019_modules/Current topics in structural bioinformatics.md
-      - bioinf_msc_2019_modules/Special aspects of Complex Systems.md
-      - bioinf_msc_2019_modules/Current research topics in Complex Systems.md
-      - bioinf_msc_2019_modules/Big Data Analysis in Bioinformatics.md
-      - bioinf_msc_2019_modules/Computational Systems Biology.md
-      - bioinf_msc_2019_modules/Ethics and Policy Questions.md
-      - bioinf_msc_2019_modules/Special aspects of Advanced Algorithms.md
-      - bioinf_msc_2019_modules/Selected topics in Advanced Algorithms.md
-      - bioinf_msc_2019_modules/Advanced Biometrical Methods.md
-      - bioinf_msc_2019_modules/Current research topics in Advanced Algorithms.md
-      - bioinf_msc_2019_modules/Introduction to Focus Areas.md
-      - bioinf_msc_2019_modules/Human Evolution.md
-      - bioinf_msc_2019_modules/Complex Systems in Biomedical Applications.md
-      - bioinf_msc_2019_modules/Computer-Aided Drug Design.md
-      - bioinf_msc_2019_modules/Environmental metagenomics.md
-      - bioinf_msc_2019_modules/Medical Bioinformatics.md
-      - bioinf_msc_2019_modules/Advanced Network Analysis.md
-      - bioinf_msc_2019_modules/Foundations in Bio-Medicine.md
       - bioinf_msc_2019_modules/Complex Systems in Bioinformatics.md
-
+      - bioinf_msc_2019_modules/Complex Systems in Biomedical Applications.md
+      - bioinf_msc_2019_modules/Computational Systems Biology.md
+      - bioinf_msc_2019_modules/Computer-Aided Drug Design.md
+      - bioinf_msc_2019_modules/Current research topics in Bioinformatics A.md
+      - bioinf_msc_2019_modules/Current research topics in Bioinformatics B.md
+      - bioinf_msc_2019_modules/Current research topics in Bioinformatics C.md
+      - bioinf_msc_2019_modules/Current topics in cell-physiology.md
+      - bioinf_msc_2019_modules/Current topics in medical genomics.md
+      - bioinf_msc_2019_modules/Current topics in structural bioinformatics.md
+      - bioinf_msc_2019_modules/Environmental metagenomics.md
+      - bioinf_msc_2019_modules/Ethics and Policy Questions.md
+      - bioinf_msc_2019_modules/Foundations in Bio-Medicine.md
+      - bioinf_msc_2019_modules/Foundations in Computer Science.md
+      - bioinf_msc_2019_modules/Foundations in Mathematics and Statistics.md
+      - bioinf_msc_2019_modules/Human Evolution.md
+      - bioinf_msc_2019_modules/Introduction to Focus Areas.md
+      - bioinf_msc_2019_modules/Machine Learning in Bioinformatics.md
+      - bioinf_msc_2019_modules/Medical Bioinformatics.md
+      - bioinf_msc_2019_modules/Methodology for clinical trials.md
+      - bioinf_msc_2019_modules/Methods in Life Sciences.md
+      - bioinf_msc_2019_modules/Research Internship.md
+      - bioinf_msc_2019_modules/Selected topics in Bioinformatics A.md
+      - bioinf_msc_2019_modules/Selected topics in Bioinformatics B.md
+      - bioinf_msc_2019_modules/Special aspects of Bioinformatics A.md
+      - bioinf_msc_2019_modules/Special aspects of Bioinformatics B.md
+      - bioinf_msc_2019_modules/Special aspects of Bioinformatics C.md
+      - bioinf_msc_2019_modules/Structural Bioinformatics.md
 theme:
   name: material
   features:
