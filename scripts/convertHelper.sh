@@ -35,8 +35,8 @@ clean_text() {
 get_two_column_page() {
     page=$1
     pdftotext -fixed 16 ${input} $tmp/astext.txt -x 1 -y 240 -W 3200 -H 2900 -r 288 -f ${page} -l ${page}
-    cat $tmp/astext.txt | cut -c 11-75
-    cat $tmp/astext.txt | cut -c 76-
+    cat $tmp/astext.txt | cut -c 11-76 | iconv -c
+    cat $tmp/astext.txt | cut -c 77- | iconv -c
 }
 
 fix_spelling_mistakes() {
@@ -141,7 +141,7 @@ fi
 
 input=caches/$degree.pdf
 tmp=caches/$degree
-rm -rf $tmp
+#rm -rf $tmp
 mkdir -p $tmp
 mkdir -p result
 log=${tmp}/log

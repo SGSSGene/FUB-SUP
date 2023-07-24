@@ -29,8 +29,12 @@ def loop(_begin; _end; f):
 def fixes:
     .
     | gsub(" +"; " ")
+    | gsub("V-Modul:"; "Modul:")
+    | gsub("Praxismodul:"; "Modul:")
     | gsub("\n+"; "\n")
     | gsub("Pflicht +zur +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
+    | gsub("Hochschule/Fachbereich/Lehreinheit:"; "Hochschule/Fachbereich/Institut:")
+    | gsub("Hochschule/Fachbereich\\(FB\\)/Lehreinheit\\(LE\\):"; "Hochschule/Fachbereich/Institut:")
     | gsub("Veranstaltungssprache:"; "Modulsprache:")
     | gsub("Aktuelle\\(r\\) Verantwortliche\\(r\\):"; "Modulverantwortliche/r:")
 ;
@@ -86,7 +90,7 @@ def extractTeachingUnit:
         col2: (([$fcol2] | mergeSimilar2)[0] | .[] |= .text | [.[] | gsub("[\n ]+"; " ")
                 | {
                     type: (. | split(" ")[0:-1] | join(" ")),
-                    swstime: (. | split(" ")[-1] | gsub(","; ".") | tonumber),
+                    swstime: (. | split(" ")[-1] | gsub(","; ".") | if "270 Stunden" then "9" else . end | tonumber),
                     attendance: "TODO: missing info",
                     activity: $activity
                    }
@@ -105,7 +109,7 @@ def extractTeachingUnit:
 [
 .pdf2xml.page[]
     | (."@number" | tonumber) as $number
-    | select(6 <= $number and $number <= 21)
+    | select(5 <= $number and $number <= 14)
 #    | select(68 != $number and 69 != $number)
 #    | select(14 == $number or 13 == $number)
     | .text
@@ -119,7 +123,7 @@ def extractTeachingUnit:
        "Qualifikationsziele:",
        "Inhalte:",
        "Präsenzstudium",
-#       "Modulprüfung:",
+       "Modulprüfung:",
 #       "und Prüfung",
        "Modulsprache:",
        "Pflicht zu regelmäßiger Teilnahme:",
@@ -135,7 +139,7 @@ def extractTeachingUnit:
            | textcleanup
       ]
     | .
-    | (.[8] | sub(".*?: "; "")) as $attendance
+    | (.[9] | sub(".*?: "; "")) as $attendance
     | {
         page: $number,
         name: (.[0] | removeTitle),
@@ -146,13 +150,13 @@ def extractTeachingUnit:
         content: (.[5] | removeTitle | textcleanup | gsub("\n"; " ") | gsub(" [-–] "; "\n- ")),
         teachingunit: $tu.col2,
         workload: $tu.col4,
-#        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
-        language: (.[7] | removeTitle),
-        total_work: (.[9] | removeTitle | split(" ")[0] | tonumber),
-        credit_points: (.[9] | removeTitle | split(" ")[2] | tonumber),
-        duration: (.[10] | removeTitle),
-        repeat: (.[11] | removeTitle),
-        usability: (.[12] | removeTitle)
+        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
+        language: (.[8] | removeTitle),
+        total_work: (.[10] | removeTitle | split(" ")[0] | tonumber),
+        credit_points: (.[10] | removeTitle | split(" ")[2] | tonumber),
+        duration: (.[11] | removeTitle),
+        repeat: (.[12] | removeTitle),
+        usability: (.[13] | removeTitle)
     }
     | .teachingunit[] |= (
                             .type as $type
