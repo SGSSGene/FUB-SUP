@@ -68,7 +68,7 @@ für den Bachelorstudiengang vom 10. Juli 2012.
     Statistik (elementare Wahrscheinlichkeitstheorie, statis-
     tische Grundbegriffe, Entscheidungs-, Test- und Schätztheorien, lineare statistische Methoden) sowie in der
     computerorientierten Mathematik (Zahlendarstellung,
-    Stabilität und Kondition, Effizienz und Komplexitätsbediengriffe, numerische Lineare Algebra, numerische Quadratur und Integration).
+    Stabilität und Kondition, Effizienz und Komplexitätsbegriffe, numerische Lineare Algebra, numerische Quadratur und Integration).
 4. Der Studienbereich Biologie/Chemie/Biochemie
     dient der Vermittlung von Grundkenntnissen in folgenden Teilbereichen der Biologie: Zellfunktionen, deren
     molekulare Grundlagen sowie deren Veränderung durch
@@ -118,8 +118,7 @@ für den Bachelorstudiengang vom 10. Juli 2012.
     4. Computerorientierte Mathematik II (5 LP),
     5. Statistik für Biowissenschaften I (6 LP) und
     6. Statistik für Biowissenschaften II (8 LP).
-5. Im Rahmen des Studienbereichs Biologie/Chemie/
-    Biochemie im Umfang von 49 LP sind folgende Module
+5. Im Rahmen des Studienbereichs Biologie/Chemie/Biochemie im Umfang von 49 LP sind folgende Module
     zu absolvieren:
 
     1. Allgemeine Chemie (7 LP),
@@ -230,7 +229,7 @@ hauptberuflichen Lehrkräfte durchgeführt.
 ### § 9 Inkrafttreten und Übergangsregelung
 1. Die Ordnung trittam Tage nach der Veröffentlichung in den FU-Mitteilungen (Amtsblatt der Freien
     Universität Berlin) in Kraft.
-2. Gleichzeitig trittdie Studienordnung für den
+2. Gleichzeitig tritt die Studienordnung für den
     Bachelorstudiengang Bioinformatik vom 2. Juni 2010
     (FU-Mitteilungen 32/2010, S. 610) außer Kraft.
 3. Diese Ordnung gilt für Studentinnen und Studenten, die nach deren Inkrafttreten im Bachelorstudiengang an der Freien Universität Berlin immatrikuliert werden. Studentinnen und Studenten, die vor dem Inkrafttreten dieser Ordnung für den Studiengang an der Freien
@@ -379,7 +378,7 @@ Die Regelstudienzeit beträgt sechs Semester.
 ### § 7 Inkrafttreten und Übergangsregelung
 1. Die Ordnung trittam Tage nach der Veröffentlichung in den FU-Mitteilungen (Amtsblatt der Freien
     Universität Berlin) in Kraft.
-2. Gleichzeitig trittdie Prüfungsordnung für den
+2. Gleichzeitig tritt die Prüfungsordnung für den
     Bachelorstudiengang Bioinformatik vom 2. Juni 2010
     (FU-Mitteilungen 32/2010, S. 634) außer Kraft.
 3. Diese Ordnung gilt für Studentinnen und Studenten, die nach deren Inkrafttreten im Bachelorstudiengang an der Freien Universität Berlin immatrikuliert werden. Studentinnen und Studenten, die vor dem Inkrafttreten dieser Ordnung für den Studiengang an der Freien
