@@ -24,8 +24,7 @@ Main Focus is:
 |Informatik Master 2014                          | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Bachelor 2007                     | ✘       |
 |Bioinformatik Bachelor 2010                     | ✘       |
-|Bioinformatik Bachelor 2012                     | sop: ✔, modules: ✔, anhänge: ✘ |
-|Bioinformatik Bachelor 2012 + 1. Änderung 2017  | ✘       |
+|Bioinformatik Bachelor 2012 + 1. Änderung 2017  | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Master 2007                       | ✘       |
 |Bioinformatik Master 2012                       | ✘       |
 |Bioinformatik Master 2019                       | ✘       |

@@ -7,7 +7,7 @@
 |**Zugangsvoraussetzungen**          | Keine |
 |**Qualifikationsziele**             | Die Studentinnen und Studenten haben allgemeine Kenntnisse über die Anwendung von Software im beruflichen Alltag mit größeren Nutzergruppen, insbesondere praktische Erfahrungen mit typischen Problemen mit Software aus dem weiteren Umfeld der Bioinformatik und mit Lösungsansätzen zu deren Überwindung |
 |**Inhalte**                         | - Verwendung von für den zu erwartenden Berufsalltag typischer Software für ein typisches Projekt<br>- Auswahl passender Software aus einer vorgegebenen Kollektion bzw. Anpassung oder Entwicklung fehlender Softwaremodule<br>- Erarbeitung von Lösungsstrategien im Team<br>- Versuch einer Lösungsumsetzung mittels der zusammengestellten Software und Dokumentation der Ergebnisse<br>- Vortrag zur Darstellung der Projektergebnisse |
-|**Modulprüfung**                    | Referat mit Diskussion (ca. 40 Minuten) |
+|**Modulprüfung**                    | Referat mit Diskussion (ca. 40 Minuten); die Modulprüfung wird nicht differenziert bewertet |
 |**Modulsprache**                    | Deutsch |
 |**Arbeitsaufwand (Stunden)**        | 300 |
 |**Leistungspunkte (LP)**            | 10 |

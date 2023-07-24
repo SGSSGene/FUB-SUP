@@ -416,7 +416,7 @@
       swstime: 4
       attendance: recommended
       activity: Übungsaufgaben, praktische Laborarbeit, schriftl. Test
-    - type: Praktikum
+    - type: Sicherheitsrelevantes Praktikum
       swstime: 2
       attendance: required
       activity: Übungsaufgaben, praktische Laborarbeit, schriftl. Test
@@ -425,13 +425,13 @@
       time: 60
     - type: Vor- und Nachbereitung Vorlesung
       time: 30
-    - type: Präsenzzeit Praktikum
+    - type: Präsenzzeit sicherheitsrelevantes Praktikum
       time: 30
-    - type: Vor- und Nachbereitung Praktikum
+    - type: Vor- und Nachbereitung Sicherheitsrelevantes Praktikum
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Keine
+  exam: 'Praktische Prüfung (Darstellung theoretischer Hintergründe, Versuchsergebnis, Protokollbuch und schriftliche Ausarbeitung)'
   language: Deutsch
   total_work: 210
   credit_points: 7
@@ -883,7 +883,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Referat mit Diskussion (ca. 40 Minuten)'
+  exam: 'Referat mit Diskussion (ca. 40 Minuten); die Modulprüfung wird nicht differenziert bewertet'
   language: Deutsch
   total_work: 300
   credit_points: 10
