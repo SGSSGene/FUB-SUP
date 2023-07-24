@@ -2,7 +2,7 @@ site_name: Inoffizielle Studien- und Prüfungsordnung der FU-Berlin
 nav:
   - index.md
   - Rahmenstudien- und -prüfungsordnung: rspo_2013.md
-  - SOP Informatik Bsc 2014:
+  - Informatik Bsc 2014:
     - Studien- und Prüfungsordnung: inf_bsc_2014_sop.md
     - Modulbeschreibungen:
       - inf_bsc_2014_modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
@@ -35,7 +35,7 @@ nav:
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten Technische Informatik.md
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik.md
       - inf_bsc_2014_modules/Wissenschaftliches Arbeiten in der Informatik.md
-  - SOP Informatik Bsc 2023:
+  - Informatik Bsc 2023:
     - Studien- und Prüfungsordnung: inf_bsc_2023_sop.md
     - Modulbeschreibungen:
       - inf_bsc_2023_modules/Aktuelle Themen in der Informatik.md
@@ -74,7 +74,7 @@ nav:
       - inf_bsc_2023_modules/Vertiefte Aspekte der Informatik.md
       - inf_bsc_2023_modules/Vertiefung Theoretische Informatik.md
       - inf_bsc_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md
-  - SOP Informatik Msc 2014:
+  - Informatik Msc 2014:
     - Studien- und Prüfungsordnung: inf_msc_2014_sop.md
     - Modulebeschreibungen:
       - inf_msc_2014_modules/Verteilte Systeme.md
@@ -131,7 +131,7 @@ nav:
       - inf_msc_2014_modules/Übersetzerbau.md
       - inf_msc_2014_modules/Empirische Bewertung in der Informatik.md
       - inf_msc_2014_modules/Spezielle Aspekte der Praktischen Informatik.md
-  - SOP Bioinformatik Bsc 2012:
+  - Bioinformatik Bsc 2012:
     - Studien- und Prüfungsordnung: bioinf_bsc_2012_sop.md
     - Modulbeschreibungen:
       - bioinf_bsc_2012_modules/Algorithmen und Datenstrukturen – Praktikum.md
