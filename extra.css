@@ -1,0 +1,74 @@
+ol {
+    counter-reset: list;
+}
+ol > li {
+    counter-increment: list;
+}
+
+/* Hack to get the intendation in Paragraph 9 of Inf Bsc 2014 correct*/
+ol > li .offset2 {
+    counter-increment: list +2;
+}
+
+ol > li::marker {
+    content: "(" counter(list) ") ";
+}
+li ol > li::marker {
+    content: counter(list) ". ";
+}
+li li ol > li::marker {
+    content: counter(list, lower-alpha) ") ";
+}
+
+article > li ul li::marker {
+    content: "– ";
+}
+
+li ul li::marker {
+    content: circle;
+}
+
+
+.toc *::marker {
+    content: " "
+}
+.toc ul li:nth-child(1) {
+    color: red;
+}
+.toc ul li ul {
+}
+h1 a {
+    color: unset;
+}
+h2 a {
+    color: unset;
+}
+
+div.wy-table-responsive {
+    overflow: visible !important;
+}
+
+.wy-table-responsive thead,tbody {
+    background: #fff !important;
+}
+
+.wy-table-responsive th {
+    white-space: normal !important;
+}
+
+.wy-table-responsive td {
+    white-space: normal !important;
+}
+
+table.docutils {
+    overflow: visible !important;
+}
+
+code del.critic {
+    color: black;
+    background: #ff8080;
+}
+code ins.critic {
+    color: black;
+    background: #80ff80;
+}
