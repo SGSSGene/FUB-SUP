@@ -6,7 +6,7 @@ im YAML Format hinterlegt um coole neue Tools darauf aufzubauen.
 
 
 ## Support
-There are many Studien aund Prüfungsordnung.
+There are many Studien- and Prüfungsordnung.
 Currently (24th July 2023), the main focus is on degrees provided by the
 Informatik und Mathematik department.
 
