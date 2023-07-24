@@ -1,6 +1,6 @@
 site_name: Inoffizielle Studien- und Prüfungsordnung der FU-Berlin
 nav:
-  - Home: index.md
+  - index.md
   - Rahmenstudien- und -prüfungsordnung: rspo_2013.md
   - SOP Informatik Bsc 2014:
     - Studien- und Prüfungsordnung: inf_bsc_2014_sop.md
