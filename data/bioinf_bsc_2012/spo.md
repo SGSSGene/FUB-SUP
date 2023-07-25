@@ -1,11 +1,5 @@
 # Studien- und Prüfungsordnung für den Bachelorstudiengang Bioinformatik der Fachbereiche Biologie, Chemie, Pharmazie sowie Mathematik und Informatik der Freien Universität Berlin und der Fakultät der Charité - Universitätsmedizin Berlin (Charité)
 
-## Original und Modifikation
-Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des Bioinformatik Bachelors an der FU-Berlin.
-Das Original ist hier zu finden: [StO/PO 2012 (Bachelor, 0260c)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/StOPO_BSc_Bioinf_-2012.pdf).
-Außerdem wurden die Änderungen der [1. Änderungsordnung 2017](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/Aenderungsordnung_BSc_Bioinf_-2017.pdf) eingearbeitet.
-
-
 ## Studienordnung
 
 ### Präambel
@@ -25,10 +19,9 @@ für den Bachelorstudiengang Bioinformatik erlassen: [^1]
 
 
 ### Anlagen
-//!TODO Anlagen are missing
 
-- Anlage 1: Modulbeschreibungen
-- Anlage 2: Exemplarischer Studienverlaufsplan
+- Anlage 1: [Modulbeschreibungen](../bioinf_bsc_2012/module_explanations/)
+- Anlage 2: Exemplarischer Studienverlaufsplan (!TODO missing)
 
 
 ### § 1 Geltungsbereich
