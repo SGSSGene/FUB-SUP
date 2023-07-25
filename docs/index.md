@@ -33,10 +33,10 @@ Main Focus is:
 |Data Science Master 2021                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Mathematik Bsc 2013                             | ✘       |
 |Mathematik Msc 2011                             | ✘       |
-|Mathematik Msc 2018                             | ✘       |
+|Mathematik Msc 2018                             | sop: ✔, modules: ✔, anhänge: ✘ |
 |Physik Bsc 2012                                 | ✘       |
 |Physik Msc 2013                                 | ✘       |
-|Physik Msc 2020                                 | ✘       |
+|Physik Msc 2020                                 | sop: ✔, modules: ✔, anhänge: ✘ |
 
 
 

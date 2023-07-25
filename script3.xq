@@ -32,9 +32,13 @@ def fixes:
     | gsub("V-Modul:"; "Modul:")
     | gsub("Praxismodul:"; "Modul:")
     | gsub("Ergänzungsmodul:"; "Modul:")
+    | gsub("Basismodul:"; "Modul:")
+    | gsub("Aufbaumodul:"; "Modul:")
+    | gsub("Vertiefungsmodul:"; "Modul:")
     | gsub("\n+"; "\n")
     | gsub("Verantwort"; "Modulverantwort")
     | gsub("Arbeitsaufwand insgesamt"; "Arbeitszeitaufwand insgesamt:")
+    | gsub("Fachbereich Mathematik und Informatik"; "Mathematik und Informatik")
     | gsub("Pflicht +zu +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
     | gsub("Pflicht +zur +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
     | gsub("Hochschule/Fachbereich:"; "Hochschule/Fachbereich/Institut:")
@@ -115,12 +119,12 @@ def extractTeachingUnit:
 [
 .pdf2xml.page[]
     | (."@number" | tonumber) as $number
-    | select(11 <= $number and $number <= 31)
+    | select(10 <= $number and $number <= 40)
 #    | select(68 != $number and 69 != $number)
 #    | select(19 != $number and 20 != $number)
 #    | select(34 != $number and 35 != $number)
 #    | select($number == 21)
-#    | select($number == 49)
+#    | select($number == 8)
     | .text
     | convert
     | .[].text |= fixes
