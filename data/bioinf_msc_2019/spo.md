@@ -1,12 +1,5 @@
 # Studien- und Prüfungsordnung für den Masterstudiengang Bioinformatik der Fachbereiche Biologie, Chemie, Pharmazie sowie Mathematik und Informatik der Freien Universität Berlin und der Fakultät der Charité - Universitätsmedizin Berlin
 
-## Original und Modifikation
-Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des Bioinformatik Masters an der FU-Berlin.
-Das Original ist hier zu finden: [StO/PO 2019 (Master, 0262c)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/STOPO_MSc_Bioinf_-2019.pdf).
-Außerdem wurden die Änderungen der [1. Änderungsordnung 2021](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/SPO-MSc-Bioinformatik_2021.pdf) eingearbeitet.
-
-
-
 ## Präambel
 Aufgrund von § 14 Abs. 1 Satz 1 Nr. 2 der Teilgrundordnung (Erprobungsmodell) der Freien Universität Berlin
 vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) und
@@ -29,15 +22,14 @@ der Charité - Universitätsmedizin Berlin erlassen: [^1]
 
 
 ## Anlagen
-(!TODO Anlagen are missing)
 
-- Anlage 1: Modulbeschreibungen
-- Anlage 2: Exemplarische Studienverlaufspläne für den Masterstudiengang Bioinformatik
-    - 2.1 Masterstudiengang Bioinformatik mit dem Profilbereich Complex Systems
-    - 2.2 Masterstudiengang Bioinformatik mit dem Profilbereich Data Science
-    - 2.3 Masterstudiengang Bioinformatik mit dem Profilbereich Advanced Algorithms
-- Anlage 3: Zeugnis (Muster)
-- Anlage 4: Urkunde (Muster)
+- Anlage 1: [Modulbeschreibungen](../bioinf_msc_2019/module_explanations/)
+- Anlage 2: Exemplarische Studienverlaufspläne für den Masterstudiengang Bioinformatik (!TODO missing)
+    - 2.1 Masterstudiengang Bioinformatik mit dem Profilbereich Complex Systems (!TODO missing)
+    - 2.2 Masterstudiengang Bioinformatik mit dem Profilbereich Data Science (!TODO missing)
+    - 2.3 Masterstudiengang Bioinformatik mit dem Profilbereich Advanced Algorithms (!TODO missing)
+- Anlage 3: Zeugnis (Muster) (!TODO missing)
+- Anlage 4: Urkunde (Muster) (!TODO missing)
 
 
 ## § 1 Geltungsbereich
