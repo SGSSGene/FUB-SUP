@@ -81,9 +81,10 @@ def mergeSimilar2:
 
 
 def extractTeachingUnit:
-    find(.text | startswith("Präsenzstudium")) as $col2
+    .
+    | find(.text | startswith("Präsenzstudium")) as $col2
     | find(.text | startswith("Formen aktiver")) as $col3
-    | find(.text | endswith("= SWS)")) as $row1
+    | find(.text | (endswith("= SWS)"))) as $row1
     | . as $data
     | $data | [ .[]
         | select(.left < $col2.left + $col2.width)
@@ -121,12 +122,12 @@ def extractTeachingUnit:
 [
 .pdf2xml.page[]
     | (."@number" | tonumber) as $number
-    | select(6 <= $number and $number <= 37)
+    | select(6 <= $number and $number <= 23)
 #    | select(68 != $number and 69 != $number)
 #    | select(19 != $number and 20 != $number)
 #    | select(34 != $number and 35 != $number)
 #    | select($number == 21)
-#    | select($number == 8)
+#    | select($number == 21)
     | .text
     | convert
     | .[].text |= fixes
@@ -148,7 +149,7 @@ def extractTeachingUnit:
        "Verwendbarkeit",
        "FU-Mitteilungen"] as $list
     | loop(0; ($list | length) - 1; . as $nbr | $data | fetch_section($list[$nbr]; $list[$nbr+1]))
-#    | .[7]
+#    | .[6]
     | (.[6] | extractTeachingUnit) as $tu
     | mergeSimilar
     | [.[] | .[].text
