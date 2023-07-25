@@ -17,7 +17,7 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Praktikum 270        | 9                         | required                           | Praktikumsbericht und Abschlussvortrag, Betreuungsgespräch |
+| Praktikum            | 9                         | required                           | Praktikumsbericht und Abschlussvortrag, Betreuungsgespräch |
 
 |   | Aufwand in Stunden |
 | - |--------------------|

@@ -17,8 +17,8 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 9                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeiten der Übungsaufgaben |
-| Übung                | 9                         | required                           | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeiten der Übungsaufgaben |
+| Vorlesung            | 2                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeiten der Übungsaufgaben |
+| Übung                | 2                         | required                           | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeiten der Übungsaufgaben |
 
 |   | Aufwand in Stunden |
 | - |--------------------|

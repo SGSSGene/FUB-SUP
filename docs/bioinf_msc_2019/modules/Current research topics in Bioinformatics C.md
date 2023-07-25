@@ -17,7 +17,7 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminar              | 9                         | required                           | Recherche, Präsentation und Diskussion |
+| Seminar              | 2                         | required                           | Recherche, Präsentation und Diskussion |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
