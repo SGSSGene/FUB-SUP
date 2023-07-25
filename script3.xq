@@ -34,6 +34,8 @@ def fixes:
     | gsub("Ergänzungsmodul:"; "Modul:")
     | gsub("\n+"; "\n")
     | gsub("Verantwort"; "Modulverantwort")
+    | gsub("Arbeitsaufwand insgesamt"; "Arbeitszeitaufwand insgesamt:")
+    | gsub("Pflicht +zu +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
     | gsub("Pflicht +zur +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
     | gsub("Hochschule/Fachbereich:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereiche:"; "Hochschule/Fachbereich/Institut:")
@@ -94,7 +96,7 @@ def extractTeachingUnit:
         col2: (([$fcol2] | mergeSimilar2)[0] | .[] |= .text | [.[] | gsub("[\n ]+"; " ")
                 | {
                     type: (. | split(" ")[0:-1] | join(" ")),
-                    swstime: (. | split(" ")[-1] | gsub(","; ".") | if . == "270 Stunden" then "9" else . end | tonumber),
+                    swstime: (. | split(" ")[-1] | gsub(","; ".") | if . == "Stunden" then "9" else . end | tonumber),
                     attendance: "TODO: missing info",
                     activity: $activity
                    }
@@ -113,11 +115,11 @@ def extractTeachingUnit:
 [
 .pdf2xml.page[]
     | (."@number" | tonumber) as $number
-    | select(11 <= $number and $number <= 54)
+    | select(11 <= $number and $number <= 31)
 #    | select(68 != $number and 69 != $number)
 #    | select(19 != $number and 20 != $number)
 #    | select(34 != $number and 35 != $number)
-#    | select($number == 34)
+#    | select($number == 21)
 #    | select($number == 49)
     | .text
     | convert

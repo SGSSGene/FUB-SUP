@@ -1,0 +1,951 @@
+- page: 11
+  name: Introduction to Profile Areas
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozenten und Dozentinnen des Moduls
+  requirements: Keine
+  goals: Die Studierenden kennen themenbezogen exemplarische Problemstellungen und
+    Lösungsansätze aus den zwei Profilbereichen und sind in der Lage diese problemlösungsorientiert
+    anzuwenden. Sie erkennen, wo welche Kompetenzen gebraucht werden und sind in der
+    Lage, eine bereichsspezifische Problemstellung zu analysieren. Studierende können
+    Unterschiede und Gemeinsamkeiten des Arbeitens in den zwei verschiedenen Profilbereichen
+    erarbeiten und vergleichen. Sie können geeignete themenbezogene Literatur finden
+    und sind in der Lage, praktische Probleme aus den jeweiligen Bereichen zu bearbeiten.
+  content: Das Modul präsentiert themenbezogen disziplinübergreifend exemplarische
+    Problemstellungen und Lösungsansätze aus den Profilbereichen „Data Science in
+    Life Sciences“ und „Data Science Technologies“. Im Bereich der Projektarbeit bearbeiten
+    Teams gemeinsam konkrete Aufgabenstellungen zu ausgewählten Themen aus den Profilbereichen.
+    Sie erarbeiten konkrete Lösungsvorschläge für praxisorientierte Problemstellungen,
+    setzen diese um und präsentieren die Ergebnisse.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: required
+      activity: Rekapitulation des Lehrvortrags, Bearbeitung von Projekten
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: Rekapitulation des Lehrvortrags, Bearbeitung von Projekten
+  workload:
+    - type: Präsenzzeit RV
+      time: 30
+    - type: Vor- und Nachbereitung RV
+      time: 30
+    - type: Präsenzzeit ProjS
+      time: 30
+    - type: Vor- und Nachbereitung ProjS
+      time: 60
+  exam: Keine
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Data Science
+- page: 12
+  name: Statistics for Data Science
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozenten und Dozentinnen des Moduls
+  requirements: Keine
+  goals: Die Studierenden haben ein tieferes Verständnis für fortgeschrittene mathematische
+    Konzepte und Methoden im Bereich der statistischen Datenanalyse. Sie sind befähigt,
+    gängige wahrscheinlichkeitstheorie-basierte datenanalytische Verfahren mathematisch
+    zu formulieren und algorithmisch zu implementieren.
+  content: Maß- und Wahrscheinlichkeitstheoretische Grundlagen und statistische Modellbildung
+    am Beispiel generalisierter linearer Modelle, Fischer Inferenz und Maximum Likelihood
+    Schätzung (analytische und numerische Verfahren, Schätzereigenschaften, Hypothesentests),
+    Bayes Inferenz (Parameterschätzung und Modellinferenz, Priorverteilungen, Approximative
+    Inferenz, Markov-Chain Monte-Carlo Methodik), Probabilistische Inferenz (Expectation-
+    Maximization, Kalman Filter und Data Assimilation, Empirical Bayes, Variational
+    Inference).
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 70
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 70
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 100
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann.
+    Diese Modulprüfung wird nicht differenziert bewertet.
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Data Science
+- page: 13
+  name: Machine Learning for Data Science
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozenten und Dozentinnen des Moduls
+  requirements: Keine
+  goals: Die Studierenden haben Verständnis für grundlegende Anwendungen, Konzepte
+    und Analysetechniken im Bereich des maschinellen Lernens für Data Science. Sie
+    verstehen die Datenlage, Algorithmen und Modelle des Maschinellen Lernens. Sie
+    sind in der Lage, zu komplexen Fragestellungen passende Algorithmen des Maschinellen
+    Lernens auszuwählen, sie kennen die Stärken und Schwächen der Verfahren. Sie wissen,
+    welche Ergebnisse aus den jeweiligen Daten abgeleitet werden können und können
+    computergestützte Verfahren im Anwendungsfeld und im jeweiligen wissenschaftlichen
+    Kontext angemessen durchführen und beurteilen.
+  content: Die Lehrveranstaltung bietet einen Überblick über die wesentlichen Methoden
+    des Maschinellen Lernens und der verwendeten Algorithmen für verschiedene Problemklassen,
+    insbesondere für überwachtes, unüberwachtes Lernen sowie für Reinforcement learning.
+    Im ersten Teil der Lehrveranstaltung werden die gängigen Verfahren und Algorithmen
+    für jede der drei Klassen von Lernverfahren behandelt, wobei auch die Durchführung
+    von Experimenten und die Evaluation der Modelle betrachtet wird. Im zweiten Teil
+    der Lehrveranstaltung werden fortgeschrittene Aspekte betrachtet, wie beispielsweise
+    hoch-dimensionale oder nicht-stationäre Probleme, unzureichende Labels oder unbalancierte
+    Klassenverteilung in den Ausgangsdaten.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Übungsaufgaben'
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Übungsaufgaben'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann.
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Data Science
+- page: 14
+  name: Programming for Data Science
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
+  responsible: Dozenten und Dozentinnen des Moduls
+  requirements: Keine
+  goals: Die Studierenden haben ein tieferes Verständnis für Konzepte in der Programmierung
+    mit einer höheren Programmiersprache (z. B. C/C++, Java oder Python)
+  content: Einführung in verschiedene Arten von Programmiertechniken.
+  teachingunit:
+    - type: Praxisseminar
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Aufgaben, Kurzvorträge mit Diskussion, Diskussion
+        von Literatur und Anwendungsbeispielen
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 90
+  exam: Keine
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Data Science
+- page: 15
+  name: Ethical Foundations of Data Science
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten
+  requirements: Keine
+  goals: Die Studierenden kennen die grundlegenden Werte- und Normensysteme ethischer
+    und rechtlicher Grundlagen und Rahmenbedingungen. Sie können das vorhandene Wissen
+    für eine ethik- und rechtsgebundene Fachlichkeit in typischen Handlungsfeldern
+    der Data Sciences einsetzen und erkennen ethische Fragestellungen und ethische
+    Dilemmas. Sie sind in der Lage, ethische und rechtliche Probleme beruflichen Handelns
+    gezielt auf Basis geeigneter Methoden und Quellen zu analysieren und einer vertretbar
+    und fundiert begründeten Lösung zuzuführen. Die Studierenden reflektieren die
+    eigene moralische und ethische Grundhaltung und deren Auswirkung auf die persönliche
+    Haltung und Handlung.
+  content: Erläuterung und Diskussion von Grundbegriffen wie Normen, Werte, Moral
+    und Ethik unter interdisziplinären und disziplinären Gesichtspunkten, gesellschaftliche
+    Auswirkungen des eigenen Handelns, Algorithmic Bias („Diskriminierende Algorithmen“),
+    Grundlagen ethischer Diskurse, Ethik in den Data Sciences
+  teachingunit:
+    - type: Integrierte Lehrveranstaltung
+      swstime: 4
+      attendance: required
+      activity: Bearbeitung der Aufgaben, Präsentation der Ergebnisse
+  workload:
+    - type: Präsenszeit ILV
+      time: 60
+    - type: Vor- und Nachbereitung ILV
+      time: 90
+  exam: Keine
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Data Science
+- page: 16
+  name: Forschungspraxis
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten
+  requirements: Keine
+  goals: Die Studierenden haben praktische Forschungserfahrung im Bereich der Datenwissenschaft
+    gesammelt und können Lehrinhalte des Studiums in der Forschungspraxis anwenden.
+    Sie haben Erfahrung in der Projektkoordination und -abwicklung und sind in der
+    Lage, im Team zu arbeiten.
+  content: Aktuelle Forschungsthemen aus dem Bereich der Datenwissenschaft in den
+    Naturwissenschaften.
+  teachingunit:
+    - type: Externes Praktikum 270
+      swstime: 9
+      attendance: required
+      activity: Praktikumsbericht und Abschlussvortrag Betreuungsgespräch
+  workload:
+    - type: Präsenzzeit eP
+      time: 270
+    - type: Vor- und Nachbereitung eP
+      time: 30
+  exam: Keine
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Data Science
+- page: 17
+  name: Data Science in Life Sciences
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
+  responsible: Dozenten und Dozentinnen des Moduls
+  requirements: Keine
+  goals: Die Studierenden haben ein tieferes Verständnis für fortgeschrittene Konzepte
+    und datenanalytische Methoden im Bereich der Life Sciences. Sie können auf Basis
+    ihres Wissens Untersuchungen in den Lebenswissenschaften bewerten, planen und
+    mit gängigen Methoden durchführen.
+  content: Einführung in verschiedene Arten von Daten der Lebenswissenschaften (z.
+    B. Omics-Technologien) insbesondere in die Akquise und Vorverarbeitung der Daten;
+    explorative Analysetechniken für Daten aus den Lebenswissenschaften; Konzepte
+    und Werkzeuge für die reproduzierbare Forschung; Theorie und Praxis für Methoden
+    und Modelle zur Analyse von Daten aus den Lebenswissenschaften (statistische Inferenz,
+    Regressionsmodelle, Methoden des maschinellen Lernens); Einführung in Methoden
+    der Big Data Analyse.
+  teachingunit:
+    - type: Seminaristischer Unterricht
+      swstime: 4
+      attendance: required
+      activity: 'Fachaustausch Beantwortung von Diskussionsfragen, Diskussion von
+        Anwendungsproblemen
+
+        Bearbeitung von Aufgaben, Kurzvorträge mit Diskussion, Diskussion von Literatur
+        und Anwendungsbeispielen'
+    - type: Projektseminar
+      swstime: 4
+      attendance: required
+      activity: 'Fachaustausch Beantwortung von Diskussionsfragen, Diskussion von
+        Anwendungsproblemen
+
+        Bearbeitung von Aufgaben, Kurzvorträge mit Diskussion, Diskussion von Literatur
+        und Anwendungsbeispielen'
+  workload:
+    - type: Präsenzzeit sU
+      time: 60
+    - type: Vor- und Nachbereitung sU
+      time: 140
+    - type: Präsenzzeit ProjS
+      time: 60
+    - type: Vor- und Nachbereitung ProjS
+      time: 140
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 50
+  exam: schriftliche Ausarbeitung (ca. 5.000 Wörter) mit Vortrag der Ergebnisse (ca.
+    20 Minuten). Diese Modulprüfung kann auch als Gruppenprüfung stattfinden.
+  language: Englisch
+  total_work: 450
+  credit_points: 15
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Data Science
+- page: 18
+  name: Spezielle Aspekte der Data Science in Life Sciences
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
+    Gebietes der Data Sciences in den Life Sciences anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Data Science
+    in den Life Sciences. Zusätzlich werden Forschungsfragen und Anwendungsbereiche
+    berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann,
+    oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 19
+  name: Aktuelle Forschungsthemen der Data Science in Life Sciences
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
+    Gebietes der Data Sciences in den Life Sciences anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Data Science
+    in den Life Sciences. Zusätzlich werden Forschungsfragen und Anwendungsbereiche
+    berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann,
+    oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 20
+  name: Ausgewählte Themen der Data Science in Life Sciences
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
+    Anwendungsgebiet der Data Science in Life Sciences. Sie können Erlerntes sicher
+    anwenden.
+  content: Wechselnde Inhalte aus dem Bereich der Life Sciences mit einem inhaltlichen
+    starken Bezug zu Data Science, zum Beispiel fortgeschrittene Aspekte der Analyse
+    von multi-modalen Daten, oder der datenbasierten Modellierung und Simulation von
+    bio-medizinischen Systemen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        Bearbeitung von Übungsaufgaben'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann,
+    oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 21
+  name: Masterseminar Data Science in Life Sciences
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozentin oder Dozent des Moduls
+  requirements: Keine
+  goals: Die Studierenden können sich in ein aktuelles Thema aus dem Gebiet der Data
+    Science in den Lebenswissenschaften anhand von Spezialliteratur selbstständig
+    einarbeiten, es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie
+    können auch ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie
+    können wesentliche Elemente gegenüber weniger wichtigen Elementen hervorheben
+    und achten bewusst auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei
+    Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: In diesem Seminar werden aktuelle Forschungsthemen aus dem Gebiet der Data
+    Science in den Lebenswissenschaften behandelt. Dabei können sich die Studierenden
+    thematisch auf eine Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten).
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 22
+  name: Softwareprojekt Data Science A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden beherrschen die arbeitsteilige Entwicklung komplexer Softwaresysteme
+    zur Analyse großer, schwach strukturierter Datensätze für ein wissenschaftliches
+    Umfeld. Sie können selbstständig ein größeres Projekt in Teilprojekte zerlegen,
+    geeignete Schnittstellen definieren, und einen Zeitplan erstellen. Sie können
+    sich im Team organisieren und leitende Funktionen übernehmen. Dabei berücksichtigen
+    sie Gender- und Diversitätsaspekte. Sie haben aus eigener Erfahrung ein vertieftes
+    Verständnis für Qualitäts-, Aufwands-, Akzeptanz- und Erfolgsfaktoren und beherrschen
+    Kommunikationstechniken (mündlich, schriftlich), sowohl intern zur erfolgreichen
+    Planung und Koordination der obigen Tätigkeiten im Projektteam als auch zur Verhandlung
+    mit einem externen Auftraggeber (als Kundenprojekt). Sie können dabei Methoden
+    des Projektmanagements sicher anwenden, insbesondere im Bereich des Entwurfs und
+    der Realisierung von Softwaresystemen (Anforderungsermittlung, Spezifikation,
+    Architekturentwurf, Modulentwurf, Technologieauswahl, Implementierung) wie auch
+    der Informationsextraktion aus großen, schwach strukturierten Datensätzen.
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studierenden produzieren im Team ein komplexes Stück Software zur Lösung einer
+    anwendungs- oder datenorientierten Aufgabe aus dem Bereich Data Science, wie zum
+    Beispiel der Künstlichen Intelligenz (Maschinelles Lernen, Computer-Sehen, oder
+    Mustererkennung) oder der Datenverwaltung oder der Web-Technologien, oder der
+    Anwendungsbereiche.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: laufende Berichte über den Projektstand; regelmäßige Präsentation
+        der Zwischenergebnisse.
+  workload:
+    - type: Präsenzzeit ProjS
+      time: 30
+    - type: Software-Entwicklung und Datenbearbeitung
+      time: 240
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten)
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in
+
+    der vorlesungsfreien Zeit als Blockveranstaltung.'
+  usability: Masterstudiengang Data Science
+- page: 23
+  name: Softwareprojekt Data Science B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden beherrschen die arbeitsteilige Entwicklung komplexer Softwaresysteme
+    zur Analyse großer, schwach strukturierter Datensätze für ein kommerzielles Umfeld,
+    einschließlich Pressearbeit. Sie können selbstständig ein größeres Projekt in
+    Teilprojekte zerlegen, geeignete Schnittstellen definieren, und einen Zeitplan
+    erstellen. Sie können sich im Team organisieren und leitende Funktionen übernehmen.
+    Dabei berücksichtigen sie Gender- und Diversitätsaspekte. Sie haben aus eigener
+    Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-, Akzeptanz- und
+    Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich, schriftlich),
+    sowohl intern zur erfolgreichen Planung und Koordination der obigen Tätigkeiten
+    im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber (als Kundenprojekt).
+    Sie können dabei Methoden des Projektmanagements sicher anwenden, insbesondere
+    im Bereich des Entwurfs und der Realisierung von Softwaresystemen (Anforderungsermittlung,
+    Spezifikation, Architekturentwurf, Modulentwurf, Technologieauswahl, Implementierung)
+    wie auch der Informationsextraktion aus großen, schwach strukturierten Datensätzen.
+  content: Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+    Studierenden produzieren im Team ein komplexes Stück Software zur Lösung einer
+    anwendungs- oder datenorientierten Aufgabe aus dem Bereich Data Science, wie zum
+    Beispiel der Künstlichen Intelligenz (Maschinelles Lernen, Computer-Sehen oder
+    Mustererkennung) oder der Datenverwaltung oder der Web-Technologien, oder der
+    Anwendungsbereiche.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: required
+      activity: laufende Berichte über den Projektstand; regelmäßige Präsentation
+        der Zwischenergebnisse.
+  workload:
+    - type: Präsenzzeit ProjS
+      time: 30
+    - type: Software-Entwicklung und Datenbearbeitung
+      time: 240
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten)
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in
+
+    der vorlesungsfreien Zeit als Blockveranstaltung.'
+  usability: Masterstudiengang Data Science
+- page: 24
+  name: Spezielle Aspekte der Data Science Technologies
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden können wesentliche Begriffe und Sachverhalte eines ausgewählten
+    Gebietes der Data Science Technologien anwenden.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Data Science
+    Technologien. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann,
+    oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 25
+  name: Aktuelle Forschungsthemen der Data Science Technologies
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden können die wesentlichen Begriffe und Techniken eines aktuellen
+    Forschungsgebietes im Bereich der Data Science Technologien anwenden.
+  content: Dieses Modul mit wechselnden Inhalten gibt einen Einblick in eines der
+    Forschungsthemen, die in aktuellen Projekten am Institut für Informatik bearbeitet
+    werden.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann,
+    oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 26
+  name: Ausgewählte Themen der Data Science Technologies A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
+    Anwendungsgebiet der Data Science Technologien. Sie können Erlerntes sicher anwenden.
+  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte von verteilter
+    Datenhaltung, modellbasierter Analyse, theoretischer Modelle der Datenrepräsentation,
+    der probabilistischen Datenanalyse oder des Maschinellen Lernens.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann,
+    oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 27
+  name: Ausgewählte Themen der Data Science Technologies B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden kennen vertiefte Konzepte in einem Spezialgebiet oder einem
+    Anwendungsgebiet der Data Science Technologien. Sie können Erlerntes sicher anwenden.
+  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte von verteilter
+    Datenhaltung, modellbasierter Analyse, theoretischer Modelle der Datenrepräsentation,
+    der probabilistischen Datenanalyse oder des Maschinellen Lernens.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
+        ergänzender Literatur
+
+        regelmäßige, schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung'
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
+    und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann,
+    oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 28
+  name: Datenbanksysteme Data Science
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozentin oder Dozent des Moduls
+  requirements: Keine
+  goals: Die Studierenden können am Ende des Moduls den Aufbau einer Datenbank exemplarisch
+    erläutern, die Verarbeitung von Befehlen an die Datenbank erklären, ausgewählte
+    Datenbankmodelle (wie z. B. ER-Modelle) aus Anwendungsbeschreibungen erstellen,
+    ein relationales Modell aus einem Datenbankschema ableiten, eine Datenbank auf
+    Grundlage eines relationalen Modells erstellen, eine Anfrage in relationaler Algebra
+    formalisieren, Abfragen zur Datenanalyse erstellen und auf einer Datenbank ausführen,
+    Anfragen zur Datenbank und Schemamanipulation erstellen und auf der Datenbank
+    ausführen. Sie können die Motivation der Normalisierung von Daten erklären und
+    können Algorithmen zum Normalisieren von Daten anwenden. Sie können typische alternative
+    Speicherstrukturen erklären und diese semantisch vergleichen. Sie können Anwendungen
+    mit Zugriff auf eine Datenbank implementieren. Sie können Methoden zum Beschleunigen
+    von Datenbankabfragen schematisch darstellen, erklären und mit geeigneten Datenstrukturen
+    implementieren. Sie können prinzipielle Methoden zur Transaktionsverwaltung auf
+    Datenbanken erklären und anwenden und können die Prinzipien des gleichzeigen Zugriffs
+    auf Datenbanken anwenden. Sie können Methoden zur Datenwiederherstellung erklären
+    und implementieren. Sie können grundlegende Methoden des Data Minings verstehen
+    und anwenden. Sie können Trends im Bereich Datenbanksysteme verstehen, erläutern
+    und anwenden.
+  content: 'Datenbankentwurf mit Entity-Relationship-Modellen und der UML; theoretische
+    Grundlagen relationaler Datenbanksysteme, relationale Algebra; funktionale Abhängigkeiten,
+    Normalformen, relationale Datenbankentwicklung: Datendefinition, Fremdschlüssel,
+    andere Integritätsbedingungen, objektrelationale Abbildung, Sicherheits- und Schutzkonzepte;
+    Transaktionsbegriff, transaktionale Garantien, Synchronisierung des Mehrbenutzerbetriebs,
+    Fehlertoleranzeigenschaften.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 3
+      attendance: recommended
+      activity: Schriftliche Bearbeitung der Übungsblätter
+    - type: Übung
+      swstime: 1
+      attendance: required
+      activity: Schriftliche Bearbeitung der Übungsblätter
+  workload:
+    - type: Präsenzzeit V
+      time: 45
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 15
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Mündliche Prüfung (ca. 15 Minuten) oder Klausur (90 Minuten), die ggf. ganz
+    oder teilweise in der Form des Antwort-Wahl-Verfahrens und auch in Form einer
+    elektronischen Prüfungsleistung durchgeführt werden kann.
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 29
+  name: Masterseminar der Data Science Technologies
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozentin oder Dozent des Moduls
+  requirements: Keine
+  goals: Studierende können sich selbstständig in ein aktuelles Forschungsthema der
+    Data Science Technologies anhand wissenschaftlicher Originalliteratur einarbeiten
+    und sich gegebenenfalls zusätzliches Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich und unter Berücksichtigung
+    verschiedener Aspekte, wie z. B. Ethik und Technologie, vermitteln. Sie sind in
+    der Lage die Regeln guter wissenschaftlicher Praxis im betrachteten Thema kritisch
+    zu beleuchten. Dabei können sie wesentliche Elemente gegenüber weniger wichtigen
+    Elementen hervorheben, Einzelaussagen in Beziehung zueinander setzen und auf ihren
+    inhaltlichen Kern reduzieren. Sie können geeignete Darstellungsformen und Medien
+    bewusst auswählen und einsetzen. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und können in sachlicher Weise Kritik üben. Gleichzeitig erwerben die
+    Studierenden vertiefte Kenntnisse in einem speziellen Thema der Data Science Technologies
+    und werden auf eigene Forschungsarbeit vorbereitet, wie sie zur Masterarbeit nötig
+    ist.
+  content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Data
+    Science Technologies.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4.500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten).
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Data Science
+- page: 30
+  name: Interdisziplinäre Zugänge im Rahmen von Data Science A
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozentin oder Dozent des Moduls
+  requirements: Keine
+  goals: Die Studierenden sind in der Lage statistische Verfahren in einem inhaltlichen
+    Themenfeld anzuwenden. Sie kennen die relevanten theoretischen Hintergründe und
+    sind in der Lage passende Auswertungsmethoden für die inhaltlichen Fragen auszuwählen,
+    diese anzuwenden und eine Antwort auf die Fragestellung zu entwikkeln. Dabei kennen
+    sie spezifische statistische Analyseverfahren des jeweiligen Inhaltsgebietes sowie
+    deren Einsatz in der Praxis.
+  content: Wechselnde Inhalte zu Themen der Datenanalyse in anderen Disziplinen, wie
+    zum Beispiel psychometrische Modelle in der Psychologie, Verfahren zur Analyse
+    von Paneldaten in der Soziologie oder kausale Analysen in den Wirtschaftswissenschaften.
+    Die statistischen Verfahren werden anwendungsorientiert vorgestellt.
+  teachingunit:
+    - type: Wahlveranstaltung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Aufgaben inklusive schriftlicher oder mündlicher Präsentation
+  workload:
+    - type: Präsenzzeit WLV
+      time: 30
+    - type: Vor- und Nachbereitung WLV
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Mündliche Prüfung (ca. 15 Minuten) oder Klausur (90 Minuten), die ggf. ganz
+    oder teilweise in der Form des Antwort-Wahl-Verfahrens und auch in Form einer
+    elektronischen Prüfungsleistung durchgeführt werden kann.
+  language: Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Data Science
+- page: 31
+  name: Interdisziplinäre Zugänge im Rahmen von Data Science B
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
+  responsible: Dozentin oder Dozent des Moduls
+  requirements: Keine
+  goals: Die Studierenden haben ein tieferes Verständnis für fortgeschrittene Konzepte
+    und datenanalytische Methoden im Bereich der empirischen quantitativen Sozialwissenschaften
+    (z. B. Psychologie, Soziologie oder Wirtschaftswissenschaften). Sie können auf
+    Basis ihres Wissens empirische Untersuchungen in den Sozialwissenschaften bewerten
+    und planen und mit aktuellen statistischen Verfahren analysieren.
+  content: Wechselnde Inhalte zu fortgeschrittenen Themen, wie zum Beispiel Analyse
+    von log-Daten für die Erfassung psychologischer Merkmale, Implementation von online-Therapien,
+    Theorie und Analyse von Umfragedaten oder Planung und Analyse von Ambulatory Assessments.
+  teachingunit:
+    - type: Wahlveranstaltung
+      swstime: 4
+      attendance: required
+      activity: Bearbeitung von Aufgaben inklusive schriftlicher oder mündlicher Präsentation
+  workload:
+    - type: Präsenzzeit WLV
+      time: 60
+    - type: Vor- und Nachbereitung WLV
+      time: 140
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 100
+  exam: Mündliche Prüfung (ca. 15 Minuten) oder Klausur (90 Minuten), die ggf. ganz
+    oder teilweise in der Form des Antwort-Wahl-Verfahrens und auch in Form einer
+    elektronischen Prüfungsleistung durchgeführt werden kann.
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: 'Für die folgenden drei Module wird auf die Studien- und Prüfungsordnung
+    für den Masterstudiengang Bioinformatik
+
+    der Fachbereiche Biologie, Chemie, Pharmazie sowie Mathematik und Informatik der
+    Freien Universität Berlin und
+
+    der Fakultät der Charité – Universitätsmedizin Berlin verwiesen:
+
+    – Modul: Machine Learning in Bioinformatics (DS/5 LP),
+
+    – Modul: Big Data Analysis in Bioinformatics (DS/5 LP),
+
+    – Modul: Applied Machine Learning in Bioinformatics (DS/5 LP).
+
+    Für die folgenden neun Module wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Informatik
+
+    des Fachbereichs Mathematik und Informatik der Freien Universität Berlin verwiesen:
+
+    – Modul: Verteilte Systeme (5 LP),
+
+    – Modul: Mobilkommunikation (5 LP),
+
+    – Modul: Telematik (10 LP),
+
+    – Modul: Höhere Algorithmik (10 LP),
+
+    – Modul: Rechnersicherheit (10 LP),
+
+    – Modul: Mustererkennung (5 LP),
+
+    – Modul: Netzbasierte Informationssysteme (5 LP),
+
+    – Modul: Künstliche Intelligenz (5 LP),
+
+    – Modul: Spezielle Aspekte der Datenverwaltung (5 LP). Verwendbarkeit: Masterstudiengang
+    Data Science'
