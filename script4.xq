@@ -81,9 +81,10 @@ def mergeSimilar2:
 
 
 def extractTeachingUnit:
-    find(.text | startswith("Präsenzstudium")) as $col2
+    .
+    | find(.text | startswith("Präsenzstudium")) as $col2
     | find(.text | startswith("Formen aktiver")) as $col3
-    | find(.text | endswith("= SWS)")) as $row1
+    | find(.text | (endswith("= SWS)"))) as $row1
     | . as $data
     | $data | [ .[]
         | select(.left < $col2.left + $col2.width)
@@ -100,7 +101,9 @@ def extractTeachingUnit:
         col2: (([$fcol2] | mergeSimilar2)[0] | .[] |= .text | [.[] | gsub("[\n ]+"; " ")
                 | {
                     type: (. | split(" ")[0:-1] | join(" ")),
-                    swstime: (. | split(" ")[-1] | gsub(","; ".") | if . == "Stunden" then "9" else . end | tonumber),
+                    swstime: (. | split(" ")[-1] | gsub(","; ".") | if . == "Stunden" then "9"
+                                                                    elif . == "SWS" then "1"
+                                                                    else . end | tonumber),
                     attendance: "TODO: missing info",
                     activity: $activity
                    }
@@ -119,12 +122,12 @@ def extractTeachingUnit:
 [
 .pdf2xml.page[]
     | (."@number" | tonumber) as $number
-    | select(10 <= $number and $number <= 40)
+    | select(6 <= $number and $number <= 23)
 #    | select(68 != $number and 69 != $number)
 #    | select(19 != $number and 20 != $number)
 #    | select(34 != $number and 35 != $number)
 #    | select($number == 21)
-#    | select($number == 8)
+#    | select($number == 21)
     | .text
     | convert
     | .[].text |= fixes
@@ -136,7 +139,7 @@ def extractTeachingUnit:
        "Qualifikationsziele:",
        "Inhalte:",
        "Präsenzstudium",
-       "Modulprüfung:",
+#       "Modulprüfung:",
 #       "und Prüfung",
        "Modulsprache:",
        "Pflicht zu regelmäßiger Teilnahme:",
@@ -146,14 +149,14 @@ def extractTeachingUnit:
        "Verwendbarkeit",
        "FU-Mitteilungen"] as $list
     | loop(0; ($list | length) - 1; . as $nbr | $data | fetch_section($list[$nbr]; $list[$nbr+1]))
-#    | .[7]
+#    | .[6]
     | (.[6] | extractTeachingUnit) as $tu
     | mergeSimilar
     | [.[] | .[].text
            | textcleanup
       ]
     | .
-    | (.[9] | sub(".*?: "; "")) as $attendance
+    | (.[8] | sub(".*?: "; "")) as $attendance
     | {
         page: $number,
         name: (.[0] | removeTitle),
@@ -164,13 +167,13 @@ def extractTeachingUnit:
         content: (.[5] | removeTitle | textcleanup | gsub("\n"; " ") | gsub(" [-–] "; "\n- ")),
         teachingunit: $tu.col2,
         workload: $tu.col4,
-        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
-        language: (.[8] | removeTitle),
-        total_work: (.[10] | removeTitle | split(" ")[0] | tonumber),
-        credit_points: (.[10] | removeTitle | split(" ")[2] | tonumber),
-        duration: (.[11] | removeTitle),
-        repeat: (.[12] | removeTitle),
-        usability: (.[13] | removeTitle)
+#        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
+        language: (.[7] | removeTitle),
+        total_work: (.[9] | removeTitle | split(" ")[0] | tonumber),
+        credit_points: (.[9] | removeTitle | split(" ")[2] | tonumber),
+        duration: (.[10] | removeTitle),
+        repeat: (.[11] | removeTitle),
+        usability: (.[12] | removeTitle)
     }
     | .teachingunit[] |= (
                             .type as $type

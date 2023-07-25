@@ -1,0 +1,810 @@
+- page: 6
+  name: Einführung in die Physik
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Institut
+    für Theoretische Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen einen Überblick über die Struktur
+    der Physik als quantitative Naturwissenschaft und ihre Arbeitsweisen. Sie kennen
+    die zentralen Inhalte und experimentellen und theoretischen Konzepte der Newton’schen
+    Mechanik und haben für diese ein intuitives Verständnis erlangt. Sie sind in der
+    Lage, die erworbenen Kenntnisse auf gegebene Probleme zu übertragen und diese
+    zu lösen. Die Studentinnen und Studenten kennen grundlegende Phänomene der Hydrodynamik
+    und der klassischen Thermodynamik und können diese anhand von einfachen theoretischen
+    Modellen erklären. Erste Gedankenexperimente sowie Formalismen der speziellen
+    Relativitätstheorie sind den Studentinnen und Studenten bekannt und können von
+    ihnen erklärt werden. Außerdem haben sie ausreichende Kenntnisse erworben, um
+    die Funktionsprinzipien einfacher Versuche zu den oben genannten Themen zu verstehen.
+    Die Studentinnen und Studenten verfügen über Kenntnisse elementarer mathematischer
+    Methoden und können diese in physikalischen Rechnungen verwenden.
+  content: Punktmechanik (Kinematik, Kepler-Problem, relativistische Mechanik), starre
+    Körper, Elastizität, Bezugssysteme, Beispiele aus der Hydrodynamik, Gasgesetze,
+    Phasenübergänge, Wärmekraftmaschine, Entropie, Mathematische Grundlagen (Vektoren,
+    Differentiation und Integration, Taylorreihen, Fourier-Transformation, einfache
+    Differentialgleichungen, komplexe Zahlen).
+  teachingunit:
+    - type: Vorlesung
+      swstime: 8
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Test
+    - type: Übung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Test
+  workload:
+    - type: Präsenzzeit
+      time: 180
+    - type: Vor- und Nachbereitung
+      time: 120
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 150
+  exam: 'Keine'
+  language: Deutsch
+  total_work: 450
+  credit_points: 15
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Physik
+- page: 7
+  name: Elektrodynamik und Optik
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die zentralen
+    Konzepte des Elektromagnetismus und der Optik und können diese erläutern und interpretieren.
+    Weiterhin können sie ihre Kenntnisse auf konkrete Fragestellungen anwenden und
+    die benötigten mathematischen Hilfsmittel sinnvoll einsetzen. Die Studentinnen
+    und Studenten haben außerdem ausreichende Kenntnisse der experimentellen Grundlagen
+    von Elektromagnetismus und Optik erworben um die Funktionsprinzipien einfacher
+    Versuche zu diesen Themen zu verstehen.
+  content: Elektrostatik, Magnetostatik, elektrische Ströme und Leitfähigkeit, Lorentz-Kraft,
+    Induktion, Polarisation und Magnetisierung von Materie, Maxwell-Gleichungen, elektromagnetische
+    Wellen, Interferenz und Beugung, Geometrische Optik, optische Instrumente, Fourier-Analyse.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Physik
+- page: 8
+  name: Grundlagen der Mess- und Labortechnik
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen in der Praxis geforderte erste grundlegende
+    Mess- und Labortechniken aus natur- und ingenieurwissenschaftlichen sowie technischen
+    Feldern, bei denen sie die im Studium erworbenen Kenntnisse und Fähigkeiten in
+    Fallbeispielen zur Anwendung bringen. Sie kennen die Funktionsweise der Messund
+    Labortechniken und können diese Kenntnisse in praktischen Zusammenhängen verwenden.
+    Die Studentinnen und Studenten können naturwissenschaftliche und technische Informationen
+    zielgerichtet recherchieren, ihre Arbeit gemäß den Maßstäben guter wissenschaftlicher
+    Praxis professionell aufbereiten, das heißt nachvollziehbar dokumentieren, gewonnene
+    quantitative Daten mit Methoden der Datenverarbeitung bearbeiten und geeignet
+    graphisch darstellen. Die Studentinnen und Studenten haben außerdem erste Erfahrungen
+    mit der Koordination von Arbeitsprozessen, der Kommunikation in Kleingruppen (und
+    Lösung von auftretenden Problemen) gewonnen.
+  content: Durchführung von Experimenten, Messmethodik, Messtechnik, statistische
+    Auswertmethoden (Fehlerrechnung), kritische Bewertung und Diskussion der Ergebnisse,
+    Dokumentation der Versuchsdurchführung, schriftliche und mündliche Darstellung
+    von Themen, Auswertungen und Ergebnissen (Bericht/Protokoll).
+  teachingunit:
+    - type: Praktikum 1
+      swstime: 3
+      attendance: required
+      activity: Praktische Versuchsdurchführung und schriftliche Auswertung
+    - type: Praktikum 2
+      swstime: 3
+      attendance: required
+      activity: Praktische Versuchsdurchführung und schriftliche Auswertung
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung der Versuche
+      time: 220
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Präsentation (etwa 15 Minuten) oder Klausur (60 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  language: Deutsch
+  total_work: 330
+  credit_points: 11
+  duration: Zwei Semester
+  repeat: Einmal pro Semester (alle Modulbestandteile)
+  usability: Bachelorstudiengang Physik
+- page: 9
+  name: Struktur der Materie
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: '„Einführung in die
+
+    Physik“, „Elektrodynamik und Optik“, „Analytische Mechanik“.'
+  goals: Die Studentinnen und Studenten kennen die experimentellen Grundlagen und
+    die zentralen Konzepte der Festkörper-, Atom- und Molekülphysik und können diese
+    erläutern und interpretieren. Weiterhin können sie ihre Kenntnisse auf konkrete
+    Fragestellungen anwenden und die benötigten mathematischen Hilfsmittel sinnvoll
+    einsetzen. Die Studentinnen und Studenten kennen anspruchsvolle moderne physikalische
+    Messverfahren und die Verschiedenartigkeit der experimentellen Methoden und können
+    diese in der Praxis anwenden. Sie sind in der Lage, sich ein neues Arbeitsgebiet
+    in kurzer Zeit anhand von Literatur zu erschließen. Zur Vorbereitung wird empfohlen,
+    an den Lehrveranstaltungen des Moduls „Quantenmechanik“ teilgenommen zu haben.
+  content: 'Festkörperphysik: Kristallstruktur, Beugung durch periodische Strukturen,
+    reziproker Raum, Gitterschwingungen, thermodynamische Eigenschaften, Elektronen
+    in Festkörpern, Transportphänomene, Halbleiter sowie eine Auswahl folgender Themen:
+    dielektrische Eigenschaften, Magnetismus, Supraleitung. Atom- und Molekülphysik:
+    Atome in elektrischen und magnetischen Feldern, Fein- und Hyperfeinstruktur, Absorption
+    und Emission elektromagnetischer Strahlung, Laser, spektroskopische Methoden,
+    Born-Oppenheimer- Näherung, Kernbewegung: Oszillation und Rotation, strahlungslose
+    Prozesse, chemische Bindung, Molekularorbitale, Franck-Condon-Prinzip, van der
+    Waals-Wechselwirkung, quantenchemische Methoden. Laborpraktikum: Eine Auswahl
+    von Experimenten aus den Themenbereichen: Festkörperphysik, Atom- und Molekülphysik,
+    Kernphysik, Biophysik.'
+  teachingunit:
+    - type: Vorlesung 1
+      swstime: 4
+      attendance: 'recommended'
+      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
+
+        Praktische Versuchsdurchführung und schriftliche Auswertung'
+    - type: Übung 1
+      swstime: 2
+      attendance: 'recommended'
+      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
+
+        Praktische Versuchsdurchführung und schriftliche Auswertung'
+    - type: Vorlesung 2
+      swstime: 4
+      attendance: 'recommended'
+      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
+
+        Praktische Versuchsdurchführung und schriftliche Auswertung'
+    - type: Übung 2
+      swstime: 2
+      attendance: 'recommended'
+      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
+
+        Praktische Versuchsdurchführung und schriftliche Auswertung'
+    - type: Praktikum
+      swstime: 4
+      attendance: required
+      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
+
+        Praktische Versuchsdurchführung und schriftliche Auswertung'
+  workload:
+    - type: Präsenzzeit
+      time: 240
+    - type: Vor- und Nachbereitung der Vorlesungen
+      time: 80
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 160
+    - type: Vor- und Nachbereitung der Versuche
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Mündliche Prüfung (etwa 45 Minuten)'
+  language: Deutsch
+  total_work: 660
+  credit_points: 22
+  duration: Zwei Semester
+  repeat: Mindestens einmal pro Studienjahr (alle Modulbestandteile)
+  usability: Bachelorstudiengang Physik
+- page: 10
+  name: Analytische Mechanik
+  organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten sind in der Lage, die grundlegenden Konzepte
+    und Sätze der Lagrange- und Hamilton-Mechanik zu benennen und beschreiben. Sie
+    können die Vorzüge der neu erlernten Formalismen erläutern und anhand ausgewählter
+    Beispiele aufzeigen. Weiterhin sind sie in der Lage, die erworbenen Methodenkenntnisse
+    auf gegebene Probleme zu übertragen und diese zu lösen. Außerdem haben die Studentinnen
+    und Studenten ihre Fertigkeiten im Umgang mit den elementaren mathematischen Werkzeugen
+    der theoretischen Physik vertieft. Sie können die benötigten mathematischen Hilfsmittel
+    gezielt und effizient anwenden und deren Nützlichkeit im Einzelfall bewerten.
+  content: 'Analytische Mechanik: praktische Einführung in die Variationsrechnung,
+    Lagrange- und Hamilton-Mechanik, Noether-Theorem, kleine Schwingungen, Kontinuumsmechanik.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Physik
+- page: 11
+  name: Quantenmechanik
+  organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Einführung in die Physik“ oder
+    des Moduls
+
+    „Analytische Mechanik“.'
+  goals: Die Studentinnen und Studenten sind in der Lage, die grundlegenden Konzepte
+    und Postulate der Quantenmechanik eines Teilchens zu benennen und beschreiben.
+    Sie können die fundamentalen Unterschiede zur klassischen Mechanik und die neue
+    Denkweise in eigene Worte fassen. Sie können beurteilen, in welchen Bereichen
+    die Verwendung der Quantentheorie sinnvoll ist und inwiefern sie die Gültigkeit
+    der klassischen Mechanik einschränkt. Weiterhin sind sie in der Lage, die erworbenen
+    Konzept- und Methodenkenntnisse auf gegebene Probleme zu übertragen und diese
+    zu lösen. Außerdem haben die Studentinnen und Studenten die zur Anwendung der
+    Quantentheorie notwendigen Rechen- und Darstellungsmethoden erlernt und sind in
+    der Lage, diese anzuwenden. Die Studentinnen und Studenten sind darüber hinaus
+    mit einigen bedeutenden Experimenten zur Quantenmechanik und deren inhaltlicher
+    und historischer Bedeutung vertraut.
+  content: Mathematische Grundlagen und Formalismus, Schrödinger-Gleichung, eindimensionale
+    Probleme, harmonischer Oszillator, Unschärferelation, Drehimpuls, Wasserstoffatom,
+    Potentialstreuung, Dichtematrix, Störungstheorie, grundlegende Experimente (z.
+    B. Welle-Teilchen-Dualismus, Beugung und Interferenzeffekte, Schwarzkörperstrahlung,
+    Photoeffekt, Stern-Gerlach-Versuch).
+  teachingunit:
+    - type: Vorlesung
+      swstime: 5
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 105
+    - type: Vor- und Nachbereitung
+      time: 100
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 130
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 25
+  exam: 'Klausur (90 Minuten)'
+  language: Deutsch
+  total_work: 360
+  credit_points: 12
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Physik
+- page: 12
+  name: Theoretische Elektrodynamik
+  organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: '„Einführung in die
+
+    Physik“, „Analytische Mechanik“, „Quantenmechanik“.'
+  goals: Die Studentinnen und Studenten sind in der Lage, die grundlegenden Konzepte
+    und Sätze der theoretischen Elektrodynamik als klassische Feldtheorie zu benennen
+    und zu beschreiben. Weiterhin sind sie in der Lage, die erworbenen Methodenkenntnisse
+    auf gegebene Probleme zu übertragen und diese zu lösen. Die Studentinnen und Studenten
+    haben außerdem die für den Umgang mit Feldtheorien notwendigen Rechenmethoden
+    erlernt und sind in der Lage, diese anzuwenden.
+  content: Elektrostatik, Randwertprobleme, Multipolentwicklung, Magnetostatik, Maxwell-Gleichungen,
+    Eichtransformationen, elektromagnetische Wellen, retardierte Potentiale, Strahlung
+    bewegter Ladungen, elektromagnetische Felder in Materie, kovariante Formulierung.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Physik
+- page: 13
+  name: Lineare Algebra
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten haben einen Überblick über die Struktur und
+    Ziele der Mathematik und ihre Arbeitsweisen gewonnen. Weiterhin wissen die Studentinnen
+    und Studenten um die zentralen Strukturen und Sätze der Linearen Algebra und sind
+    in der Lage, Zusammenhänge zwischen diesen herzustellen. Sie vermögen, diese Kenntnisse
+    auf gegebene Probleme anzuwenden. Darüber hinaus haben die Studentinnen und Studenten
+    Wissen um und Fertigkeiten in einigen Beweistechniken erworben.
+  content: Arbeitsweise und Ziele der Mathematik, Logik, Mengen und Abbildungen, algebraische
+    Strukturen, Körper, reelle Zahlen, komplexe Zahlen, lineare Abbildungen, lineare
+    Gleichungssysteme, Matrizen, Darstellungen und Basistransformationen, Determinanten,
+    Eigenwerte und Eigenvektoren, Skalarprodukt, Orthonormalsysteme.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Physik, Bachelorstudiengang Meteorologie
+- page: 14
+  name: Analysis
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die zentralen Strukturen und Sätze
+    der ein- und mehrdimensionalen Analysis und sind in der Lage, Zusammenhänge zwischen
+    diesen herzustellen. Sie vermögen, diese Kenntnisse auf gegebene Probleme anzuwenden.
+    Darüber hinaus haben die Studentinnen und Studenten ihr Wissen um und ihre Fertigkeiten
+    in verschiedenen Beweistechniken vertieft.
+  content: 'Vorlesung 1: Funktionen, Folgen und Grenzwerte, Reihen, Konvergenzkriterien,
+    Stetigkeit, Ableitungen, Potenzreihen, Riemann-Integration, uneigentliche Integrale.
+    Vorlesung 2: Funktionenfolgen, Vertauschbarkeit von Grenzprozessen, Mengen im
+    R n , partielle Ableitungen und Differenzierbarkeit, implizite Funktionen, Extremwerte
+    und Lagrange-Multiplikatoren, Taylor-Reihe im R n , Kurven-, Flächen- und Volumenintegrale,
+    Gradient, Divergenz, Rotation, Integralsätze von Gauß, Green und Stokes.'
+  teachingunit:
+    - type: Vorlesung 1
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Test
+    - type: Übung 1
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Test
+    - type: Vorlesung 2
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Test
+    - type: Übung 2
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Test
+  workload:
+    - type: Präsenzzeit
+      time: 180
+    - type: Vor- und Nachbereitung der Vorlesung
+      time: 100
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 160
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 40
+  exam: 'Klausur (90 Minuten)'
+  language: Deutsch
+  total_work: 480
+  credit_points: 16
+  duration: Zwei Semester
+  repeat: 'Einmal im Studienjahr (Vorlesung 1 im Sommersemester, Vorlesung 2 im
+
+    Wintersemester)'
+  usability: Bachelorstudiengang Physik, Bachelorstudiengang Meteorologie
+- page: 15
+  name: Biophysik
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die zentralen
+    Konzepte der Biophysik und können diese erläutern und interpretieren. Weiterhin
+    können sie ihre Kenntnisse auf konkrete Fragestellungen anwenden und die benötigten
+    mathematischen Hilfsmittel sinnvoll einsetzen. Die Studentinnen und Studenten
+    haben außerdem ausreichende Kenntnisse der experimentellen Grundlagen von Biophysik
+    erworben um die Funktionsprinzipien einfacher Versuche zu diesen Themen zu verstehen.
+  content: Struktur und strukturbestimmende Kräfte in biologischen Makromolekülen,
+    Dynamik von Protonen und Ionen, elektrische Felder und Potentiale in Proteinen,
+    Proteindynamik, Grundlagen der Molekülmechanik-Simulationen, biologische Funktion
+    auf atomarer Ebene.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Einmal im Studienjahr
+  usability: Bachelorstudiengang Physik
+- page: 16
+  name: Astronomie und Astrophysik
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die zentralen
+    Konzepte der Astronomie und Astrophysik und können diese erläutern und interpretieren.
+    Weiterhin können die Studentinnen und Studenten ihre Kenntnisse auf konkrete Fragestellungen
+    anwenden und die benötigten mathematischen Hilfsmittel sinnvoll einsetzen. Die
+    Studentinnen und Studenten haben außerdem ausreichende Kenntnisse der experimentellen
+    Grundlagen der Astronomie erworben.
+  content: 'Organisation der Materie im Universum, Entwicklung der astronomischen
+    Welterkenntnis, Klassische Astronomie, Planetensysteme, Wechselwirkung Strahlung
+
+    - Materie, Physik der Sterne, Hierarchie der Strukturen und Gleichgewichtszustände,
+    Bau der Milchstraße, Galaxien, Kosmologie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Einmal im Studienjahr
+  usability: Bachelorstudiengang Physik
+- page: 17
+  name: Kern- und Elementarteilchenphysik
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die zentralen
+    Konzepte der Kern- und Elementarteilchenphysik und können diese erläutern und
+    interpretieren. Weiterhin können sie ihre Kenntnisse auf konkrete Fragestellungen
+    anwenden und die benötigten mathematischen Hilfsmittel sinnvoll einsetzen. Die
+    Studentinnen und Studenten haben außerdem ausreichende Kenntnisse der experimentellen
+    Grundlagen von Kern- und Teilchenphysik erworben um die Funktionsprinzipien einfacher
+    Versuche zu diesen Themen zu verstehen.
+  content: Kernstruktur und Kernmodelle, Kernprozesse, Strahlungsdetektoren, Reaktionen
+    und Zerfälle von Hadronen, Elementarteilchen, fundamentale Wechselwirkungen, Symmetrieprinzipien,
+    Standardmodell, Kosmologie.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Einmal im Studienjahr
+  usability: Bachelorstudiengang Physik
+- page: 18
+  name: Computerphysik
+  organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Lineare Algebra“ oder des Moduls
+    „Analysis“.
+  goals: Die Studentinnen und Studenten haben einen ersten Einblick in die numerischen
+    Methoden der Physik gewonnen. Sie kennen und verstehen grundlegende numerischen
+    Methoden und Algorithmen und können diese in eigenen Programmen implementieren.
+    Weiterhin können sie die erlernten Methoden gezielt auf entsprechende Probleme
+    anwenden und die Validität gewonnener numerischer Ergebnisse kritisch beurteilen.
+  content: 'Eine Auswahl von: Approximation von Funktionen, Differentiation und Integration,
+    nichtlineare Gleichungen, Gleichungssysteme, Computergestützte lineare Algebra
+    (Eigenwertprobleme, Diagonalisierung), Optimierung, Lösung von Differentialgleichungen,
+    Monte-Carlo-Methoden, Modellieren von physikalischen Systemen, genetische Algorithmen,
+    Finite Elemente, weitere Themen der numerischen Physik'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: recommended
+      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit
+      time: 90
+    - type: Vor- und Nachbereitung
+      time: 50
+    - type: Bearbeitung der Aufgaben- blätter
+      time: 80
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  language: Deutsch
+  total_work: 240
+  credit_points: 8
+  duration: Ein Semester
+  repeat: Einmal im Studienjahr
+  usability: Bachelorstudiengang Physik
+- page: 19
+  name: Projektpraktikum
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Einführung in die Physik“ oder
+    des Moduls
+
+    „Elektrodynamik und Optik“'
+  goals: Die Studentinnen und Studenten haben Erfahrungen im Projektmanagement (Planung,
+    Durchführung und fristgerechter Abschluss) gesammelt und können Arbeitsprozesse
+    in Kleingruppen koordinieren. Sie können in der Praxis geforderte Mess- und Labortechniken
+    aus natur- und ingenieurwissenschaftlichen sowie technischen Feldern, projektbezogen
+    zur Anwendung bringen. Weiterhin können die Studentinnen und Studenten naturwissenschaftliche
+    und technische Informationen zielgerichtet recherchieren, Projektergebnisse nachvollziehbar
+    dokumentieren, gewonnene quantitative Daten mit Methoden der Datenverarbeitung
+    bearbeiten, geeignet graphisch darstellen sowie diese einem breiten Publikum adressatenspezifisch
+    präsentieren. Zur Vorbereitung wird empfohlen, eines der beiden Praktika des Moduls
+    „Grundlagen der Mess- und Labortechnik“ durchzuführen.
+  content: Konzeption und Durchführung von Experimenten, Messmethodik, Messtechnik,
+    statistische Auswertmethoden (Fehlerrechnung), kritische Bewertung und Diskussion
+    der Ergebnisse, Dokumentation der Versuchsdurchführung, schriftliche und mündliche
+    Darstellung von Themen, Auswertungen und Ergebnissen (Bericht/Protokoll/Präsentation).
+  teachingunit:
+    - type: Praktikum
+      swstime: 3
+      attendance: required
+      activity: Praktische Versuchsdurchführung, schriftliche Auswertung und Präsentation
+  workload:
+    - type: Präsenzzeit
+      time: 45
+    - type: Vor- und Nachbereitung der Versuche
+      time: 105
+  exam: 'Keine'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
+    (Kompetenzbereich Fachnahe Zusatzqualifikationen)
+- page: 20
+  name: Präsentationstechniken
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
+    Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Struktur der Materie“ oder des
+    Moduls „Quantenmechanik“.
+  goals: Die Studentinnen und Studenten sind befähigt, sich in ein gegebenes physikalisches
+    Thema einzuarbeiten und die Inhalte in Form einer Präsentation für ein breites
+    Publikum adressatenspezifisch aufzubereiten. Sie kennen die Merkmale einer guten
+    Präsentation und können diese in einen eigenen Vortrag erfolgreich einbeziehen.
+  content: 'Grundlegende Präsentationstechniken (Vortragsstil: Sprache, Gestik, Mimik;
+    Vortragsgestaltung: Bedeutung von Text, Tabellen und Bildern, geeignete Verwendung
+    von Medien, Zeitmanagement; Quellenangaben), Auswahl aus einem Themenkomplex mit
+    physikalischem Bezug.'
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Diskussionsbeteiligung Präsentationsübungen
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 75
+  exam: 'Vortrag (etwa 30 Minuten)'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
+    (Kompetenzbereich Fachnahe Zusatzqualifikationen)
+- page: 21
+  name: Berufspraktikum Physik – A
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
+    Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen tiefergehende Einblicke in die betrieblichen
+    Abläufe innerhalb einer Organisation oder eines Unternehmens. Sie kennen die berufspraktischen
+    Anforderungen eines für sie relevanten Berufsfeldes. Sie sind in der Lage, einfache
+    Arbeitsaufträge durchzuführen. Sie können ihr im Studium erworbenes Fachwissen
+    auf die Praxis des Arbeitsmarktes transferieren und anwenden. Sie sind in der
+    Lage, ihre eigenen Stärken und Schwächen zu erkennen und zu reflektieren und verknüpfen
+    ihre Erfahrungen im Unternehmen oder der Organisation mit ihrem Berufswunsch,
+    um diesen weiterzuentwickeln oder zu korrigieren. Die Studentinnen und Studenten
+    erkennen, welche überfachlichen Kenntnisse, Fähigkeiten und Fertigkeiten für den
+    Einstieg in den Beruf relevant sind und sind in der Lage, diese zu reflektieren
+    und auszubauen. Sie kennen Strategien für die erfolgreiche Praktikumssuche und
+    Bewerbung.
+  content: Das Modul vermittelt Strategien zur erfolgreichen Praktikumssuche und Gestaltung
+    und ermöglicht Reflektion fachspezifischer und überfachlicher Kenntnisse, Fähigkeiten
+    und Fertigkeiten sowie von Erfahrungen aus der Arbeitswelt, die für die Findung
+    und Ausübung qualifikationsadäquater beruflicher Tätigkeiten auf europäischen
+    und internationalen Arbeitsmärkten und für die Aufgabe des lebenslangen Lernens
+    relevant sind.
+  teachingunit:
+    - type: Praktikum
+      swstime: 120
+      attendance: required
+      activity: Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge,
+        Praktikumsbericht
+    - type: Kolloquium
+      swstime: 6
+      attendance: required
+      activity: Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge,
+        Praktikumsbericht
+  workload:
+    - type: Präsenzzeit
+      time: 126
+    - type: Vor- und Nachbereitung
+      time: 24
+  exam: 'Keine'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
+    (Berufspraktikum)
+- page: 22
+  name: Berufspraktikum Physik – B
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
+    Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen tiefergehende Einblicke in die betrieblichen
+    Abläufe innerhalb einer Organisation oder eines Unternehmens. Sie kennen die berufspraktischen
+    Anforderungen eines für sie relevanten Berufsfeldes. Sie sind in der Lage, einfache
+    Arbeitsaufträge durchzuführen. Sie können ihr im Studium erworbenes Fachwissen
+    auf die Praxis des Arbeitsmarktes transferieren und anwenden. Sie sind in der
+    Lage, ihre eigenen Stärken und Schwächen zu erkennen und zu reflektieren und verknüpfen
+    ihre Erfahrungen im Unternehmen oder der Organisation mit ihrem Berufswunsch,
+    um diesen weiterzuentwickeln oder zu korrigieren. Die Studentinnen und Studenten
+    erkennen, welche überfachlichen Kenntnisse, Fähigkeiten und Fertigkeiten für den
+    Einstieg in den Beruf relevant sind und sind in der Lage, diese zu reflektieren
+    und auszubauen. Sie kennen Strategien für die erfolgreiche Praktikumssuche und
+    Bewerbung.
+  content: Das Modul vermittelt Strategien zur erfolgreichen Praktikumssuche und Gestaltung
+    und ermöglicht Reflektion fachspezifischer und überfachlicher Kenntnisse, Fähigkeiten
+    und Fertigkeiten sowie von Erfahrungen aus der Arbeitswelt, die für die Findung
+    und Ausübung qualifikationsadäquater beruflicher Tätigkeiten auf europäischen
+    und internationalen Arbeitsmärkten und für die Aufgabe des lebenslangen Lernens
+    relevant sind.
+  teachingunit:
+    - type: Praktikum
+      swstime: 240
+      attendance: required
+      activity: Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge,
+        Praktikumsbericht (ca. 5 Seiten)
+    - type: Kolloquium
+      swstime: 6
+      attendance: required
+      activity: Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge,
+        Praktikumsbericht (ca. 5 Seiten)
+  workload:
+    - type: Präsenzzeit
+      time: 246
+    - type: Vor- und Nachbereitung
+      time: 54
+  exam: 'Keine'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
+    (Berufspraktikum)
+- page: 23
+  name: Berufspraktikum Physik – C
+  organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
+    Physik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen tiefergehende Einblicke in die betrieblichen
+    Abläufe innerhalb einer Organisation oder eines Unternehmens. Sie kennen die berufspraktischen
+    Anforderungen eines für sie relevanten Berufsfeldes. Sie sind in der Lage, einfache
+    Arbeitsaufträge durchzuführen. Sie können ihr im Studium erworbenes Fachwissen
+    auf die Praxis des Arbeitsmarktes transferieren und anwenden. Sie sind in der
+    Lage, ihre eigenen Stärken und Schwächen zu erkennen und zu reflektieren und verknüpfen
+    ihre Erfahrungen im Unternehmen oder der Organisation mit ihrem Berufswunsch,
+    um diesen weiterzuentwickeln oder zu korrigieren. Die Studentinnen und Studenten
+    erkennen, welche überfachlichen Kenntnisse, Fähigkeiten und Fertigkeiten für den
+    Einstieg in den Beruf relevant sind und sind in der Lage, diese zu reflektieren
+    und auszubauen. Sie kennen Strategien für die erfolgreiche Praktikumssuche und
+    Bewerbung.
+  content: Das Modul vermittelt Strategien zur erfolgreichen Praktikumssuche und Gestaltung
+    und ermöglicht Reflektion fachspezifischer und überfachlicher Kenntnisse, Fähigkeiten
+    und Fertigkeiten sowie von Erfahrungen aus der Arbeitswelt, die für die Findung
+    und Ausübung qualifikationsadäquater beruflicher Tätigkeiten auf europäischen
+    und internationalen Arbeitsmärkten und für die Aufgabe des lebenslangen Lernens
+    relevant sind.
+  teachingunit:
+    - type: Praktikum
+      swstime: 360
+      attendance: required
+      activity: Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge,
+        Praktikumsbericht (ca. 8 Seiten)
+    - type: Kolloquium
+      swstime: 6
+      attendance: required
+      activity: Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge,
+        Praktikumsbericht (ca. 8 Seiten)
+  workload:
+    - type: Präsenzzeit
+      time: 366
+    - type: Vor- und Nachbereitung
+      time: 84
+  exam: 'Keine'
+  language: Deutsch
+  total_work: 450
+  credit_points: 15
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
+    (Berufspraktikum)

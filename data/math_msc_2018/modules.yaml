@@ -1,0 +1,2104 @@
+- page: 9
+  name: Algebra I
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen grundlegende Methoden der kommutativen
+    Algebra in Verbindung mit der Entwicklung einer geometrischen Sichtweise und können
+    sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Moduln über Ringen,
+    Endlichkeitsbedingungen, Primärzerlegung, Flachheitskriterien, Gröbnerbasen, Derivationen,
+    Graduierungen und Hilbertfunktionen, Hilbertpolynome, Dimensionstheorie, Dedekind
+    Ringe, Dualitätstheorie, homologische Algebra und Darstellungstheorie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 10
+  name: Algebra II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Algebra I“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten beherrschen die Kernprinzipien der algebraischen
+    Geometrie und können mit der modernen Sprache der Schemata und Garben sicher umgehen.
+  content: 'Lokale analytische Geometrie: behandelt wird eine Auswahl aus folgenden
+    Themen: affine und projektive Varietäten, Kurven, Schemata, separierte und eigentliche
+    Abbildungen, Aufblasungen, Einbettung in projektive Räume, Divisoren, (invertierbare)
+    Garben, Garbenkohomologie, Satz von Riemann-Roch und Gröbnerbasen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 11
+  name: Differentialgeometrie I
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen grundlegende Konzepte der Geometrie
+    abstrakter und eingebetteter Mannigfaltigkeiten und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Kurven und Flächen
+    im Euklidischen Raum, (Riemannsche) Mannigfaltigkeiten, Bündel, Tensoren, Krümmung,
+    Untermannigfaltigkeiten und Geodäten.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 12
+  name: Differentialgeometrie II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Differentialgeometrie I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten verfügen über erweiterte Kenntnisse der geometrischen
+    Analysis und können Zusammenhänge zu Sichtweisen der Algebra, Topologie und Differentialgleichungen
+    herstellen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Exponentialabbildung
+    und der Satz von Hopf-Rinow, Zusammenhänge zwischen Krümmung und Topologie (z.
+    B. Satz von Myers, Hadamard-Cartan, Klingenberg, Starrheitssätze), geschlossene
+    Geodäten, Satz von Stokes, Kohomologie, Räume konstanter Krümmung, Lie-Gruppen
+    und homogene Räume, konforme Geometrie, geometrische Evolutionsgleichungen und
+    Differentialgleichungen aus der geometrischen Analysis und Grundbegriffe aus der
+    Differentialtopologie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 13
+  name: Diskrete Geometrie I
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen diskrete geometrische Strukturen
+    im Euklidischen Raum nebst grundlegenden Beschreibungs-, Analyse- und Beweismethoden
+    und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Kombinatorische Geometrie:
+    Punkte und Geraden in der Ebene (Sylvester-Gallai, Erdös-Szekeres, Szeméredi-Trotter,
+    Dualität, Arrangements), Einführung in die Lineare Optimierung (Lineare Programme,
+    Simplex-Verfahren geometrisch, LP-Dualität), Grundlegende Strukturen der Diskreten
+    Geometrie (Konvexe Polytope, polytopale Komplexe, Punktkonfigurationen, Hyperebenen-Arrangements,
+    Triangulierungen, Delaunay und Voronoi), Grundzüge der Polyedertheorie (Polarität,
+    Darstellungssatz von Minkowski-Weyl, simplizial/einfach, Graph, Satz von Steinitz,
+    Satz von Balinski, Durchmesser, Hirsch-Vermutung, Seitenverband, Euler-Gleichung,
+    f-Vektoren, Schälbarkeit) Grundlegende Beispiele (reguläre Polytope, Stapelpolytope,
+    zyklische Polytope, Zonotope, Hypersimplexe, 0/1- Polytope der kombinatorischen
+    Optimierung, etc.)'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 14
+  name: Diskrete Geometrie II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Diskrete Geometrie I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Sicherer Umgang mit geometrischen Strukturen und Argumenten; Einsicht in
+    ihre Anwendung in verschiedenen Mathematikbereichen
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Konvexgeometrie (Konvexe
+    Mengen, Trennsätze, Schnittsätze, Polarität), Volumenberechnung und Volumenabschätzungen
+    (Volumenberechnung, Sphärenvolumina, Satz von Löwner-John, Elekes-Lemma), Geometrische
+    Ungleichungen (Isoperimetrische Ungleichungen, Brunn- Minkowski, Alexsandrov-Fenchel,
+    Rekonstruktionssatz von Minkowski, Maßkonzentration, hochdimensionale Effekte),
+    Geometrie der Zahlen (Gitter, Satz von Minkowski, sukzessive Minima, Algorithmen,
+    Gitterpunkte in Polyedern), Kugelpackungen (Gitterpackungen, Satz von Minkowski-Hlawka,
+    analytische Methoden) und Anwendungen (z. B. Optimierung, Zahlentheorie, Funktionalanalysis)'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 15
+  name: Diskrete Mathematik I
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die wichtigsten Abzähl-Methoden,
+    verstehen grundlegende diskrete Strukturen und Algorithmen und können sicher damit
+    umgehen.
+  content: 'Es werden eine Auswahl aus folgenden Themen vermittelt: Abzählung (Grundlagen,
+    doppelte Abzählung, Schubfachprinzip, Rekursionen, erzeugende Funktionen, Inklusion-Exklusion,
+    Inversion), Diskrete Strukturen (Graphen, Mengensysteme, Designs, Halbordnungen,
+    Matroide), Graphentheorie (Bäume, Matchings, Zusammenhang, Planarität, Färbungen)
+    und Algorithmen (Dijkstra, Kruskal).'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Englisch oder Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
+- page: 16
+  name: Diskrete Mathematik II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Diskrete Mathematik I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Verständnis grundlegender Ergebnisse der extremalen Kombinatorik und ihrer
+    Anwendungen in Kombinatorik, Geometrie, Informatik und Algorithmik; Fähigkeit
+    zur Anwendung verschiedener mathematischer Methodenbereiche in der Kombinatorik;
+    Beherrschung der linearen Optimierung und ihren Anwendungen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Extremale Kombinatorik
+    (Hypergraphen, Färbungen, verbotene Teilstrukturen, Regularitätslemma und Anwendungen,
+    Matchingtheorie, Ramseytheorie, Anwendungen), Methoden in der Kombinatorik (probabilistische,
+    algebraische, topologische), Lineare Optimierung (Polytope, Simplexalgorithmus,
+    Dualität, ganzzahlige lineare Optimierung und LP-Relaxation, Anwendungen) und
+    Algorithmen (diskrete, randomisierte, asymptotische Laufzeit, Komplexität).'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 17
+  name: Dynamische Systeme I
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen grundlegende Kenntnisse der mathematischen
+    Theorie Dynamischer Systeme und können sicher damit umgehen.
+  content: 'Das Modul vermittelt grundlegende Methoden und Kenntnisse der folgenden
+    mathematischen Themen: Existenz und Eindeutigkeit der Lösungen von Differentialgleichungen,
+    Flüsse, Differenzierbarkeit, erste Integrale, Lineare Differentialgleichungen,
+    Lyapunov-Funktionen, α
+
+    - und ω -Limesmengen, Ebene Flüsse und der Satz von Poincaré- Bendixson, Erzwungene
+    Schwingungen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 18
+  name: Dynamische Systeme II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Dynamische Systeme I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten verstehen grundlegende Methoden, besitzen
+    fortgeschrittene Kenntnisse im Bereich Dynamische Systeme und können sicher damit
+    umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Zeitkontinuierliche
+    und -diskrete dynamische Systeme, Rotationszahlen, Diffeomorphismen auf S1 und
+    Flüsse auf T2, Stabile und instabile Mannigfaltigkeiten, Shift-Dynamik und Chaos,
+    Hyperbolische Dynamik, Zentrumsmannigfaltigkeit, Poincaré-Birkhoff Normalform,
+    Einführung in Störungstheorie, Einführung in Verzweigungstheorie und Einführung
+    in Ergodentheorie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 19
+  name: Numerik II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen grundlegende Kenntnisse der numerischen
+    Lösung von gewöhnlichen Differentialgleichungen sowie der numerischen linearen
+    Algebra und können sicher damit umgehen.
+  content: 'Es werden grundlegende Methoden und Kenntnisse in einer Auswahl aus folgenden
+    Themen behandelt: Anfangswertprobleme für steife Differentialgleichungen (Stabilität
+    und asymptotische Stabilität, von Fixpunkten, Testgleichungen), implizite Runge-Kutta-Verfahren
+    (Vererbungsprinzip, Stabilitätsgebiete, A- und B-Stabilität, Gauß-Verfahren),
+    differentiell-algebraische Gleichungen (Grundbegriffe, Index), Hamiltonsche Systeme
+    (Energieerhaltung, Symplektizität, symplektische Runge-Kutta-Verfahren), iterative
+    Verfahren zur Lösung großer linearer Gleichungssysteme (Lineare Iterationsverfahren,
+    Vorkonditionierung, Abstiegsverfahren, Verfahren der konjugierten Gradienten)
+    vermittelt.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 20
+  name: Numerik III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen grundlegende Kenntnisse der Theorie
+    und numerischen Lösung von partiellen Differentialgleichungen und können sicher
+    damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: mathematische Modellierung
+    mit partiellen Differentialgleichungen, Klassifikation (elliptisch, parabolisch,
+    hyperbolisch) und Wohlgestelltheit, klassische Lösungen und finite Differenzen
+    (Maximumprinzip, Konsistenz, Konvergenz), schwache Lösungen und finite Elemente
+    (Sobolev- Räume, Fehlerabschätzungen, Teilraumkorrektur-Methoden) und parabolische
+    Differentialgleichungen (Linienund Rothe-Methode).'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 21
+  name: Partielle Differentialgleichungen I
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können relevante Probleme mit Hilfe partieller
+    Differentialgleichungen mathematisch modellieren. Sie beherrschen elementare Verfahren
+    zur Untersuchung des qualitativen Lösungsverhaltens und können mit Fragen der
+    Existenz und Eindeutigkeit von Lösungen sowie der Stabilitätsproblematik angemessen
+    umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Lineare Transportgleichungen,
+    Laplace/Poissongleichung, Wärmeleitungsgleichung, Wellengleichung und Hilbertraummethoden.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweites Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 22
+  name: Partielle Differentialgleichungen II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Partielle Differentialgleichungen
+    I“ oder
+
+    gleichwertige Leistung'
+  goals: Die Studentinnen und Studenten verstehen grundlegende Methoden, besitzen
+    fortgeschrittene Kenntnisse im Bereich partieller Differentialgleichungen und
+    können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Theorie der linearen
+    elliptischen/parabolischen Differentialgleichungen, insbesondere ausgewählte Themen
+    aus den folgenden Gebieten: Maximumsprinzipien, Schaudertheorie, Existenz klassischer
+    Lösungen, Hölderstetigkeit schwacher Lösungen (de Giorgi-Nash-Moser/Krylov- Safonov)
+    und Anwendungen auf quasilineare Gleichungen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 23
+  name: Stochastik II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen grundlegende Kenntnisse in der Analyse
+    und Simulation diskreter Markov-Prozesse, die in wenigstens einem Thema an die
+    aktuelle Forschung heranführen und können damit sicher umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Grundbegriffe wie
+    Filtrationen, Stoppzeiten, Konvergenzbegriffe, Markov-Ketten, Monte-Carlo-Verfahren
+    und Grenzwertsätze, Bedingte Erwartung und Martingale und Stoppsätze.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 24
+  name: Stochastik III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verstehen grundlegende Methoden, besitzen
+    fortgeschrittene Kenntnisse im Bereich Stochastik und können sicher mit stochastischen
+    Prozessen umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Zeitkontinuierliche
+    stochastische Prozesse, Brownsche Bewegung und zeitkontinuierliche Martingale,
+    Semi-Martingale, Itô-Integral, Stochastische Analysis und Stochastische Differentialgleichungen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 25
+  name: Topologie I
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse und Fähigkeiten
+    im Umgang mit topologischen Räumen und stetigen Abbildungen. Sie sind zum Umgang
+    mit kategoriellen und funktoriellen Konstruktionen befähigt.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: topologische Räume,
+    mengentheoretische Topologie (Trennungsaxiome, Abzählbarkeitsaxiome, Zusammenhang,
+    Kompaktheit), Fundamentalgruppen, Überlagerungen und Grundbegriffe der Differentialtopologie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
+- page: 26
+  name: Topologie II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Topologie I“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten kennen erste Werkzeuge der Algebraischen Topologie
+    zur Behandlung geometrischer und analytischer Probleme. Sie können algebraische
+    Strukturen in den Objekten der geometrischen und Differentialtopologie erkennen
+    und nutzen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Singuläre Homologie-
+    und Kohomologietheorie mit Anwendungen, Homologie von CW- und Simplizialkomplexen,
+    Produkte und Poincaré-Dualität, Satz von de Rham und Morse-Theorie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Wintersemester
+  usability: Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
+- page: 27
+  name: Zahlentheorie II
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Algebra I“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten beherrschen die Theorie der Zahlkörper, deren
+    Verzweigungstheorie, Idealklassengruppen und Einheitsgruppen, wissen Grundzüge
+    der Eigenschaften lokaler Körper.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Ganzheitsringe, Dedekind
+    Ringe, Zahlkörper, Minkowski Theorie und Endlichkeit der Klassenzahl, Dirichlet
+    Einheitssatz, Erweiterungen von Dedekind Ringen und Verzweigungstheorie, Bewertungen,
+    Komplettierung und lokale Körper.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+  language: Englisch oder Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 28
+  name: Algebra III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Algebra I“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in der
+    Algebraischen Geometrie, die in wenigstens einem Thema an aktuelle Entwicklungen
+    in der Forschung heranführen und können sicher damit umgehen.
+  content: 'Transzendente Methoden: es wird eine Auswahl aus folgenden Themen behandelt:
+    Schnitttheorie, Derivierte Kategorien, Torische Varietäten, Algebraische Gruppen
+    und Gruppenwirkungen, Modulprobleme und Garbenkohomologie und Hodge-Theorie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes zweite Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 29
+  name: Differentialgeometrie III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Differentialgeometrie I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in der
+    Geometrischen Analysis, die in wenigstens einem Thema an aktuelle Entwicklungen
+    in der Forschung heranführen und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Geometrische Evolutionsgleichungen/Krümmungsflüsse
+    (z. B. Mittlerer Krümmungsfluss, Riccifluss), Dynamik und Langzeitverhalten von
+    Lösungen geometrischer Evolutionsgleichungen, Flächen vorgeschriebener Krümmung
+    und Blätterungen, Harmonische Abbildungen und Geometrische Maßtheorie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes zweite Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 30
+  name: Diskrete Geometrie III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Diskrete Geometrie I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten besitzen eine Übersicht über Leitfragen, Stand
+    des Wissens, Methoden sowie neuere Ergebnisse in ausgewählten Themenbereichen
+    und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Konvexe Polytope
+    (u. a.: Extremaltheorie, Konstruktionsmethoden, f-Vektortheorie), Ganzzahlige
+    und kombinatorische Optimierung; semidefinite Optimierung und Anwendungen, Topologische
+    Methoden und Anwendungen, und Tropische Geometrie'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 31
+  name: Diskrete Mathematik III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Diskrete Mathematik I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in der
+    Diskreten Mathematik, die in wenigstens einem Thema an aktuelle Entwicklungen
+    in der Forschung heranführen und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Algebraische Kombinatorik,
+    Abzählende Kombinatorik, Diskrete Geometrie und Optimierung, Graphentheorie und
+    Algorithmen, Informationstheorie, Kodierungstheorie, Konstruktive Kombinatorik,
+    Kryptographie, Spieltheorie, Topologische Kombinatorik und Zufällige Strukturen
+    und Algorithmen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 32
+  name: Dynamische Systeme III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Dynamische Systeme I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse im Bereich
+    Dynamischer Systeme, die in wenigstens einem Thema an aktuelle Entwicklungen in
+    der Forschung heranführen und können sicher damit umgehen.
+  content: 'In diesem Modul werden Spezialgebiete der Dynamischen Systeme und der
+    partiellen Differentialgleichungen behandelt. Vertiefende Auswahl aus den folgenden
+    Themen: Störungstheorie, Verzweigungstheorie, Ergodentheorie, Topologische Variationsrechnung,
+    Conley-Index, Unendlich-dimensionale Dynamik, Musterbildung und Reaktions- Diffusions-Systeme,
+    Nichtlineare Differentialgleichungen, Charakteristiken, Erhaltungssätze, Delay-Differentialgleichungen,
+    Differentialgleichungen auf Netzwerken, Kontrolltheorie, Anwendungen in Biologie,
+    Chemie und Physik'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 33
+  name: Numerik IV
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls “Numerik II“ oder „Numerik III“
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in der
+    Numerischen Mathematik, die in wenigstens einem Thema an aktuelle Entwicklungen
+    in der Forschung heranführen und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Teilraumkorrekturmethoden
+    zur Lösung partieller Differentialgleichungen, Modellierung, effiziente Simulation
+    und Optimierung von Prozessen, Modellierung mit stochastischen Differentialgleichungen,
+    Numerische Simulation konvektions-dominanter Probleme, Mathematische Modellierung
+    und Numerik in der Klimaforschung und Monte-Carlo-Methoden in der Bildverarbeitung.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 34
+  name: Partielle Differentialgleichungen III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Partielle Differentialgleichungen
+    I“ oder
+
+    gleichwertige Leistung'
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in Partielle
+    Differentialgleichungen, die in wenigstens einem Thema an aktuelle Entwicklungen
+    in der Forschung heranführen und können sicher damit umgehen.
+  content: 'Nichtlineare Gleichungen und Systeme mit Anwendungen auf Probleme der
+    Geometrie, Variationsrechnung und Physik, insbesondere ausgewählte Themen aus
+    den folgenden Gebieten: Minimalflächen, Harmonische Abbildungen, Andere Variationsprobleme;
+    auch Variationsungleichungen, geometrische Evolutionsgleichungen, Nichtlineare
+    Wellengleichungen und Geometrische Maßtheorie.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 35
+  name: Stochastik IV
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Stochastik II“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in Stochastik,
+    die in wenigstens einem Thema an aktuelle Entwicklungen in der Forschung heranführen
+    und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Semimartingale und
+    allgemeine stochastische Integration. Fortgeschrittene stochastische Analysis,
+    z. B. Malliavin Kalkül, Skohorod Einbettungen. Anwendungsspezifische Statistik,
+    z. B. Versicherungsmathematik, Finanzen, Medizin. Stochastische Steuerung, Optimales
+    Stoppen, Black-Scholes-Formel, Experimentelles Design, Theorie der großen Abweichungen,
+    Fluktuationstheoreme.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 36
+  name: Topologie III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Topologie I“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in der
+    Algebraischen und Geometrischen Topologie, die in wenigstens einem Thema an aktuelle
+    Entwicklungen in der Forschung heranführen, und können sicher damit umgehen.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Homotopiemengen,
+    Homotopiegruppen und der Satz von Hurewicz, verallgemeinerte Homologietheorien
+    und Spektren, Bündel und klassifizierende Räume, Charakteristische Klassen und
+    Differenzierbare Strukturen, Niedrigdimensionale Topologie, Geometrische Gruppentheorie,
+    Faserungen und Spektralsequenzen und Kohomologieoperationen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes zweite Sommersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 37
+  name: Zahlentheorie III
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Zahlentheorie II“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten beherrschen die Theorie der lokalen Körper,
+    deren Brauergruppen und die lokale Klassenkörpertheorie.
+  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: unendliche Galois
+    Theorie, Lokale Körper, Brauer Gruppen, lokale Artin Reziprozitätsabbildung, Hauptsatz
+    der Klassenkörpertheorie für lokale Körper.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 20
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 20
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten)
+  language: Englisch oder Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes zweite Wintersemester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 38
+  name: Masterseminar Algebra
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Algebra I“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Forschungsthema
+    aus dem Gebiet der Algebraischen Geometrie anhand von Spezialliteratur selbstständig
+    einarbeiten, es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie
+    können auch ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie
+    können wesentliche Elemente gegenüber weniger wichtigen Elementen hervorheben
+    und achten bewusst auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei
+    Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Algebraischen Geometrie
+    behandelt. Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit
+    vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 39
+  name: Masterseminar Differentialgeometrie
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Differentialgeometrie I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Thema aus dem
+    Gebiet der Differentialgeometrie anhand von Spezialliteratur selbstständig einarbeiten,
+    es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten bewusst
+    auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: In diesem Seminar werden aktuelle Forschungsthemen aus dem Gebiet der Differentialgeometrie
+    behandelt. Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit
+    vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 40
+  name: Masterseminar Diskrete Geometrie
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Diskrete Geometrie I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Thema aus dem
+    Gebiet der Diskreten Geometrie anhand von Spezialliteratur selbstständig einarbeiten,
+    es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten bewusst
+    auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: In diesem Seminar werden aktuelle Forschungsthemen aus dem Gebiet der Diskreten
+    Geometrie behandelt. Dabei können sich die Studentinnen und Studenten auf ihre
+    Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 41
+  name: Masterseminar Diskrete Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Diskrete Mathematik II“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Studentinnen und Studenten können sich in ein aktuelles Thema aus dem Gebiet
+    der Diskreten Mathematik anhand von Spezialliteratur selbstständig einarbeiten,
+    es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten bewusst
+    auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Diskreten Mathematik
+    behandelt. Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit
+    vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 42
+  name: Masterseminar Dynamische Systeme
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Dynamische Systeme I“ oder
+    gleichwertige
+
+    Leistung'
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Forschungsthema
+    aus dem Gebiet der Dynamischen Systeme anhand von Spezialliteratur selbstständig
+    einarbeiten, es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie
+    können auch ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie
+    können wesentliche Elemente gegenüber weniger wichtigen Elementen hervorheben
+    und achten bewusst auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei
+    Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Dynamischen Systeme
+    behandelt. Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit
+    vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes zweite Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 43
+  name: Masterseminar Numerik
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Numerik II oder III“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Thema aus dem
+    Gebiet der Numerischen Mathematik anhand von Spezialliteratur selbstständig einarbeiten,
+    es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten bewusst
+    auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Numerischen Mathematik
+    behandelt. Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit
+    vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 44
+  name: Masterseminar Partielle Differentialgleichungen
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: 'Erfolgreiche Absolvierung des Moduls „Partielle Differentialgleichungen
+    I“ oder
+
+    gleichwertige Leistung'
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Forschungsthema
+    aus dem Gebiet der Angewandten Analysis anhand von Spezialliteratur selbstständig
+    einarbeiten, es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie
+    können auch ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie
+    können wesentliche Elemente gegenüber weniger wichtigen Elementen hervorheben
+    und achten bewusst auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei
+    Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über wissenschaftliche
+    Fragen beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Angewandten Analysis
+    behandelt. Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit
+    vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 45
+  name: Masterseminar Stochastik
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Stochastik II“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Forschungsthema
+    aus dem Gebiet der Stochastik anhand von Spezialliteratur selbstständig einarbeiten,
+    es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten bewusst
+    auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Stochastik behandelt.
+    Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 46
+  name: Masterseminar Topologie
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Topologie I“ oder gleichwertige
+    Leistung
+  goals: Studentinnen und Studenten können sich in ein aktuelles Thema aus dem Gebiet
+    der Algebraischen Topologie anhand von Spezialliteratur selbstständig einarbeiten,
+    es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten bewusst
+    auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Algebraischen Topologie
+    behandelt. Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit
+    vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jährlich
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 47
+  name: Masterseminar Zahlentheorie
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Erfolgreiche Absolvierung des Moduls „Zahlentheorie II“ oder gleichwertige
+    Leistung
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Forschungsthema
+    aus dem Gebiet der Zahlentheorie anhand von Spezialliteratur selbstständig einarbeiten,
+    es aufbereiten und sich ergänzendes Hintergrundwissen aneignen. Sie können auch
+    ein schwieriges Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten bewusst
+    auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei Unklarheiten Fragen
+    zu stellen, sie können sich an einer Diskussion über wissenschaftliche Fragen
+    beteiligen und sie können in sachlicher Weise Kritik üben.
+  content: Es werden aktuelle Forschungsthemen aus dem Gebiet der Zahlentheorie behandelt.
+    Dabei können sich die Studentinnen und Studenten auf ihre Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Mindestens jedes zweite Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 48
+  name: Ausgewählte Themen A
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten mathematischen
+    Gebietes und verstehen zugehörige Begriffe. Sie können Erlerntes sicher anwenden.
+  content: Das Modul gibt eine Einführung in ein ausgewähltes mathematisches Gebiet.
+    Zusätzlich werden aktuelle Forschungsfragen berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder schriftliche
+    Ausarbeitung (etwa 10 Seiten) – die Modulprüfung wird nicht differenziert bewertet
+    –
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 49
+  name: Ausgewählte Themen B
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten mathematischen
+    Gebietes und verstehen zugehörige Begriffe. Sie können Erlerntes sicher anwenden.
+  content: Das Modul gibt eine Einführung in ein ausgewähltes mathematisches Gebiet.
+    Zusätzlich werden aktuelle Forschungsfragen berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder schriftliche
+    Ausarbeitung (etwa 10 Seiten) – die Modulprüfung wird nicht differenziert bewertet
+    –
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 50
+  name: Ausgewählte Themen C
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten mathematischen
+    Gebietes und verstehen zugehörige Begriffe. Sie können Erlerntes sicher anwenden.
+  content: Das Modul gibt eine Einführung in ein ausgewähltes mathematisches Gebiet.
+    Zusätzlich werden aktuelle Forschungsfragen berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 60
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 90
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder schriftliche
+    Ausarbeitung (etwa 10 Seiten) – die Modulprüfung wird nicht differenziert bewertet
+    –
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 51
+  name: Spezielle Aspekte A
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Sachverhalte
+    eines ausgewählten mathematischen Gebietes anwenden
+  content: Das Modul gibt einen Einblick in ein ausgewähltes mathematisches Gebiet.
+    Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
+    –
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 52
+  name: Spezielle Aspekte B
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Sachverhalte
+    eines ausgewählten mathematischen Gebietes anwenden
+  content: Das Modul gibt einen Einblick in ein ausgewähltes mathematisches Gebiet.
+    Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
+    –
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 53
+  name: Spezielle Aspekte C
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Sachverhalte
+    eines ausgewählten mathematischen Gebietes anwenden
+  content: Das Modul gibt einen Einblick in ein ausgewähltes mathematisches Gebiet.
+    Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie mündliche Präsentation
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
+    –
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 54
+  name: Aktuelle Forschungsthemen A
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Thema anhand
+    von Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich ergänzendes
+    Hintergrundwissen aneignen. Sie können auch ein schwieriges Thema in einem Vortrag
+    verständlich vermitteln. Sie können wesentliche Elemente gegenüber weniger wichtigen
+    Elementen hervorheben und achten bewusst auf den Einsatz geeigneter Medien. Sie
+    sind dazu bereit, bei Unklarheiten Fragen zu stellen, sie können sich an einer
+    Diskussion über wissenschaftliche Fragen beteiligen und sie können in sachlicher
+    Weise Kritik üben.
+  content: In diesem Seminar werden aktuelle Forschungsthemen behandelt. Dabei können
+    sich die Studentinnen und Studenten auch auf ihre Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten) –
+    die Modulprüfung wird nicht differenziert bewertet –
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 55
+  name: Aktuelle Forschungsthemen B
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Thema anhand
+    von Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich ergänzendes
+    Hintergrundwissen aneignen. Sie können auch ein schwieriges Thema in einem Vortrag
+    verständlich vermitteln. Sie können wesentliche Elemente gegenüber weniger wichtigen
+    Elementen hervorheben und achten bewusst auf den Einsatz geeigneter Medien. Sie
+    sind dazu bereit, bei Unklarheiten Fragen zu stellen, sie können sich an einer
+    Diskussion über wissenschaftliche Fragen beteiligen und sie können in sachlicher
+    Weise Kritik üben.
+  content: In diesem Seminar werden aktuelle Forschungsthemen behandelt. Dabei können
+    sich die Studentinnen und Studenten auch auf ihre Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten) –
+    die Modulprüfung wird nicht differenziert bewertet –
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 56
+  name: Aktuelle Forschungsthemen C
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können sich in ein aktuelles Thema anhand
+    von Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich ergänzendes
+    Hintergrundwissen aneignen. Sie können auch ein schwieriges Thema in einem Vortrag
+    verständlich vermitteln. Sie können wesentliche Elemente gegenüber weniger wichtigen
+    Elementen hervorheben und achten bewusst auf den Einsatz geeigneter Medien. Sie
+    sind dazu bereit, bei Unklarheiten Fragen zu stellen, sie können sich an einer
+    Diskussion über wissenschaftliche Fragen beteiligen und sie können in sachlicher
+    Weise Kritik üben.
+  content: In diesem Seminar werden aktuelle Forschungsthemen behandelt. Dabei können
+    sich die Studentinnen und Studenten auch auf ihre Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 90
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten) –
+    die Modulprüfung wird nicht differenziert bewertet –
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 57
+  name: Spezielle Forschungsaspekte
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können wesentliche Begriffe und Sachverhalte
+    eines ausgewählten mathematischen Gebietes anzuwenden und können Lösungen zu ausgewählten
+    Problemen selbstständig erarbeiten.
+  content: Das Modul gibt einen Einblick in ein ausgewähltes mathematisches Gebiet.
+    Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: 'TODO: Vorlesung: wird dringend empfohlen:: Vorlesung: Ja'
+      activity: Aktive Beteiligung und ggf. Diskussion
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
+    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
+    –
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 58
+  name: Forschungsprojekt
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können ihre mathematischen Kenntnisse, Fähigkeiten
+    und Fertigkeiten in einem aktuellen, nach Möglichkeit industriebezogenem Forschungsprojekt
+    einsetzen. Sie können im Team arbeiten und über ihre Arbeit geeignet kommunizieren.
+    Sie sind dazu bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können
+    einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise Kritik
+    üben.
+  content: In diesem Modul werden anwendungsorientierte Probleme mit mathematischen
+    Hilfsmitteln bearbeitet.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 210
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: Vortrag (etwa 30 Minuten) mit schriftlicher Ausarbeitung (etwa 5 Seiten) –
+    die Modulprüfung wird nicht differenziert bewertet –
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 59
+  name: BMS – Fridays
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen aktuelle Forschungsthemen und Forschungsergebnisse.
+    Sie können sich an einer wissenschaftlichen Diskussion beteiligen sowie Forschungsthemen
+    und -ergebnisse in einen größeren Zusammenhang einordnen.
+  content: In diesem Seminar werden aktuelle Forschungsthemen behandelt. Dabei können
+    sich die Studentinnen und Studenten auch auf ihre Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 240
+  exam: Keine
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Zwei Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+- page: 60
+  name: What is …?
+  organizer: Freie Universität Berlin/Mathematik und Informatik
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen aktuelle Forschungsthemen und Forschungsergebnisse.
+    Sie können sich an einer wissenschaftlichen Diskussion beteiligen sowie Forschungsthemen
+    und -ergebnisse in einen größeren Zusammenhang einordnen.
+  content: In diesem Modul werden aktuelle Forschungsthemen behandelt. Dabei können
+    sich die Studentinnen und Studenten auch auf ihre Masterarbeit vorbereiten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 90
+  exam: Keine
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Zwei Semester
+  repeat: Jedes Semester
+  usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot

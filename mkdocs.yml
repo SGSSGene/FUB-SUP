@@ -320,3 +320,156 @@ nav:
       - datasci_msc_2021/modules/Spezielle Aspekte der Data Science Technologies.md
       - datasci_msc_2021/modules/Spezielle Aspekte der Data Science in Life Sciences.md
       - datasci_msc_2021/modules/Statistics for Data Science.md
+  - Mathematik Bsc 2013:
+    - math_bsc_2013/home.md
+    - Studien- und Prüfungsordnung: math_bsc_2013/spo.md
+    - Modulbeschreibung:
+      - math_bsc_2013/module_explanations.md
+      - math_bsc_2013/modules/Aktuelle Themen der Mathematik.md
+      - math_bsc_2013/modules/Algebra und Zahlentheorie.md
+      - math_bsc_2013/modules/Analysis I.md
+      - math_bsc_2013/modules/Analysis II.md
+      - math_bsc_2013/modules/Analysis III.md
+      - math_bsc_2013/modules/Berufspraktikum.md
+      - math_bsc_2013/modules/Computeralgebra.md
+      - math_bsc_2013/modules/Computerorientierte Mathematik I.md
+      - math_bsc_2013/modules/Computerorientierte Mathematik II.md
+      - math_bsc_2013/modules/Datenstrukturen und Datenabstraktion mit Anwendung.md
+      - math_bsc_2013/modules/Einführung in die Visualisierung.md
+      - math_bsc_2013/modules/Elementargeometrie.md
+      - math_bsc_2013/modules/Funktionalanalysis.md
+      - math_bsc_2013/modules/Funktionentheorie.md
+      - math_bsc_2013/modules/Geometrie.md
+      - math_bsc_2013/modules/Höhere Algorithmik mit Anwendung.md
+      - math_bsc_2013/modules/Höhere Analysis.md
+      - math_bsc_2013/modules/Kommunikation über Mathematik.md
+      - math_bsc_2013/modules/Lineare Algebra I.md
+      - math_bsc_2013/modules/Lineare Algebra II.md
+      - math_bsc_2013/modules/Mathematisches Projekt.md
+      - math_bsc_2013/modules/Numerik I.md
+      - math_bsc_2013/modules/Panorama der Mathematik.md
+      - math_bsc_2013/modules/Planung und Durchführung eines Tutoriums.md
+      - math_bsc_2013/modules/Programmierung.md
+      - math_bsc_2013/modules/Spezialthemen der Mathematik.md
+      - math_bsc_2013/modules/Spezialthemen der angewandten Mathematik.md
+      - math_bsc_2013/modules/Spezialthemen der reinen Mathematik.md
+      - math_bsc_2013/modules/Statistik-Software (CoSta).md
+      - math_bsc_2013/modules/Stochastik I.md
+      - math_bsc_2013/modules/Stochastik II.md
+      - math_bsc_2013/modules/Wissenschaftliches Arbeiten in der Mathematik.md
+  - Mathematik Msc 2018:
+    - math_msc_2018/home.md
+    - Studien- und Prüfungsordnung: math_msc_2018/spo.md
+    - Modulbeschreibung:
+      - math_msc_2018/module_explanations.md
+      - math_msc_2018/modules/Aktuelle Forschungsthemen A.md
+      - math_msc_2018/modules/Aktuelle Forschungsthemen B.md
+      - math_msc_2018/modules/Aktuelle Forschungsthemen C.md
+      - math_msc_2018/modules/Algebra I.md
+      - math_msc_2018/modules/Algebra II.md
+      - math_msc_2018/modules/Algebra III.md
+      - math_msc_2018/modules/Ausgewählte Themen A.md
+      - math_msc_2018/modules/Ausgewählte Themen B.md
+      - math_msc_2018/modules/Ausgewählte Themen C.md
+      - math_msc_2018/modules/BMS – Fridays.md
+      - math_msc_2018/modules/Differentialgeometrie I.md
+      - math_msc_2018/modules/Differentialgeometrie II.md
+      - math_msc_2018/modules/Differentialgeometrie III.md
+      - math_msc_2018/modules/Diskrete Geometrie I.md
+      - math_msc_2018/modules/Diskrete Geometrie II.md
+      - math_msc_2018/modules/Diskrete Geometrie III.md
+      - math_msc_2018/modules/Diskrete Mathematik I.md
+      - math_msc_2018/modules/Diskrete Mathematik II.md
+      - math_msc_2018/modules/Diskrete Mathematik III.md
+      - math_msc_2018/modules/Dynamische Systeme I.md
+      - math_msc_2018/modules/Dynamische Systeme II.md
+      - math_msc_2018/modules/Dynamische Systeme III.md
+      - math_msc_2018/modules/Forschungsprojekt.md
+      - math_msc_2018/modules/Masterseminar Algebra.md
+      - math_msc_2018/modules/Masterseminar Differentialgeometrie.md
+      - math_msc_2018/modules/Masterseminar Diskrete Geometrie.md
+      - math_msc_2018/modules/Masterseminar Diskrete Mathematik.md
+      - math_msc_2018/modules/Masterseminar Dynamische Systeme.md
+      - math_msc_2018/modules/Masterseminar Numerik.md
+      - math_msc_2018/modules/Masterseminar Partielle Differentialgleichungen.md
+      - math_msc_2018/modules/Masterseminar Stochastik.md
+      - math_msc_2018/modules/Masterseminar Topologie.md
+      - math_msc_2018/modules/Masterseminar Zahlentheorie.md
+      - math_msc_2018/modules/Numerik II.md
+      - math_msc_2018/modules/Numerik III.md
+      - math_msc_2018/modules/Numerik IV.md
+      - math_msc_2018/modules/Partielle Differentialgleichungen I.md
+      - math_msc_2018/modules/Partielle Differentialgleichungen II.md
+      - math_msc_2018/modules/Partielle Differentialgleichungen III.md
+      - math_msc_2018/modules/Spezielle Aspekte A.md
+      - math_msc_2018/modules/Spezielle Aspekte B.md
+      - math_msc_2018/modules/Spezielle Aspekte C.md
+      - math_msc_2018/modules/Spezielle Forschungsaspekte.md
+      - math_msc_2018/modules/Stochastik II.md
+      - math_msc_2018/modules/Stochastik III.md
+      - math_msc_2018/modules/Stochastik IV.md
+      - math_msc_2018/modules/Topologie I.md
+      - math_msc_2018/modules/Topologie II.md
+      - math_msc_2018/modules/Topologie III.md
+      - math_msc_2018/modules/What is …?.md
+      - math_msc_2018/modules/Zahlentheorie II.md
+      - math_msc_2018/modules/Zahlentheorie III.md
+  - Physik Bsc 2012:
+    - phy_bsc_2012/home.md
+    - Studien- und Prüfungsordnung: phy_bsc_2012/spo.md
+    - Modulbeschreibung:
+      - phy_bsc_2012/module_explanations.md
+      - phy_bsc_2012/modules/Analysis.md
+      - phy_bsc_2012/modules/Analytische Mechanik.md
+      - phy_bsc_2012/modules/Astronomie und Astrophysik.md
+      - phy_bsc_2012/modules/Berufspraktikum Physik – A.md
+      - phy_bsc_2012/modules/Berufspraktikum Physik – B.md
+      - phy_bsc_2012/modules/Berufspraktikum Physik – C.md
+      - phy_bsc_2012/modules/Biophysik.md
+      - phy_bsc_2012/modules/Computerphysik.md
+      - phy_bsc_2012/modules/Einführung in die Physik.md
+      - phy_bsc_2012/modules/Elektrodynamik und Optik.md
+      - phy_bsc_2012/modules/Grundlagen der Mess- und Labortechnik.md
+      - phy_bsc_2012/modules/Kern- und Elementarteilchenphysik.md
+      - phy_bsc_2012/modules/Lineare Algebra.md
+      - phy_bsc_2012/modules/Projektpraktikum.md
+      - phy_bsc_2012/modules/Präsentationstechniken.md
+      - phy_bsc_2012/modules/Quantenmechanik.md
+      - phy_bsc_2012/modules/Struktur der Materie.md
+      - phy_bsc_2012/modules/Theoretische Elektrodynamik.md
+  - Physik Msc 2020:
+    - phy_msc_2020/home.md
+    - Studien- und Prüfungsordnung: phy_msc_2020/spo.md
+    - Modulbeschreibung:
+      - phy_msc_2020/module_explanations.md
+      - phy_msc_2020/modules/Advanced Astronomy and Astrophysics.md
+      - phy_msc_2020/modules/Advanced Atomic and Molecular Physics.md
+      - phy_msc_2020/modules/Advanced Biophysics.md
+      - phy_msc_2020/modules/Advanced Laboratory Course for Master Students.md
+      - phy_msc_2020/modules/Advanced Quantum Mechanics.md
+      - phy_msc_2020/modules/Advanced Solid State Physics.md
+      - phy_msc_2020/modules/Advanced Statistical Physics.md
+      - phy_msc_2020/modules/Advanced Theoretical Biophysics.md
+      - phy_msc_2020/modules/Advanced Topics in Theoretical Condensed Matter Physics.md
+      - phy_msc_2020/modules/General Relativity.md
+      - phy_msc_2020/modules/History of Physics.md
+      - phy_msc_2020/modules/Methodology and Project Planning.md
+      - phy_msc_2020/modules/Modern Methods in Experimental Physics A.md
+      - phy_msc_2020/modules/Modern Methods in Experimental Physics B.md
+      - phy_msc_2020/modules/Modern Methods in Experimental Physics C.md
+      - phy_msc_2020/modules/Modern Methods in Theoretical Physics A.md
+      - phy_msc_2020/modules/Modern Methods in Theoretical Physics B.md
+      - phy_msc_2020/modules/Modern Methods in Theoretical Physics C.md
+      - phy_msc_2020/modules/Nanophysics.md
+      - phy_msc_2020/modules/Photobiophysics and Photosynthesis.md
+      - phy_msc_2020/modules/Quantum Field Theory and Many-Body Physics.md
+      - phy_msc_2020/modules/Scientific Specialization.md
+      - phy_msc_2020/modules/Selected Topics in Physics.md
+      - phy_msc_2020/modules/Semiconductor Physics.md
+      - phy_msc_2020/modules/Special Topics in Magnetism.md
+      - phy_msc_2020/modules/Special Topics in Molecular Biophysics.md
+      - phy_msc_2020/modules/Special Topics in Molecular Physics.md
+      - phy_msc_2020/modules/Spectroscopy with Synchrotron Radiation.md
+      - phy_msc_2020/modules/Statistical Physics and Thermodynamics.md
+      - phy_msc_2020/modules/Theoretical Solid State Physics.md
+      - phy_msc_2020/modules/Ultrafast Spectroscopy and Nonlinear Optics.md
