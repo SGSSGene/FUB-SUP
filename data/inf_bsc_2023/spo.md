@@ -1,7 +1,4 @@
 # Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
-## Original und Modifikation
-Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des Informatik Bachelors an der FU-Berlin.
-Das Original ist hier zu finden: [StO/PO 2023 (Bachelor)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/StOPO_BSc_Inf_-2023.pdf).
 
 ## Präambel
 Aufgrund von § 14 Abs. 1 Satz 1 Nr. 2 Teilgrundordnung
@@ -14,12 +11,11 @@ Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der Fr
 [^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 3. Juli 2023 bestätigt worden.
 
 ### Anlagen
-//!TODO Anlagen are missing
 
- - Anlage 1: Modulbeschreibungen
- - Anlage 2: Exemplarischer Studienverlaufsplan
- - Anlage 3: Zeugnis (Muster)
- - Anlage 4: Urkunde (Muster)
+ - [Anlage 1: Modulbeschreibungen](../module_explanations/)
+ - [Anlage 2: Exemplarischer Studienverlaufsplan](../anlage2/)
+ - Anlage 3: Zeugnis (Muster) (!TODO missing)
+ - Anlage 4: Urkunde (Muster) (!TODO missing)
 
 
 
@@ -136,60 +132,60 @@ Die Regelstudienzeit beträgt sechs Semester.
 
 3. Pflichtbereich: In diesem Studienbereich sind die
     folgenden Module zu absolvieren:
-    - Modul: [Konzepte der Programmierung](inf_bsc_2023_modules/Konzepte der Programmierung.md) (9 LP),
-    - Modul: [Diskrete Strukturen für Informatik](inf_bsc_2023_modules/Diskrete Strukturen für Informatik.md) (9 LP),
-    - Modul: [Auswirkungen der Informatik](inf_bsc_2023_modules/Auswirkungen der Informatik.md)  (6 LP),
-    - Modul: [Algorithmen und Datenstrukturen](inf_bsc_2023_modules/Algorithmen und Datenstrukturen.md)  (9 LP),
-    - Modul: [Lineare Algebra für Informatik](inf_bsc_2023_modules/Lineare Algebra für Informatik.md)  (9 LP),
-    - Modul: [Rechnerarchitektur](inf_bsc_2023_modules/Rechnerarchitektur.md)  (6 LP) und
-    - Modul: [Grundlagen der Theoretischen Informatik](inf_bsc_2023_modules/Grundlagen der Theoretischen Informatik.md)  (6 LP),
-    - Modul: [Nebenläufige, parallele und verteilte Programmierung](inf_bsc_2023_modules/Nebenläufige, parallele und verteilte Programmierung.md)  (9 LP),
-    - Modul: [Analysis für Informatik](inf_bsc_2023_modules/Analysis für Informatik.md)  (9 LP),
-    - Modul: [Betriebs- und Kommunikationssysteme](inf_bsc_2023_modules/Betriebs- und Kommunikationssysteme.md)  (6 LP),
-    - Modul: [Datenbanksysteme](inf_bsc_2023_modules/Datenbanksysteme.md)  (6 LP),
-    - Modul: [Programmierpraktikum](inf_bsc_2023_modules/Programmierpraktikum.md)  (5 LP),
-    - Modul: [Statistik für Informatik](inf_bsc_2023_modules/Statistik für Informatik.md)  (6 LP),
-    - Modul: [Informationssicherheit](inf_bsc_2023_modules/Informationssicherheit.md)  (6 LP),
-    - Modul: [Softwaretechnik](inf_bsc_2023_modules/Softwaretechnik.md)  (9 LP),
-    - Modul: [Wissenschaftliches Arbeiten in der Informatik](inf_bsc_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md)  (6 LP),
+    - Modul: [Konzepte der Programmierung](modules/Konzepte der Programmierung.md) (9 LP),
+    - Modul: [Diskrete Strukturen für Informatik](modules/Diskrete Strukturen für Informatik.md) (9 LP),
+    - Modul: [Auswirkungen der Informatik](modules/Auswirkungen der Informatik.md)  (6 LP),
+    - Modul: [Algorithmen und Datenstrukturen](modules/Algorithmen und Datenstrukturen.md)  (9 LP),
+    - Modul: [Lineare Algebra für Informatik](modules/Lineare Algebra für Informatik.md)  (9 LP),
+    - Modul: [Rechnerarchitektur](modules/Rechnerarchitektur.md)  (6 LP) und
+    - Modul: [Grundlagen der Theoretischen Informatik](modules/Grundlagen der Theoretischen Informatik.md)  (6 LP),
+    - Modul: [Nebenläufige, parallele und verteilte Programmierung](modules/Nebenläufige, parallele und verteilte Programmierung.md)  (9 LP),
+    - Modul: [Analysis für Informatik](modules/Analysis für Informatik.md)  (9 LP),
+    - Modul: [Betriebs- und Kommunikationssysteme](modules/Betriebs- und Kommunikationssysteme.md)  (6 LP),
+    - Modul: [Datenbanksysteme](modules/Datenbanksysteme.md)  (6 LP),
+    - Modul: [Programmierpraktikum](modules/Programmierpraktikum.md)  (5 LP),
+    - Modul: [Statistik für Informatik](modules/Statistik für Informatik.md)  (6 LP),
+    - Modul: [Informationssicherheit](modules/Informationssicherheit.md)  (6 LP),
+    - Modul: [Softwaretechnik](modules/Softwaretechnik.md)  (9 LP),
+    - Modul: [Wissenschaftliches Arbeiten in der Informatik](modules/Wissenschaftliches Arbeiten in der Informatik.md)  (6 LP),
 4. Wahlpflichtbereich: In diesem Studienbereich sind
     aus den folgenden Modulen zwei Module zu wählen und
     zu absolvieren:
-    - Modul: [Angewandte Biometrie](inf_bsc_2023_modules/Angewandte Biometrie.md)  (6 LP),
-    - Modul: [Architektur eingebetteter Systeme](inf_bsc_2023_modules/Architektur eingebetteter Systeme.md)  (6 LP),
-    - Modul: [Datenvisualisierung](inf_bsc_2023_modules/Datenvisualisierung.md)  (6 LP),
-    - Modul: [Forschungspraktikum](inf_bsc_2023_modules/Forschungspraktikum.md)  (6 LP),
-    - Modul: [Funktionale Programmierung](inf_bsc_2023_modules/Funktionale Programmierung.md)  (6 LP),
-    - Modul: [Informationstheorie](inf_bsc_2023_modules/Informationstheorie.md)  (6 LP),
-    - Modul: [Maschinelles Lernen](inf_bsc_2023_modules/Maschinelles Lernen.md)  (6 LP),
-    - Modul: [Mensch-Computer Interaktion](inf_bsc_2023_modules/Mensch-Computer Interaktion.md)  (6 LP),
-    - Modul: [Praktiken professioneller Softwareentwicklung](inf_bsc_2023_modules/Praktiken professioneller Softwareentwicklung.md)  (6 LP),
-    - Modul: [Grundlagen des Datenschutzrechts](inf_bsc_2023_modules/Grundlagen des Datenschutzrechts.md)  (6 LP),
-    - Modul: [Vertiefung Theoretische Informatik](inf_bsc_2023_modules/Vertiefung Theoretische Informatik.md)  (6 LP),
-    - Modul: [Aktuelle Themen in der Informatik](inf_bsc_2023_modules/Aktuelle Themen in der Informatik.md)  (6 LP),
-    - Modul: [Vertiefte Aspekte der Informatik](inf_bsc_2023_modules/Vertiefte Aspekte der Informatik.md)  (6 LP).
+    - Modul: [Angewandte Biometrie](modules/Angewandte Biometrie.md)  (6 LP),
+    - Modul: [Architektur eingebetteter Systeme](modules/Architektur eingebetteter Systeme.md)  (6 LP),
+    - Modul: [Datenvisualisierung](modules/Datenvisualisierung.md)  (6 LP),
+    - Modul: [Forschungspraktikum](modules/Forschungspraktikum.md)  (6 LP),
+    - Modul: [Funktionale Programmierung](modules/Funktionale Programmierung.md)  (6 LP),
+    - Modul: [Informationstheorie](modules/Informationstheorie.md)  (6 LP),
+    - Modul: [Maschinelles Lernen](modules/Maschinelles Lernen.md)  (6 LP),
+    - Modul: [Mensch-Computer Interaktion](modules/Mensch-Computer Interaktion.md)  (6 LP),
+    - Modul: [Praktiken professioneller Softwareentwicklung](modules/Praktiken professioneller Softwareentwicklung.md)  (6 LP),
+    - Modul: [Grundlagen des Datenschutzrechts](modules/Grundlagen des Datenschutzrechts.md)  (6 LP),
+    - Modul: [Vertiefung Theoretische Informatik](modules/Vertiefung Theoretische Informatik.md)  (6 LP),
+    - Modul: [Aktuelle Themen in der Informatik](modules/Aktuelle Themen in der Informatik.md)  (6 LP),
+    - Modul: [Vertiefte Aspekte der Informatik](modules/Vertiefte Aspekte der Informatik.md)  (6 LP).
 5. Im Wahlbereich können Module beliebiger wissenschaftlicher Studienfächer (einschließlich der Informatik)
     im Umfang von 10 LP absolviert werden, die die erworbenen Qualifikationen ergänzen. Im Pflicht- oder Wahlpflichtbereich absolvierte Module oder andere gleichwertige Module der Informatik aus anderen Studiengängen dürfen im Wahlbereich nicht eingebracht werden.
 6. Im Bereich Allgemeine Berufsvorbereitung ist im
     Kompetenzbereich Fachnahe Zusatzqualifikationen das
-    Modul „[Softwareprojekt](inf_bsc_2023_modules/Softwareprojekt.md)“ (10 LP) zu absolvieren. Zusätzlich werden die folgenden Module angeboten:
-    - Modul: [Arbeits- und Lebensmethodik](inf_bsc_2023_modules/Arbeits- und Lebensmethodik.md)  (5 LP),
-    - Modul: [Gender and Diversity](inf_bsc_2023_modules/Gender and Diversity.md)  (5 LP),
-    - Modul: [Planung, Durchführung und Evaluation eines Tutoriums in der Informatik](inf_bsc_2023_modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md)  (5 LP),
-    - Modul: [Projektmanagement in agilen Umgebungen](inf_bsc_2023_modules/Projektmanagement in agilen Umgebungen.md)  (5 LP),
-    - Modul: [Systemverwaltung](inf_bsc_2023_modules/Systemverwaltung.md)  (5 LP).
+    Modul „[Softwareprojekt](modules/Softwareprojekt.md)“ (10 LP) zu absolvieren. Zusätzlich werden die folgenden Module angeboten:
+    - Modul: [Arbeits- und Lebensmethodik](modules/Arbeits- und Lebensmethodik.md)  (5 LP),
+    - Modul: [Gender and Diversity](modules/Gender and Diversity.md)  (5 LP),
+    - Modul: [Planung, Durchführung und Evaluation eines Tutoriums in der Informatik](modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md)  (5 LP),
+    - Modul: [Projektmanagement in agilen Umgebungen](modules/Projektmanagement in agilen Umgebungen.md)  (5 LP),
+    - Modul: [Systemverwaltung](modules/Systemverwaltung.md)  (5 LP).
 
-    Im Bereich Praktika wird das Modul „[Berufsbezogenes Praktikum Informatik](inf_bsc_2023_modules/Berufsbezogenes Praktikum Informatik.md)“ (10 LP) angeboten.
+    Im Bereich Praktika wird das Modul „[Berufsbezogenes Praktikum Informatik](modules/Berufsbezogenes Praktikum Informatik.md)“ (10 LP) angeboten.
 
 7. Über die Zugangsvoraussetzungen, die Inhalte
     und Qualifikationsziele, die Lehr- und Lernformen, den
     zeitlichen Arbeitsaufwand, die Formen der aktiven Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die Angaben über die Pflicht zur regelmäßigen Teilnahme an den Lehr- und Lernformen, die
     den Modulen jeweils zugeordneten Leistungspunkte,
     die Regeldauer und die Angebotshäufigkeit informieren
-    für die Module des Bachelorstudiengangs die Modulbeschreibungen in der Anlage 1.
+    für die Module des Bachelorstudiengangs die Modulbeschreibungen in der [Anlage 1](../module_explanations/).
 8. Über den empfohlenen Verlauf des Studiums
     unterrichtet der exemplarische Studienverlaufsplan in
-    der Anlage 2.
+    der [Anlage 2](../anlage2/).
 
 ## § 8 Lehr- und Lernformen
 1. Im Rahmen des Lehrangebots werden folgende
@@ -296,7 +292,7 @@ Die Regelstudienzeit beträgt sechs Semester.
     der Ausgabe des Themas durch den Prüfungsausschuss. Das Thema kann einmalig innerhalb der ersten
     vier Wochen zurückgegeben werden und gilt dann als
     nicht ausgegeben. Bei der Abgabe hat die\*der Studierende schriftlich zu versichern, dass sie\*er die Bachelorarbeit selbstständig verfasst und keine anderen als die
-    angegebenen Quellen und Hilfsmittel benutzt worden sind. Die Bachelorarbeit ist in elektronischer Form gemäß § 14 abzugeben.
+    angegebenen Quellen und Hilfsmittel benutzt worden sind. Die Bachelorarbeit ist in elektronischer Form gemäß [§ 14](http://localhost:8000/inf_bsc_2023/spo/#14-einreichform-fur-schriftliche-prufungsleistungen) abzugeben.
 7. Die Ergebnisse der Bachelorarbeit gemäß Abs. 5
     werden in einer mündlichen Präsentation vorgestellt,
     wissenschaftlich eingeordnet (ca. 15 Minuten) und diskutiert (ca. 15 Minuten). Die Präsentation und die Diskussion sind fachbereichsöffentlich, wenn der Prüfling
@@ -404,7 +400,7 @@ für Computerprogramme muss der vollständige Quelltext eingereicht werden.
     Freien Universität Berlin berät die\*der Beauftragte für
     Auslandsstudien alle Studierenden, die sich für ein Auslandsstudium interessieren.
 ## § 16 Studienabschluss
-1. Voraussetzung für den Studienabschluss im Bachelorstudiengang ist, dass die gemäß §§ 7 und 10 geforderten Leistungen erbracht worden sind.
+1. Voraussetzung für den Studienabschluss im Bachelorstudiengang ist, dass die gemäß §§ [7](http://localhost:8000/inf_bsc_2023/spo/#7-aufbau-und-gliederung-umfang-der-leistungen) und [10](http://localhost:8000/inf_bsc_2023/spo/#10-bachelorarbeit) geforderten Leistungen erbracht worden sind.
 2. Der Studienabschluss ist ausgeschlossen, soweit
     die\*der Studierende an einer Hochschule im gleichen
     Studiengang oder in einem Modul, welches mit einem
@@ -417,7 +413,7 @@ für Computerprogramme muss der vollständige Quelltext eingereicht werden.
     Fälle gemäß Abs. 2 vorliegt. Über den Antrag entscheidet der zuständige Prüfungsausschuss.
 4. Aufgrund der bestandenen Prüfung wird der Hochschulgrad Bachelor of Science (B.Sc.) verliehen. Die
     Studierenden erhalten ein Zeugnis und eine Urkunde
-    (Anlagen 2 und 3), sowie ein Diploma Supplement (englische und deutsche Version). Darüber hinaus wird eine
+    (Anlagen 3 und 4), sowie ein Diploma Supplement (englische und deutsche Version). Darüber hinaus wird eine
     Zeugnisergänzung mit Angaben zu den einzelnen Modulen und ihren Bestandteilen (Transkript) erstellt. Auf
     Antrag werden ergänzend englische Versionen von
     Zeugnis und Urkunde ausgehändigt.
@@ -441,74 +437,3 @@ für Computerprogramme muss der vollständige Quelltext eingereicht werden.
     Grundlage der Studien- und Prüfungsordnung gemäß
     Abs. 2 wird bis zum Ende des Sommersemesters 2027
     gewährleistet.
-## Anlage 1: Modulbeschreibungen
-**Erläuterungen:**
-Die folgenden Modulbeschreibungen benennen, soweit
-nicht auf andere Ordnungen verwiesen wird, für jedes
-Modul des Bachelorstudiengangs
-
- - die Bezeichnung des Moduls,
- - die\*den Verantwortliche\*n des Moduls,
- - die Voraussetzungen für den Zugang zum jeweiligen Modul,
- - Inhalte und Qualifikationsziele des Moduls,
- - Lehr- und Lernformen des Moduls,
- - den studentischen Arbeitsaufwand, der für die erfolgreiche Absolvierung eines Moduls veranschlagt wird,
- - Formen der aktiven Teilnahme,
- - die Prüfungsformen,
- - die Pflicht zu regelmäßiger Teilnahme,
- - die den Modulen zugeordneten Leistungspunkte,
- - die Regeldauer des Moduls,
- - die Häufigkeit des Angebots,
- - die Verwendbarkeit des Moduls.
-
-Die Angaben zum zeitlichen Arbeitsaufwand berücksichtigen insbesondere
-
- - die aktive Teilnahme im Rahmen der Präsenzstudienzeit,
- - den Arbeitszeitaufwand für die Erledigung kleinerer Aufgaben im Rahmen der Präsenzstudienzeit,
- - die Zeit für eine eigenständige Vor- und Nachbereitung,
- - die Bearbeitung von Studieneinheiten in den Online-Studienphasen,
- - die unmittelbare Vorbereitungszeit für Prüfungsleistungen,
- - die Prüfungszeit selbst.
-
-Die Zeitangaben zum Selbststudium (unter anderem
-Vor- und Nachbereitung, Prüfungsvorbereitung) stellen
-Richtwerte dar und sollen den Studierenden Hilfestellung für die zeitliche Organisation ihres modulbezogenen Arbeitsaufwands liefern. Die Angaben zum Arbeitsaufwand korrespondieren mit der Anzahl der dem jeweiligen Modul zugeordneten LP als Maßeinheit für den
-studentischen Arbeitsaufwand, der für die erfolgreiche
-Absolvierung des Moduls in etwa zu erbringen ist. Ein
-Leistungspunkt entspricht 30 Stunden.
-
-Soweit für die jeweiligen Lehr- und Lernformen die
-Pflicht zu regelmäßiger Teilnahme festgelegt ist, ist sie
-neben der aktiven Teilnahme an den Lehr- und Lernformen und der erfolgreichen Absolvierung der Prüfungsleistungen eines Moduls Voraussetzung für den
-Erwerb der dem jeweiligen Modul zugeordneten LP.
-Eine regelmäßige Teilnahme liegt vor, wenn mindestens
-85 % der in den Lehr- und Lernformen eines Moduls
-vorgesehenen Präsenzstudienzeit besucht wurden. Besteht keine Pflicht zu regelmäßiger Teilnahme an einer
-Lehr- und Lernform eines Moduls, so wird sie dennoch
-dringend empfohlen. Die Festlegung einer Präsenzpflicht durch die jeweilige Lehrkraft ist für Lehr- und
-Lernformen, für die im Folgenden die Teilnahme lediglich empfohlen wird, ausgeschlossen. In Modulen, in
-denen alternative Formen der aktiven Teilnahme vorgesehen sind, sind die entsprechend dem studentischen
-Arbeitsaufwand zu bestimmenden Formen der aktiven
-Teilnahme für das jeweilige Semester von der verantwortlichen Lehrkraft spätestens im ersten Lehrveranstaltungstermin festzulegen.
-
-Zu jedem Modul muss – soweit vorgesehen – die zugehörige Modulprüfung abgelegt werden. Bewertete
-Module werden mit nur einer Prüfungsleistung (Modulprüfung) abgeschlossen. Die Modulprüfung ist auf die
-Qualifikationsziele des Moduls zu beziehen und überprüft die Erreichung der Ziele des Moduls exemplarisch.
-Der Prüfungsumfang wird auf das dafür notwendige
-Maß beschränkt. In Modulen, in denen alternative Prüfungsformen vorgesehen sind, ist die Prüfungsform des
-jeweiligen Semesters von der verantwortlichen Lehrkraft
-spätestens im ersten Lehrveranstaltungstermin festzulegen.
-
-Die aktive und – soweit vorgesehen – regelmäßige Teilnahme an den Lehr- und Lernformen sowie die erfolgreiche Absolvierung der Prüfungsleistungen eines Moduls sind Voraussetzung für den Erwerb der dem jeweiligen Modul zugeordneten Leistungspunkte. Bei Modulen ohne Modulprüfung ist die aktive Teilnahme und
-regelmäßige Teilnahme an den Lehr- und Lernformen
-Voraussetzung für den Erwerb der dem jeweiligen Modul zugeordneten Leistungspunkte.
-
-## Anlage 2: Exemplaricher Studienverlaufsplan für den Bachelorstudiengang Informatik
-| Semester                  | Pflichtbereich {colspan=4}                                  | empty {hidden}                            | empty {hidden}                             | empty {hidden}                                 | Wahlpflichtbereich       | Wahlbereich                 | ABV                                          | SWS  |
-| --------                  |:--------------------------------                           :|:--------------------------               :|:--------------                            :|:--------------                                :|:------------------      :|:-----------                :|:---                                         :| ---  |
-| 1. FS<br> 29 LP           | Konzepte der Programierung (9 LP)                           | Diskrete Strukturen für Informatik (9 LP) | Auswirkung der Informatik (6LP)            |                                                |                          |                             | ABV (5 LP)                                   | 20   |
-| 2. FS<br> 30 LP           | Algorithmen und Datenstrukturen (9 LP)                      | Lineare Algebra für Informatik (9 LP)     | Betriebs- und Kommunikationssysteme (6 LP) | Datenbanksysteme (6 LP)                        |                          |                             |                                              | 20   |
-| 3. FS<br> 30 LP           | Nebenläufige, parallele und verteilte Programmierung (9 LP) | Analysis für Informatik (9 LP)            | Rechnerarchitektur (6 LP)                  | Grundlagen der Theoretischen Informatik (6 LP) |                          |                             |                                              | 20   |
-| 4. FS<br> 31 LP           | Programmierpraktikum (5 LP)                                 | Statistik für Informatik (6 LP)           | Informationssicherheit (6 LP)              | Softwaretechnik (9 LP)                         |                          |                             | ABV (5 LP)                                   | 20   |
-| 5. FS<br> 32 LP           | Wissenschaftliches Arbeiten in der Informatik (6 LP)        |                                           |                                            |                                                | Wahlpflichtmodule (6 LP) | Wahlbereichsmodul(e) 10 LP) | Berufsbezogenes Praktikum Informatik (10 LP) | 13\* |
-| 6. FS<br> 28 LP           |                                                             |                                           |                                            |                                                | Wahlpflichtmodule (6 LP) |                             | Softwareprojekt (10 LP)                      | 8\*  |

@@ -67,44 +67,47 @@ nav:
       - inf_bsc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik.md
       - inf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md
   - Informatik Bsc 2023:
-    - Studien- und Prüfungsordnung: inf_bsc_2023_sop.md
+    - inf_bsc_2023/home.md
+    - Studien- und Prüfungsordnung: inf_bsc_2023/spo.md
     - Modulbeschreibungen:
-      - inf_bsc_2023_modules/Aktuelle Themen in der Informatik.md
-      - inf_bsc_2023_modules/Algorithmen und Datenstrukturen.md
-      - inf_bsc_2023_modules/Analysis für Informatik.md
-      - inf_bsc_2023_modules/Angewandte Biometrie.md
-      - inf_bsc_2023_modules/Arbeits- und Lebensmethodik.md
-      - inf_bsc_2023_modules/Architektur eingebetteter Systeme.md
-      - inf_bsc_2023_modules/Auswirkungen der Informatik.md
-      - inf_bsc_2023_modules/Berufsbezogenes Praktikum Informatik.md
-      - inf_bsc_2023_modules/Betriebs- und Kommunikationssysteme.md
-      - inf_bsc_2023_modules/Datenbanksysteme.md
-      - inf_bsc_2023_modules/Datenvisualisierung.md
-      - inf_bsc_2023_modules/Diskrete Strukturen für Informatik.md
-      - inf_bsc_2023_modules/Forschungspraktikum.md
-      - inf_bsc_2023_modules/Funktionale Programmierung.md
-      - inf_bsc_2023_modules/Gender and Diversity.md
-      - inf_bsc_2023_modules/Grundlagen der Theoretischen Informatik.md
-      - inf_bsc_2023_modules/Grundlagen des Datenschutzrechts.md
-      - inf_bsc_2023_modules/Informationssicherheit.md
-      - inf_bsc_2023_modules/Informationstheorie.md
-      - inf_bsc_2023_modules/Konzepte der Programmierung.md
-      - inf_bsc_2023_modules/Lineare Algebra für Informatik.md
-      - inf_bsc_2023_modules/Maschinelles Lernen.md
-      - inf_bsc_2023_modules/Mensch-Computer Interaktion.md
-      - inf_bsc_2023_modules/Nebenläufige, parallele und verteilte Programmierung.md
-      - inf_bsc_2023_modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md
-      - inf_bsc_2023_modules/Praktiken professioneller Softwareentwicklung.md
-      - inf_bsc_2023_modules/Programmierpraktikum.md
-      - inf_bsc_2023_modules/Projektmanagement in agilen Umgebungen.md
-      - inf_bsc_2023_modules/Rechnerarchitektur.md
-      - inf_bsc_2023_modules/Softwareprojekt.md
-      - inf_bsc_2023_modules/Softwaretechnik.md
-      - inf_bsc_2023_modules/Statistik für Informatik.md
-      - inf_bsc_2023_modules/Systemverwaltung.md
-      - inf_bsc_2023_modules/Vertiefte Aspekte der Informatik.md
-      - inf_bsc_2023_modules/Vertiefung Theoretische Informatik.md
-      - inf_bsc_2023_modules/Wissenschaftliches Arbeiten in der Informatik.md
+      - inf_bsc_2023/module_explanations.md
+      - inf_bsc_2023/modules/Aktuelle Themen in der Informatik.md
+      - inf_bsc_2023/modules/Algorithmen und Datenstrukturen.md
+      - inf_bsc_2023/modules/Analysis für Informatik.md
+      - inf_bsc_2023/modules/Angewandte Biometrie.md
+      - inf_bsc_2023/modules/Arbeits- und Lebensmethodik.md
+      - inf_bsc_2023/modules/Architektur eingebetteter Systeme.md
+      - inf_bsc_2023/modules/Auswirkungen der Informatik.md
+      - inf_bsc_2023/modules/Berufsbezogenes Praktikum Informatik.md
+      - inf_bsc_2023/modules/Betriebs- und Kommunikationssysteme.md
+      - inf_bsc_2023/modules/Datenbanksysteme.md
+      - inf_bsc_2023/modules/Datenvisualisierung.md
+      - inf_bsc_2023/modules/Diskrete Strukturen für Informatik.md
+      - inf_bsc_2023/modules/Forschungspraktikum.md
+      - inf_bsc_2023/modules/Funktionale Programmierung.md
+      - inf_bsc_2023/modules/Gender and Diversity.md
+      - inf_bsc_2023/modules/Grundlagen der Theoretischen Informatik.md
+      - inf_bsc_2023/modules/Grundlagen des Datenschutzrechts.md
+      - inf_bsc_2023/modules/Informationssicherheit.md
+      - inf_bsc_2023/modules/Informationstheorie.md
+      - inf_bsc_2023/modules/Konzepte der Programmierung.md
+      - inf_bsc_2023/modules/Lineare Algebra für Informatik.md
+      - inf_bsc_2023/modules/Maschinelles Lernen.md
+      - inf_bsc_2023/modules/Mensch-Computer Interaktion.md
+      - inf_bsc_2023/modules/Nebenläufige, parallele und verteilte Programmierung.md
+      - inf_bsc_2023/modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md
+      - inf_bsc_2023/modules/Praktiken professioneller Softwareentwicklung.md
+      - inf_bsc_2023/modules/Programmierpraktikum.md
+      - inf_bsc_2023/modules/Projektmanagement in agilen Umgebungen.md
+      - inf_bsc_2023/modules/Rechnerarchitektur.md
+      - inf_bsc_2023/modules/Softwareprojekt.md
+      - inf_bsc_2023/modules/Softwaretechnik.md
+      - inf_bsc_2023/modules/Statistik für Informatik.md
+      - inf_bsc_2023/modules/Systemverwaltung.md
+      - inf_bsc_2023/modules/Vertiefte Aspekte der Informatik.md
+      - inf_bsc_2023/modules/Vertiefung Theoretische Informatik.md
+      - inf_bsc_2023/modules/Wissenschaftliches Arbeiten in der Informatik.md
+    - Exemplarischer Studienverlaufsplan: inf_bsc_2023/anlage2.md
   - Informatik Msc 2014:
     - inf_msc_2014/home.md
     - Studien- und Prüfungsordnung: inf_msc_2014/sop.md
