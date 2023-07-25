@@ -1,0 +1,1 @@
+../../data/inf_bsc_2023/anlage2.md
