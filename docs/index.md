@@ -34,7 +34,7 @@ Main Focus is:
 |Mathematik Bsc 2013                             | sop: ✔, modules: ✔, anhänge: ✘ |
 |Mathematik Msc 2011                             | ✘       |
 |Mathematik Msc 2018                             | sop: ✔, modules: ✔, anhänge: ✘ |
-|Physik Bsc 2012                                 | ✘       |
+|Physik Bsc 2012                                 | sop: ✔, modules: ✔, anhänge: ✘ |
 |Physik Msc 2013                                 | ✘       |
 |Physik Msc 2020                                 | sop: ✔, modules: ✔, anhänge: ✘ |
 
