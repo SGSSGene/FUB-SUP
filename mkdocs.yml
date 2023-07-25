@@ -246,4 +246,52 @@ nav:
       - bioinf_msc_2019/modules/Special aspects of Bioinformatics B.md
       - bioinf_msc_2019/modules/Special aspects of Bioinformatics C.md
       - bioinf_msc_2019/modules/Structural Bioinformatics.md
+  - Computational Sciences Msc 2016:
+    - compsci_msc_2016/home.md
+    - Studien- und Prüfungsordnung: compsci_msc_2016/spo.md
+    - Modulbeschreibungen:
+      - compsci_msc_2016/module_explanations.md
+      - compsci_msc_2016/modules/Einführung in die Theoretische Chemie.md
+      - compsci_msc_2016/modules/Introduction to Numerical Mathematics B.md
+      - compsci_msc_2016/modules/Computational Statistical Physics I B.md
+      - compsci_msc_2016/modules/Computer Science and Object-Oriented Programming A.md
+      - compsci_msc_2016/modules/Computational Statistical Physics II B.md
+      - compsci_msc_2016/modules/Numerics of ODEs and numerical linear algebra B.md
+      - compsci_msc_2016/modules/Einführung in die Dynamik der Atmosphäre.md
+      - compsci_msc_2016/modules/Grundlagen der Synoptischen Meteorologie.md
+      - compsci_msc_2016/modules/Grundlagen der Hydro- und Klimageographie.md
+      - compsci_msc_2016/modules/Grundlagen von geographischen Informationssystemen.md
+      - compsci_msc_2016/modules/Numerics of partial differential equations B.md
+      - compsci_msc_2016/modules/Dynamik der Atmosphäre.md
+      - compsci_msc_2016/modules/Forschungsprojekt A.md
+      - compsci_msc_2016/modules/Grundlagen der Fernerkundung und digitalen Bildverarbeitung.md
+      - compsci_msc_2016/modules/Computational Sciences.md
+      - compsci_msc_2016/modules/Computational Statistical Physics I A.md
+      - compsci_msc_2016/modules/Forschungsprojekt D.md
+      - compsci_msc_2016/modules/Computer Science and Data Structures B.md
+      - compsci_msc_2016/modules/Forschungsprojekt B.md
+      - compsci_msc_2016/modules/Numerics of partial differential equations A.md
+      - compsci_msc_2016/modules/Computer Science and Functional Programming A.md
+      - compsci_msc_2016/modules/Synchronisierung Erde.md
+      - compsci_msc_2016/modules/Markov modeling.md
+      - compsci_msc_2016/modules/Einführung in die Quantenmechanik.md
+      - compsci_msc_2016/modules/Molecular simulation I.md
+      - compsci_msc_2016/modules/Complex Algorithms B.md
+      - compsci_msc_2016/modules/Quantenmechanische Beschreibung von Atomen und chemischer Bindung.md
+      - compsci_msc_2016/modules/Computer Science and Object-oriented Programming B.md
+      - compsci_msc_2016/modules/Molecular simulation II.md
+      - compsci_msc_2016/modules/Selected topics in applied computational sciences.md
+      - compsci_msc_2016/modules/Forschungsprojekt C.md
+      - compsci_msc_2016/modules/Computer Science and Functional Programming B.md
+      - compsci_msc_2016/modules/Forschungsseminar computational sciences.md
+      - compsci_msc_2016/modules/Numerics of ODEs and numerical linear algebra A.md
+      - compsci_msc_2016/modules/Introduction to Numerical Mathematics A.md
+      - compsci_msc_2016/modules/Computational Statistical Physics II A.md
+      - compsci_msc_2016/modules/Computer Science and Data Structures A.md
+      - compsci_msc_2016/modules/Selected topics in theoretical computational sciences.md
+      - compsci_msc_2016/modules/Complex Algorithms A.md
+      - compsci_msc_2016/modules/Einführung in die Molekülspektroskopie.md
+      - compsci_msc_2016/modules/Synchronisierung Mathematik.md
+      - compsci_msc_2016/modules/Forschungsprojekt E.md
+    - Zugangssatzung: compsci_msc_2016/zugangssatzung.md
 

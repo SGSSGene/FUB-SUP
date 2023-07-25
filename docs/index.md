@@ -28,6 +28,8 @@ Main Focus is:
 |Bioinformatik Master 2007                       | ✘       |
 |Bioinformatik Master 2012                       | ✘       |
 |Bioinformatik Master 2019 + 1. Änderung 2021    | sop: ✔, modules: ✔, anhänge: ✘ |
+|Computational Sciences 2016                     | sop: ✔, modules: ✔, zugangssatzung: ✔, anhänge: ✘ |
+
 
 
 Not available:
