@@ -541,73 +541,74 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-- page: 21
-  name: Human Evolution
-  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
-  responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
-    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
-    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
-  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
-    liegen die Schwerpunkte in den folgenden Bereichen:
-
-    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
-    Phänotyps, kognitiver Fähigkeiten
-
-    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
-    evolutionäre Medizin'
-  teachingunit:
-    - type: Vorlesung
-      swstime: 9
-      attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Diskussion und Präsentation
-
-        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-    - type: Seminar
-      swstime: 9
-      attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Diskussion und Präsentation
-
-        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-    - type: Praxisseminar
-      swstime: 9
-      attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Diskussion und Präsentation
-
-        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-  workload:
-    - type: Präsenzzeit V
-      time: 15
-    - type: Vor- und Nachbereitung V
-      time: 15
-    - type: Präsenzzeit S
-      time: 30
-    - type: Vor- und Nachbereitung S
-      time: 30
-    - type: Präsenzzeit PS
-      time: 30
-    - type: Vor- und Nachbereitung PS
-      time: 10
-    - type: Prüfungsvorbereitung und Prüfung
-      time: 20
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-  language: Englisch
-  total_work: 150
-  credit_points: 5
-  duration: Ein Semester
-  repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+# reworded in Änderungsordnung 2021 (see at the end of this document)
+#- page: 21
+#  name: Human Evolution
+#  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
+#  responsible: Dozentinnen und Dozenten des Moduls
+#  requirements: Keine
+#  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
+#    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
+#    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
+#  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
+#    liegen die Schwerpunkte in den folgenden Bereichen:
+#
+#    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
+#    Phänotyps, kognitiver Fähigkeiten
+#
+#    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
+#    evolutionäre Medizin'
+#  teachingunit:
+#    - type: Vorlesung
+#      swstime: 1
+#      attendance: recommended
+#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+#        von ergänzender Literatur
+#
+#        Diskussion und Präsentation
+#
+#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
+#    - type: Seminar
+#      swstime: 2
+#      attendance: required
+#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+#        von ergänzender Literatur
+#
+#        Diskussion und Präsentation
+#
+#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
+#    - type: Praxisseminar
+#      swstime: 2
+#      attendance: required
+#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+#        von ergänzender Literatur
+#
+#        Diskussion und Präsentation
+#
+#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
+#  workload:
+#    - type: Präsenzzeit V
+#      time: 15
+#    - type: Vor- und Nachbereitung V
+#      time: 15
+#    - type: Präsenzzeit S
+#      time: 30
+#    - type: Vor- und Nachbereitung S
+#      time: 30
+#    - type: Präsenzzeit PS
+#      time: 30
+#    - type: Vor- und Nachbereitung PS
+#      time: 10
+#    - type: Prüfungsvorbereitung und Prüfung
+#      time: 20
+#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+#  language: Englisch
+#  total_work: 150
+#  credit_points: 5
+#  duration: Ein Semester
+#  repeat: Unregelmäßig
+#  usability: Masterstudiengang Bioinformatik
 # removed in Änderungsordnung 2021
 #- page: 22
 #  name: Special aspects of Complex Systems
@@ -2329,4 +2330,57 @@
   credit_points: 5
   duration: Ein Semester, nach Absprache als Blockveranstaltung möglich
   repeat: Jedes Wintersemester
+  usability: Masterstudiengang Bioinformatik
+- page: 14
+  name: Human Evolution
+  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
+    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
+    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
+  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
+    liegen die Schwerpunkte in den folgenden Bereichen:
+
+    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
+    Phänotyps, kognitiver Fähigkeiten
+
+    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
+    evolutionäre Medizin'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 1
+      attendance: recommended
+      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+        von ergänzender Literatur'
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag und Diskussion'
+    - type: Seminar am PC
+      swstime: 2
+      attendance: required
+      activity: 'Entwicklung eines eigenen Modells, Programmierung, Auswertung, Lösung von Übungsaufgaben, kritische Diskussion von Ergebnissen'
+  workload:
+    - type: Präsenzzeit V
+      time: 15
+    - type: Vor- und Nachbereitung V
+      time: 45
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 60
+    - type: Präsenzzeit PS
+      time: 30
+    - type: Vor- und Nachbereitung SPC
+      time: 70
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 50
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
