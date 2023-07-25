@@ -28,7 +28,15 @@ Main Focus is:
 |Bioinformatik Master 2007                       | ✘       |
 |Bioinformatik Master 2012                       | ✘       |
 |Bioinformatik Master 2019 + 1. Änderung 2021    | sop: ✔, modules: ✔, anhänge: ✘ |
-|Computational Sciences 2016                     | sop: ✔, modules: ✔, zugangssatzung: ✔, anhänge: ✘ |
+|Computational Sciences Master 2016              | sop: ✔, modules: ✔, zugangssatzung: ✔, anhänge: ✘ |
+|Data Science Master 2019                        | ✘       |
+|Data Science Master 2021                        | sop: ✔, modules: ✔, anhänge: ✘ |
+|Mathematik Bsc 2013                             | ✘       |
+|Mathematik Msc 2011                             | ✘       |
+|Mathematik Msc 2018                             | ✘       |
+|Physik Bsc 2012                                 | ✘       |
+|Physik Msc 2013                                 | ✘       |
+|Physik Msc 2020                                 | ✘       |
 
 
 
@@ -37,6 +45,10 @@ Not available:
   - Bioinformatik Bachelor und Master 2000
   - Bachelorstudiengang mit dem Kernfach Informatik (90 Leistungspunkte) und das 60 LP-Modulangebot Informatik (lehramtsbezogen)
   - Bachelorstudiengangsbestandteil 30-LP- Modulangebot Informatik
+  - Mathematik Bsc 2010 und älter
+  - Mathematik Msc 2007 und älter
+  - Physik Bsc 2006 und älter
+  - Physik Msc 2009 und älter
 
 ## Fixes
 If you find any mistakes or deviation from the original Studien- und Prüfungsordnung, please

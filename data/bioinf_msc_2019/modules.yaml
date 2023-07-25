@@ -26,14 +26,14 @@
     - Konzepte, Paradigmen und Frameworks für verteiltes Rechnen'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Bearbeiten der Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -87,14 +87,14 @@
     - Markov Modelle (EM, HMM, MCMC)'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Bearbeiten der Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -155,14 +155,14 @@
     - Behandlung von medizinischen Daten'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Bearbeiten der Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -210,12 +210,12 @@
     um und präsentieren die Ergebnisse.
   teachingunit:
     - type: Ringvorlesung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von
         Anwendungsproblemen, Projektarbeit
     - type: seminaristischer Unterricht
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von
         Anwendungsproblemen, Projektarbeit
@@ -265,7 +265,7 @@
     - Stochastische und hybride Modellierung'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -274,7 +274,7 @@
 
         Seminarvortrag'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -283,7 +283,7 @@
 
         Seminarvortrag'
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -340,14 +340,14 @@
     an der Niere, Muskelbewegung, Temperaturregulation, Circadiane Rhythmik)'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
 
         Bearbeiten der Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -407,7 +407,7 @@
     - Zukunftsperspektiven für ethisches Handeln und Forschen'
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: Bearbeitung der Aufgaben, Präsentation der Ergebnisse
   workload:
@@ -435,7 +435,7 @@
     Lage, im Team zu arbeiten.
   content: Aktuelle Forschungsthemen aus dem Bereich der Bioinformatik.
   teachingunit:
-    - type: Praktikum 270
+    - type: Praktikum
       swstime: 9
       attendance: required
       activity: Praktikumsbericht und Abschlussvortrag, Betreuungsgespräch
@@ -467,7 +467,7 @@
 #    im Bereich der komplexen Systeme vorgestellt.
 #  teachingunit:
 #    - type: Seminar
-#      swstime: 9
+#      swstime: 2
 #      attendance: required
 #      activity: Recherche, Präsentation und Diskussion
 #  workload:
@@ -509,14 +509,14 @@
     - Netzwerkinferenz'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Bearbeitung von Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -541,73 +541,74 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-- page: 21
-  name: Human Evolution
-  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
-  responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
-    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
-    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
-  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
-    liegen die Schwerpunkte in den folgenden Bereichen:
-
-    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
-    Phänotyps, kognitiver Fähigkeiten
-
-    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
-    evolutionäre Medizin'
-  teachingunit:
-    - type: Vorlesung
-      swstime: 9
-      attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Diskussion und Präsentation
-
-        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-    - type: Seminar
-      swstime: 9
-      attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Diskussion und Präsentation
-
-        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-    - type: Praxisseminar
-      swstime: 9
-      attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Diskussion und Präsentation
-
-        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-  workload:
-    - type: Präsenzzeit V
-      time: 15
-    - type: Vor- und Nachbereitung V
-      time: 15
-    - type: Präsenzzeit S
-      time: 30
-    - type: Vor- und Nachbereitung S
-      time: 30
-    - type: Präsenzzeit PS
-      time: 30
-    - type: Vor- und Nachbereitung PS
-      time: 10
-    - type: Prüfungsvorbereitung und Prüfung
-      time: 20
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-  language: Englisch
-  total_work: 150
-  credit_points: 5
-  duration: Ein Semester
-  repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+# reworded in Änderungsordnung 2021 (see at the end of this document)
+#- page: 21
+#  name: Human Evolution
+#  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
+#  responsible: Dozentinnen und Dozenten des Moduls
+#  requirements: Keine
+#  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
+#    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
+#    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
+#  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
+#    liegen die Schwerpunkte in den folgenden Bereichen:
+#
+#    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
+#    Phänotyps, kognitiver Fähigkeiten
+#
+#    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
+#    evolutionäre Medizin'
+#  teachingunit:
+#    - type: Vorlesung
+#      swstime: 1
+#      attendance: recommended
+#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+#        von ergänzender Literatur
+#
+#        Diskussion und Präsentation
+#
+#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
+#    - type: Seminar
+#      swstime: 2
+#      attendance: required
+#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+#        von ergänzender Literatur
+#
+#        Diskussion und Präsentation
+#
+#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
+#    - type: Praxisseminar
+#      swstime: 2
+#      attendance: required
+#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+#        von ergänzender Literatur
+#
+#        Diskussion und Präsentation
+#
+#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
+#  workload:
+#    - type: Präsenzzeit V
+#      time: 15
+#    - type: Vor- und Nachbereitung V
+#      time: 15
+#    - type: Präsenzzeit S
+#      time: 30
+#    - type: Vor- und Nachbereitung S
+#      time: 30
+#    - type: Präsenzzeit PS
+#      time: 30
+#    - type: Vor- und Nachbereitung PS
+#      time: 10
+#    - type: Prüfungsvorbereitung und Prüfung
+#      time: 20
+#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+#  language: Englisch
+#  total_work: 150
+#  credit_points: 5
+#  duration: Ein Semester
+#  repeat: Unregelmäßig
+#  usability: Masterstudiengang Bioinformatik
 # removed in Änderungsordnung 2021
 #- page: 22
 #  name: Special aspects of Complex Systems
@@ -621,14 +622,14 @@
 #    Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
 #  teachingunit:
 #    - type: Vorlesung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
 #        von ergänzender Literatur
 #
 #        Bearbeitung von Übungsaufgaben'
 #    - type: Übung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
 #        von ergänzender Literatur
@@ -666,14 +667,14 @@
 #    oder des Maschinellen Lernens.
 #  teachingunit:
 #    - type: Vorlesung
-#      swstime: 9
+#      swstime: 4
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
 #
 #        Bearbeitung von Übungsaufgaben'
 #    - type: Übung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
@@ -731,7 +732,7 @@
     - Praktische Anwendung, inkl. Programmierung (in Python)'
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -780,7 +781,7 @@
     - Konfokale Laser-Scanning-Mikroskopie'
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -817,7 +818,7 @@
     - Metabolic Engineering'
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -859,7 +860,7 @@
     Kontext'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -868,7 +869,7 @@
 
         Recherche, Präsentation und Diskussion'
     - type: Übung
-      swstime: 9
+      swstime: 1
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -877,7 +878,7 @@
 
         Recherche, Präsentation und Diskussion'
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -924,7 +925,7 @@
 #    im Bereich Data Science vorgestellt.
 #  teachingunit:
 #    - type: Seminar
-#      swstime: 9
+#      swstime: 2
 #      attendance: required
 #      activity: Recherche, Präsentation und Diskussion
 #  workload:
@@ -975,14 +976,14 @@
     - Unsupervised learning: model-based clustering of microRNA expression data'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Bearbeitung von Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -1030,14 +1031,14 @@
     - Analyse von sehr großen Netzwerken'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
 
         Bearbeitung von Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1088,14 +1089,14 @@
     oder in Retinaimplantaten, Vorhersage von individuellen Arrhythmierisiken)'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Bearbeitung der Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -1137,14 +1138,14 @@
     kritische Überprüfen des experimentellen Ansatzes umfasst.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
 
         Bearbeitung der Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1190,14 +1191,14 @@
     - Monte-Carlo-Simulationen in methodischer Forschung und Studienplanung'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Bearbeitung der Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -1236,14 +1237,14 @@
 #    berührt.
 #  teachingunit:
 #    - type: Vorlesung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
 #        von ergänzender Literatur
 #
 #        Bearbeitung von Übungsaufgaben'
 #    - type: Übung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
 #        von ergänzender Literatur
@@ -1281,14 +1282,14 @@
 #    von Daten aus den Lebenswissenschaften.
 #  teachingunit:
 #    - type: Vorlesung
-#      swstime: 9
+#      swstime: 4
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
 #
 #        Bearbeitung von Übungsaufgaben'
 #    - type: Übung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
@@ -1335,7 +1336,7 @@
     zu erweitern.
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -1373,7 +1374,7 @@
     können. Studierende vertiefen in wöchentlichen Übungsaufgaben das Gelernte.
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -1416,7 +1417,7 @@
     - Algorithmen für RNA Strukturbestimmung und strukturellem alignment (2D, 3D)'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1425,7 +1426,7 @@
 
         Seminarvortrag'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1434,7 +1435,7 @@
 
         Seminarvortrag'
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1480,14 +1481,14 @@
     Herausforderungen.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Recherche, Präsentation und Diskussion'
     - type: Seminar
-      swstime: 9
+      swstime: 1
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -1535,7 +1536,7 @@
     (Struktur und Funktion)'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1544,7 +1545,7 @@
 
         Recherche, Präsentation und Diskussion'
     - type: Übung
-      swstime: 9
+      swstime: 1
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1553,7 +1554,7 @@
 
         Recherche, Präsentation und Diskussion'
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1604,7 +1605,7 @@
     - Docking von organischen Kleinstrukturen an Proteine sowie Protein-Protein-Docking'
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1613,7 +1614,7 @@
 
         Recherche, Präsentation und Diskussion'
     - type: Übung
-      swstime: 9
+      swstime: 1
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1622,7 +1623,7 @@
 
         Recherche, Präsentation und Diskussion'
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -1669,7 +1670,7 @@
 #    im Bereich der weiterführenden Algorithmen vorgestellt.
 #  teachingunit:
 #    - type: Seminar
-#      swstime: 9
+#      swstime: 2
 #      attendance: required
 #      activity: Recherche, Präsentation und Diskussion
 #  workload:
@@ -1700,14 +1701,14 @@
 #    oder des Maschinellen Lernens.
 #  teachingunit:
 #    - type: Vorlesung
-#      swstime: 9
+#      swstime: 4
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
 #
 #        Bearbeitung von Übungsaufgaben'
 #    - type: Übung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
@@ -1745,14 +1746,14 @@
 #    Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
 #  teachingunit:
 #    - type: Vorlesung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
 #
 #        Bearbeitung von Übungsaufgaben'
 #    - type: Übung
-#      swstime: 9
+#      swstime: 2
 #      attendance: recommended
 #      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
 #        ergänzender Literatur
@@ -1795,7 +1796,7 @@
     - Erstellen und Anwenden von Bioinformatik Workflows in bestehenden Systemen'
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -1833,7 +1834,7 @@
     - Präsentation der Ergebnisse'
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -1871,7 +1872,7 @@
     - Verwendung von GOLD und Accelrys zum strukturbasierten Liganden-Design'
   teachingunit:
     - type: Praxisseminar
-      swstime: 9
+      swstime: 4
       attendance: required
       activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
@@ -1908,7 +1909,7 @@
     einordnen und vorgestellt.
   teachingunit:
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: Recherche, Präsentation und Diskussion
   workload:
@@ -1945,7 +1946,7 @@
     eingeordnet und vorgestellt.
   teachingunit:
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: Recherche, Präsentation und Diskussion
   workload:
@@ -1982,7 +1983,7 @@
     eingeordnet und vorgestellt.
   teachingunit:
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: Recherche, Präsentation und Diskussion
   workload:
@@ -2016,14 +2017,14 @@
     Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
 
         Bearbeitung von Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -2065,14 +2066,14 @@
     Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
 
         Bearbeitung von Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -2114,14 +2115,14 @@
     Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
 
         Bearbeitung von Übungsaufgaben'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
         von ergänzender Literatur
@@ -2164,7 +2165,7 @@
     zur Analyse von Daten aus den Lebenswissenschaften.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
         Literatur
@@ -2173,7 +2174,7 @@
 
         Vortrag'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
         Literatur
@@ -2182,7 +2183,7 @@
 
         Vortrag'
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
         Literatur
@@ -2231,7 +2232,7 @@
     zur Analyse von Daten aus den Lebenswissenschaften.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
         Literatur
@@ -2240,7 +2241,7 @@
 
         Vortrag'
     - type: Übung
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
         Literatur
@@ -2249,7 +2250,7 @@
 
         Vortrag'
     - type: Seminar
-      swstime: 9
+      swstime: 2
       attendance: required
       activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
         Literatur
@@ -2296,14 +2297,14 @@
     Herausforderungen.
   teachingunit:
     - type: Vorlesung
-      swstime: 9
+      swstime: 2
       attendance: recommended
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
 
         Recherche, Präsentation und Diskussion'
     - type: Seminar
-      swstime: 9
+      swstime: 1
       attendance: required
       activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
         ergänzender Literatur
@@ -2329,4 +2330,57 @@
   credit_points: 5
   duration: Ein Semester, nach Absprache als Blockveranstaltung möglich
   repeat: Jedes Wintersemester
+  usability: Masterstudiengang Bioinformatik
+- page: 14
+  name: Human Evolution
+  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
+    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
+    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
+  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
+    liegen die Schwerpunkte in den folgenden Bereichen:
+
+    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
+    Phänotyps, kognitiver Fähigkeiten
+
+    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
+    evolutionäre Medizin'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 1
+      attendance: recommended
+      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+        von ergänzender Literatur'
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: 'Vortrag und Diskussion'
+    - type: Seminar am PC
+      swstime: 2
+      attendance: required
+      activity: 'Entwicklung eines eigenen Modells, Programmierung, Auswertung, Lösung von Übungsaufgaben, kritische Diskussion von Ergebnissen'
+  workload:
+    - type: Präsenzzeit V
+      time: 15
+    - type: Vor- und Nachbereitung V
+      time: 45
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 60
+    - type: Präsenzzeit PS
+      time: 30
+    - type: Vor- und Nachbereitung SPC
+      time: 70
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 50
+  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  language: Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
