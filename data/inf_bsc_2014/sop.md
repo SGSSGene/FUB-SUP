@@ -1,7 +1,4 @@
 # Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
-## Original und Modifikation
-Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des Informatik Bachelors an der FU-Berlin.
-Das Original ist hier zu finden: [StO/PO 2014 (Bachelor, 0086c/0086d)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/StOPO_BSc_Inf_-2014.pdf).
 
 ## Präambel
 Aufgrund von § 14 Abs. 1 Nr. 2 Teilgrundordnung (Erprobungsmodell) der Freien Universität Berlin vom 27.
@@ -141,40 +138,40 @@ Die Regelstudienzeit beträgt sechs Semester.
 2. Der Pflichtbereich des Bereichs Informatik im Umfang von 108 LP gliedert sich in folgende Themengebiete:
     1. Themengebiet: Algorithmen und Programmierung im Umfang von 35 LP
         1. Es sind folgende drei Module zu absolvieren:
-            - Modul: [Funktionale Programmierung](inf_bsc_2014_modules/Funktionale Programmierung.md) (9 LP),
-            - Modul: [Algorithmen, Datenstrukturen und Datenabstraktion](inf_bsc_2014_modules/Algorithmen, Datenstrukturen und Datenabstraktion.md) (9 LP) und
-            - Modul: [Nichtsequentielle und verteilte Programmierung](inf_bsc_2014_modules/Nichtsequentielle und verteilte Programmierung.md) (9 LP).
+            - Modul: [Funktionale Programmierung](modules/Funktionale Programmierung.md) (9 LP),
+            - Modul: [Algorithmen, Datenstrukturen und Datenabstraktion](modules/Algorithmen, Datenstrukturen und Datenabstraktion.md) (9 LP) und
+            - Modul: [Nichtsequentielle und verteilte Programmierung](modules/Nichtsequentielle und verteilte Programmierung.md) (9 LP).
         2. Sowie entsprechend dem Ergebnis eines vorher zu absolvierenden Einstufungstests ist eines der beiden folgenden Module zu absolvieren:
-            - Modul: [Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen](inf_bsc_2014_modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md) (8 LP) oder
-            - Modul: [Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse](inf_bsc_2014_modules/Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse.md) (8 LP).
+            - Modul: [Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen](modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md) (8 LP) oder
+            - Modul: [Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse](modules/Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse.md) (8 LP).
     2. Themengebiet: Technische Informatik im Umfang von
         10 LP; es ist folgendes Modul zu absolvieren:
-        - Modul: [Rechnerarchitektur, Betriebs- und Kommunikationssysteme](inf_bsc_2014_modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md) (10 LP).
+        - Modul: [Rechnerarchitektur, Betriebs- und Kommunikationssysteme](modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md) (10 LP).
     3. Themengebiet: Praktische Informatik im Umfang von
         22 LP; es sind folgende Module zu absolvieren:
-        - Modul: [Auswirkungen der Informatik](inf_bsc_2014_modules/Auswirkungen der Informatik.md) (5 LP),
-        - Modul: [Datenbanksysteme](inf_bsc_2014_modules/Datenbanksysteme.md) (7 LP) und
-        - Modul: [Softwaretechnik](inf_bsc_2014_modules/Softwaretechnik.md) (10 LP).
+        - Modul: [Auswirkungen der Informatik](modules/Auswirkungen der Informatik.md) (5 LP),
+        - Modul: [Datenbanksysteme](modules/Datenbanksysteme.md) (7 LP) und
+        - Modul: [Softwaretechnik](modules/Softwaretechnik.md) (10 LP).
     4. Themengebiet: Theoretische Informatik im Umfang
         von 7 LP; es ist folgendes Modul zu absolvieren:
-        - Modul: [Grundlagen der Theoretischen Informatik](inf_bsc_2014_modules/Grundlagen der Theoretischen Informatik.md) (7 LP).
+        - Modul: [Grundlagen der Theoretischen Informatik](modules/Grundlagen der Theoretischen Informatik.md) (7 LP).
     5. Themengebiet: Mathematik für Informatik im Umfang
         von 29 LP; es sind folgende Module zu absolvieren:
-        - Modul: [Logik und Diskrete Mathematik](inf_bsc_2014_modules/Logik und Diskrete Mathematik.md) (9 LP),
-        - Modul: [Lineare Algebra für Informatik](inf_bsc_2014_modules/Lineare Algebra für Informatik.md) (10 LP) und
-        - Modul: [Analysis für Informatik](inf_bsc_2014_modules/Analysis für Informatik.md) (10 LP).
+        - Modul: [Logik und Diskrete Mathematik](modules/Logik und Diskrete Mathematik.md) (9 LP),
+        - Modul: [Lineare Algebra für Informatik](modules/Lineare Algebra für Informatik.md) (10 LP) und
+        - Modul: [Analysis für Informatik](modules/Analysis für Informatik.md) (10 LP).
     6. Themengebiet: Wissenschaft im Umfang von 5 LP; es
         ist folgendes Modul zu absolvieren:
-        - Modul: [Wissenschaftliches Arbeiten in der Informatik](inf_bsc_2014_modules/Wissenschaftliches Arbeiten in der Informatik.md) (5 LP).
+        - Modul: [Wissenschaftliches Arbeiten in der Informatik](modules/Wissenschaftliches Arbeiten in der Informatik.md) (5 LP).
 3. Im Vertiefungsbereich Informatik sind Module im
     Umfang von insgesamt 15 LP zu wählen und zu absolvieren. Dafür kommen alle differenziert bewerteten Module aus dem Angebot des Masterstudiengangs Informatik des Fachbereichs Mathematik und Informatik der
     Freien Universität Berlin in Betracht. Des Weiteren können folgende Module gewählt und absolviert werden:
-    - Modul: [Grundlagen der Technischen Informatik](inf_bsc_2014_modules/Grundlagen der Technischen Informatik.md) (10 LP),
-    - Modul: [Forschungspraktikum](inf_bsc_2014_modules/Forschungspraktikum.md) (5 LP),
-    - Modul: [Basisdidaktik Informatik](inf_bsc_2014_modules/Basisdidaktik Informatik.md) (10 LP),
-    - Modul: [Wissenschaftliches Arbeiten Praktische Informatik](inf_bsc_2014_modules/Wissenschaftliches Arbeiten Praktische Informatik.md) (5 LP),
-    - Modul: [Wissenschaftliches Arbeiten Theoretische Informatik](inf_bsc_2014_modules/Wissenschaftliches Arbeiten Theoretische Informatik.md) (5 LP),
-    - Modul: [Wissenschaftliches Arbeiten Technische Informatik](inf_bsc_2014_modules/Wissenschaftliches Arbeiten Technische Informatik.md) (5 LP).
+    - Modul: [Grundlagen der Technischen Informatik](modules/Grundlagen der Technischen Informatik.md) (10 LP),
+    - Modul: [Forschungspraktikum](modules/Forschungspraktikum.md) (5 LP),
+    - Modul: [Basisdidaktik Informatik](modules/Basisdidaktik Informatik.md) (10 LP),
+    - Modul: [Wissenschaftliches Arbeiten Praktische Informatik](modules/Wissenschaftliches Arbeiten Praktische Informatik.md) (5 LP),
+    - Modul: [Wissenschaftliches Arbeiten Theoretische Informatik](modules/Wissenschaftliches Arbeiten Theoretische Informatik.md) (5 LP),
+    - Modul: [Wissenschaftliches Arbeiten Technische Informatik](modules/Wissenschaftliches Arbeiten Technische Informatik.md) (5 LP).
 4. Als Module des Anwendungsbereiches im Umfang
     von 15 LP kommen Module jedes wissenschaftlichen
     Studienfachs außer dem Studienfach der Informatik in
@@ -304,17 +301,17 @@ Die Regelstudienzeit beträgt sechs Semester.
     1. Kompetenzbereich Fachnahe Zusatzqualifikationen:
         1. Es ist eines der folgenden zwei Wahlpflichtmodule
             zu wählen und zu absolvieren:
-            - Modul: [Softwareprojekt A](inf_bsc_2014_modules/Softwareprojekt A.md) (10 LP) oder
-            - Modul: [Softwareprojekt B](inf_bsc_2014_modules/Softwareprojekt B.md) (10 LP).
+            - Modul: [Softwareprojekt A](modules/Softwareprojekt A.md) (10 LP) oder
+            - Modul: [Softwareprojekt B](modules/Softwareprojekt B.md) (10 LP).
         2. Frei wählbare Module der folgenden Auswahl im
             Umfang von 5 oder 10 LP:
-            - Modul: [Arbeits- und Lebensmethodik](inf_bsc_2014_modules/Arbeits- und Lebensmethodik.md) (5 LP),
-            - Modul: [Existenzgründung in der IT-Industrie](inf_bsc_2014_modules/Existenzgründung in der IT-Industrie.md) (5 LP)
-            - Modul: [Gesellschaftliche Aspekte der Informatik](inf_bsc_2014_modules/Gesellschaftliche Aspekte der Informatik.md) (5 LP),
-            - Modul: [Rechtliche Aspekte der Informatik](inf_bsc_2014_modules/Rechtliche Aspekte der Informatik.md) (5 LP),
-            - Modul: [Planung, Durchführung und Analyse eines Tutoriums in der Informatik](inf_bsc_2014_modules/Planung, Durchführung und Analyse eines Tutoriums in der Informatik.md) (5 LP),
-            - Modul: [Grundlagen des Managements von IT-Projekten](inf_bsc_2014_modules/Grundlagen des Managements von IT-Projekten.md) (5 LP),
-            - Modul: [Systemverwaltung](inf_bsc_2014_modules/Systemverwaltung.md) (5 LP).
+            - Modul: [Arbeits- und Lebensmethodik](modules/Arbeits- und Lebensmethodik.md) (5 LP),
+            - Modul: [Existenzgründung in der IT-Industrie](modules/Existenzgründung in der IT-Industrie.md) (5 LP)
+            - Modul: [Gesellschaftliche Aspekte der Informatik](modules/Gesellschaftliche Aspekte der Informatik.md) (5 LP),
+            - Modul: [Rechtliche Aspekte der Informatik](modules/Rechtliche Aspekte der Informatik.md) (5 LP),
+            - Modul: [Planung, Durchführung und Analyse eines Tutoriums in der Informatik](modules/Planung, Durchführung und Analyse eines Tutoriums in der Informatik.md) (5 LP),
+            - Modul: [Grundlagen des Managements von IT-Projekten](modules/Grundlagen des Managements von IT-Projekten.md) (5 LP),
+            - Modul: [Systemverwaltung](modules/Systemverwaltung.md) (5 LP).
 
     Ferner sind im Rahmen des Kompetenzbereichs Fachnahe Zusatzqualifikationen gemäß Nr. 1. Buchst. b) die Module Computeralgebra (5 LP), Statistik-Software
     (5 LP), Einführung in die Visualisierung (5 LP) und
@@ -325,7 +322,7 @@ Die Regelstudienzeit beträgt sechs Semester.
 
     2. Frei wählbare Module in anderen Kompetenzbereichen im Umfang von 5 oder 10 LP.
     {class="offset2"}
-    3. Berufsbezogenes Praktikum: Es ist das Modul [Berufsbezogenes Praktikum Informatik](inf_bsc_2014_modules/Berufsbezogenes Praktikum Informatik.md) (10 LP) zu absolvieren.
+    3. Berufsbezogenes Praktikum: Es ist das Modul [Berufsbezogenes Praktikum Informatik](modules/Berufsbezogenes Praktikum Informatik.md) (10 LP) zu absolvieren.
 
 4. Das im Rahmen des Studienbereichs ABV zu absolvierende Modul „Berufsbezogenes Praktikum Informatik“ soll den Studentinnen und Studenten einen Einblick in mögliche Berufs- und Tätigkeitsfelder eröffnen
     und sie mit den Anforderungen der Praxis konfrontieren.
@@ -350,12 +347,12 @@ Die Regelstudienzeit beträgt sechs Semester.
     1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin immatrikuliert gewesen sind und
     2. Module im Umfang von mindestens 90 LP erfolgreich
     absolviert haben, darunter die folgenden Module:
-        - Modul: [Algorithmen, Datenstrukturen und Datenabstraktion](inf_bsc_2014_modules/Algorithmen, Datenstrukturen und Datenabstraktion.md) (9 LP),
-        - Modul: [Grundlagen der Theoretischen Informatik](inf_bsc_2014_modules/Grundlagen der Theoretischen Informatik.md) (7 LP),
-        - Modul: [Logik und Diskrete Mathematik](inf_bsc_2014_modules/Logik und Diskrete Mathematik.md) (9 LP),
-        - Modul: [Lineare Algebra für Informatik](inf_bsc_2014_modules/Lineare Algebra für Informatik.md) (10 LP) oder Lineare Algebra 1 (10 LP),
-        - Modul: [Rechnerarchitektur, Betriebssysteme und Netzwerke](inf_bsc_2014_modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md) (10 LP) und
-        - Modul: [Wissenschaftliches Arbeiten in der Informatik](inf_bsc_2014_modules/Wissenschaftliches Arbeiten in der Informatik.md) (5 LP).
+        - Modul: [Algorithmen, Datenstrukturen und Datenabstraktion](modules/Algorithmen, Datenstrukturen und Datenabstraktion.md) (9 LP),
+        - Modul: [Grundlagen der Theoretischen Informatik](modules/Grundlagen der Theoretischen Informatik.md) (7 LP),
+        - Modul: [Logik und Diskrete Mathematik](modules/Logik und Diskrete Mathematik.md) (9 LP),
+        - Modul: [Lineare Algebra für Informatik](modules/Lineare Algebra für Informatik.md) (10 LP) oder Lineare Algebra 1 (10 LP),
+        - Modul: [Rechnerarchitektur, Betriebssysteme und Netzwerke](modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md) (10 LP) und
+        - Modul: [Wissenschaftliches Arbeiten in der Informatik](modules/Wissenschaftliches Arbeiten in der Informatik.md) (5 LP).
 3. Dem Antrag auf Zulassung zur Bachelorarbeit sind
     Nachweise über das Vorliegen der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer
     prüfungsberechtigten Lehrkraft über die Bereitschaft zur
