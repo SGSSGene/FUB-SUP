@@ -1,1 +1,0 @@
-../../data/inf_msc_2014/sop.md

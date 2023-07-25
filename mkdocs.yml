@@ -33,7 +33,7 @@ nav:
   - Rahmenstudien- und -prüfungsordnung: rspo_2013.md
   - Informatik Bsc 2014:
     - inf_bsc_2014/home.md
-    - Studien- und Prüfungsordnung: inf_bsc_2014/sop.md
+    - Studien- und Prüfungsordnung: inf_bsc_2014/spo.md
     - Modulbeschreibungen:
       - inf_bsc_2014/module_explanations.md
       - inf_bsc_2014/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
@@ -110,7 +110,7 @@ nav:
     - Exemplarischer Studienverlaufsplan: inf_bsc_2023/anlage2.md
   - Informatik Msc 2014:
     - inf_msc_2014/home.md
-    - Studien- und Prüfungsordnung: inf_msc_2014/sop.md
+    - Studien- und Prüfungsordnung: inf_msc_2014/spo.md
     - Modulebeschreibungen:
       - inf_msc_2014/module_explanations.md
       - inf_msc_2014/modules/Verteilte Systeme.md
