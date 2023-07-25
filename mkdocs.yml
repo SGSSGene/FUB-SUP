@@ -322,6 +322,41 @@ nav:
       - datasci_msc_2021/modules/Statistics for Data Science.md
   - Mathematik Bsc 2013:
     - math_bsc_2013/home.md
+    - Studien- und Prüfungsordnung: math_bsc_2013/spo.md
+    - Modulbeschreibung:
+      - math_bsc_2013/module_explanations.md
+      - math_bsc_2013/modules/Aktuelle Themen der Mathematik.md
+      - math_bsc_2013/modules/Algebra und Zahlentheorie.md
+      - math_bsc_2013/modules/Analysis I.md
+      - math_bsc_2013/modules/Analysis II.md
+      - math_bsc_2013/modules/Analysis III.md
+      - math_bsc_2013/modules/Berufspraktikum.md
+      - math_bsc_2013/modules/Computeralgebra.md
+      - math_bsc_2013/modules/Computerorientierte Mathematik I.md
+      - math_bsc_2013/modules/Computerorientierte Mathematik II.md
+      - math_bsc_2013/modules/Datenstrukturen und Datenabstraktion mit Anwendung.md
+      - math_bsc_2013/modules/Einführung in die Visualisierung.md
+      - math_bsc_2013/modules/Elementargeometrie.md
+      - math_bsc_2013/modules/Funktionalanalysis.md
+      - math_bsc_2013/modules/Funktionentheorie.md
+      - math_bsc_2013/modules/Geometrie.md
+      - math_bsc_2013/modules/Höhere Algorithmik mit Anwendung.md
+      - math_bsc_2013/modules/Höhere Analysis.md
+      - math_bsc_2013/modules/Kommunikation über Mathematik.md
+      - math_bsc_2013/modules/Lineare Algebra I.md
+      - math_bsc_2013/modules/Lineare Algebra II.md
+      - math_bsc_2013/modules/Mathematisches Projekt.md
+      - math_bsc_2013/modules/Numerik I.md
+      - math_bsc_2013/modules/Panorama der Mathematik.md
+      - math_bsc_2013/modules/Planung und Durchführung eines Tutoriums.md
+      - math_bsc_2013/modules/Programmierung.md
+      - math_bsc_2013/modules/Spezialthemen der Mathematik.md
+      - math_bsc_2013/modules/Spezialthemen der angewandten Mathematik.md
+      - math_bsc_2013/modules/Spezialthemen der reinen Mathematik.md
+      - math_bsc_2013/modules/Statistik-Software (CoSta).md
+      - math_bsc_2013/modules/Stochastik I.md
+      - math_bsc_2013/modules/Stochastik II.md
+      - math_bsc_2013/modules/Wissenschaftliches Arbeiten in der Mathematik.md
   - Mathematik Msc 2018:
     - math_msc_2018/home.md
     - Studien- und Prüfungsordnung: math_msc_2018/spo.md

@@ -1,0 +1,1596 @@
+- page: 6
+  name: Analysis I
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die Grundlagen des mathematischen (logischen,
+    abstrakten, analytischen und vernetzten) Denkens, sie sind mit grundlegenden Aussagen
+    der Analysis einer reellen Veränderlichen vertraut und können mit Begriffen, wie
+    Folge, Reihe, Grenzwert, Stetigkeit, Ableitung und Integral sicher umgehen. Sie
+    können zu passenden Problemstellungen auch aus anderen Wissenschaften geeignete
+    mathematische Formulierungen entwickeln, dazu die richtigen Lösungen finden und
+    ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.
+  content: '– Grundlagen, Elementare Logik, Geordnete Paare, Relationen, Funktionen,
+    Definitionsbereich und Wertebereich einer Funktion, Umkehrfunktion (Injektivität,
+    Surjektivität).
+
+    - Zahlen, vollständige Induktion, Rechnen mit reellen und komplexen Zahlen.
+
+    - Anordnung von R, Maximum und Minimum, Supremum und Infimum reeller Mengen, Supremums/Infimums-Vollständigkeit
+    von R, Betrag einer reellen Zahl, Q ist dicht in R.
+
+    - Folgen und Reihen, Grenzwerte, Cauchyfolgen, Konvergenzkriterien, Reihen und
+    grundlegende Konvergenzprinzipien.
+
+    - Topologische Aspekte von R, Offene, abgeschlossene und kompakte reelle Mengen.
+
+    - Funktionenfolgen, Funktionenreihen, Potenzreihen.
+
+    - Eigenschaften von Funktionen, Beschränktheit, Monotonie, Konvexität.
+
+    - Stetigkeit, Grenzwerte und Stetigkeit von Funktionen, Gleichmäßige Stetigkeit,
+    Zwischenwertsätze, Stetigkeit und Kompaktheit.
+
+    - Differenzierbarkeit, Begriff der Ableitung, Differentiationsregeln, Mittelwertsätze,
+    Lokale und globale Extrema, Krümmung, Monotonie, Konvexität.
+
+    - Elementare Funktionen, Rationale Funktionen, Wurzelfunktionen, Exponentialfunktionen,
+    Winkelfunktionen Hyperbolische Funktionen, Reeller Logarithmus, Reelle Arcus-Funktionen,
+    Kurvendiskussionen.
+
+    - Anfänge der Integralrechnung Wenn sich das Modul auch an Studentinnen und Studenten
+    im Lehramtsstudiengang Mathematik richtet, werden bei den Beispielen nach Möglichkeit
+    auch solche gewählt, die einen Schulbezug haben.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
+
+    das Lehramt'
+- page: 7
+  name: Analysis II
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verfügen über vertiefte Kenntnisse in der
+    Analysis und ihren Anwendungen. Sie beherrschen analytische Schlussweisen in mathematisch-logischer
+    Sprache und verfügen über Beweisstrategien. Sie können zu passenden Problemstellungen
+    auch aus anderen Wissenschaften geeignete mathematische Formulierungen entwickeln,
+    dazu die richtigen Lösungen finden und ihre Ergebnisse wieder im Anwendungskontext
+    richtig interpretieren.
+  content: '– Integration: Riemann-Integral (einer reellen Variablen), Trapezregel,
+    Hauptsatz der Differential- und Integralrechnung
+
+    - Differentialrechnung mehrerer Veränderlicher: Stetigkeit, partielle, totale
+    und stetige Differenzierbarkeit, Satz über die Umkehrfunktion, Satz über implizite
+    Funktionen im R2
+
+    - Ausblick auf die Integralrechnung für Funktionen mehrerer reeller Variablen:
+    Riemann-Integral, Berechnung von Mehrfachintegralen, Volumen von Rotationskörpern
+
+    - Gewöhnliche Differentialgleichungen: Grundlegende Begriffe, elementar lösbare
+    Differentialgleichungen'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Bearbeitung von Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung von Übungsaufgaben
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 30
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 30
+    - type: Schriftliche Übungsaufgaben
+      time: 120
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
+
+    das Lehramt, Lehramtsmasterstudiengang (120 LP – FW – 2)'
+- page: 8
+  name: Analysis III
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen Differentiation und Integration
+    im mehrdimensionalen Raum. Sie können sich erfolgreich in verschiedene Gebiete
+    der Mathematik einarbeiten. Sie können zu passenden Problemstellungen auch aus
+    anderen Wissenschaften geeignete mathematische Formulierungen entwickeln, dazu
+    die richtigen Lösungen finden und ihre Ergebnisse wieder im Anwendungskontext
+    richtig interpretieren.
+  content: 'Behandelt werden u. a.: Differentiation und Integration im n-dimensionalen
+    Raum über den reellen Zahlen, Extrema mit und ohne Nebenbedingungen, Integration
+    auf Flächen, die Integralsätze von Gauß und Stokes.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 70
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 50
+    - type: Schriftliche Übungsaufgaben
+      time: 50
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 70
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 330
+  credit_points: 11
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 9
+  name: Lineare Algebra I
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen die Grundlagen der linearen Algebra
+    und analytischen Geometrie. Sie können mit Strukturen, wie Vektorräumen über Körpern
+    sicher umgehen und ihre Erkenntnisse auf geometrische Fragestellungen anwenden.
+  content: '- Grundbegriffe: Mengen, Abbildungen, Äquivalenzrelationen, Gruppen, Ringe,
+    Körper
+
+    - Lineare Gleichungssysteme: Lösbarkeitskriterien, Gauß-Algorithmus
+
+    - Vektorräume: Lineare Unabhängigkeit, Erzeugendensysteme und Basen, Dimension,
+    Unterräume, Faktorräume, Vektorprodukt im R3
+
+    - Lineare Abbildungen: Bild und Rang, Zusammenhang mit Matrizen, Verhalten bei
+    Basiswechsel
+
+    - Dualer Vektorraum, Multilinearformen, alternierende und symmetrische Bilinearformen,
+    Zusammenhang mit Matrizen, Basiswechsel
+
+    - Determinanten: Cramersche Regel, Eigenwerte und -vektoren
+
+    - affine Geometrie
+
+    - Elemente der Codierungstheorie Wenn sich das Modul auch an Studentinnen und
+    Studenten im Lehramtsstudiengang Mathematik richtet, werden bei den Beispielen
+    nach Möglichkeit auch solche gewählt, die einen Schulbezug haben.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
+
+    das Lehramt'
+- page: 10
+  name: Lineare Algebra II
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen algebraische Schlussweisen und
+    Beweisstrategien und sind mit der Problematik von Normalformen für lineare Abbildungen
+    und quadratische Formen vertraut. Sie können zu passenden Problemstellungen auch
+    aus anderen Wissenschaften geeignete mathematische Formulierungen entwickeln,
+    dazu die richtigen Lösungen finden und ihre Ergebnisse wieder im Anwendungskontext
+    richtig interpretieren.
+  content: '- Normalformen für Bilinearformen, Hauptachsentransformation
+
+    - Euklidische und unitäre Vektorräume: Gram-Schmidt-Verfahren, Winkel und Abstände,
+    Orthonormalbasen und Basiswechsel
+
+    - Selbstadjungierte und unitäre Abbildungen
+
+    - Jordansche Normalform Ausgewählte Themen zur Vertiefung, z. B.:
+
+    - Tensor- und äußere Algebra; Parametrisierung von Unterräumen;
+
+    - Darstellungen endlicher Gruppen. Wenn sich das Modul auch an Studentinnen und
+    Studenten im Lehramtsstudiengang Mathematik richtet, werden bei den Beispielen
+    nach Möglichkeit auch solche gewählt, die einen Schulbezug haben.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
+
+    das Lehramt'
+- page: 11
+  name: Computerorientierte Mathematik I
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können Problemstellungen aus Analysis, linearer
+    Algebra oder diskreter Mathematik daraufhin untersuchen, ob sie mit Methoden des
+    numerischen Rechnens zu lösen sind. Sie beachten dabei grundlegende Sachverhalte
+    wie Kondition und Komplexität von Problemen oder Stabilität und Effizienz von
+    Algorithmen. Sie verfügen über elementare Rechner- und Programmierkenntnisse und
+    können einfache numerische Verfahren experimentell einsetzen.
+  content: Computer spielen heute in (fast) allen Lebenslagen eine wichtige Rolle.
+    Das Modul vermittelt grundlegende Kenntnisse im Umgang mit Rechnern zur Lösung
+    mathematischer Probleme und eine Einführung in das algorithmische Denken. Insbesondere
+    geht es um fundamentale Begriffe wie Zahlendarstellung, Rundungsfehler, Kondition,
+    Stabilität und Effizienz. Gleichzeitig werden grundlegende Programmierkenntnisse
+    vermittelt. Die nötige Motivation für die betrachteten Fragestellungen liefern
+    einfache Anwendungsbeispiele.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 30
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 30
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 15
+    - type: Schriftliche Übungsaufgaben
+      time: 15
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
+
+    das Lehramt, Bachelorstudiengang Bioinformatik'
+- page: 12
+  name: Computerorientierte Mathematik II
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen die Möglichkeiten und Grenzen der numerischen
+    Lösung konkreter Probleme und können bekannte, numerische Verfahren richtig einsetzen.
+  content: Das Modul behandelt einfache numerische Verfahren und kann, grundlegende
+    Programmierkenntnisse vorausgesetzt, unabhängig vom Modul Computerorientierte
+    Mathematik I gehört werden. Insbesondere geht es um Polynominterpolation, Newton-Cotes-Formeln
+    zur numerischen Integration und Euler-Verfahren für Anfangswertprobleme mit linearen
+    Differentialgleichungen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 30
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 30
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 15
+    - type: Schriftliche Übungsaufgaben
+      time: 15
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
+
+    das Lehramt, Bachelorstudiengang Bioinformatik'
+- page: 13
+  name: Stochastik I
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen die Fähigkeit zum Modellieren vom
+    Zufall abhängiger realer Phänomene und den Umgang mit elementaren Begriffen, Erkenntnissen
+    und Schlussweisen der Stochastik. Dazu zählt auch die Kompetenz im Umgang mit
+    elementaren Verfahren der statistischen Interpretation von Daten.
+  content: '- Prinzipien des Zählens; Elemente der Kombinatorik
+
+    - Modelle vom Zufall abhängiger Vorgänge: Wahrscheinlichkeitsräume, Wahrscheinlichkeitsmaße
+
+    - Bedingte Wahrscheinlichkeiten; Unabhängigkeit; Bayes’sche Regel
+
+    - Zufallsvariablen und ihre Verteilungen; Kenngrößen der Verteilungen: Erwartungswert
+    und Varianz
+
+    - Diskrete Verteilungen: Laplace-Verteilung; Binomialverteilung; geometrische
+    Verteilung
+
+    - Approximation der Binomialverteilung durch die Normalverteilung
+
+    - Approximation der Binomialverteilung durch die Poissonverteilung
+
+    - Verteilungen mit Dichten: Gleichverteilung; Normalverteilung; Exponentialverteilung
+
+    - Gemeinsame Verteilungen von mehreren Zufallsvariablen: diskret und mit Dichten;
+    Unabhängigkeit von Zufallsvariablen; bedingte Verteilungen; Summen unabhängiger
+    Zufallsvariablen und ihre Verteilungen
+
+    - Kenngrößen gemeinsamer Verteilungen: Erwartungswert, Kovarianz und Korrelation;
+    bedingte Erwartung
+
+    - Grenzwertsätze: schwaches Gesetz der großen Zahl und relative Häufigkeiten;
+    der zentrale Grenzwertsatz
+
+    - Datenanalyse und deskriptive Statistik: Histogramme; empirische Verteilung;
+    Kenngrößen von Stichprobenverteilungen; Beispiele irreführender deskriptiver Statistiken;
+    lineare Regression
+
+    - Elementare Begriffe und Techniken des Testens und Schätzens: Maximum-Likelihood-Prinzip;
+    Konfidenzintervalle; Hypothesentests; Fehler erster und zweiter Art.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
+
+    das Lehramt'
+- page: 14
+  name: Numerik I
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten beherrschen anspruchsvolle, numerische Lösungsverfahren
+    für mathematische Probleme von zentraler Bedeutung. Sie haben ein Gespür für die
+    mathematische Struktur dieser Probleme entwickelt und können aus der theoretischen
+    Durchdringung Nutzen ziehen für die Entwicklung zuverlässiger und effizienter
+    Lösungsalgorithmen.
+  content: Die Auswahl der behandelten numerischen Verfahren enthält Bestapproximation
+    und QR-Zerlegung, Interpolation durch Polynome und Splines, Gauß-Quadratur und
+    adaptive Quadratur sowie Anfangswertprobleme für gewöhnliche Differentialgleichungen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 80
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 55
+    - type: Schriftliche Übungsaufgaben
+      time: 55
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 80
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 360
+  credit_points: 12
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 15
+  name: Wissenschaftliches Arbeiten in der Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können ein grundlegendes, mathematisches Thema
+    anhand von wissenschaftlicher Literatur selbstständig erarbeiten, es in einer
+    schriftlichen Ausarbeitung strukturiert darstellen, in einem Vortrag präsentieren
+    und schwierige Sachverhalte erklären. Sie haben gelernt, sich an einer wissenschaftlichen
+    Diskussion zu beteiligen und können Fachvorträge und Ausarbeitungen anderer kritisch
+    beurteilen.
+  content: Das Seminar wird jeweils zu verschiedenen Fachgebieten angeboten. Es baut
+    in der Regel auf mindestens einem Modul des zweiten Studienjahres auf. Es findet
+    eine Vorbesprechung zur Themenvereinbarung statt.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Vereinbarung eines Themas, Besprechung der Vortragsvorbereitung mit
+        der Lehrkraft, regelmäßige Beteiligung an den Vorträgen und der Diskussion
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten); Modulprüfung wird nicht differenziert bewertet'
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Mathematik
+- page: 16
+  name: Algebra und Zahlentheorie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Studentinnen und Studenten kennen die wichtigsten Klassen algebraischer Strukturen
+    (Gruppen, Ringe, Moduln, Körper) und können die zugehörigen abstrakten Erkenntnisse
+    auf die konkreten Strukturen der ganzen, reellen und komplexen Zahlen anwenden.
+  content: 'Ausgewählte Themen aus: 1. Teilbarkeit in Ringen (insbesondere Z und Polynomringe);
+    Restklassen und Kongruenzen; Moduln und Ideale 2. Euklidische, Hauptideal- und
+    faktorielle Ringe 3. Das quadratische Reziprozitätsgesetz 4. Primzahltests und
+    Kryptographie 5. Die Struktur abelscher Gruppen (oder Moduln über Hauptidealringen)
+    6. Satz über symmetrische Funktionen 7. Körpererweiterungen, Galois-Korrespondenz;
+    Konstruktionen mit Zirkel und Lineal 8. Nicht-abelsche Gruppen (Satz von Lagrange,
+    Normalteiler, Auflösbarkeit, Sylowgruppen)'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
+
+    das Lehramt'
+- page: 17
+  name: Höhere Analysis
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: 'Studentinnen und Studenten kennen die wesentlichen Definitionen und Sätze
+    der Gebiete: Funktionentheorie, Topologie und Gewöhnliche Differentialgleichungen
+    und können daraus resultierende Methoden in konkreten Modellen anwenden. Sie können
+    zu passenden Problemstellungen auch aus anderen Wissenschaften geeignete mathematische
+    Formulierungen entwickeln, dazu die richtigen Lösungen finden und ihre Ergebnisse
+    wieder im Anwendungskontext richtig interpretieren.'
+  content: '- Funktionentheorie: Die wichtigsten Fakten über differenzierbare Funktionen
+    der komplexen Ebene in sich.
+
+    - Topologie: Topologische Räume stellen eine Verallgemeinerung der metrischen
+    Räume dar. Bekannte Konzepte wie etwa „Stetigkeit“, „Konvergenz“ und „Kompaktheit“
+    werden in manchen Anwendungen in der allgemeineren Variante benötigt.
+
+    - Gewöhnliche Differentialgleichungen: Bei konkreten Modellierungen ergibt sich
+    häufig das Problem, eine Funktion zu finden, für die zwischen der Funktion selber
+    und ihren Ableitungen eine bestimmte Gleichung erfüllt ist. Die Existenz und Eindeutigkeit
+    möglicher Lösungen werden untersucht und für einige einfache Klassen explizite
+    Lösungsverfahren aufgezeigt.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 18
+  name: Elementargeometrie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen und verstehen verschiedene Ansätze
+    für die (axiomatische) Grundlegung der Geometrie. Sie verstehen, dass es verschiedene
+    Geometrien gibt und können sie je nach Problem erfolgreich einsetzen. Sie beherrschen
+    den Einsatz dynamischer Geometriesoftware und sind mit Verfahren vertraut, die
+    in der Schulgeometrie eine Rolle spielen.
+  content: 'Auswahl aus folgenden Themen:
+
+    - Elemente der euklidischen Geometrie (mit Ansätzen eines axiomatischen Aufbaus),
+
+    - Inzidenzgeometrie und andere Axiomengruppen,
+
+    - Kongruenz- und Abbildungsgeometrie (Erlanger Programm),
+
+    - Bezüge zur Analytischen Geometrie und Linearen Algebra;
+
+    - klassische Sätze über Dreiecke und Potenzsätze am Kreis,
+
+    - Konstruktionen mit Zirkel und Lineal (mit Ansätzen der Beziehungen zur Algebra),
+
+    - Raumgeometrie und Projektionen,
+
+    - Maßprobleme einschl. Inkommensurabilität von Strecken;
+
+    - Einsatz dynamischer Geometriesoftware.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
+
+    das Lehramt'
+- page: 19
+  name: Geometrie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen und verstehen die wichtigsten Modellgeometrien
+    (euklidisch, affin, sphärisch, projektiv, hyperbolisch, Möbius) mit ihren Transformationen
+    und Invarianten. Sie können Strukturen in diesen Geometrien konstruieren und berechnen.
+    Sie können zu passenden Problemstellungen auch aus anderen Wissenschaften geeignete
+    mathematische Formulierungen entwickeln, dazu die richtigen Lösungen finden und
+    ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.
+  content: 'Grundlegende Modelle der n-dimensionalen Geometrie:
+
+    - Euklidische Geometrie
+
+    - Affine Geometrie
+
+    - Projektive Geometrie
+
+    - Sphärische Geometrie
+
+    - Möbiusgeometrie
+
+    - Hyperbolische Geometrie und ihre Transformationen (Strukturgruppen), Invarianten
+    (Unterräume, Quadriken, Metriken und Volumina). Strukturen und Berechnungen in
+    diesen Modellen, Beispiele, Anwendungen.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
+
+    das Lehramt'
+- page: 20
+  name: Funktionalanalysis
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: 'Die Studentinnen und Studenten können abstrakte Aussagen über stetige Abbildungen
+    auf Vektorräumen auf verschiedenartige konkrete Probleme anwenden. Sie beherrschen
+    den Umgang mit folgenden Begriffen: Funktional für eine Abbildung von Vektoren
+    (z. B. Funktionen) auf skalare Größen und Operator für eine Abbildung von Vektoren
+    auf Vektoren. Sie können zu passenden Problemstellungen auch aus anderen Wissenschaften
+    geeignete mathematische Formulierungen entwickeln, dazu die richtigen Lösungen
+    finden und ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.'
+  content: Die Funktionalanalysis ist der Zweig der Mathematik, der sich mit der Untersuchung
+    von Vektorräumen und stetigen Abbildungen auf solchen befasst. Hierbei werden
+    Analysis, Topologie und Algebra verknüpft. Die Vorlesung behandelt Banach- und
+    Hilberträume, lineare Operatoren und Funktionale sowie Spektraltheorie kompakter
+    Operatoren.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 21
+  name: Funktionentheorie
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten haben vertiefte Kenntnisse in der Funktionentheorie
+    und die Fähigkeit, funktionentheoretische Methoden in anderen mathematischen Teilgebieten
+    anzuwenden. Sie können zu passenden Problemstellungen auch aus anderen Wissenschaften
+    geeignete mathematische Formulierungen entwickeln, dazu die richtigen Lösungen
+    finden und ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.
+  content: '- Einführung in die Funktionentheorie einer komplexen Veränderlichen
+
+    - Komplexe Zahlen (Definition, Folgen, Reihen, Potenzreihen)
+
+    - Holomorphe Funktionen (Definition der komplexen Differenzierbarkeit, Cauchy-Integralformeln,
+    Potenzreihenentwicklung, Fundamentalsatz der Algebra)
+
+    - Logarithmusfunktion
+
+    - Residuensatz
+
+    - Meromorphe Funktionen (Definition, die Riemannsche Zahlenkugel, Laurent-Reihen)
+    und weitere Themen'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 22
+  name: Stochastik II
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Studentinnen und Studenten verfügen über vertiefte Kenntnisse in Mathematischer
+    Statistik und Wahrscheinlichkeitstheorie und können geeignete Modelle zur Behandlung
+    statistischer Probleme formulieren. Sie können zu passenden Problemstellungen
+    auch aus anderen Wissenschaften geeignete mathematische Formulierungen entwickeln,
+    dazu die richtigen Lösungen finden und ihre Ergebnisse wieder im Anwendungskontext
+    richtig interpretieren.
+  content: 'Auswahl aus folgenden Themen:
+
+    - Beschreibende Statistik (Veranschaulichung von Stichproben, Korrelationskoeffizienten)
+
+    - Schätztheorie (statistische Modelle, Schätzer, Suffizienz und Vollständigkeit,
+    Bayes-Schätzer, der Spezialfall normalverteilter Daten)
+
+    - Testtheorie (Hypothesen, zufällige Testfunktionen)
+
+    - Lineare Modelle (Mehrdimensionale Normalverteilungen, Varianzanalyse)
+
+    - Nichtparametrische Verfahren (Chi-Quadrat-Tests auf Unabhängigkeit, Kolmogoroff-Smirnoff-Test,
+    Rangtests)
+
+    - Grenzwertsätze der Wahrscheinlichkeitstheorie auf maßtheoretischer Grundlage
+
+    - Martingale
+
+    - Stochastische Prozesse'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 23
+  name: Mathematisches Projekt
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können ihre mathematischen Kenntnisse anwenden,
+    um in einer vorgegebenen Anwendungsumgebung systematische Lösungen zu erzielen.
+    Sie sind fähig zur Teamarbeit und zur arbeitsteiligen Entwicklung von Lösungen
+    zu komplexen Aufgabenstellungen.
+  content: Das Mathematische Projekt wird jeweils zu verschiedenen Fachgebieten ggf.
+    in Kooperation mit Industriepartnern angeboten.
+  teachingunit:
+    - type: Projekt
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige aktive Beteiligung an Projektbesprechungen und deren Dokumentation
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 180
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Vortrag (etwa 30 Minuten) mit schriftlicher Ausarbeitung des eigenen Projektbeitrags (etwa 5 Seiten)'
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Bachelorstudiengang Mathematik
+- page: 24
+  name: Datenstrukturen und Datenabstraktion mit Anwendung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: 'Die Studentinnen und Studenten können objektorientierte Software entwickeln:
+    Sie beherrschen den Umgang mit Datenabstraktion, Vererbung und polymorphen Typsystemen.
+    Sie sind in der Lage,
+
+    - abstrakte Datentypen zu spezifizieren und zu implementieren,
+
+    - Korrektheitsbeweise für die Implementierungen abstrakter Datentypen durchzuführen
+    und
+
+    - unter Einbeziehung von Effizienzanalysen eine Entscheidung über die jeweils
+    zu wählende Datenrepräsentation zu treffen. Sie kennen die wichtigsten abstrakten
+    Datentypen und ihre gängigen Implementierungen sowie die entsprechenden Schnittstellen
+    und Klassen aus den Bibliotheken der verwendeten Programmiersprache. Sie können
+    eine typische Anwendung selbstständig bearbeiten.'
+  content: Ausgangspunkt ist das Geheimnisprinzip und seine Bedeutung für die Strukturierung
+    von Programmen und die Konstruktion von Datenobjekten mittels Modulen und Klassen.
+    Eine zentrale Rolle bei der Modellierung von Daten spielt der Begriff der Datenabstraktion,
+    verbunden mit der Unterscheidung zwischen Spezifikation und Implementierung abstrakter
+    Datenobjekte und Datentypen. Folgen, Mengen, Relationen, Bäume, Graphen und geometrische
+    Objekte werden als abstrakte Typen eingeführt. Anschließend werden effizient manipulierbare
+    Repräsentationen dieser Typen betrachtet und die zugehörigen Algorithmen auf ihre
+    Komplexität hin untersucht. In der objektorientierten Programmierung spielen neben
+    der Datenabstraktion Vererbung und Polymorphie eine wesentliche Rolle. Abstrakte
+    Datentypen werden daher häufig unter Verwendung von Vererbungsmechanismen spezifiziert
+    und implementiert. Für typische Problemlösungen lassen sich Entwurfsmuster angeben;
+    die Behandlung der Muster Iterator, Kompositum, Abstrakte Fabrik bietet sich an.
+    Technische Aspekte der Datenspeicherung im Arbeitsspeicher (Keller und Halde)
+    und im Hintergrundspeicher (Dateien, persistente Objekte) werden behandelt. Programmiert
+    wird sowohl in objektorientierten als auch in funktionalen Sprachen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten
+        Aufgabe einschließlich einer lauffähigen Implementierung
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Schriftliche Bearbeitung der Übungsblätter, zwei mündliche Präsentationen
+        der Lösung jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten
+        Aufgabe einschließlich einer lauffähigen Implementierung
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 60
+    - type: Bearbeitung Anwendung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Klausur (120 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 25
+  name: Aktuelle Themen der Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können ein grundlegendes, mathematisches Thema
+    anhand von wissenschaftlicher Literatur selbstständig erarbeiten, es in einer
+    schriftlichen Ausarbeitung strukturiert darstellen, in einem Vortrag präsentieren
+    und schwierige Sachverhalte erklären. Sie können sich an einer wissenschaftlichen
+    Diskussion beteiligen und können Fachvorträge und Ausarbeitungen anderer kritisch
+    beurteilen.
+  content: Im Studium wird jeweils zu verschiedenen Fachgebieten angeboten. Es baut
+    in der Regel auf mindestens einem Modul des zweiten Studienjahres auf. Es findet
+    eine Vorbesprechung zur Themenvereinbarung statt.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Vereinbarung eines Themas, Besprechung der Vortragsvorbereitung mit
+        der Lehrkraft, regelmäßige Beteiligung an den Vorträgen und der Diskussion
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)'
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Bachelorstudiengang Mathematik
+- page: 26
+  name: Spezialthemen der Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten vertiefen ihre Kenntnisse in einem mathematischen
+    Gebiet und können mit den zugehörigen, komplexen Sachverhalten souverän umgehen.
+  content: Das Vertiefungsmodul wird jeweils zu verschiedenen Fachgebieten angeboten.
+    Es baut in der Regel auf mindestens einem Modul des Wahlbereichs auf.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (Bearbeitungszeit: 90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oderschriftliche Ausarbeitung (etwa 10 Seiten)'
+  language: Deutsch oder Englisch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Bachelorstudiengang Mathematik; Masterstudiengang Mathematik; Lehramtsmasterstudiengang
+- page: 27
+  name: Spezialthemen der reinen Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verfügen über vertiefte Kenntnisse im Bereich
+    der Reinen Mathematik und besitzen die Fähigkeit, diese korrekt anzuwenden.
+  content: Das Vertiefungsmodul wird jeweils zu verschiedenen Fachgebieten der reinen
+    Mathematik angeboten. Es baut in der Regel auf mindestens einem Modul des Wahlbereichs
+    auf.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 1
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 30
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 30
+    - type: Präsenzzeit Übung
+      time: 15
+    - type: Vor- und Nachbereitung Übung
+      time: 15
+    - type: Schriftliche Übungsaufgaben
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Klausur (Bearbeitungszeit: 60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oderschriftliche Ausarbeitung (etwa 8 Seiten)'
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Bachelorstudiengang Mathematik; Masterstudiengang Mathematik
+- page: 28
+  name: Spezialthemen der angewandten Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten verfügen über vertiefte Kenntnisse im Bereich
+    der Angewandten Mathematik und besitzen die Fähigkeit, diese korrekt anzuwenden.
+  content: Das Vertiefungsmodul wird jeweils zu verschiedenen Fachgebieten angeboten.
+    Es baut in der Regel auf mindestens einem Modul des Wahlbereichs auf.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 1
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 30
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 30
+    - type: Präsenzzeit Übung
+      time: 15
+    - type: Vor- und Nachbereitung Übung
+      time: 15
+    - type: Schriftliche Übungsaufgaben
+      time: 30
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Klausur (Bearbeitungszeit: 60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oderschriftliche Ausarbeitung (etwa 8 Seiten)'
+  language: Deutsch oder Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Bachelorstudiengang Mathematik; Masterstudiengang Mathematik
+- page: 29
+  name: Höhere Algorithmik mit Anwendung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten haben umfassende Kenntnisse im Bereich der
+    mathematischen Grundlagen der Algorithmen. Sie kennen neuere wissenschaftliche
+    Ergebnisse im Bereich der Algorithmik und können diese auf typische Problemstellungen
+    anwenden. Sie können eine typische Anwendung selbstständig bearbeiten. An ausgewählten
+    Beispielen sollen die Beziehungen zu anderen Wissenschaften deutlich gemacht und
+    thematisch geeignete anwendungsorientierte Problemstellungen behandelt werden.
+  content: 'Folgende Themen werden behandelt:
+
+    - Flussprobleme in Graphen;
+
+    - Zahlentheoretische Algorithmen (einschließlich RSA-Kryptosystem);
+
+    - String Matching;
+
+    - Approximationsalgorithmen für schwere Probleme;
+
+    - arithmetische Algorithmen und Schaltkreise sowie
+
+    - schnelle Fourier-Transformation'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung
+        jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten
+        Aufgabe einschließlich einer lauffähigen Implementierung
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung
+        jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten
+        Aufgabe einschließlich einer lauffähigen Implementierung
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 60
+    - type: Bearbeitung Anwendung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Klausur (120 Minuten)'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Mathematik
+- page: 30
+  name: Kommunikation über Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können sich unter Anleitung in ein grundlegendes
+    Thema der Mathematik anhand von wissenschaftlicher Literatur einarbeiten, beherrschen
+    gängige Vortrags- und Präsentationstechniken, wissen, was zu einer schriftlichen
+    Ausarbeitung eines Vortrags gehört und können eine fachliche Diskussion moderieren.
+  content: 'Das Proseminar baut auf einem oder mehreren Pflichtmodulen des ersten
+    Studienjahres des Kernfachs Mathematik auf. Es findet eine Vorbesprechung zur
+    Themenvereinbarung statt. Es werden unter anderem folgende Inhalte vermittelt:
+
+    - Planung wissenschaftlicher Präsentationen
+
+    - Visualisierungstechniken für komplexe Sachverhalte
+
+    - Projekt- und Zeitmanagementstrategien'
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: Vereinbarung eines Themas, Besprechung der Vortragsvorbereitung mit
+        der Lehrkraft, regelmäßige Beteiligung an den Vorträgen und der Diskussion
+  workload:
+    - type: Präsenzzeit
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 5 Seiten); die Modulprüfung wird nicht differenziert bewertet.'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
+    Fachnahe Zusatzqualifikationen)
+- page: 31
+  name: Computeralgebra
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen moderne Methoden des symbolischen Rechnens
+    und können wichtige Algorithmen der Computeralgebra, die die Grundlage von Systemen
+    wie Maple und Mathematica sind, klassifizieren. Sie sind in der Lage, zwischen
+    symbolischen und numerischen Methoden zu unterscheiden und diese in der Praxis
+    funktional anzuwenden.
+  content: 'Es werden unter anderem folgende Inhalte vermittelt:
+
+    - Gröbnerbasen, Resultanten und Elimination,
+
+    - Primär-Zerlegung, Radikal-Berechnung, Syzygien und freie Auflösungen,
+
+    - Praktische Anwendungen, wie z. B.: Überprüfung von Prozessoren, Gleichgewichtszustände
+    in ökonomischen Modellen, Beschreibung von Konfigurationsräumen von Molekülen,
+    Robotics oder Sudoku. Bei allen Themen steht das praktische Arbeiten mit einem
+    konkreten Computeralgebrasystem (z. B. Singular) im Vordergrund.'
+  teachingunit:
+    - type: Seminaristische Übung
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige Bearbeitung und Implementierung der Programmieraufgaben,
+        Präsentation mindestens einer korrekten Lösung
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
+    Fachnahe Zusatzqualifikationen)
+- page: 32
+  name: Statistik-Software (CoSta)
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen grundlegende statistische Methoden
+    und die zugehörigen Theorien. Sie können wichtige Verfahren der mathematischen
+    Statistik, die die Grundlage von statistischer Software sind, beschreiben. Sie
+    kennen und beherrschen wenigstens ein Softwaresystem (z. B. die frei verfügbare
+    Software „R“ oder das Programmsystem SPSS) zur Bearbeitung praktischer statistischer
+    Fragestellungen. Sie können zu passenden Problemstellungen auch aus anderen Wissenschaften
+    geeignete mathematische Formulierungen entwickeln, dazu die richtigen Lösungen
+    finden und ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.
+  content: 'Es werden unter anderem folgende Inhalte vermittelt:
+
+    - Beschreibende Statistik: Aufbereitung von Daten durch Histogramme, Stichprobenmittel
+    und -varianz, Korrelation, Regressionsgerade
+
+    - Schließende Statistik: Punktschätzer, Konfidenzintervalle, Methoden bei normalverteilten
+    Daten (ein- und zweiseitige Tests), Alternativtests, Neyman-Pearson-Tests
+
+    - Lineare Modelle: Beste Schätzer, Varianz- und Covarianzanalyse, mehrdimensionale
+    Normalverteilungen'
+  teachingunit:
+    - type: Seminaristische Übung
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige Bearbeitung der Aufgaben, Präsentation mindestens einer
+        korrekten Lösung
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Unregelmäßig
+  usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
+    Fachnahe Zusatzqualifikationen)
+- page: 33
+  name: Einführung in die Visualisierung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten kennen grundlegende Methoden der Visualisierung
+    in der Mathematik und im industriellen Rahmen. Sie beherrschen die mathematischen
+    Grundlagen und Datenstrukturen. Sie haben praktische Erfahrung mit mindestens
+    einem Visualisierungssystem. Sie können zu passenden Problemstellungen auch aus
+    anderen Wissenschaften geeignete mathematische Formulierungen entwickeln, dazu
+    die richtigen Lösungen finden und ihre Ergebnisse wieder im Anwendungskontext
+    richtig interpretieren.
+  content: 'Es werden unter anderem folgende Inhalte vermittelt:
+
+    - Grundlegende Datenstrukturen
+
+    - Visualisierung von Kurven, Flächen und Volumen
+
+    - Anwendungen im wissenschaftlichen und industriellen Rahmen
+
+    - 3D-Modellierung und Animation
+
+    - Konzepte der dynamischen Geometrie
+
+    - Grundlagen des 3D-Scannens und 3D-Druckens'
+  teachingunit:
+    - type: Seminaristische Übung
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige Bearbeitung der Aufgaben, Präsentation mindestens einer
+        korrekten Lösung
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester oder als zweiwöchiger Blockkurs
+  repeat: Jedes Sommersemester
+  usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
+    Fachnahe Zusatzqualifikationen)
+- page: 34
+  name: Panorama der Mathematik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten besitzen einen Überblick über vielfältige
+    Aspekte der Mathematik als Kulturgut, Wissens- und Wissenschaftsgebiet sowie ein
+    vertieftes Verständnis für Schlüsselbegriffe aus der Mathematik, die aus der Schule
+    bekannt sind. Sie können zu passenden Problemstellungen auch aus anderen Wissenschaften
+    geeignete mathematische Formulierungen entwickeln, dazu die richtigen Lösungen
+    finden und ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.
+  content: 'Das Modul bietet eine Einführung in die Mathematik als Wissens- und Wissenschaftsgebiet;
+    der Inhalt soll insbesondere bei der Vermittlung von Mathematik, z. B. in der
+    Schule, in anderen außeruniversitären öffentlichen und privaten Bildungseinrichtungen
+    sowie in betrieblichen Kontexten, von Nutzen sein. Es werden unter anderem folgende
+    Schwerpunkte behandelt:
+
+    - Teilgebiete und Struktur („Landkarte“) der modernen Mathematik,
+
+    - geschichtliche Entwicklung der Gebiete der Mathematik sowie deren Vernetzung,
+
+    - Anwendungen der Mathematik,
+
+    - Beschreibung und Erfahrung mathematischen Arbeitens,
+
+    - Einblick in eine Auswahl aktueller Probleme aus der Mathematik.'
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
+        sowie aktive Beteiligung an der Diskussion
+  workload:
+    - type: Präsenzzeit Vorlesung
+      time: 60
+    - type: Vor- und Nachbereitung Vorlesung
+      time: 60
+    - type: Präsenzzeit Übung
+      time: 30
+    - type: Vor- und Nachbereitung Übung
+      time: 45
+    - type: Schriftliche Übungsaufgaben
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 60
+  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
+    Fachnahe Zusatzqualifikationen)
+- page: 35
+  name: Programmierung
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Anhand vieler Beispiele und selbst zu lösender Aufgaben können die Studentinnen
+    und Studenten eigenständig Programme spezifizieren, diese in einer Programmiersprache,
+    z. B. Java entwickeln, implementieren und testen. Sie besitzen ein grundlegendes
+    Verständnis für die Notwendigkeit von Spezifikationen und sauberen Schnittstellen,
+    für Objektorientierung und Vererbung sowie für die Bedeutung von Systemarchitekturen.
+    Sie können zu passenden Problemstellungen auch aus Technik und anderen Wissenschaften
+    geeignete mathematische Formulierungen entwickeln, dazu die richtigen Lösungen
+    finden und ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.
+  content: In der Vorlesung werden allgemeine Konzepte der strukturierten Programmierung
+    und grundlegende Techniken der Softwareentwicklung unter Verwendung einer modernen
+    Programmiersprache, z. B. Java, vermittelt. In der Übung werden praktische, anwendungsorientierte
+    Aufgaben, z. B. aus den Bereichen Bildverarbeitung oder Grafik- und Applet-Programmierung,
+    bearbeitet.
+  teachingunit:
+    - type: Seminaristische Übung
+      swstime: 4
+      attendance: required
+      activity: Regelmäßige Bearbeitung und Implementierung der Programmieraufgaben,
+        Präsentation mindestens einer korrekten Lösung
+  workload:
+    - type: Präsenzzeit Übung
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
+    Fachnahe Zusatzqualifikationen)
+- page: 36
+  name: Planung und Durchführung eines Tutoriums
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Dozentinnen oder Dozenten des Moduls
+  requirements: Keine
+  goals: Die Studentinnen und Studenten können ein Tutorium im Pflichtbereich ihres
+    Kernfachs vorbereiten, durchführen und analysieren. Sie verfügen über elementare
+    didaktische Fähigkeiten zur Motivation von Studienanfängern, können Verständnisschwierigkeiten
+    beheben und auf gruppendynamische Probleme angemessen reagieren. Sie besitzen
+    vertiefte Kenntnisse, Fähigkeiten und Fertigkeiten in den von ihnen betreuten
+    Fachgebieten.
+  content: In einer Vorbesprechung nach der Vorlesungszeit des vorangehenden Semesters
+    werden aktuelle Unterrichtsmethoden für Tutorien zur Mathematik und Informatik
+    vorgestellt und diskutiert. Anschließend findet noch während der Semesterferien
+    ein Vorstellungsgespräch mit dem Tutorenauswahlausschuss statt, in dem die Eignung
+    als Tutorin oder Tutor festgestellt wird. Nach erfolgreicher Eignungsfeststellung
+    wird ein Tutorium zu einer selbst gewählten Veranstaltung des Pflichtbereichs
+    vorbereitet, durchgeführt, dokumentiert und analysiert.
+  teachingunit:
+    - type: Projektmodul
+      swstime: 3
+      attendance: required
+      activity: Leitung des Tutoriums, regelmäßige, aktive Beteiligung, zuverlässige
+        Dokumentation der Ergebnisse jedes eigens durchgeführten Tutoriums; Beratungsgespräch
+        über den Erfolg des betreuten Tutoriums
+  workload:
+    - type: Präsenzzeit Tutorium und Tutorenbesprechung
+      time: 45
+    - type: Vor- und Nachbereitung Tutorium
+      time: 90
+    - type: Vor- und Nachbereitung Tutorenbesprechung und des Beratungsgesprächs
+      time: 15
+  exam: 'Keine'
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: Bachelorstudiengang Mathematik; Bachelorstudiengang Informatik; Studienbereich
+    ABV (Kompetenzbereich Fachnahe Zusatzqualifikationen)
+- page: 37
+  name: Berufspraktikum
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
+  responsible: Der/Die Berufspraktikumsbeauftragte
+  requirements: Keine
+  goals: Qualifikationsziel des Praktikumsmoduls ist die Erlangung von überfachlichen
+    Kenntnissen, Fähigkeiten und Fertigkeiten sowie von Erfahrungen aus der Arbeitswelt
+    der Mathematikerin oder des Mathematikers, die für die Findung und Ausübung qualifikationsadäquater
+    beruflicher Tätigkeiten auf europäischen und internationalen Arbeitsmärkten relevant
+    sind. Auch das Erlernen adäquater Strategien für die erfolgreiche Praktikumssuche
+    und Praktikumsgestaltung ist Teil des Ausbildungsziels.
+  content: 'Praktika haben eine wichtige Orientierungsfunktion für den Fortgang des
+    Studiums und für die zukünftige berufliche Ausrichtung der Studierenden. Das Berufspraktikum
+    selbst dient dazu, einen ausgewählten Tätigkeitsbereich vor Ort kennen zu lernen
+    und die bisher erworbenen Fach- und Schlüsselkompetenzen im konkreten Berufsalltag
+    zu erproben. Die Veranstaltungen, die das Praktikum begleiten, bieten die Möglichkeit
+
+    - durch intensive Vorbereitung und Reflexion
+
+    - die Praxisphase effektiv zu gestalten. Die Studierenden setzen sich mit Fragen
+    der Berufsorientierung und Bewerbung auseinander und haben Gelegenheit, sich über
+    den konkreten Arbeitsprozess auszutauschen. Darüber hinaus lernen sie, überfachliche
+    Kenntnisse in Zusammenhang mit beruflichen Anforderungen zu definieren, und sich
+    mit dem Verhältnis von Studium und betrieblicher Erfahrung auseinanderzusetzen.'
+  teachingunit:
+    - type: Berufspraktikum
+      swstime: 245
+      attendance: required
+      activity: Durchführung eines außeruniversitären Praktikums, Teilnahme an Besprechungen,
+        Praktikumsbericht
+    - type: Individuelle Vor- und Nach- besprechung 1
+      swstime: 1
+      attendance: required
+      activity: Durchführung eines außeruniversitären Praktikums, Teilnahme an Besprechungen,
+        Praktikumsbericht
+  workload:
+    - type: Präsenzzeit Berufspraktikum
+      time: 245
+    - type: Präsenzzeit Besprechungen
+      time: 15
+    - type: Vor- und Nachbereitung
+      time: 40
+  exam: 'Keine'
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: 6 Wochen
+  repeat: Jeweils nach dem Sommersemester
+  usability: Bachelorstudiengang Mathematik; Studienbereich ABV
