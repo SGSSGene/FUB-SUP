@@ -39,6 +39,14 @@ get_two_column_page() {
     cat $tmp/astext.txt | cut -c 77- | iconv -c
 }
 
+# receives a page that consist out of two columns
+get_one_column_page() {
+    page=$1
+    pdftotext -fixed 16 ${input} $tmp/astext.txt -x 1 -y 240 -W 3200 -H 2900 -r 288 -f ${page} -l ${page}
+    cat $tmp/astext.txt
+}
+
+
 fix_spelling_mistakes() {
     # Mistakes in informatik bachelor 2023
     perl -i -p -e "s|ul: Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen|Modulverantwortliche: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen|g" ${1}
