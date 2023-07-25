@@ -17,7 +17,7 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Praxisseminar        | 9                         | required                           | Bearbeitung der Aufgaben, Präsentation der Ergebnisse |
+| Praxisseminar        | 2                         | required                           | Bearbeitung der Aufgaben, Präsentation der Ergebnisse |
 
 |   | Aufwand in Stunden |
 | - |--------------------|

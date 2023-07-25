@@ -17,8 +17,8 @@
 
 | Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
 | ---------------------|---------------------------|------------------------------------|------------------------- |
-| Ringvorlesung        | 9                         | required                           | Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von Anwendungsproblemen, Projektarbeit |
-| seminaristischer Unterricht | 9                         | required                           | Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von Anwendungsproblemen, Projektarbeit |
+| Ringvorlesung        | 2                         | required                           | Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von Anwendungsproblemen, Projektarbeit |
+| seminaristischer Unterricht | 2                         | required                           | Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von Anwendungsproblemen, Projektarbeit |
 
 |   | Aufwand in Stunden |
 | - |--------------------|
