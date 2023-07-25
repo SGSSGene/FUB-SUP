@@ -1,0 +1,1 @@
+../../data/compsci_msc_2016/zugangssatzung.md
