@@ -6,7 +6,7 @@ theme:
     - search.highlight
     - search.share
 
-repo_url: https://github.com/SGSSGene/FUB-SuP-Ordnung
+repo_url: https://github.com/SGSSGene/FUB-SUP
 extra_css:
   - extra.css
 markdown_extensions:
