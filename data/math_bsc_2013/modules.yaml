@@ -65,7 +65,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -74,6 +74,7 @@
   usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
 
     das Lehramt'
+  differentiated: true
 - page: 7
   name: Analysis II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -119,7 +120,7 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -128,6 +129,7 @@
   usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
 
     das Lehramt, Lehramtsmasterstudiengang (120 LP – FW – 2)'
+  differentiated: true
 - page: 8
   name: Analysis III
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -166,13 +168,14 @@
       time: 50
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 330
   credit_points: 11
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 9
   name: Lineare Algebra I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -226,7 +229,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -235,6 +238,7 @@
   usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
 
     das Lehramt'
+  differentiated: true
 - page: 10
   name: Lineare Algebra II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -284,7 +288,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -293,6 +297,7 @@
   usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
 
     das Lehramt'
+  differentiated: true
 - page: 11
   name: Computerorientierte Mathematik I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -335,7 +340,7 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -344,6 +349,7 @@
   usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
 
     das Lehramt, Bachelorstudiengang Bioinformatik'
+  differentiated: true
 - page: 12
   name: Computerorientierte Mathematik II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -380,7 +386,7 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -389,6 +395,7 @@
   usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
 
     das Lehramt, Bachelorstudiengang Bioinformatik'
+  differentiated: true
 - page: 13
   name: Stochastik I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -456,7 +463,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -465,6 +472,7 @@
   usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
 
     das Lehramt'
+  differentiated: true
 - page: 14
   name: Numerik I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -502,13 +510,14 @@
       time: 55
     - type: Prüfungsvorbereitung und Prüfung
       time: 80
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 360
   credit_points: 12
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 15
   name: Wissenschaftliches Arbeiten in der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -536,13 +545,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten); Modulprüfung wird nicht differenziert bewertet'
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten);
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengang Mathematik
+  differentiated: false
 - page: 16
   name: Algebra und Zahlentheorie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -582,7 +592,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -591,6 +601,7 @@
   usability: 'Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
 
     das Lehramt'
+  differentiated: true
 - page: 17
   name: Höhere Analysis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -638,13 +649,14 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 18
   name: Elementargeometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -698,7 +710,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -707,6 +719,7 @@
   usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
 
     das Lehramt'
+  differentiated: true
 - page: 19
   name: Geometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -757,7 +770,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -766,6 +779,7 @@
   usability: 'Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für
 
     das Lehramt'
+  differentiated: true
 - page: 20
   name: Funktionalanalysis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -807,13 +821,14 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 21
   name: Funktionentheorie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -861,13 +876,14 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 22
   name: Stochastik II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -922,13 +938,14 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 23
   name: Mathematisches Projekt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -952,13 +969,15 @@
       time: 180
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Vortrag (etwa 30 Minuten) mit schriftlicher Ausarbeitung des eigenen Projektbeitrags (etwa 5 Seiten)'
+  exam: Vortrag (etwa 30 Minuten) mit schriftlicher Ausarbeitung des eigenen Projektbeitrags
+    (etwa 5 Seiten)
   language: Deutsch oder Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 24
   name: Datenstrukturen und Datenabstraktion mit Anwendung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
@@ -1019,13 +1038,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (120 Minuten)'
+  exam: Klausur (120 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 25
   name: Aktuelle Themen der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1053,13 +1073,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)'
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten)
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 26
   name: Spezialthemen der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1093,13 +1114,15 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (Bearbeitungszeit: 90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oderschriftliche Ausarbeitung (etwa 10 Seiten)'
+  exam: 'Klausur (Bearbeitungszeit: 90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+    oderschriftliche Ausarbeitung (etwa 10 Seiten)'
   language: Deutsch oder Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Mathematik; Masterstudiengang Mathematik; Lehramtsmasterstudiengang
+  differentiated: true
 - page: 27
   name: Spezialthemen der reinen Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1134,13 +1157,15 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (Bearbeitungszeit: 60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oderschriftliche Ausarbeitung (etwa 8 Seiten)'
+  exam: 'Klausur (Bearbeitungszeit: 60 Minuten) oder mündliche Prüfung (etwa 15 Minuten)
+    oderschriftliche Ausarbeitung (etwa 8 Seiten)'
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Mathematik; Masterstudiengang Mathematik
+  differentiated: true
 - page: 28
   name: Spezialthemen der angewandten Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1174,13 +1199,15 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (Bearbeitungszeit: 60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oderschriftliche Ausarbeitung (etwa 8 Seiten)'
+  exam: 'Klausur (Bearbeitungszeit: 60 Minuten) oder mündliche Prüfung (etwa 15 Minuten)
+    oderschriftliche Ausarbeitung (etwa 8 Seiten)'
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Mathematik; Masterstudiengang Mathematik
+  differentiated: true
 - page: 29
   name: Höhere Algorithmik mit Anwendung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
@@ -1231,13 +1258,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (120 Minuten)'
+  exam: Klausur (120 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik
+  differentiated: true
 - page: 30
   name: Kommunikation über Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1269,7 +1297,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 5 Seiten); die Modulprüfung wird nicht differenziert bewertet.'
+  exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 5 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1277,6 +1305,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
+  differentiated: false
 - page: 31
   name: Computeralgebra
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1310,7 +1339,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  exam: Demonstration einer selbst entwickelten Software zu der vom Dozenten oder
+    der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1318,6 +1348,7 @@
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
+  differentiated: false
 - page: 32
   name: Statistik-Software (CoSta)
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1354,7 +1385,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  exam: Demonstration einer selbst entwickelten Software zu der vom Dozenten oder
+    der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1362,6 +1394,7 @@
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
+  differentiated: false
 - page: 33
   name: Einführung in die Visualisierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1400,7 +1433,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  exam: Demonstration einer selbst entwickelten Software zu der vom Dozenten oder
+    der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1408,6 +1442,7 @@
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
+  differentiated: false
 - page: 34
   name: Panorama der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1458,7 +1493,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten);
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -1466,6 +1501,7 @@
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
+  differentiated: false
 - page: 35
   name: Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1497,7 +1533,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet.'
+  exam: Demonstration einer selbst entwickelten Software zu der vom Dozenten oder
+    der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1505,6 +1542,7 @@
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
+  differentiated: false
 - page: 36
   name: Planung und Durchführung eines Tutoriums
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1537,7 +1575,7 @@
       time: 90
     - type: Vor- und Nachbereitung Tutorenbesprechung und des Beratungsgesprächs
       time: 15
-  exam: 'Keine'
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1545,6 +1583,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengang Mathematik; Bachelorstudiengang Informatik; Studienbereich
     ABV (Kompetenzbereich Fachnahe Zusatzqualifikationen)
+  differentiated: true
 - page: 37
   name: Berufspraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1587,10 +1626,11 @@
       time: 15
     - type: Vor- und Nachbereitung
       time: 40
-  exam: 'Keine'
+  exam: Keine
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: 6 Wochen
   repeat: Jeweils nach dem Sommersemester
   usability: Bachelorstudiengang Mathematik; Studienbereich ABV
+  differentiated: true

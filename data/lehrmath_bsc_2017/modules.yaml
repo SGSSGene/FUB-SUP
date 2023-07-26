@@ -70,6 +70,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 11
   name: Mathematik entdecken II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -130,6 +131,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 12
   name: Mathematisches Panorama
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -176,13 +178,14 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: (ca. 8 Seiten); diese Modulprüfung wird nicht differenziert bewertet.
+  exam: (ca. 8 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: false
 - page: 13
   name: Zahlen, Gleichungen, algebraische Strukturen
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -256,6 +259,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 14
   name: Wahrscheinlichkeit und Statistik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -321,6 +325,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 15
   name: Proseminar Mathematik – Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -346,10 +351,11 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: diese Modulprüfung wird nicht differenziert bewertet.
+  exam: ''
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: angebot Mathematik
+  differentiated: false

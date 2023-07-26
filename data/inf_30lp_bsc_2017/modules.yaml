@@ -62,6 +62,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: 30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 7
   name: Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -119,6 +120,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: 30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 8
   name: Auswirkungen der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -173,6 +175,7 @@
   duration: Ein Semester
   repeat: Blockveranstaltung nach der Vorlesungszeit Jedes Wintersemesters
   usability: 30-LP-Modulangebot Informatik
+  differentiated: true
 - page: 9
   name: Datenbanksysteme für Nebenfach
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -220,6 +223,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: 30-LP-Modulangebot Informatik
+  differentiated: true
 - page: 10
   name: Grundlagen der theoretischen Informatik für Nebenfach
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -268,6 +272,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: 30-LP-Modulangebot Informatik
+  differentiated: true
 - page: 11
   name: Nichtsequentielle Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -326,6 +331,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: 30-LP-Modulangebot Informatik
+  differentiated: true
 - page: 12
   name: Verteilte Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -392,3 +398,4 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: 30-LP-Modulangebot Informatik
+  differentiated: true

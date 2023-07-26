@@ -46,7 +46,9 @@
   credit_points: 9
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt
+  differentiated: true
 - name: Analysis für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -101,6 +103,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Arbeits- und Lebensmethodik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -136,6 +139,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+  differentiated: true
 - name: Auswirkungen der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -177,7 +181,9 @@
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt
+  usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+    Lehramt
+  differentiated: true
 - name: Basisdidaktik Informatik
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
     für Informatik
@@ -218,6 +224,7 @@
   duration: Zwei Semester
   repeat: Jährlich
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Berufsbezogenes Praktikum Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Die oder der Praktikumsbeauftragte
@@ -255,6 +262,7 @@
   duration: 6 bis 8 Wochen Praktikum als Block in der vorlesungsfreien Zeit
   repeat: Jedes Semester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation)'
+  differentiated: true
 - name: Datenbanksysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -316,6 +324,7 @@
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt, Bachelorstudiengang Bioinformatik
+  differentiated: true
 - name: Existenzgründung in der IT-Industrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -335,8 +344,7 @@
     Finanzierung, Rechtsform, Marketing. Im Studium wird ein Businessplan im Rahmen
     eines Businessplan-Wettbewerbs mit externen Gutachtern aus der Gründerbranche
     erarbeitet. In Gastvorträgen von Praktikern werden u. a. Fallbeispiele vorgestellt.
-  exam: Schriftliche Ausarbeitung einer Präsentation (ca. 1 500 Wörter); die Modulprüfung
-    wird nicht differenziert bewertet.
+  exam: Schriftliche Ausarbeitung einer Präsentation (ca. 1 500 Wörter);
   teachingunit:
     - type: Projektseminar
       swstime: 2
@@ -356,6 +364,7 @@
   repeat: Jedes Wintersemester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
     Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+  differentiated: false
 - name: Forschungspraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -395,6 +404,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Funktionale Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -453,6 +463,7 @@
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt
+  differentiated: true
 - name: Gesellschaftliche Aspekte der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -469,8 +480,7 @@
     Aspekte und Auswirkungen ihrer Anwendung (z. B. Mensch-Maschine-Interaktion, Barrierefreiheit,
     Chancengleichheit, Wirkung von informatischen Systemen auf das Geschlechterverhältnis,
     Personalführung, Dokumentation)
-  exam: Schriftliche Ausarbeitung eines Referats (ca. 2 000 Wörter); die Modulprüfung
-    wird nicht differenziert bewertet.
+  exam: Schriftliche Ausarbeitung eines Referats (ca. 2 000 Wörter);
   teachingunit:
     - type: Seminaristische Übung
       swstime: 3
@@ -491,6 +501,7 @@
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
     Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen);
     Masterstudiengang Informatik: Praktische Informatik'
+  differentiated: false
 - name: Grundlagen der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -544,6 +555,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Grundlagen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -591,6 +603,7 @@
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt, Bachelorstudiengang Bioinformatik
+  differentiated: true
 - name: Grundlagen des Managements von IT-Projekten
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -614,8 +627,7 @@
     wie es für einen Projektmitarbeiter in herausgehobener Position im Projektteam
     unerlässlich ist.'
   exam: Klausur (60 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    (60 Minuten) durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten); die
-    Modulprüfung wird nicht differenziert bewertet.
+    (60 Minuten) durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten);
   teachingunit:
     - type: Seminaristischer Unterricht
       swstime: 2 required
@@ -635,6 +647,7 @@
   repeat: Jedes Wintersemester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
     Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+  differentiated: false
 - name: Lineare Algebra für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -684,6 +697,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Logik und Diskrete Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -704,8 +718,7 @@
     Rekursion, Schubfachprinzip, diskrete Wahrscheinlichkeitsverteilungen – Graphentheorie:
     Graphen und ihre Darstellungen, Wege und Kreise in Graphen, Bäume'
   exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden; die Modulprüfung wird nicht
-    differenziert bewertet.
+    Prüfungsleistung (120 Minuten) durchgeführt werden;
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -734,6 +747,7 @@
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt
+  differentiated: false
 - name: Nichtsequentielle und verteilte Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -796,6 +810,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -849,6 +864,7 @@
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt
+  differentiated: true
 - name: Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -910,6 +926,7 @@
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt
+  differentiated: true
 - name: Planung, Durchführung und Analyse eines Tutoriums in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -953,6 +970,7 @@
   repeat: Jedes Semester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
     Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+  differentiated: true
 - name: Rechnerarchitektur, Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -1023,6 +1041,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Rechtliche Aspekte der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -1062,6 +1081,7 @@
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
     Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen);
     Masterstudiengang Informatik: Praktische Informatik'
+  differentiated: true
 - name: Softwareprojekt A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -1107,6 +1127,7 @@
   repeat: Jedes Semester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
     Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+  differentiated: true
 - name: Softwareprojekt B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -1132,8 +1153,7 @@
     kennen gelernt wurden, anhand der im Unternehmenseinsatz typischen Werkzeuge und
     Hilfsmittel durchgeführt werden. Es werden exemplarisch unternehmenstypische Softwarekomponenten
     und Werkzeuge zur Durchführung aller auftretenden Aufgaben vorgestellt und erprobt.
-  exam: Präsentation der Ergebnisse und der Projekterfahrung (15 Minuten); die Modulprüfung
-    wird differenziert bewertet.
+  exam: Präsentation der Ergebnisse und der Projekterfahrung (15 Minuten);
   teachingunit:
     - type: Projektseminar
       swstime: 2
@@ -1155,6 +1175,7 @@
   repeat: Jedes Semester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen),
     Bachelorstudiengang Mathematik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+  differentiated: true
 - name: Softwaretechnik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -1211,6 +1232,7 @@
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt
+  differentiated: true
 - name: Systemverwaltung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -1234,8 +1256,7 @@
     – Strategien und Technologien – Realisierungen unter unterschiedlichen Plattformen
     (Unix/Linux, Windows)'
   exam: Praktische Prüfung – Vorbereitung und Durchführung einer typischen Aufgabe
-    mit abschließender Besprechung der Aufgabe (ca. 45 Minuten); die Modulprüfung
-    wird nicht differenziert bewertet.
+    mit abschließender Besprechung der Aufgabe (ca. 45 Minuten);
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1264,6 +1285,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: 'Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikationen)'
+  differentiated: false
 - name: Wissenschaftliches Arbeiten in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
@@ -1315,6 +1337,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Wissenschaftliches Arbeiten Praktische Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentinnen und Dozenten des Moduls
@@ -1354,6 +1377,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Wissenschaftliches Arbeiten Technische Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentinnen und Dozenten des Moduls
@@ -1392,6 +1416,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengang Informatik
+  differentiated: true
 - name: Wissenschaftliches Arbeiten Theoretische Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentinnen und Dozenten des Moduls
@@ -1430,3 +1455,4 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengang Informatik
+  differentiated: true

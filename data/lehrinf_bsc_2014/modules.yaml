@@ -58,6 +58,7 @@
   usability: 'Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
 
     Informatik'
+  differentiated: true
 - page: 11
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -117,6 +118,7 @@
 
     Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
     verwiesen.'
+  differentiated: true
 - page: 12
   name: Nichtsequentielle und verteilte Programmierung für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -212,6 +214,7 @@
   usability: 'Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
 
     Informatik'
+  differentiated: true
 - page: 14
   name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -267,3 +270,4 @@
     Fachbereichs Mathematik und Informatik der Freien Universität
 
     Berlin verwiesen.'
+  differentiated: true

@@ -44,6 +44,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 12
   name: Statistics for Data Science
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -88,13 +89,13 @@
       time: 100
   exam: Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens
     und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann.
-    Diese Modulprüfung wird nicht differenziert bewertet.
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Data Science
+  differentiated: false
 - page: 13
   name: Machine Learning for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -146,6 +147,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 14
   name: Programming for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -173,6 +175,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 15
   name: Data Science in the Social Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -225,6 +228,7 @@
   duration: Zwei Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 16
   name: Ethical Foundations of Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -260,6 +264,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 17
   name: Forschungspraxis
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -289,6 +294,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 18
   name: Neurocognitive Methods and Programming for Data Science
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -341,6 +347,7 @@
   duration: Zwei Semester
   repeat: Einmal im Studienjahr
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 19
   name: Cognitive Neuroscience for Data Science A
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -391,6 +398,7 @@
   duration: Zwei Semester
   repeat: Einmal im Studienjahr
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 20
   name: Cognitive Neuroscience for Data Science B
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -439,6 +447,7 @@
   duration: Zwei Semester
   repeat: Einmal im Studienjahr
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 21
   name: Differentialpsychologische Ansätze in den Data Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/Wissenschaftsbereich
@@ -490,6 +499,7 @@
   duration: Ein Semester
   repeat: Einmal im Studienjahr
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 22
   name: Natural Language Processing
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -542,6 +552,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 23
   name: Einführung in die Psychoinformatik
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -578,6 +589,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 24
   name: Mobile Mental Health
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -614,6 +626,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 25
   name: Entwicklung von psychologischen Online-Interventionen
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -658,6 +671,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 26
   name: Ausgewählte Themen der Data Science in the Social Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -688,6 +702,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 27
   name: Spezielle Aspekte der Data Science in the Social Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -718,6 +733,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 28
   name: Data Science in the Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -770,6 +786,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 29
   name: Spezielle Aspekte der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -816,6 +833,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 30
   name: Ausgewählte Themen der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -862,6 +880,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Data Scienc
+  differentiated: true
 - page: 31
   name: Softwareprojekt Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -909,6 +928,7 @@
 
     der vorlesungsfreien Zeit als Blockveranstaltung'
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 32
   name: Spezielle Aspekte der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -957,6 +977,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 33
   name: Aktuelle Forschungsthemen der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -1004,6 +1025,7 @@
   duration: Ein Semester
   repeat: Wechselnd, in der Regel mindestens jedes zweite Semester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 34
   name: Ausgewählte Themen der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -1052,6 +1074,7 @@
   duration: Ein Semester
   repeat: Wechselnd, in der Regel mindestens jedes zweite Semester
   usability: Masterstudiengang Data Science
+  differentiated: true
 - page: 35
   name: Datenbanksysteme Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1110,3 +1133,4 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Data Science
+  differentiated: true

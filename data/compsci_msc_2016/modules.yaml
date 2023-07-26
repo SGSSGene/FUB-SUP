@@ -66,6 +66,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 12
   name: Einführung in die Molekülspektroskopie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
@@ -106,13 +107,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (120 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 13
   name: Einführung in die Theoretische Chemie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
@@ -161,6 +163,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Computational Science
+  differentiated: true
 - page: 14
   name: Quantenmechanische Beschreibung von Atomen und chemischer Bindung
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
@@ -208,13 +211,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (180 Minuten), die auch in Form einer elektronischen Prüfungsten)
-    oder Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    oder Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 15
   name: Grundlagen der Fernerkundung und digitalen Bildverarbeitung
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -269,13 +273,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr, jedes Wintersemester
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 16
   name: Grundlagen der Hydro- und Klimageographie
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -316,13 +321,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Zwei Semester
   repeat: Mindestens einmal im Studienjahr, jedes Wintersemester
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 17
   name: Grundlagen von geographischen Informationssystemen
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -385,13 +391,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prü- (ca. 30 Minuten)
-    oder Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    oder Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr, jedes Sommersemester
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 18
   name: Synchronisierung Erde
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -451,13 +458,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Zwei Semester
   repeat: Sommersemester)
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 19
   name: Complex Algorithms A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -542,13 +550,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 21
   name: Computer Science and Data Structures A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -617,13 +626,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 22
   name: Computer Science and Functional Programming A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -688,13 +698,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 23
   name: Computer Science and Object-Oriented Programming A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -759,13 +770,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 24
   name: Introduction to Numerical Mathematics A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -818,13 +830,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 25
   name: Numerics of ODEs and numerical linear algebra A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -887,13 +900,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch oder Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 26
   name: Numerics of partial differential equations A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -953,13 +967,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch oder Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 27
   name: Synchronisierung Mathematik
   organizer: Freie Universität Berlin/Physik sowie Mathematik und Informatik
@@ -1018,13 +1033,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 28
   name: Dynamik der Atmosphäre
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -1064,13 +1080,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 29
   name: Einführung in die Dynamik der Atmosphäre
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -1104,6 +1121,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 30
   name: Grundlagen der Synoptischen Meteorologie
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -1149,6 +1167,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 31
   name: Computational Statistical Physics I A
   organizer: Freie Universität Berlin/Physik
@@ -1203,13 +1222,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 32
   name: Computational Statistical Physics II A
   organizer: Freie Universität Berlin/Physik
@@ -1267,13 +1287,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
   exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
-    Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet.
+    Hausarbeit (ca. 15 Seiten);
   language: Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: false
 - page: 33
   name: Einführung in die Quantenmechanik
   organizer: Freie Universität Berlin/Physik
@@ -1324,6 +1345,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 34
   name: Complex Algorithms B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1416,6 +1438,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 36
   name: Computer Science and Data Structures B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1491,6 +1514,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 37
   name: Computer Science and Functional Programming B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1563,6 +1587,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 38
   name: Computer Science and Object-oriented Programming B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1635,6 +1660,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 39
   name: Introduction to Numerical Mathematics B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1695,6 +1721,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 40
   name: Numerics of ODEs and numerical linear algebra B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1765,6 +1792,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 41
   name: Numerics of partial differential equations B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1832,6 +1860,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 42
   name: Computational Statistical Physics I B
   organizer: Freie Universität Berlin/Physik
@@ -1894,6 +1923,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 43
   name: Computational Statistical Physics II B
   organizer: Freie Universität Berlin/Physik
@@ -1959,6 +1989,7 @@
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 44
   name: Molecular simulation I
   organizer: Freie Universität Berlin/Mathematik und Informatik sowie Physik
@@ -2013,6 +2044,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 45
   name: Forschungsprojekt A
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2046,6 +2078,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Scientific Computing
+  differentiated: true
 - page: 46
   name: Forschungsprojekt E
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2079,6 +2112,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Scientific Computing
+  differentiated: true
 - page: 47
   name: Forschungsseminar computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2114,6 +2148,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Scientific Computing
+  differentiated: true
 - page: 48
   name: Markov modeling
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2172,6 +2207,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Computational Sciences
+  differentiated: true
 - page: 49
   name: Molecular simulation II
   organizer: Freie Universität Berlin/Mathematik und Informatik sowie Physik
@@ -2236,6 +2272,7 @@
     Studien- und Prüfungsordnung für den Masterstudiengang Chemie des Fachbereichs
     Biologie, Chemie und Pharmazie der Freien Universität Berlin verwiesen. Verwendbarkeit:
     Masterstudiengang Computational Sciences'
+  differentiated: true
 - page: 50
   name: Selected topics in theoretical computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2280,6 +2317,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Scientific Computing
+  differentiated: true
 - page: 51
   name: Selected topics in applied computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2326,6 +2364,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Scientific Computing
+  differentiated: true
 - page: 52
   name: Forschungsprojekt C
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2384,6 +2423,7 @@
     des Fachbereichs Geowissenschaften der Freien
 
     Universität Berlin verwiesen. Verwendbarkeit: Masterstudiengang Scientific Computing'
+  differentiated: true
 - page: 53
   name: Forschungsprojekt B
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2417,6 +2457,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Masterstudiengang Scientific Computing
+  differentiated: true
 - page: 54
   name: Forschungsprojekt D
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2471,3 +2512,4 @@
     II“ (8 LP) wird auf die Studienund Prüfungsordnung für den Masterstudiengang Meteorologie
     des Fachbereichs Geowissenschaften der Freien Universität Berlin verwiesen. Verwendbarkeit:
     Masterstudiengang Scientific Computing'
+  differentiated: true

@@ -58,6 +58,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 12
   name: Foundations in Mathematics and Statistics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -119,6 +120,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 13
   name: Foundations in Bio-Medicine
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -187,6 +189,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 14
   name: Introduction to Focus Areas
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -230,14 +233,14 @@
       time: 270
   exam: Ausarbeitung und Vorstellung der Ergebnisse der Projektarbeit entweder in
     einer schriftlichen Ausarbeitung (ca. 5 Seiten Bericht) oder als wissenschaftliches
-    Poster zusammen mit mündlicher Präsentation (ca. 5 Minuten). – Die Modulprüfung
-    wird nicht differenziert bewertet –
+    Poster zusammen mit mündlicher Präsentation (ca. 5 Minuten). – –
   language: Englisch
   total_work: 360
   credit_points: 12
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: false
 - page: 15
   name: Complex Systems in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -314,6 +317,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 16
   name: Complex Systems in Biomedical Applications
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -372,6 +376,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 17
   name: Ethics and Policy Questions
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik und
@@ -422,6 +427,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 18
   name: Research Internship
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -451,40 +457,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 19
-#  name: Current research topics in Complex Systems
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
-#    Informatik, Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
-#    Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Vorgehensweisen in verschiedenen Themenbereichen
-#    der Bioinformatik im Bereich der komplexen Systeme und können die wesentlichen
-#    Algorithmen anwenden und die erzielten Ergebnisse analysieren und interpretieren.
-#  content: In diesem Seminar werden anhand von aktuellen Veröffentlichung aus hochrangigen
-#    Fachjournalen oder Fachkonferenzen neuste Forschungsarbeiten der Bioinformatik
-#    im Bereich der komplexen Systeme vorgestellt.
-#  teachingunit:
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: Recherche, Präsentation und Diskussion
-#  workload:
-#    - type: Präsenzzeit
-#      time: 30
-#    - type: Vor- und Nachbereitung
-#      time: 70
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Präsentation mit Diskussion (ca. 30 bis 45 Minuten) oder schriftliche Ausarbeitung
-#    (ca. 10 Seiten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 20
   name: Advanced Network Analysis
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -541,164 +514,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# reworded in Änderungsordnung 2021 (see at the end of this document)
-#- page: 21
-#  name: Human Evolution
-#  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
-#    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
-#    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
-#  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
-#    liegen die Schwerpunkte in den folgenden Bereichen:
-#
-#    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
-#    Phänotyps, kognitiver Fähigkeiten
-#
-#    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
-#    evolutionäre Medizin'
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 1
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Diskussion und Präsentation
-#
-#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Diskussion und Präsentation
-#
-#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-#    - type: Praxisseminar
-#      swstime: 2
-#      attendance: required
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Diskussion und Präsentation
-#
-#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 15
-#    - type: Vor- und Nachbereitung V
-#      time: 15
-#    - type: Präsenzzeit S
-#      time: 30
-#    - type: Vor- und Nachbereitung S
-#      time: 30
-#    - type: Präsenzzeit PS
-#      time: 30
-#    - type: Vor- und Nachbereitung PS
-#      time: 10
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 20
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 22
-#  name: Special aspects of Complex Systems
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
-#    Gebietes der Complex Systems anwenden.
-#  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Complex Systems,
-#    beispielsweise in Programmiermethoden für große Datenmengen aus dem Bereich der
-#    Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 30
-#    - type: Vor- und Nachbereitung V
-#      time: 30
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 30
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 30
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 23
-#  name: Selected topics in Complex Systems
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
-#    Anwendungsgebiet der Complex Systems. Sie können Erlerntes sicher anwenden.
-#  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der analyse Multi-Modaler,
-#    verteilter Daten, der Modellierung, Simulation, Optimierung von Zell-Systemen
-#    oder des Maschinellen Lernens.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 4
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 60
-#    - type: Vor- und Nachbereitung V
-#      time: 80
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 80
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 300
-#  credit_points: 10
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 24
   name: Computer-Aided Drug Design
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -750,6 +566,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 25
   name: Current topics in cell-physiology
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -799,6 +616,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 26
   name: Computational Systems Biology
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -836,6 +654,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 27
   name: Medical Bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -909,40 +728,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 28
-#  name: Current research topics in Data Science in Life Sciences
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
-#    Informatik und Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
-#    Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Vorgehensweisen in verschiedenen Themenbereichen
-#    der Bioinformatik im Bereich Data Science und können die wesentlichen Algorithmen
-#    anwenden und die erzielten Ergebnisse analysieren und interpretieren.
-#  content: In diesem Seminar werden anhand von aktuellen Veröffentlichung aus hochrangigen
-#    Fachjournalen oder Fachkonferenzen neuste Forschungsarbeiten der Bioinformatik
-#    im Bereich Data Science vorgestellt.
-#  teachingunit:
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: Recherche, Präsentation und Diskussion
-#  workload:
-#    - type: Präsenzzeit
-#      time: 30
-#    - type: Vor- und Nachbereitung
-#      time: 70
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Präsentation mit Diskussion (ca. 30 bis 45 Minuten) oder schriftliche Ausarbeitung
-#    (ca. 10 Seiten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 29
   name: Machine Learning in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik und
@@ -1008,6 +794,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 30
   name: Big Data Analysis in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -1065,6 +852,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 31
   name: Complex Data Analysis in Physiology
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1121,6 +909,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 32
   name: Methodology for clinical trials
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1170,6 +959,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 33
   name: Advanced Biometrical Methods
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1223,97 +1013,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 34
-#  name: Special aspects of Data Science in the Life Sciences
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
-#    Gebietes der Data Science in den Lebenswissenschaften anwenden.
-#  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Data Science
-#    in den Lebenswissenschaften, beispielsweise in aktuellen Verfahren zur Datenanalyse
-#    im Bereich der Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche
-#    berührt.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 30
-#    - type: Vor- und Nachbereitung V
-#      time: 30
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 30
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 30
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 35
-#  name: Selected topics in Data Science in the Life Sciences
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
-#    Anwendungsgebiet der Data Science in den Lebenswissenschaften. Sie können Erlerntes
-#    sicher anwenden.
-#  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Methoden zur Analyse
-#    von Daten aus den Lebenswissenschaften.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 4
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 60
-#    - type: Vor- und Nachbereitung V
-#      time: 80
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 80
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 300
-#  credit_points: 10
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 36
   name: Current topics in medical genomics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1354,6 +1054,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 37
   name: Applied Machine Learning in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -1392,6 +1093,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 38
   name: Advanced Algorithms for Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
@@ -1466,6 +1168,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 39
   name: Methods in Life Sciences
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
@@ -1514,6 +1217,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 40
   name: Biodiversity and Evolution
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
@@ -1585,6 +1289,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 41
   name: Structural Bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1654,130 +1359,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 42
-#  name: Current research topics in Advanced Algorithms
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
-#    Informatik, Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
-#    Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Vorgehensweisen in verschiedenen Themenbereichen
-#    der Bioinformatik im Bereich der weiterführenden Algorithmen und können die wesentlichen
-#    Algorithmen anwenden und die erzielten Ergebnisse analysieren und interpretieren.
-#  content: In diesem Seminar werden anhand von aktuellen Veröffentlichung aus hochrangigen
-#    Fachjournalen oder Fachkonferenzen neuste Forschungsarbeiten der Bioinformatik
-#    im Bereich der weiterführenden Algorithmen vorgestellt.
-#  teachingunit:
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: Recherche, Präsentation und Diskussion
-#  workload:
-#    - type: Präsenzzeit
-#      time: 30
-#    - type: Vor- und Nachbereitung
-#      time: 70
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Präsentation mit Diskussion (ca. 30 bis 45 Minuten) oder schriftliche Ausarbeitung
-#    (ca. 10 Seiten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 43
-#  name: Selected topics in Advanced Algorithms
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
-#    Anwendungsgebiet der Advanced Algorithms. Sie können Erlerntes sicher anwenden.
-#  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der Analyse Multi-Modaler,
-#    verteilter Daten, der Modellierung, Simulation, Optimierung von Omics-Experimenten
-#    oder des Maschinellen Lernens.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 4
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 60
-#    - type: Vor- und Nachbereitung V
-#      time: 80
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 80
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 300
-#  credit_points: 10
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 44
-#  name: Special aspects of Advanced Algorithms
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
-#    Gebietes der Advanced Algorithms anwenden.
-#  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Advanced Algorithms,
-#    beispielsweise in Programmiermethoden für große Datenmengen aus dem Bereich der
-#    Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 30
-#    - type: Vor- und Nachbereitung V
-#      time: 30
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 30
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 30
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 45
   name: Applied Sequence Analysis
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
@@ -1814,6 +1396,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 46
   name: Environmental metagenomics
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
@@ -1852,6 +1435,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 47
   name: Current topics in structural bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1890,7 +1474,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 5
   name: Current research topics in Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1927,7 +1511,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 6
   name: Current research topics in Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1964,7 +1548,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 7
   name: Current research topics in Bioinformatics C
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2001,7 +1585,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 8
   name: Special aspects of Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2049,7 +1633,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 9
   name: Special aspects of Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2098,7 +1682,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 10
   name: Special aspects of Bioinformatics C
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2147,7 +1731,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 11
   name: Selected topics in Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2214,7 +1798,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 12
   name: Selected topics in Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2281,7 +1865,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  differentiated: true
 - page: 13
   name: Methods in Life Sciences
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
@@ -2331,6 +1915,7 @@
   duration: Ein Semester, nach Absprache als Blockveranstaltung möglich
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Bioinformatik
+  differentiated: true
 - page: 14
   name: Human Evolution
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
@@ -2351,16 +1936,17 @@
     - type: Vorlesung
       swstime: 1
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur'
+      activity: Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
+        von ergänzender Literatur
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag und Diskussion'
+      activity: Vortrag und Diskussion
     - type: Seminar am PC
       swstime: 2
       attendance: required
-      activity: 'Entwicklung eines eigenen Modells, Programmierung, Auswertung, Lösung von Übungsaufgaben, kritische Diskussion von Ergebnissen'
+      activity: Entwicklung eines eigenen Modells, Programmierung, Auswertung, Lösung
+        von Übungsaufgaben, kritische Diskussion von Ergebnissen
   workload:
     - type: Präsenzzeit V
       time: 15
@@ -2384,3 +1970,4 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Bioinformatik
+  differentiated: true

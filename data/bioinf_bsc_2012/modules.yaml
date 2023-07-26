@@ -33,13 +33,14 @@
       time: 50
     - type: Prüfungsvorbereitung und Prüfung
       time: 40
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 7
   name: Algorithmen und Datenstrukturen – Praktikum
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -66,13 +67,14 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 40
-  exam: 'Mündliche Prüfung (ca. 20 Minuten); Die Prüfungsleistung wird nicht differenziert bewertet'
+  exam: Mündliche Prüfung (ca. 20 Minuten);
   language: Deutsch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: false
 - page: 8
   name: Algorithmische Bioinformatik
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -142,13 +144,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 80
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 420
   credit_points: 14
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 9
   name: Mathematik für Bioinformatiker I
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -201,13 +204,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 10
   name: Mathematik für Bioinformatiker II
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -260,7 +264,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
@@ -271,6 +275,7 @@
     des Fachbereichs Mathematik und Informatik der Freien Universität
 
     Berlin verwiesen. Verwendbarkeit: Bachelorstudiengang Bioinformatik'
+  differentiated: true
 - page: 11
   name: Statistik für Biowissenschaften I
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
@@ -322,13 +327,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 12
   name: Statistik für Biowissenschaften II
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
@@ -372,13 +378,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 13
   name: Allgemeine Chemie
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -431,13 +438,15 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: 'Praktische Prüfung (Darstellung theoretischer Hintergründe, Versuchsergebnis, Protokollbuch und schriftliche Ausarbeitung)'
+  exam: Praktische Prüfung (Darstellung theoretischer Hintergründe, Versuchsergebnis,
+    Protokollbuch und schriftliche Ausarbeitung)
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 14
   name: Allgemeine Biologie
   organizer: Freie Universität Berlin/Fachbereich BCP/Institut für Biologie
@@ -478,6 +487,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 15
   name: Molekularbiologie und Biochemie I
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -524,13 +534,14 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 16
   name: Molekularbiologie und Biochemie II
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -596,13 +607,14 @@
       time: 40
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 17
   name: Molekularbiologie und Biochemie III
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -652,13 +664,14 @@
       time: 40
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 18
   name: Genetik und Genomforschung
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -715,13 +728,14 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 19
   name: Medizinische Physiologie
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin/
@@ -757,7 +771,7 @@
         Praktische Übungen, Protokolle'
     - type: Seminar
       swstime: 2
-      attendance: no
+      attendance: 'no'
       activity: 'Diskussionsbeiträge, Referat
 
         Praktische Übungen, Protokolle'
@@ -782,13 +796,14 @@
       time: 50
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 20
   name: Neurobiologie
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -830,13 +845,14 @@
       time: 40
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: true
 - page: 21
   name: Projektmanagement im Softwarebereich
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -883,10 +899,11 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: 'Referat mit Diskussion (ca. 40 Minuten); die Modulprüfung wird nicht differenziert bewertet'
+  exam: Referat mit Diskussion (ca. 40 Minuten);
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester (als Blockveranstaltung zu Beginn des Semesters)
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Bioinformatik
+  differentiated: false

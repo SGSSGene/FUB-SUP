@@ -38,13 +38,14 @@
       time: 120
     - type: Bearbeitung der Aufgaben- blätter
       time: 150
-  exam: 'Keine'
+  exam: Keine
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 7
   name: Elektrodynamik und Optik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -78,13 +79,14 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 8
   name: Grundlagen der Mess- und Labortechnik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -122,13 +124,15 @@
       time: 220
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Präsentation (etwa 15 Minuten) oder Klausur (60 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  exam: Präsentation (etwa 15 Minuten) oder Klausur (60 Minuten) oder mündliche Prüfung
+    (etwa 20 Minuten) oder Hausarbeit (etwa 15 Seiten)
   language: Deutsch
   total_work: 330
   credit_points: 11
   duration: Zwei Semester
   repeat: Einmal pro Semester (alle Modulbestandteile)
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 9
   name: Struktur der Materie
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -159,25 +163,25 @@
   teachingunit:
     - type: Vorlesung 1
       swstime: 4
-      attendance: 'recommended'
+      attendance: recommended
       activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
 
         Praktische Versuchsdurchführung und schriftliche Auswertung'
     - type: Übung 1
       swstime: 2
-      attendance: 'recommended'
+      attendance: recommended
       activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
 
         Praktische Versuchsdurchführung und schriftliche Auswertung'
     - type: Vorlesung 2
       swstime: 4
-      attendance: 'recommended'
+      attendance: recommended
       activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
 
         Praktische Versuchsdurchführung und schriftliche Auswertung'
     - type: Übung 2
       swstime: 2
-      attendance: 'recommended'
+      attendance: recommended
       activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben;
 
         Praktische Versuchsdurchführung und schriftliche Auswertung'
@@ -198,13 +202,14 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: 'Mündliche Prüfung (etwa 45 Minuten)'
+  exam: Mündliche Prüfung (etwa 45 Minuten)
   language: Deutsch
   total_work: 660
   credit_points: 22
   duration: Zwei Semester
   repeat: Mindestens einmal pro Studienjahr (alle Modulbestandteile)
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 10
   name: Analytische Mechanik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -238,13 +243,14 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 11
   name: Quantenmechanik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -288,13 +294,14 @@
       time: 130
     - type: Prüfungsvorbereitung und Prüfung
       time: 25
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 360
   credit_points: 12
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 12
   name: Theoretische Elektrodynamik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -329,13 +336,14 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 13
   name: Lineare Algebra
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -369,13 +377,14 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Bachelorstudiengang Physik, Bachelorstudiengang Meteorologie
+  differentiated: true
 - page: 14
   name: Analysis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -418,7 +427,7 @@
       time: 160
     - type: Prüfungsvorbereitung und Prüfung
       time: 40
-  exam: 'Klausur (90 Minuten)'
+  exam: Klausur (90 Minuten)
   language: Deutsch
   total_work: 480
   credit_points: 16
@@ -427,6 +436,7 @@
 
     Wintersemester)'
   usability: Bachelorstudiengang Physik, Bachelorstudiengang Meteorologie
+  differentiated: true
 - page: 15
   name: Biophysik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -460,13 +470,15 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit
+    (etwa 15 Seiten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Einmal im Studienjahr
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 16
   name: Astronomie und Astrophysik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -501,13 +513,15 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit
+    (etwa 15 Seiten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Einmal im Studienjahr
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 17
   name: Kern- und Elementarteilchenphysik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -541,13 +555,15 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit
+    (etwa 15 Seiten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Einmal im Studienjahr
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 18
   name: Computerphysik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -582,13 +598,15 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: 'Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)'
+  exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 30 Minuten) oder Hausarbeit
+    (etwa 15 Seiten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Einmal im Studienjahr
   usability: Bachelorstudiengang Physik
+  differentiated: true
 - page: 19
   name: Projektpraktikum
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -621,7 +639,7 @@
       time: 45
     - type: Vor- und Nachbereitung der Versuche
       time: 105
-  exam: 'Keine'
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -629,6 +647,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Kompetenzbereich Fachnahe Zusatzqualifikationen)
+  differentiated: true
 - page: 20
   name: Präsentationstechniken
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -656,7 +675,7 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 75
-  exam: 'Vortrag (etwa 30 Minuten)'
+  exam: Vortrag (etwa 30 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -664,6 +683,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Kompetenzbereich Fachnahe Zusatzqualifikationen)
+  differentiated: true
 - page: 21
   name: Berufspraktikum Physik – A
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -704,7 +724,7 @@
       time: 126
     - type: Vor- und Nachbereitung
       time: 24
-  exam: 'Keine'
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -712,6 +732,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
+  differentiated: true
 - page: 22
   name: Berufspraktikum Physik – B
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -752,7 +773,7 @@
       time: 246
     - type: Vor- und Nachbereitung
       time: 54
-  exam: 'Keine'
+  exam: Keine
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -760,6 +781,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
+  differentiated: true
 - page: 23
   name: Berufspraktikum Physik – C
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -800,7 +822,7 @@
       time: 366
     - type: Vor- und Nachbereitung
       time: 84
-  exam: 'Keine'
+  exam: Keine
   language: Deutsch
   total_work: 450
   credit_points: 15
@@ -808,3 +830,4 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
+  differentiated: true

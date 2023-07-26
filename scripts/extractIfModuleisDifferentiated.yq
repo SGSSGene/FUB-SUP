@@ -1,0 +1,18 @@
+#!/usr/bin/env -S yq -y -i -f
+[
+    .[]
+    | (if (.exam | test(" – Modulprüfung wird nicht differenziert bewertet –$"))
+        or (.exam | test(" – [Dd]ie Modulprüfung wird nicht differenziert bewertet –$"))
+        or (.exam | test(" [Dd]ie Prüfungsleistung wird nicht differenziert bewertet\\.?$"))
+        or (.exam | test(" ?[Dd]ie Modulprüfung wird nicht differenziert bewertet\\.?$"))
+        or (.exam | test(" ?[Dd]iese Modulprüfung wird nicht differenziert bewertet\\.?$"))
+        or (.exam | test(" ?Modulprüfung wird nicht differenziert bewertet\\.?$"))
+        then false else true end) as $differenziert
+    | .exam |= gsub(" – Modulprüfung wird nicht differenziert bewertet –"; "")
+    | .exam |= gsub(" [Dd]ie Prüfungsleistung wird nicht differenziert bewertet.?"; "")
+    | .exam |= gsub(" ?[Dd]ie Modulprüfung wird nicht differenziert bewertet\\.?"; "")
+    | .exam |= gsub(" ?[Dd]iese Modulprüfung wird nicht differenziert bewertet\\.?"; "")
+    | .exam |= gsub(" ?Modulprüfung wird nicht differenziert bewertet\\.?"; "")
+    | .exam |= gsub(" die Modulprüfung wird differenziert bewertet."; "")
+    | .differentiated = $differenziert
+]

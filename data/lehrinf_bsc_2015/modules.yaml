@@ -58,6 +58,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Bachelorstudiengang Informatik für das Lehramt
+  differentiated: true
 - page: 12
   name: Logik und Diskrete Mathematik für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -116,6 +117,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: 60-LP-Modulangebot Informatik
+  differentiated: true
 - page: 13
   name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -160,6 +162,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: 60-LP-Modulangebot Informatik
+  differentiated: true
 - page: 14
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -213,3 +216,4 @@
 
     Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
     verwiesen. Verwendbarkeit:  60-LP-Modulangebot Informatik'
+  differentiated: true

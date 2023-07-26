@@ -49,7 +49,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Arabisch und Deutsch
   total_work: 300
   credit_points: 10
@@ -58,6 +58,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 10
   name: Arabisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -103,7 +104,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Arabisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -112,6 +113,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 11
   name: Arabisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -158,7 +160,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Arabisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -167,6 +169,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 12
   name: Arabisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -217,8 +220,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Präsentation (ca. 10 Minuten) oder mündliche Prüfung (ca. 10 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: Präsentation (ca. 10 Minuten) oder mündliche Prüfung (ca. 10 Minuten)
   language: Arabisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -227,6 +229,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 13
   name: Arabisch ABV Grundmodul 5
   organizer: Freie Universität Berlin/ZE Sprachenzentrum
@@ -279,7 +282,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 15 Minuten) oder mündliche Prüfung
-    (ca. 15 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 15 Minuten)
   language: Arabisch
   total_work: 150
   credit_points: 5
@@ -288,6 +291,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 14
   name: Deutsch als Fremdsprache Aufbaumodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -346,14 +350,14 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche und mündliche Prüfung zur Erlangung von DSH 2* – Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: Schriftliche und mündliche Prüfung zur Erlangung von DSH 2*
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen)
+  differentiated: false
 - page: 15
   name: Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen
     (Berufs-)Kontext
@@ -402,8 +406,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 10 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 10 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -412,6 +415,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 16
   name: Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule
     und Beruf
@@ -466,7 +470,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Schriftliche Ausarbeitung (ca. 8 Seiten) mit mündlicher Präsentation (ca.
-    15 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    15 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -475,6 +479,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 17
   name: Deutsch als Fremdsprache Vertiefungsmodul C – Mit Texten arbeiten – an Texten
     arbeiten
@@ -528,8 +533,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 10 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 10 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -538,6 +542,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 18
   name: Upper intermediate English 1 for academic professions
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -588,8 +593,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Schriftliche Ausarbeitung (ca. 1 500 Wörter) sowie mündliche Präsentation
-    mit anschließender Beantwortung von Fragen (ca. 15 Minuten) – Modulprüfung wird
-    nicht differenziert bewertet –
+    mit anschließender Beantwortung von Fragen (ca. 15 Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
@@ -598,6 +602,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 19
   name: Upper intermediate English 2 for academic professions
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -643,8 +648,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Schriftliche Ausarbeitung (ca. 1 500 Wörter) sowie mündliche Präsentation
-    mit anschließender Beantwortung von Fragen (ca. 15 Minuten) – Modulprüfung wird
-    nicht differenziert bewertet –
+    mit anschließender Beantwortung von Fragen (ca. 15 Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
@@ -653,6 +657,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 20
   name: Advanced English 1a for academic professions
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -700,8 +705,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Schriftliche Ausarbeitung (ca. 2 000 Wörter) sowie mündliche Präsentation
-    mit anschließender Beantwortung von Fragen (ca. 15 Minuten) – Modulprüfung wird
-    nicht differenziert bewertet –
+    mit anschließender Beantwortung von Fragen (ca. 15 Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
@@ -710,6 +714,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 21
   name: Advanced English 1b for academic professions
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -758,8 +763,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Schriftliche Ausarbeitung (ca. 2 000 Wörter) sowie mündliche Präsentation
-    mit anschließender Beantwortung von Fragen (ca. 15 Minuten) – Modulprüfung wird
-    nicht differenziert bewertet –
+    mit anschließender Beantwortung von Fragen (ca. 15 Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
@@ -768,6 +772,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 22
   name: Advanced English 2 for academic professions
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -813,8 +818,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Schriftliche Ausarbeitung (ca. 2 000 Wörter) sowie mündliche Präsentation
-    mit anschließender Beantwortung von Fragen (ca. 20 Minuten) – Modulprüfung wird
-    nicht differenziert bewertet –
+    mit anschließender Beantwortung von Fragen (ca. 20 Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
@@ -823,6 +827,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 23
   name: Französisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -877,7 +882,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Französisch
   total_work: 300
   credit_points: 10
@@ -886,6 +891,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 24
   name: Französisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -935,7 +941,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Französisch
   total_work: 150
   credit_points: 5
@@ -944,6 +950,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 25
   name: Französisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -996,7 +1003,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Französisch
   total_work: 150
   credit_points: 5
@@ -1005,6 +1012,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 26
   name: Französisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1054,7 +1062,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung
-    (ca.10 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca.10 Minuten)
   language: Französisch
   total_work: 150
   credit_points: 5
@@ -1063,6 +1071,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 27
   name: Französisch ABV Aufbaumodul 1
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1110,8 +1119,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Französisch
   total_work: 150
   credit_points: 5
@@ -1120,6 +1128,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 28
   name: Französisch ABV Aufbaumodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1169,8 +1178,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Französisch
   total_work: 150
   credit_points: 5
@@ -1179,6 +1187,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 29
   name: Französisch ABV Aufbaumodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1230,8 +1239,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Französisch
   total_work: 150
   credit_points: 5
@@ -1240,6 +1248,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 30
   name: Italienisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1294,7 +1303,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Italienisch
   total_work: 300
   credit_points: 10
@@ -1303,6 +1312,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 31
   name: Italienisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1352,7 +1362,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Italienisch
   total_work: 150
   credit_points: 5
@@ -1361,6 +1371,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 32
   name: Italienisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1413,7 +1424,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Italienisch
   total_work: 150
   credit_points: 5
@@ -1422,6 +1433,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 33
   name: Italienisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1471,7 +1483,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung
-    (ca. 10 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 10 Minuten)
   language: Italienisch
   total_work: 150
   credit_points: 5
@@ -1480,6 +1492,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 34
   name: Italienisch ABV Aufbaumodul 1
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1527,8 +1540,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Italienisch
   total_work: 150
   credit_points: 5
@@ -1537,6 +1549,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 35
   name: Italienisch ABV Aufbaumodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1586,8 +1599,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Italienisch
   total_work: 150
   credit_points: 5
@@ -1596,6 +1608,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 36
   name: Italienisch ABV Aufbaumodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1647,8 +1660,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Italienisch
   total_work: 150
   credit_points: 5
@@ -1657,6 +1669,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 37
   name: Niederländisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1712,7 +1725,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Niederländisch
   total_work: 300
   credit_points: 10
@@ -1721,6 +1734,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 38
   name: Niederländisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1769,7 +1783,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Niederländisch
   total_work: 150
   credit_points: 5
@@ -1778,6 +1792,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 39
   name: Niederländisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1834,7 +1849,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung
-    (ca. 10 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 10 Minuten)
   language: Niederländisch
   total_work: 150
   credit_points: 5
@@ -1843,6 +1858,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 40
   name: Polnisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1897,7 +1913,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Polnisch und Deutsch
   total_work: 300
   credit_points: 10
@@ -1906,6 +1922,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 41
   name: Polnisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -1950,7 +1967,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Polnisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -1959,6 +1976,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 42
   name: Polnisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2003,7 +2021,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Überwiegend Polnisch
   total_work: 150
   credit_points: 5
@@ -2012,6 +2030,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 43
   name: Polnisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2058,7 +2077,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung
-    (ca. 10 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 10 Minuten)
   language: Überwiegend Polnisch
   total_work: 150
   credit_points: 5
@@ -2067,6 +2086,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 44
   name: Portugiesisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2121,7 +2141,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Portugiesisch
   total_work: 300
   credit_points: 10
@@ -2130,6 +2150,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 45
   name: Portugiesisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2178,7 +2199,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Portugiesisch
   total_work: 150
   credit_points: 5
@@ -2187,6 +2208,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 46
   name: Portugiesisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2239,7 +2261,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Portugiesisch
   total_work: 150
   credit_points: 5
@@ -2248,6 +2270,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 47
   name: Portugiesisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2298,7 +2321,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung
-    (ca. 10 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 10 Minuten)
   language: Portugiesisch
   total_work: 150
   credit_points: 5
@@ -2307,6 +2330,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 48
   name: Portugiesisch ABV Aufbaumodul 1
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2355,8 +2379,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Portugiesisch
   total_work: 150
   credit_points: 5
@@ -2365,6 +2388,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV
 
     (Kompetenzbereich Fremdsprachen)'
+  differentiated: false
 - page: 49
   name: Portugiesisch ABV Aufbaumodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2414,8 +2438,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Portugiesisch
   total_work: 150
   credit_points: 5
@@ -2424,6 +2447,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 50
   name: Portugiesisch ABV Aufbaumodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2475,8 +2499,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Portugiesisch
   total_work: 150
   credit_points: 5
@@ -2485,6 +2508,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 51
   name: Russisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2539,7 +2563,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Russisch und Deutsch
   total_work: 300
   credit_points: 10
@@ -2548,6 +2572,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 52
   name: Russisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2592,7 +2617,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Russisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -2601,6 +2626,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 53
   name: Russisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2648,7 +2674,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Russisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
@@ -2657,6 +2683,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 54
   name: Russisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2701,7 +2728,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Russisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
@@ -2710,6 +2737,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 55
   name: Russisch ABV Grundmodul 5
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2752,7 +2780,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung
-    (ca. 10 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 10 Minuten)
   language: Russisch
   total_work: 150
   credit_points: 5
@@ -2761,6 +2789,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 56
   name: Russisch Aufbaumodul I
   organizer: Freie Universität Berlin/ZE Sprachenzentrum
@@ -2811,7 +2840,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 15 Minuten) oder mündlicher Prüfung
-    (ca. 15 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 15 Minuten)
   language: Russisch
   total_work: 150
   credit_points: 5
@@ -2820,6 +2849,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 57
   name: Spanisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2874,7 +2904,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Spanisch
   total_work: 300
   credit_points: 10
@@ -2885,6 +2915,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 58
   name: Spanisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2934,7 +2965,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Spanisch
   total_work: 150
   credit_points: 5
@@ -2943,6 +2974,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 59
   name: Spanisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -2993,7 +3025,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Spanisch
   total_work: 150
   credit_points: 5
@@ -3002,6 +3034,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 60
   name: Spanisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3051,7 +3084,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung
-    (ca. 10 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 10 Minuten)
   language: Spanisch
   total_work: 150
   credit_points: 5
@@ -3060,6 +3093,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 61
   name: Spanisch ABV Aufbaumodul 1
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3109,8 +3143,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Spanisch
   total_work: 150
   credit_points: 5
@@ -3119,6 +3152,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 62
   name: Spanisch ABV Aufbaumodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3169,8 +3203,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Spanisch
   total_work: 150
   credit_points: 5
@@ -3179,6 +3212,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 63
   name: Spanisch ABV Aufbaumodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3230,8 +3264,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Spanisch
   total_work: 150
   credit_points: 5
@@ -3240,6 +3273,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 64
   name: Türkisch ABV Einstiegsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3288,7 +3322,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Türkisch und Deutsch
   total_work: 300
   credit_points: 10
@@ -3299,6 +3333,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen)'
+  differentiated: false
 - page: 65
   name: Türkisch ABV Grundmodul 2
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3340,7 +3375,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+  exam: Klausur (90 Minuten)
   language: Türkisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -3349,6 +3384,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 66
   name: Türkisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3396,7 +3432,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder Präsentation (ca. 15 Minuten) oder mündliche Prüfung
-    (ca. 15 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 15 Minuten)
   language: Türkisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -3405,6 +3441,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 67
   name: Türkisch ABV Grundmodul 4
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -3455,7 +3492,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) oder Präsentation (ca. 15 Minuten) oder mündliche Prüfung
-    (ca. 15 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 15 Minuten)
   language: Türkisch und Deutsch
   total_work: 150
   credit_points: 5
@@ -3464,6 +3501,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 68
   name: Türkisch ABV Grundmodul 5
   organizer: Freie Universität Berlin/Zentraleinrichtung Sprachenzentrum
@@ -3518,7 +3556,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (90 Minuten) sowie Präsentation (ca. 15 Minuten) oder mündliche Prüfung
-    (ca. 15 Minuten) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 15 Minuten)
   language: Türkisch
   total_work: 150
   credit_points: 5
@@ -3527,6 +3565,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache)'
+  differentiated: false
 - page: 69
   name: Digitales Publizieren und Präsentieren
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -3562,8 +3601,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 5 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3571,6 +3609,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations-
     und Medienkompetenz)
+  differentiated: false
 - page: 70
   name: Computergestütztes Projektmanagement
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -3606,8 +3645,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 5 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3615,6 +3653,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations-
     und Medienkompetenz)
+  differentiated: false
 - page: 71
   name: Online-Kommunikation und -Präsentation
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -3651,8 +3690,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 5 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3660,6 +3698,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations-
     und Medienkompetenz)
+  differentiated: false
 - page: 72
   name: Informationskompetenz
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -3694,7 +3733,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Präsentation (ca. 10 Minuten) mit schriftlicher Ausarbeitung (4 bis 8 Seiten)
-    – Modulprüfung wird nicht differenziert bewertet –
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3702,6 +3740,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations-
     und Medienkompetenz)
+  differentiated: false
 - page: 73
   name: Objektorientierte Programmierung
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -3732,8 +3771,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 5 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3741,6 +3779,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations-
     und Medienkompetenz)
+  differentiated: false
 - page: 74
   name: Layout und Design von Printmedien
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -3777,8 +3816,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 5 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3786,6 +3824,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations-
     und Medienkompetenz)
+  differentiated: false
 - page: 75
   name: Digitale Datenanalyse und statistische Methoden
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -3823,8 +3862,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitung (ca. 5 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3832,6 +3870,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations-
     und Medienkompetenz)
+  differentiated: false
 - page: 76
   name: Zentrale soziale Kategorien im 21. Jahrhundert
   organizer: Freie Universität Berlin/Zentraleinrichtung zur Förderung von Frauen-
@@ -3877,8 +3916,7 @@
       time: 55
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter) – Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3887,6 +3925,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Gender- und Diversitykompetenz)'
+  differentiated: false
 - page: 77
   name: Gender, Diversity und Gender Mainstreaming
   organizer: Freie Universität Berlin/Zentraleinrichtung zur Förderung von Frauen-
@@ -3932,8 +3971,7 @@
       time: 55
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter) – Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3942,6 +3980,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Gender- und Diversitykompetenz)'
+  differentiated: false
 - page: 78
   name: Diversity Management
   organizer: Freie Universität Berlin/Zentraleinrichtung zur Förderung von Frauen-
@@ -3987,8 +4026,7 @@
       time: 55
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter) – Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -3997,6 +4035,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Gender- und Diversitykompetenz)'
+  differentiated: false
 - page: 79
   name: Projekte und Kooperationen
   organizer: Freie Universität Berlin/Margherita-von-Brentano-Zentrum
@@ -4044,7 +4083,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
   exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter) oder Projektbericht
-    (ca. 2 400 Wörter) – Modulprüfung wird nicht differenziert bewertet –
+    (ca. 2 400 Wörter)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4053,6 +4092,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Gender- und Diversitykompetenz)'
+  differentiated: false
 - page: 80
   name: Gender and Diversity in the International Context
   organizer: Freie Universität Berlin/Margherita-von-Brentano-Zentrum
@@ -4094,8 +4134,7 @@
       time: 55
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter) – Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: Essay (ca. 2 400 Wörter) oder Hausarbeit (ca. 2 400 Wörter)
   language: Englisch
   total_work: 150
   credit_points: 5
@@ -4104,6 +4143,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Gender- und Diversitykompetenz)'
+  differentiated: false
 - page: 81
   name: Betriebswirtschaftliche Grundlagen (ABV)
   organizer: Freie Universität Berlin/Fachbereich Wirtschaftswissenschaft/Department
@@ -4137,8 +4177,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4146,6 +4185,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation
     und Management)
+  differentiated: false
 - page: 82
   name: Marketing Grundlagen (ABV)
   organizer: Freie Universität Berlin/Fachbereich Wirtschaftswissenschaften/Professur
@@ -4178,8 +4218,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4187,6 +4226,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation
     und Management)
+  differentiated: false
 - page: 83
   name: E-Business (ABV)
   organizer: Freie Universität Berlin/Fachbereich Wirtschaftswissenschaft/Department
@@ -4222,8 +4262,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4231,6 +4270,7 @@
   repeat: Unregelmäßig
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation
     und Management)
+  differentiated: false
 - page: 84
   name: Fallstudien im internationalen Lernnetzwerk
   organizer: Freie Universität Berlin/Fachbereich Wirtschaftswissenschaft/Department
@@ -4268,8 +4308,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten) – Modulprüfung wird nicht differenziert
-    bewertet –
+  exam: Schriftliche Ausarbeitungen (ca. 8 Seiten)
   language: Englisch oder Deutsch
   total_work: 150
   credit_points: 5
@@ -4277,6 +4316,7 @@
   repeat: Unregelmäßig
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation
     und Management)
+  differentiated: false
 - page: 85
   name: Erstellung eines Businessplans
   organizer: Freie Universität Berlin/Fachbereich Wirtschaftswissenschaft
@@ -4317,8 +4357,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 80
   exam: Erstellung eines Businessplans (modulbegleitend, bis zu 20 Seiten) mit mündlicher
-    Präsentation in Form einer Gruppenprüfung (ca. 20 Minuten) – Modulprüfung wird
-    nicht differenziert bewertet –
+    Präsentation in Form einer Gruppenprüfung (ca. 20 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4326,6 +4365,7 @@
   repeat: Unregelmäßig
   usability: Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Organisation
     und Management)
+  differentiated: false
 - page: 86
   name: Gründung einer Studentenfirma – Funpreneur-Wettbewerb
   organizer: Freie Universität Berlin/Fachbereich Wirtschaftswissenschaft
@@ -4359,8 +4399,7 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Mündliche Präsentation in Form einer Gruppenprüfung (ca. 30 Minuten) – Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: Mündliche Präsentation in Form einer Gruppenprüfung (ca. 30 Minuten)
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
@@ -4368,6 +4407,7 @@
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation
     und Management)
+  differentiated: false
 - page: 87
   name: Grundlagen, Ideen und Business Modelle zur Unternehmensgründung
   organizer: Freie Universität Berlin/Fachbereich Erziehungswissenschaft und Psychologie
@@ -4416,8 +4456,7 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Konzeptpapier (ca. 6 Seiten) – Modulprüfung wird nicht differenziert bewertet
-    –
+  exam: Konzeptpapier (ca. 6 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4425,6 +4464,7 @@
   repeat: Unregelmäßig
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation
     und Management)
+  differentiated: false
 - page: 88
   name: Gesprächsführung und Verhandlung
   organizer: Freie Universität Berlin/Career Service
@@ -4470,7 +4510,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Hausarbeit (ca. 2 100 Wörter) oder schriftliche Ausarbeitung (ca. 2 100 Wörter)
-    – Modulprüfung wird nicht differenziert bewertet –
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4479,6 +4518,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Kommunikative Kompetenzen)'
+  differentiated: false
 - page: 89
   name: Persönliche Lern- und Arbeitsprozesse aktiv gestalten
   organizer: Freie Universität Berlin/Career Service
@@ -4530,7 +4570,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Hausarbeit (ca. 2 100 Wörter) oder schriftliche Ausarbeitung (ca. 2 100 Wörter)
-    – Modulprüfung wird nicht differenziert bewertet –
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4539,6 +4578,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Kommunikative Kompetenzen)'
+  differentiated: false
 - page: 90
   name: Präsentieren, Diskutieren, Moderieren
   organizer: Freie Universität Berlin/Career Service
@@ -4589,7 +4629,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Hausarbeit (ca. 2 100 Wörter) oder schriftliche Ausarbeitung (ca. 2 100 Wörter)
-    – Modulprüfung wird nicht differenziert bewertet –
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -4598,6 +4637,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Kommunikative Kompetenzen)'
+  differentiated: false
 - page: 91
   name: Kooperative Projektarbeit
   organizer: Freie Universität Berlin/Career Service
@@ -4674,6 +4714,7 @@
   usability: 'Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
 
     Kommunikative Kompetenzen)'
+  differentiated: true
 - page: 92
   name: Nachhaltigkeit managen
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -4749,6 +4790,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
+  differentiated: true
 - page: 94
   name: Nachhaltigkeit kommunizieren
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -4829,6 +4871,7 @@
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
+  differentiated: true
 - page: 96
   name: Nachhaltigkeit erforschen
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -4908,6 +4951,7 @@
   duration: Zwei Semester
   repeat: Mindestens einmal im Studienjahr
   usability: Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
+  differentiated: true
 - page: 98
   name: Nachhaltigkeit konkret gestalten
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -4992,6 +5036,7 @@
   duration: Ein Semester
   repeat: Mindestens jeweils im Sommersemester
   usability: Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
+  differentiated: true
 - page: 100
   name: Wissenschaft und Gesellschaft
   organizer: Freie Universität Berlin/Fachbereich Erziehungswissenschaft und Psychologie/Fachbereich
@@ -5052,6 +5097,7 @@
   duration: Ein oder zwei Semester
   repeat: Einmal im Jahr
   usability: Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Forschungsorientierung)
+  differentiated: true
 - page: 101
   name: Berufsbezogenes Praktikum – A
   organizer: Freie Universität Berlin/Career Service
@@ -5102,6 +5148,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
+  differentiated: true
 - page: 102
   name: Berufsbezogenes Praktikum – B
   organizer: Freie Universität Berlin/Career Service
@@ -5152,6 +5199,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
+  differentiated: true
 - page: 103
   name: Berufsbezogenes Praktikum – C
   organizer: Freie Universität Berlin/Career Service
@@ -5202,6 +5250,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
+  differentiated: true
 - page: 104
   name: Auslandspraktikum – A
   organizer: Freie Universität Berlin/Career Service
@@ -5253,6 +5302,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
+  differentiated: true
 - page: 105
   name: Auslandspraktikum – B
   organizer: Freie Universität Berlin/Career Service
@@ -5304,6 +5354,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
+  differentiated: true
 - page: 106
   name: Auslandspraktikum – C
   organizer: Freie Universität Berlin/Career Service
@@ -5355,3 +5406,4 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
+  differentiated: true

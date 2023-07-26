@@ -40,6 +40,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 108
   name: Computergrafik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -81,6 +82,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 109
   name: Computer-Vision
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -121,6 +123,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 110
   name: Datenbanktechnologie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -165,6 +168,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 111
   name: Empirische Bewertung in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -214,6 +218,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 112
   name: Grundlagen des Softwaretestens
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -271,6 +276,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 113
   name: Künstliche Intelligenz
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -317,6 +323,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 114
   name: Medizinische Bildverarbeitung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -364,6 +371,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 115
   name: Modellgetriebene Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -426,6 +434,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 116
   name: Mustererkennung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -472,6 +481,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 117
   name: Netzbasierte Informationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -529,6 +539,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 118
   name: Projektmanagement
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -591,13 +602,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (60 Minuten), die Klausur kann auch in Form einer elektromündliche
-    Prüfung (ca. 20 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    Prüfung (ca. 20 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Zwei Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 119
   name: Projektmanagement – Vertiefung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -648,13 +660,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (60 Minuten), die Klausur kann auch in Form einer elektromündliche
-    Prüfung (ca. 20 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    Prüfung (ca. 20 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 120
   name: Rechnersicherheit
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -723,6 +736,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 121
   name: Semantisches Geschäftsprozessmanagement
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -779,6 +793,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 122
   name: Softwareprozesse
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -824,6 +839,7 @@
   duration: Ein Semester
   repeat: Zweijährlich im Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 123
   name: Übersetzerbau
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -874,6 +890,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 124
   name: Verteilte Systeme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -936,6 +953,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 125
   name: XML-Technologien
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1005,6 +1023,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 126
   name: Praktiken professioneller Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1031,7 +1050,7 @@
         Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe'
     - type: Praxisseminar
       swstime: 2
-      attendance: required 
+      attendance: required
       activity: 'Teilnahme an der Diskussion
 
         Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufgabe'
@@ -1051,6 +1070,7 @@
   duration: Ein Semester
   repeat: Zweijährlich im Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 127
   name: Softwareprojekt – Praktische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1102,6 +1122,7 @@
   duration: Ein Semester
   repeat: der vorlesungsfreien Zeit als Blockveranstaltung.
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 128
   name: Softwareprojekt – Praktische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1145,14 +1166,14 @@
       time: 240
     - type: Vorbereitung von Präsentationen und Dokumentation
       time: 30
-  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten); die
-    Modulprüfung wird nicht differenziert bewertet.
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: der vorlesungsfreien Zeit als Blockveranstaltung.
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 129
   name: Wissenschaftliches Arbeiten Praktische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1177,7 +1198,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -1186,13 +1207,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    45 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 130
   name: Wissenschaftliches Arbeiten Praktische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1217,7 +1239,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -1226,13 +1248,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    45 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 131
   name: Aktuelle Forschungsthemen der Praktischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1275,6 +1298,7 @@
   duration: Ein Semester
   repeat: Wechselnd, in der Regel mindestens jedes zweite Semester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 132
   name: Spezielle Aspekte der Praktischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1319,6 +1343,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 133
   name: Spezielle Aspekte der Datenverwaltung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1365,6 +1390,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 134
   name: Spezielle Aspekte der Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1411,6 +1437,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 135
   name: Ausgewählte Themen der Praktischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1453,6 +1480,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 136
   name: Höhere Algorithmik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1518,6 +1546,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 137
   name: Modelchecking
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1580,13 +1609,14 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 120
-  exam: 'Projektbericht (ca. 20 Seiten) mit mündlicher Präsentation (ca. 15 Minuten)'
+  exam: Projektbericht (ca. 20 Seiten) mit mündlicher Präsentation (ca. 15 Minuten)
   language: Deutsch (ggf. Englisch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 138
   name: Aktuelle Forschungsthemen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1629,6 +1659,7 @@
   duration: Ein Semester
   repeat: Wechselnd, in der Regel mindestens jedes zweite Semester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 139
   name: Algorithmische Geometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1673,6 +1704,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 140
   name: Ausgewählte Themen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1718,6 +1750,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 141
   name: Fortgeschrittene Themen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1768,6 +1801,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 142
   name: Spezielle Aspekte der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1813,6 +1847,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 143
   name: Kryptographie und Sicherheit in Verteilten Systemen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1858,6 +1893,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 144
   name: Semantik von Programmiersprachen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1911,6 +1947,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 145
   name: Softwareprojekt – Theoretische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1961,6 +1998,7 @@
   duration: Ein Semester
   repeat: der vorlesungsfreien Zeit als Blockveranstaltung.
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 146
   name: Softwareprojekt – Theoretische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2003,8 +2041,7 @@
       time: 240
     - type: Vorbereitung von Präsentationen und Dokumentation
       time: 30
-  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten); die
-    Modulprüfung wird nicht differenziert bewertet.
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 300
   credit_points: 10
@@ -2015,6 +2052,7 @@
 
     Blockveranstaltung'
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 147
   name: Wissenschaftliches Arbeiten Theoretische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2038,7 +2076,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2047,13 +2085,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    45 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 148
   name: Wissenschaftliches Arbeiten Theoretische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2077,7 +2116,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2086,13 +2125,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) und mündliche Präsentation (ca.
-    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    45 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 149
   name: Betriebssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2152,6 +2192,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 150
   name: Mikroprozessor-Praktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2194,6 +2235,7 @@
   duration: Ein Semester
   repeat: Jeweils im Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 151
   name: Mobilkommunikation
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2240,6 +2282,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 152
   name: Robotik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2278,6 +2321,7 @@
   duration: Ein Semester
   repeat: Zweijährlich im Wintersemester (gerades Jahr)
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 153
   name: Telematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2330,6 +2374,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 154
   name: Softwareprojekt – Technische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2379,6 +2424,7 @@
   duration: Ein Semester
   repeat: der vorlesungsfreien Zeit als Blockveranstaltung
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 155
   name: Softwareprojekt – Technische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2421,14 +2467,14 @@
       time: 240
     - type: Vorbereitung von Präsentationen und Dokumentation
       time: 30
-  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten); die
-    Modulprüfung wird nicht differenziert bewertet.
+  exam: Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: der vorlesungsfreien Zeit als Blockveranstaltung
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 156
   name: Wissenschaftliches Arbeiten Technische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2452,7 +2498,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2461,13 +2507,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    45 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 157
   name: Wissenschaftliches Arbeiten Technische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2491,7 +2538,7 @@
     - type: Hauptseminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge'
+      activity: Vortrag, schriftliche Ausarbeitung, regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit HS
       time: 30
@@ -2500,13 +2547,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten); die Modulprüfung wird nicht differenziert bewertet.
+    45 Minuten);
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Informatik
+  differentiated: false
 - page: 158
   name: Aktuelle Forschungsthemen der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2549,6 +2597,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 159
   name: Spezielle Aspekte der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2593,6 +2642,7 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true
 - page: 160
   name: Ausgewählte Themen der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2635,3 +2685,4 @@
   duration: Ein Semester
   repeat: Zweijährlich
   usability: Masterstudiengang Informatik
+  differentiated: true

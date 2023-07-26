@@ -39,6 +39,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 10
   name: Algebra II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -80,6 +81,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 11
   name: Differentialgeometrie I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -119,6 +121,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 12
   name: Differentialgeometrie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -166,6 +169,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 13
   name: Diskrete Geometrie I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -214,6 +218,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 14
   name: Diskrete Geometrie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -261,6 +266,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 15
   name: Diskrete Mathematik I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -303,6 +309,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 16
   name: Diskrete Mathematik II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -350,6 +357,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 17
   name: Dynamische Systeme I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -393,6 +401,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 18
   name: Dynamische Systeme II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -439,6 +448,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 19
   name: Numerik II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -485,6 +495,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 20
   name: Numerik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -528,6 +539,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 21
   name: Partielle Differentialgleichungen I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -569,6 +581,7 @@
   duration: Ein Semester
   repeat: Jedes zweites Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 22
   name: Partielle Differentialgleichungen II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -614,6 +627,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 23
   name: Stochastik II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -654,6 +668,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 24
   name: Stochastik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -694,6 +709,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 25
   name: Topologie I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -734,6 +750,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 26
   name: Topologie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -776,6 +793,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Wintersemester
   usability: Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 27
   name: Zahlentheorie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -818,6 +836,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 28
   name: Algebra III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -860,6 +879,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 29
   name: Differentialgeometrie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -905,6 +925,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 30
   name: Diskrete Geometrie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -950,6 +971,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 31
   name: Diskrete Mathematik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -996,6 +1018,7 @@
   duration: Ein Semester
   repeat: Jedes Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 32
   name: Dynamische Systeme III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1044,6 +1067,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 33
   name: Numerik IV
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1087,6 +1111,7 @@
   duration: Ein Semester
   repeat: Jedes Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 34
   name: Partielle Differentialgleichungen III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1133,6 +1158,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 35
   name: Stochastik IV
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1178,6 +1204,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 36
   name: Topologie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1222,6 +1249,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Sommersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 37
   name: Zahlentheorie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1263,6 +1291,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Wintersemester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 38
   name: Masterseminar Algebra
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1299,6 +1328,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 39
   name: Masterseminar Differentialgeometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1337,6 +1367,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 40
   name: Masterseminar Diskrete Geometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1375,6 +1406,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 41
   name: Masterseminar Diskrete Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1413,6 +1445,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 42
   name: Masterseminar Dynamische Systeme
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1451,6 +1484,7 @@
   duration: Ein Semester
   repeat: Jedes zweite Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 43
   name: Masterseminar Numerik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1487,6 +1521,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 44
   name: Masterseminar Partielle Differentialgleichungen
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1525,6 +1560,7 @@
   duration: Ein Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 45
   name: Masterseminar Stochastik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1560,6 +1596,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 46
   name: Masterseminar Topologie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1596,6 +1633,7 @@
   duration: Ein Semester
   repeat: Jährlich
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 47
   name: Masterseminar Zahlentheorie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1631,6 +1669,7 @@
   duration: Ein Semester
   repeat: Mindestens jedes zweite Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 48
   name: Ausgewählte Themen A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1663,14 +1702,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder schriftliche
-    Ausarbeitung (etwa 10 Seiten) – die Modulprüfung wird nicht differenziert bewertet
-    –
+    Ausarbeitung (etwa 10 Seiten) – –
   language: Deutsch oder Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 49
   name: Ausgewählte Themen B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1703,14 +1742,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder schriftliche
-    Ausarbeitung (etwa 10 Seiten) – die Modulprüfung wird nicht differenziert bewertet
-    –
+    Ausarbeitung (etwa 10 Seiten) – –
   language: Deutsch oder Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 50
   name: Ausgewählte Themen C
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1743,14 +1782,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder schriftliche
-    Ausarbeitung (etwa 10 Seiten) – die Modulprüfung wird nicht differenziert bewertet
-    –
+    Ausarbeitung (etwa 10 Seiten) – –
   language: Deutsch oder Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 51
   name: Spezielle Aspekte A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1783,14 +1822,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
-    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
-    –
+    Ausarbeitung (etwa 8 Seiten) – –
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 52
   name: Spezielle Aspekte B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1823,14 +1862,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
-    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
-    –
+    Ausarbeitung (etwa 8 Seiten) – –
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 53
   name: Spezielle Aspekte C
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1863,14 +1902,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
-    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
-    –
+    Ausarbeitung (etwa 8 Seiten) – –
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 54
   name: Aktuelle Forschungsthemen A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1899,13 +1938,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 90
   exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten) –
-    die Modulprüfung wird nicht differenziert bewertet –
+    –
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 55
   name: Aktuelle Forschungsthemen B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1934,13 +1974,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 90
   exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten) –
-    die Modulprüfung wird nicht differenziert bewertet –
+    –
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 56
   name: Aktuelle Forschungsthemen C
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1969,13 +2010,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 90
   exam: Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten) –
-    die Modulprüfung wird nicht differenziert bewertet –
+    –
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 57
   name: Spezielle Forschungsaspekte
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1999,14 +2041,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
   exam: Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche
-    Ausarbeitung (etwa 8 Seiten) – die Modulprüfung wird nicht differenziert bewertet
-    –
+    Ausarbeitung (etwa 8 Seiten) – –
   language: Deutsch oder Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 58
   name: Forschungsprojekt
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2033,13 +2075,14 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: Vortrag (etwa 30 Minuten) mit schriftlicher Ausarbeitung (etwa 5 Seiten) –
-    die Modulprüfung wird nicht differenziert bewertet –
+    –
   language: Deutsch oder Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: false
 - page: 59
   name: BMS – Fridays
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2071,6 +2114,7 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
 - page: 60
   name: What is …?
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2102,3 +2146,4 @@
   duration: Zwei Semester
   repeat: Jedes Semester
   usability: Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+  differentiated: true
