@@ -5,6 +5,8 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - navigation.instant
+    - navigation.tracking
 
 repo_url: https://github.com/SGSSGene/FUB-SUP
 extra_css:

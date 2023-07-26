@@ -76,3 +76,12 @@ code ins.critic {
     color: black;
     background: #80ff80;
 }
+
+.md-grid {
+  max-width: 100%; /* or 100%, if you want to stretch to full-width */
+}
+@media screen and (min-width: 501px) {
+    .md-sidebar {
+      width: 400px;
+    }
+}
