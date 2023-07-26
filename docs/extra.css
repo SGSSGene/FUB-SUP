@@ -80,7 +80,7 @@ code ins.critic {
 .md-grid {
   max-width: 100%; /* or 100%, if you want to stretch to full-width */
 }
-@media screen and (min-width: 501px) {
+@media screen and (min-width: 1400px) {
     .md-sidebar {
       width: 400px;
     }
