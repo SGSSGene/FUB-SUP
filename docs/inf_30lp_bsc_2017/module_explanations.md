@@ -1,0 +1,1 @@
+../../data/inf_30lp_bsc_2017/module_explanations.md
