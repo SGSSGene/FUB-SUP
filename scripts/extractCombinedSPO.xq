@@ -48,6 +48,8 @@ def fixes:
     | gsub("Hochschule/Einrichtung:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereich:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereiche:"; "Hochschule/Fachbereich/Institut:")
+    | gsub("Hochschule/FachbereichLehreinheit:"; "Hochschule/Fachbereich/Institut:")
+    | gsub("Hochschule/Hochschule/Fachbereich/Lehreinheit:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereich/Lehreinheit:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereich\\(FB\\)/Lehreinheit\\(LE\\):"; "Hochschule/Fachbereich/Institut:")
     | gsub("Veranstaltungssprache:?"; "Modulsprache:")
@@ -106,7 +108,7 @@ def extractTeachingUnit:
         col2: (([$fcol2] | mergeSimilar2)[0] | .[] |= .text | [.[] | gsub("[\n ]+"; " ")
                 | {
                     type: (. | split(" ")[0:-1] | join(" ")),
-                    swstime: (. | split(" ")[-1] | gsub(","; ".") | tonumber),
+                    swstime: (if endswith(" 270 Stunden") then "9" else split(" ")[-1] | gsub(","; ".") end | tonumber),
                     attendance: "TODO: missing info",
                     activity: $activity
                    }

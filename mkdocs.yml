@@ -259,6 +259,36 @@ nav:
       - compsci_msc_2016/modules/Synchronisierung Erde.md
       - compsci_msc_2016/modules/Synchronisierung Mathematik.md
     - Zugangssatzung: compsci_msc_2016/zugangssatzung.md
+  - Data Science Msc 2019:
+    - datasci_msc_2019/home.md
+    - Studien- und Prüfungsordnung: datasci_msc_2019/spo.md
+    - Modulbeschreibungen:
+      - datasci_msc_2019/module_explanations.md
+      - datasci_msc_2019/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
+      - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in Life Sciences.md
+      - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in the Social Sciences.md
+      - datasci_msc_2019/modules/Ausgewählte Themen der Data Science Technologies.md
+      - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science A.md
+      - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science B.md
+      - datasci_msc_2019/modules/Data Science in the Life Sciences.md
+      - datasci_msc_2019/modules/Data Science in the Social Sciences.md
+      - datasci_msc_2019/modules/Datenbanksysteme Data Science.md
+      - datasci_msc_2019/modules/Differentialpsychologische Ansätze in den Data Sciences.md
+      - datasci_msc_2019/modules/Einführung in die Psychoinformatik.md
+      - datasci_msc_2019/modules/Entwicklung von psychologischen Online-Interventionen.md
+      - datasci_msc_2019/modules/Ethical Foundations of Data Science.md
+      - datasci_msc_2019/modules/Forschungspraxis.md
+      - datasci_msc_2019/modules/Introduction to Profile Areas.md
+      - datasci_msc_2019/modules/Machine Learning for Data Science.md
+      - datasci_msc_2019/modules/Mobile Mental Health.md
+      - datasci_msc_2019/modules/Natural Language Processing.md
+      - datasci_msc_2019/modules/Neurocognitive Methods and Programming for Data Science.md
+      - datasci_msc_2019/modules/Programming for Data Science.md
+      - datasci_msc_2019/modules/Softwareprojekt Data Science.md
+      - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in Life Sciences.md
+      - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in the Social Sciences.md
+      - datasci_msc_2019/modules/Spezielle Aspekte der Data Science Technologies.md
+      - datasci_msc_2019/modules/Statistics for Data Science.md
   - Data Science Msc 2021:
     - datasci_msc_2021/home.md
     - Studien- und Prüfungsordnung: datasci_msc_2021/spo.md

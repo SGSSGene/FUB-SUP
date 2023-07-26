@@ -24,10 +24,10 @@ Main Focus is:
 |Informatik Master 2014                          | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik 30LP Bachelor 2017                   | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Bachelor 2012 + 1. Änderung 2017  | sop: ✔, modules: ✔, anhänge: ✘ |
-|Bioinformatik Master 2012                       | ✘       |
+|Bioinformatik Master 2012                       | ✘  (has a different format) |
 |Bioinformatik Master 2019 + 1. Änderung 2021    | sop: ✔, modules: ✔, anhänge: ✘ |
 |Computational Sciences Master 2016              | sop: ✔, modules: ✔, zugangssatzung: ✔, anhänge: ✘ |
-|Data Science Master 2019                        | ✘       |
+|Data Science Master 2019                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Data Science Master 2021                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Mathematik Bachelor 2013                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |lehramtbezogener Mathematik Bachelor 2017       | sop: ✔, modules: ✔, anhänge: ✘ |
@@ -42,7 +42,6 @@ Main Focus is:
 
 
 Not available:
-
   - Bioinformatik Bachelor und Master 2007 und älter
   - Informatik Bsc 2006 und älter
   - Informatik Msc 2010 und älter
