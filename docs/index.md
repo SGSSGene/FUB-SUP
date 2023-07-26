@@ -22,6 +22,7 @@ Main Focus is:
 |Informatik Master 2007                          | ✘       |
 |Informatik Master 2007 + 1. Änderung 2010       | ✘       |
 |Informatik Master 2014                          | sop: ✔, modules: ✔, anhänge: ✘ |
+|lehramtbezogener Informatik Bachelor 2015       | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Bachelor 2007                     | ✘       |
 |Bioinformatik Bachelor 2010                     | ✘       |
 |Bioinformatik Bachelor 2012 + 1. Änderung 2017  | sop: ✔, modules: ✔, anhänge: ✘ |
@@ -43,7 +44,6 @@ Main Focus is:
 Not available:
 
   - Bioinformatik Bachelor und Master 2000
-  - Bachelorstudiengang mit dem Kernfach Informatik (90 Leistungspunkte) und das 60 LP-Modulangebot Informatik (lehramtsbezogen)
   - Bachelorstudiengangsbestandteil 30-LP- Modulangebot Informatik
   - Mathematik Bsc 2010 und älter
   - Mathematik Msc 2007 und älter
