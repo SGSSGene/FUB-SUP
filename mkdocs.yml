@@ -110,6 +110,15 @@ nav:
       - inf_bsc_2023/modules/Vertiefung Theoretische Informatik.md
       - inf_bsc_2023/modules/Wissenschaftliches Arbeiten in der Informatik.md
     - Exemplarischer Studienverlaufsplan: inf_bsc_2023/anlage2.md
+  - lehramtsbezogen Informatik Bsc 2014:
+    - lehrinf_bsc_2014/home.md
+    - Studien- und Prüfungsordnung: lehrinf_bsc_2014/spo.md
+    - Modulebeschreibungen:
+      - lehrinf_bsc_2014/module_explanations.md
+      - lehrinf_bsc_2014/modules/Betriebs- und Kommunikationssysteme.md
+      - lehrinf_bsc_2014/modules/Logik und Diskrete Mathematik für Lehramt.md
+      - lehrinf_bsc_2014/modules/Nichtsequentielle und verteilte Programmierung für Lehramt.md
+      - lehrinf_bsc_2014/modules/Rechnerarchitektur.md
   - lehramtsbezogen Informatik Bsc 2015:
     - lehrinf_bsc_2015/home.md
     - Studien- und Prüfungsordnung: lehrinf_bsc_2015/spo.md
@@ -119,7 +128,7 @@ nav:
       - lehrinf_bsc_2015/modules/Logik und Diskrete Mathematik für Lehramt.md
       - lehrinf_bsc_2015/modules/Objektorientierte Programmierung.md
       - lehrinf_bsc_2015/modules/Rechnerarchitektur.md
-  - Informatik 30LP Bsc:
+  - Informatik 30LP Bsc 2017:
     - inf_30lp_bsc_2017/home.md
     - Studien- und Prüfungsordnung: inf_30lp_bsc_2017/spo.md
     - Modulebeschreibungen:

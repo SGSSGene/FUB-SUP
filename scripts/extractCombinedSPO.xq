@@ -37,6 +37,7 @@ def fixes:
     | gsub("Vertiefungsmodul:"; "Modul:")
     | gsub("\n+"; "\n")
     | gsub("Verantwort"; "Modulverantwort")
+    | gsub("Arbeitsaufwand insgesamt:"; "Arbeitszeitaufwand insgesamt:")
     | gsub("Arbeitsaufwand insgesamt"; "Arbeitszeitaufwand insgesamt:")
     | gsub("Fachbereich Mathematik und Informatik"; "Mathematik und Informatik")
     | gsub("Pflicht +zu +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")

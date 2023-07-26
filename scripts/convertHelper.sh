@@ -56,6 +56,9 @@ fix_spelling_mistakes() {
     perl -i -p -e "s|Freie Universität Berlin/ Mathematik und Informatik/Informatik|Freie Universität Berlin/Mathematik und Informatik/Informatik|g" ${1}
     perl -i -p -e "s|Erfolgreiche Absolvierung des Moduls „Wissenschaftliches Arbeiten in der Informatik“|Wissenschaftliches Arbeiten in der Informatik|g" ${1}
     perl -i -p -e "s|Bachelorstudiengang Informatik: Studienbereich ABV \(Fachnahe Zusatzqualifikation 5 LP|Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation 5 LP)|g" ${1}
+    perl -i -p -e "s|\* Diese Ordnung istvom Präsidium derFreien UniversitätBerlin|[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin|g" ${1}
+
+
 }
 
 get_module_description_page() {
@@ -139,6 +142,16 @@ get_module_description_page() {
         repeat: (env.JQ_REPEAT | fromjson),
         usability: env.JQ_USABILITY
     }';
+}
+
+mergeModulePages() {
+    page1=$(expr $1 - 1)
+    page2=$1
+    degree=$2
+    # merge pages
+    xq -x '.pdf2xml.page['${page2}'].text[]."@top" |= ((. | tonumber) + 10000 | tostring) | .pdf2xml.page['${page1}'].text = .pdf2xml.page['${page1}'].text + .pdf2xml.page['${page2}'].text' caches/${degree}/prefix.xml > caches/${degree}/prefix.xml.tmp
+    xq -x 'del(.pdf2xml.page['${page2}']) | .pdf2xml.page['${page1}'].text |= del(.[0, 1])' caches/${degree}/prefix.xml.tmp > caches/${degree}/prefix.xml
+
 }
 
 # Some setup lines
