@@ -117,6 +117,19 @@ nav:
       - lehrinf_bsc_2015/modules/Logik und Diskrete Mathematik für Lehramt.md
       - lehrinf_bsc_2015/modules/Objektorientierte Programmierung.md
       - lehrinf_bsc_2015/modules/Rechnerarchitektur.md
+  - Informatik 30LP Bsc:
+    - inf_30lp_bsc_2017/home.md
+    - Studien- und Prüfungsordnung: inf_30lp_bsc_2017/spo.md
+    - Modulebeschreibungen:
+      - inf_30lp_bsc_2017/module_explanations.md
+      - inf_30lp_bsc_2017/modules/Auswirkungen der Informatik.md
+      - inf_30lp_bsc_2017/modules/Datenbanksysteme für Nebenfach.md
+      - inf_30lp_bsc_2017/modules/Grundlagen der theoretischen Informatik für Nebenfach.md
+      - inf_30lp_bsc_2017/modules/Informatik A.md
+      - inf_30lp_bsc_2017/modules/Informatik B.md
+      - inf_30lp_bsc_2017/modules/Nichtsequentielle Programmierung.md
+      - inf_30lp_bsc_2017/modules/Verteilte Programmierung.md
+
   - Informatik Msc 2014:
     - inf_msc_2014/home.md
     - Studien- und Prüfungsordnung: inf_msc_2014/spo.md

@@ -23,6 +23,7 @@ Main Focus is:
 |Informatik Master 2007 + 1. Änderung 2010       | ✘       |
 |Informatik Master 2014                          | sop: ✔, modules: ✔, anhänge: ✘ |
 |lehramtbezogener Informatik Bachelor 2015       | sop: ✔, modules: ✔, anhänge: ✘ |
+|Informatik 30LP Bachelor 2017                   | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Bachelor 2007                     | ✘       |
 |Bioinformatik Bachelor 2010                     | ✘       |
 |Bioinformatik Bachelor 2012 + 1. Änderung 2017  | sop: ✔, modules: ✔, anhänge: ✘ |
