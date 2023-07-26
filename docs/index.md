@@ -15,7 +15,7 @@ Main Focus is:
 | Degree                                         | Status  |
 |------------------------------------------------|---------|
 |Rahmenstudien- und -prüfungsordnung             | rspo: ✔, anhänge: ✘ |
-|ABV Module                                      | ✘       |
+|ABV Module                                      | sop: ✔, modules: ✔, anhänge: ✘, änderungsordnungen: ✘ |
 |Informatik Bachelor 2014                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Bachelor 2023                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |lehramtbezogener Informatik Bachelor 2014       | sop: ✔, modules: ✔, anhänge: ✘ |
@@ -23,7 +23,6 @@ Main Focus is:
 |Informatik 30LP Bachelor 2017                   | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Master 2014                          | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik 30LP Bachelor 2017                   | sop: ✔, modules: ✔, anhänge: ✘ |
-|Bioinformatik Bachelor 2010                     | ✘       |
 |Bioinformatik Bachelor 2012 + 1. Änderung 2017  | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Master 2012                       | ✘       |
 |Bioinformatik Master 2019 + 1. Änderung 2021    | sop: ✔, modules: ✔, anhänge: ✘ |

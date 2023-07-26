@@ -36,17 +36,21 @@ def fixes:
     | gsub("Aufbaumodul:"; "Modul:")
     | gsub("Vertiefungsmodul:"; "Modul:")
     | gsub("\n+"; "\n")
-    | gsub("Verantwort"; "Modulverantwort")
-    | gsub("Arbeitsaufwand insgesamt:"; "Arbeitszeitaufwand insgesamt:")
-    | gsub("Arbeitsaufwand insgesamt"; "Arbeitszeitaufwand insgesamt:")
+    | gsub("^Verantwort[a-z]*(/[a-z]*)?:"; "Modulverantwortung:")
+    | gsub("Arbeitsaufwand insgesamt:?"; "Arbeitszeitaufwand insgesamt:")
     | gsub("Fachbereich Mathematik und Informatik"; "Mathematik und Informatik")
-    | gsub("Pflicht +zu +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
-    | gsub("Pflicht +zur +regelmäßigen +Teilnahme"; "Pflicht zu regelmäßiger Teilnahme")
+    | gsub("Pflicht +zur +regelmäßiger +Teilnahme:?"; "Pflicht zu regelmäßiger Teilnahme:")
+    | gsub("Pflicht +zu +regelmäßigen +Teilnahme:?"; "Pflicht zu regelmäßiger Teilnahme:")
+    | gsub("Pflicht +zur +regelmäßigen +Teilnahme:?"; "Pflicht zu regelmäßiger Teilnahme:")
+    | gsub("[Rr]egelmäßige Teilnahme:?"; "Pflicht zu regelmäßiger Teilnahme:")
+    | gsub("Teilnahme wird dringend empfohlen"; "Teilnahme wird empfohlen")
+    | gsub("Hochschule/Zentraleinrichtung:"; "Hochschule/Fachbereich/Institut:")
+    | gsub("Hochschule/Einrichtung:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereich:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereiche:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereich/Lehreinheit:"; "Hochschule/Fachbereich/Institut:")
     | gsub("Hochschule/Fachbereich\\(FB\\)/Lehreinheit\\(LE\\):"; "Hochschule/Fachbereich/Institut:")
-    | gsub("Veranstaltungssprache:"; "Modulsprache:")
+    | gsub("Veranstaltungssprache:?"; "Modulsprache:")
     | gsub("Aktuelle\\(r\\) Verantwortliche\\(r\\):"; "Modulverantwortliche/r:")
 ;
 
@@ -82,7 +86,8 @@ def mergeSimilar2:
 
 
 def extractTeachingUnit:
-    find(.text | startswith("Präsenzstudium")) as $col2
+    .
+    | find(.text | startswith("Präsenzstudium")) as $col2
     | find(.text | startswith("Formen aktiver")) as $col3
     | find(.text | endswith("= SWS)")) as $row1
     | . as $data
@@ -101,7 +106,7 @@ def extractTeachingUnit:
         col2: (([$fcol2] | mergeSimilar2)[0] | .[] |= .text | [.[] | gsub("[\n ]+"; " ")
                 | {
                     type: (. | split(" ")[0:-1] | join(" ")),
-                    swstime: (. | split(" ")[-1] | gsub(","; ".") | if . == "Stunden" then "9" else . end | tonumber),
+                    swstime: (. | split(" ")[-1] | gsub(","; ".") | tonumber),
                     attendance: "TODO: missing info",
                     activity: $activity
                    }
@@ -148,6 +153,7 @@ def extractTeachingUnit:
        "FU-Mitteilungen"] as $list
     | loop(0; ($list | length) - 1; . as $nbr | $data | fetch_section($list[$nbr]; $list[$nbr+1]))
 #    | .[7]
+#    | .[6]
     | (.[6] | extractTeachingUnit) as $tu
     | mergeSimilar
     | [.[] | .[].text
@@ -168,7 +174,7 @@ def extractTeachingUnit:
         exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
         language: (.[8] | removeTitle),
         total_work: (.[10] | removeTitle | split(" ")[0] | tonumber),
-        credit_points: (.[10] | removeTitle | split(" ")[2] | tonumber),
+        credit_points: (.[10] | removeTitle | split(" ")[-2] | tonumber),
         duration: (.[11] | removeTitle),
         repeat: (.[12] | removeTitle),
         usability: (.[13] | removeTitle)
