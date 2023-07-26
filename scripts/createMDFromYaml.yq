@@ -22,6 +22,7 @@ def cleanup:
 | .goals |= cleanup
 | .content |= cleanup
 | .exam |= cleanup
+| .usability |= cleanup
 | [   "# " + .name
     , "|                                    |   |"
     , "|------------------------------------|---|"
