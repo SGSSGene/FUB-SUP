@@ -469,6 +469,23 @@ nav:
       - phy_bsc_2012/modules/Quantenmechanik.md
       - phy_bsc_2012/modules/Struktur der Materie.md
       - phy_bsc_2012/modules/Theoretische Elektrodynamik.md
+  - lehramtsbezogen Physik Bsc 2015:
+    - lehrphy_bsc_2015/home.md
+    - Studien- und Prüfungsordnung: lehrphy_bsc_2015/spo.md
+    - Modulebeschreibungen:
+      - lehrphy_bsc_2015/module_explanations.md
+      - lehrphy_bsc_2015/modules/Demonstrationspraktikum 1.md
+      - lehrphy_bsc_2015/modules/Einführung in die Struktur der Materie.md
+      - lehrphy_bsc_2015/modules/Grundlagen der Experimentalphysik.md
+      - lehrphy_bsc_2015/modules/Moderne Physik.md
+      - lehrphy_bsc_2015/modules/Physikalische Grundkompetenzen.md
+      - lehrphy_bsc_2015/modules/Physikalisches Grundpraktikum 1.md
+      - lehrphy_bsc_2015/modules/Physikalisches Grundpraktikum 2.md
+      - lehrphy_bsc_2015/modules/Theoretische Physik 1.md
+      - lehrphy_bsc_2015/modules/Theoretische Physik 2.md
+      - lehrphy_bsc_2015/modules/Vertiefung Physik A.md
+      - lehrphy_bsc_2015/modules/Vertiefung Physik B.md
+      - lehrphy_bsc_2015/modules/Vertiefung Physik C.md
   - Physik Msc 2020:
     - phy_msc_2020/home.md
     - Studien- und Prüfungsordnung: phy_msc_2020/spo.md
