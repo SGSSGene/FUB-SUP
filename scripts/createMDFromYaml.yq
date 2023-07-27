@@ -23,6 +23,7 @@ def cleanup:
 | .content |= cleanup
 | .exam |= cleanup
 | .usability |= cleanup
+| .difftext = if .differentiated then "differenzierte Bewertung" else "nicht differenzierte Bewertung" end
 | [   "# " + .name
     , "|                                    |   |"
     , "|------------------------------------|---|"
@@ -33,6 +34,7 @@ def cleanup:
     , "|**Qualifikationsziele**             | " + .goals + " |"
     , "|**Inhalte**                         | " + .content + " |"
     , "|**Modulprüfung**                    | " + .exam + " |"
+    , "|**Differenzierte Bewertung**        | " + .difftext + " |"
     , "|**Modulsprache**                    | " + .language + " |"
     , "|**Arbeitsaufwand (Stunden)**        | " + (.total_work | tostring) + " |"
     , "|**Leistungspunkte (LP)**            | " + (.credit_points | tostring) + " |"
