@@ -53,7 +53,7 @@ sort_by(.name)
                                  else ""
                                  end
                                + (.attendance | if . == "recommended" then "Teilnahme empfohlen" elif . == "required" then "verpflichtete Teilnahme" else "Teilnahme unbekannt (!TODO)" end) + "</td><td>"
-                               + (.activity | cleanup | expand(24)) + "</td></tr>" ])
+                               + "\n\n" + (.activity | cleanup) + "</td></tr>" ])
 
     ] | flatten | join("\n")) as $tu
 
