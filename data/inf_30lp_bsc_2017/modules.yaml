@@ -171,9 +171,9 @@
       time: 30
     - type: Vor- und Nachbereitung V
       time: 60
-    - type: Präsenzzeit Ü
+    - type: Präsenzzeit S
       time: 30
-    - type: Vor- und Nachbereitung Ü
+    - type: Vor- und Nachbereitung S
       time: 90
   exam: |
     Keine
