@@ -19,8 +19,6 @@
     wie Teile und Herrsche, dynamische Programmierung, Auswählen und Abschneiden,
     gierige Algorithmen. Mathematische Analyse von Algorithmen bezüglich Laufzeit
     und Speicherplatz. NP-Vollständigkeit.
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -41,6 +39,8 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -72,8 +72,6 @@
     Anwendungen; Potenzreihen; Grundbegriffe der Stochastik: Diskrete und stetige
     Wahrscheinlichkeitsräume, Unabhängigkeit von Ereignissen; Zufallsvariable und
     Standardverteilungen; Erwartungswert und Varianz.'
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -97,6 +95,8 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -121,7 +121,6 @@
     Methoden (z. B. Regeln der Zielsetzung, Feedback-Regeln), konkrete Formen des
     Einsatzes, Diskussion der Vor- und Nachteile. Diskussion konkreter Anwendungen
     in der aktuellen Lebenssituation der Studentinnen und Studenten.
-  exam: Keine
   teachingunit:
     - type: Seminaristischer Unterricht
       swstime: 3
@@ -133,6 +132,7 @@
       time: 45
     - type: Vor- und Nachbereitung
       time: 105
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -156,7 +156,6 @@
     werden konkret an Beispielen Technikfolgen in informatiklastigen Gebieten behandelt,
     z. B. die Sicherheit softwareintensiver technischer Systeme, der Schutz der Privatsphäre
     oder Auswirkungen der Computerisierung der Arbeitswelt.
-  exam: Keine
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -175,6 +174,7 @@
       time: 30
     - type: Vor- und Nachbereitung S
       time: 45
+  exam: Keine
   language: Deutsch Arbeitsaufwand (Stunden) Präsenzzeit V 30 Vor- und Nachbereitung
     V 45 Präsenzzeit S 30 Vor- und Nachbereitung S 45
   total_work: 150
@@ -199,9 +199,6 @@
     Bildung und Allgemeinbildung ● ● Soziologische Bedingungen (Genderaspekte, außerunterrichtliche
     Erfahrungen, Lernbiografien in der Informatik) Unterrichtsforschungsprojekt: Informatische
     Lernprozesse gestalten, unterrichten, reflektieren und adaptieren'
-  exam: Beschreibung und Analyse des Unterrichtsprojekts anhand einer individuell
-    entwickelten Forschungsfrage mit schriftlicher Ausarbeitung (ca. 20 Seiten) plus
-    Anhang (Forschungsinstrument und Daten)
   teachingunit:
     - type: Seminar
       swstime: 2
@@ -218,6 +215,9 @@
       time: 180
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Beschreibung und Analyse des Unterrichtsprojekts anhand einer individuell
+    entwickelten Forschungsfrage mit schriftlicher Ausarbeitung (ca. 20 Seiten) plus
+    Anhang (Forschungsinstrument und Daten)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -245,7 +245,6 @@
     von Erfahrungen aus der Arbeitswelt, die für die Findung und Ausübung qualifikationsadäquater
     beruflicher Tätigkeiten auf europäischen und internationalen Arbeitsmärkten und
     für die Aufgabe des lebenslangen Lernens relevant sind.
-  exam: Keine
   teachingunit:
     - type: Berufsbezogenes Praktikum
       swstime: 16
@@ -256,6 +255,7 @@
       time: 240
     - type: Vor- und Nachbereitung
       time: 60
+  exam: Keine
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -291,9 +291,6 @@
     andere Integritätsbedingungen, objektrelationale Abbildung, Sicherheits- und Schutzkonzepte;
     Transaktionsbegriff, transaktionale Garantien, Synchronisierung des Mehrbenutzerbetriebs,
     Fehlertoleranzeigenschaften.'
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 3
@@ -317,6 +314,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 210
   credit_points: 7
@@ -344,7 +344,6 @@
     Finanzierung, Rechtsform, Marketing. Im Studium wird ein Businessplan im Rahmen
     eines Businessplan-Wettbewerbs mit externen Gutachtern aus der Gründerbranche
     erarbeitet. In Gastvorträgen von Praktikern werden u. a. Fallbeispiele vorgestellt.
-  exam: Schriftliche Ausarbeitung einer Präsentation (ca. 1 500 Wörter);
   teachingunit:
     - type: Projektseminar
       swstime: 2
@@ -357,6 +356,7 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Schriftliche Ausarbeitung einer Präsentation (ca. 1 500 Wörter);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -385,7 +385,6 @@
     an den Qualifikationszielen ausgerichtet sind. Das Verfahren der Durchführung
     (Zeitrahmen, Präsenztermine und Betreuung, Arbeitsnachweise, Kolloquium zur Notenfindung
     etc.) ist vorab separat mit der Dozentin oder dem Dozenten zu vereinbaren.
-  exam: Präsentation der Ergebnisse (ca. 15 Minuten) mit Diskussion (ca. 15 Minuten)
   teachingunit:
     - type: Praxisseminar
       swstime: 2
@@ -398,6 +397,7 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Präsentation der Ergebnisse (ca. 15 Minuten) mit Diskussion (ca. 15 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -430,7 +430,6 @@
     (Typsysteme, Typherleitung und Typüberprüfung) eingeführt. Grundlegende Abstraktionen
     wie algebraische und abstrakte Datentypen und modularer Programmentwurf, sowie
     Nebenwirkungen (z. B. durch Monaden) anhand von Ein- und Ausgabe werden behandelt.
-  exam: ''
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -452,6 +451,7 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: ''
   language: Formen aktiver Teilnahme Arbeitsaufwand (Stunden) Präsenzzeit V 60 Schriftliche
     Bearbeitung von Übungsblättern Vor- und Nachbereitung V 30 Präsenzzeit SPC 30
     mündliche Präsentationen von Übungsaufgaben Vor- und Nachbereitung SPC 120 Prüfungsvorbereitung
@@ -480,7 +480,6 @@
     Aspekte und Auswirkungen ihrer Anwendung (z. B. Mensch-Maschine-Interaktion, Barrierefreiheit,
     Chancengleichheit, Wirkung von informatischen Systemen auf das Geschlechterverhältnis,
     Personalführung, Dokumentation)
-  exam: Schriftliche Ausarbeitung eines Referats (ca. 2 000 Wörter);
   teachingunit:
     - type: Seminaristische Übung
       swstime: 3
@@ -493,6 +492,7 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Schriftliche Ausarbeitung eines Referats (ca. 2 000 Wörter);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -527,8 +527,6 @@
     elementare Treiber zu programmieren, Betriebssystemroutinen zu erweitern und die
     Schnittstellen anzusteuern. Anschließend sollen die Systeme vernetzt werden und
     mit ihrer Umwelt in Interaktion treten können.
-  exam: Praktische Prüfung (Darstellung theoretischer Hintergründe, Versuchsergebnis
-    und Protokollbuch)
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -549,6 +547,8 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Praktische Prüfung (Darstellung theoretischer Hintergründe, Versuchsergebnis
+    und Protokollbuch)
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -573,8 +573,6 @@
   content: 'Theoretische Rechenmodelle: Automaten, Turing-Maschinen. Formale Sprachen,
     Sprachakzeptoren, reguläre Ausdrücke, Grammatiken, Chomsky-Hierarchie, Berechenbarkeit,
     Komplexität'
-  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    (90 Minuten) durchgeführt werden.
   teachingunit:
     - type: Vorlesung
       swstime: 3
@@ -596,6 +594,8 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 210
   credit_points: 7
@@ -626,8 +626,6 @@
     eines Assistenten der Projektleitung ab. Es bietet ebenso grundlegendes Projektmanagementwissen,
     wie es für einen Projektmitarbeiter in herausgehobener Position im Projektteam
     unerlässlich ist.'
-  exam: Klausur (60 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    (60 Minuten) durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten);
   teachingunit:
     - type: Seminaristischer Unterricht
       swstime: 2 required
@@ -640,6 +638,8 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (60 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
+    (60 Minuten) durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -666,8 +666,6 @@
     und Orthonormalisierung; Hauptachsentransformation Anwendungen der Linearen Algebra
     in der affinen Geometrie, Statistische Datenanalyse und Codierungstheorie (lineare
     Codes).'
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -691,6 +689,8 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -717,8 +717,6 @@
     Strukturen – Kombinatorik: Abzählprinzipien, Binomialkoeffizienten und Stirling-Zahlen,
     Rekursion, Schubfachprinzip, diskrete Wahrscheinlichkeitsverteilungen – Graphentheorie:
     Graphen und ihre Darstellungen, Wege und Kreise in Graphen, Bäume'
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden;
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -740,6 +738,8 @@
       time: 105
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden;
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -783,8 +783,6 @@
     statische und dynamische Schnittstellen – Ereignisbasierte und strombasierte Verarbeitung
     – Sicherheit von Anwendungen im Netzwerk, Absicherung der Protokolle – Ausblick
     auf nichtfunktionale Eigenschaften (Zeit, Speicher, Dienstgüte)'
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -804,6 +802,8 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -835,8 +835,6 @@
     Entwurfsmuster (Iteratoren, Beobachtermuster, Strukturmuster, MVC usw.). Die Realisierung/Umsetzung
     der Konzepte werden anhand von modernen, gegenwärtig verwendeten, objektorientierten
     Programmiersprachen vorgestellt.'
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden.
   teachingunit:
     - type: Vorlesung
       swstime: 3
@@ -857,6 +855,8 @@
       time: 105
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 240
   credit_points: 8
@@ -891,8 +891,6 @@
     Entwurfsmuster (Iteratoren, Beobachtermuster, Strukturmuster, MVC usw.). Die Realisierung/Umsetzung
     der Konzepte werden anhand von modernen, gegenwärtig verwendeten, objektorientierten
     Programmiersprachen vorgestellt.'
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden.
   teachingunit:
     - type: Einführungskurs
       swstime: 1
@@ -919,6 +917,8 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 240
   credit_points: 8
@@ -950,7 +950,6 @@
     erörtert und Strategien zur Problemlösung besprochen. Schließlich werden Methoden
     und Kriterien zur Analyse und Dokumentation eines Tutoriums, einschließlich des
     Lernerfolgs und des Lehrerfolgs vorgestellt.
-  exam: Keine
   teachingunit:
     - type: Praxisseminar
       swstime: 3
@@ -963,6 +962,7 @@
       time: 45
     - type: Vor und Nachbereitung
       time: 105
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -995,8 +995,6 @@
     Puffer, Prozesse/Threads, virtueller Speicher, UNIX und Windows, Shells, Utilities,
     Peripherie und Vernetzung, Netze, Medien, Medienzugriff, Protokolle, Referenzmodelle,
     TCP/IP, grundlegender Aufbau des Internets.
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
-    Prüfungsleistung (120 Minuten) durchgeführt werden.
   teachingunit:
     - type: Vorlesung (Rechnerarchitektur)
       swstime: 2
@@ -1035,6 +1033,8 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (120 Minuten) durchgeführt werden.
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -1058,7 +1058,6 @@
   content: Fortschritte der Informatik und neue Anwendungen der Informatik sowie rechtliche
     Aspekte ihrer Anwendung in gesellschaftlichen Zusammenhängen (z. B. Datenschutz,
     Patentrecht, Rechtschutz, Vertragsrecht, Urheberrecht)
-  exam: Keine
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1073,6 +1072,7 @@
       time: 60
     - type: Vor- und Nachbereitung
       time: 90
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1107,7 +1107,6 @@
     kennen gelernt wurden, anhand der im Unternehmenseinsatz typischen Werkzeuge und
     Hilfsmittel durchgeführt werden. Es werden exemplarisch unternehmenstypische Softwarekomponenten
     und Werkzeuge zur Durchführung aller auftretenden Aufgaben vorgestellt und erprobt.
-  exam: Keine
   teachingunit:
     - type: Projektseminar
       swstime: 2
@@ -1120,6 +1119,7 @@
       time: und Nachbereitung
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Keine
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -1153,7 +1153,6 @@
     kennen gelernt wurden, anhand der im Unternehmenseinsatz typischen Werkzeuge und
     Hilfsmittel durchgeführt werden. Es werden exemplarisch unternehmenstypische Softwarekomponenten
     und Werkzeuge zur Durchführung aller auftretenden Aufgaben vorgestellt und erprobt.
-  exam: Präsentation der Ergebnisse und der Projekterfahrung (15 Minuten);
   teachingunit:
     - type: Projektseminar
       swstime: 2
@@ -1168,6 +1167,7 @@
       time: 30
     - type: er Projekterfahrung (15 Minuten);
       time: null
+  exam: Präsentation der Ergebnisse und der Projekterfahrung (15 Minuten);
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -1202,9 +1202,6 @@
     kostengünstige und hochwertige Resultate zu erzielen? (Projektmanagement, Prozessmanagement,
     Organisation) Den Studentinnen und Studenten wird empfohlen, das Modul „Softwaretechnik“
     und das Softwareprojekt/Berufspraktikum in demselben Semester zu absolvieren.'
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -1225,6 +1222,9 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -1255,8 +1255,6 @@
     Ressourcen (Fileservices, Printservices etc.) – Accounting und Logging, Datensicherung
     – Strategien und Technologien – Realisierungen unter unterschiedlichen Plattformen
     (Unix/Linux, Windows)'
-  exam: Praktische Prüfung – Vorbereitung und Durchführung einer typischen Aufgabe
-    mit abschließender Besprechung der Aufgabe (ca. 45 Minuten);
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1279,6 +1277,8 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
+  exam: Praktische Prüfung – Vorbereitung und Durchführung einer typischen Aufgabe
+    mit abschließender Besprechung der Aufgabe (ca. 45 Minuten);
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1310,7 +1310,6 @@
     Literatur genannt. Jeder Teilnehmer und jede Teilnehmerin wählt eines dieser Themen
     aus, erstellt dazu unter Anleitung eine wissenschaftliche Arbeit und bereitet
     dazu einen Vortrag vor.
-  exam: Vortrag (ca. 30 Minuten) mit anschließender Diskussion (ca. 10 Minuten)
   teachingunit:
     - type: Vorlesung
       swstime: 1
@@ -1331,6 +1330,7 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Vortrag (ca. 30 Minuten) mit anschließender Diskussion (ca. 10 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1357,8 +1357,6 @@
   content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Praktischen
     Informatik (z. B. Software Engineering, Datenbanksysteme, Datenverwaltung, Sicherheit
     in der Informationstechnologie, Künstliche Intelligenz, moderne Web-Technologien).
-  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten)
   teachingunit:
     - type: Hauptseminar
       swstime: 2
@@ -1371,6 +1369,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten)
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
@@ -1396,8 +1396,6 @@
     der Technischen Informatik und werden auf ihre Bachelorarbeit vorbereitet.
   content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Technischen
     Informatik (z. B. Mobilkommunikation, Sensornetze oder Robotik).
-  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten)
   teachingunit:
     - type: Hauptseminar
       swstime: 2
@@ -1410,6 +1408,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten)
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
@@ -1435,8 +1435,6 @@
     der Theoretischen Informatik und werden auf ihre Bachelorarbeit vorbereitet.
   content: Das Modul hat wechselnde inhaltliche Schwerpunkte aus dem Bereich der Theoretischen
     Informatik (z. B. Algorithmen, Komplexität, Theorie der Programmiersprachen).
-  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
-    45 Minuten)
   teachingunit:
     - type: Hauptseminar
       swstime: 2
@@ -1449,6 +1447,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Schriftliche Ausarbeitung (ca. 4 500 Wörter) mit mündlicher Präsentation (ca.
+    45 Minuten)
   language: Deutsch (ggf. Englisch)
   total_work: 150
   credit_points: 5
