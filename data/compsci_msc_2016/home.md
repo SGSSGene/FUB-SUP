@@ -12,4 +12,39 @@ Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende Abwe
 
     > Für die Module „Quantenchemie Korrelationsmethode“ (5 LP) und „Quantenreaktionsdynamik“ (5 LP) wird auf die
     > Studien- und Prüfungsordnung für den Masterstudiengang Chemie des Fachbereichs Biologie, Chemie und Pharmazie der Freien Universität Berlin verwiesen.
-Seite 199: Es wird auflistung mit buchstaben zu numerische aufzählung geändert (entspricht dem style aller anderen dokumente)
+- Seite 199: Es wird auflistung mit buchstaben zu numerische aufzählung geändert (entspricht dem style aller anderen dokumente)
+- Seite 192: Es fehlt der text am Ende:
+
+    > Für die Beschreibung des Moduls „Forschungsseminar computational sciences“
+    > (5 LP) siehe oben unter III. Spezialisierungsbereich, 1. Molecular Sciences,
+    > Buchst. b) Wahlpflichtteil. Für die Beschreibung des Moduls
+    > „Forschungsprojekt A“ siehe oben unter III. Spezialisierungsbereich, 1.
+    > Molecular Sciences, Buchst. b) Wahlpflichtteil. Für das Modul „Physik der
+    > Erde II“ (6 LP) wird auf die Studien- und Prüfungsordnung für den
+    > Masterstudiengang Geologische Wissenschaften des Fachbereichs
+    > Geowissenschaften der Freien Universität Berlin verwiesen. Für die
+    > Beschreibung der Module „Selected topics in theoretical computational
+    > sciences“ (5 LP) und „Selected topics in applied computational sciences“ (5
+    > LP) siehe oben unter III. Spezialisierungsbereich, 1. Molecular Sciences,
+    > Buchst. b) Wahlpflichtteil. Für das Modul „Thermodynamik und Kinetik von
+    > geologischen Prozessen“ (6 LP) wird auf die Studien- und Prüfungsordnung für
+    > den Masterstudiengang Geologische Wissenschaften des Fachbereichs
+    > Geowissenschaften der Freien Universität Berlin verwiesen.
+- Seite 194: Es fehlt der text am Ende:
+
+    > Für die Beschreibung des Moduls „Forschungsseminar computational sciences“
+    > (5 LP) siehe oben unter III. Spezialisierungsbereich, 1. Molecular Sciences,
+    > Buchst. b) Wahlpflichtteil. Für die Module „Klimavariabilität und -modelle“
+    > (8 LP), „Modelle für Wetter und Umwelt“ (8 LP), „Satellitenmeteorologie“ (8
+    > LP) wird auf die Studien- und Prüfungsordnung für den Masterstudiengang
+    > Meteorologie des Fachbereichs Geowissenschaften der Freien Universität
+    > Berlin verwiesen. Für die Beschreibung der Module „Selected topics in
+    > theoretical computational sciences“ (5 LP) und „Selected topics in applied
+    > computational sciences“ (5 LP) siehe oben unter III.
+    > Spezialisierungsbereich, 1. Molecular Sciences, Buchst. b) Wahlpflichtteil.
+    > Für die Module „Theoretische Meteorologie I“ (8 LP) und „Theoretische
+    > Meteorologie II“ (8 LP) wird auf die Studienund Prüfungsordnung für den
+    > Masterstudiengang Meteorologie des Fachbereichs Geowissenschaften der Freien
+    > Universität Berlin verwiesen.
+
+

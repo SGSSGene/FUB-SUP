@@ -2,52 +2,52 @@
   name: Computational Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten erlernen die interdisziplinären Grundzüge
-    wissenschaftlicher Arbeit in den „computational sciences“. Sie sind in der Lage,
-    Probleme der quantitativen Naturwissenschaften theoretisch zu beschreiben bzw.
-    die Realwelt-Bedeutung der involvierten Gleichungen zu verstehen. Sie können das
-    Problem in Algorithmen formulieren bzw. rechnergestützte Lösungsmethoden identifizieren.
-    Sie können diese rechnergestützten Verfahren numerisch beschreiben und entsprechend
-    stabile Lösungsmethoden auswählen. Sie können diese Algorithmen implementieren,
-    ihre Laufzeit- und Speichereffizienz bewerten und optimieren.
-  content: 'Hauptinhalt dieses Moduls ist das Erlernen von Arbeitsmethoden. Es werden
-    1 bis 3 Probleme von disziplinübergreifender Relevanz ausgewählt, und an diesen
-    Beispielen naturwissenschaftliche Theorie, Algorithmik, Numerik und Effizienz
-    durchexerziert. In den Computerübungen werden Implementierungen der entsprechenden
-    Probleme in Teamarbeit entwickelt, getestet und optimiert. Beispiele für geeignete
-    Probleme sind u. a.:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten erlernen die interdisziplinären Grundzüge
+    wissenschaftlicher Arbeit in den „computational sciences“. Sie sind in der
+    Lage, Probleme der quantitativen Naturwissenschaften theoretisch zu
+    beschreiben bzw. die Realwelt-Bedeutung der involvierten Gleichungen zu
+    verstehen. Sie können das Problem in Algorithmen formulieren bzw.
+    rechnergestützte Lösungsmethoden identifizieren. Sie können diese
+    rechnergestützten Verfahren numerisch beschreiben und entsprechend stabile
+    Lösungsmethoden auswählen. Sie können diese Algorithmen implementieren, ihre
+    Laufzeit- und Speichereffizienz bewerten und optimieren.
+  content: |
+    Hauptinhalt dieses Moduls ist das Erlernen von Arbeitsmethoden. Es werden 1
+    bis 3 Probleme von disziplinübergreifender Relevanz ausgewählt, und an
+    diesen Beispielen naturwissenschaftliche Theorie, Algorithmik, Numerik und
+    Effizienz durchexerziert. In den Computerübungen werden Implementierungen
+    der entsprechenden Probleme in Teamarbeit entwickelt, getestet und
+    optimiert. Beispiele für geeignete Probleme sind u. a.:
 
-    -  Wellen und Schwingungen in der Physik, Fourier- und Laplace-Transformation,
-    Diskretisierung, DFT, FFT, Implementierung, Stabilitätsanalyse, Laufzeitanalyse,
-    Code- Optimierung, Hardwarebeschleunigung.
-
-    -  Gravitationsproblem und Coulomb-Gesetz, Periodische Systeme und Konvergenz,
-    Ewald-Summierung, Fehleranalyse, Particle-Mesh-Ewald, Effiziente Implementierung,
-    Hardwarebeschleunigung.
-
-    -  Wärmeleitungsgleichung, Poissongleichung, parabolische PDEs, PDE, Analytische
-    Lösungen für Spezialfälle, Gebietszerlegung/Finite-Elemente- Approximation, Lösung
-    mit algebraischen Methoden, Implementierung, Konvergenzanalyse, Code-Optimierung,
-    Hardwarebeschleunigung.
-
-    -  Beispiele korrelierter, hochdimensionaler Signale, Hauptkomponentenanalyse,
-    Rayleigh-Koeffizient und Optimalitätsprinzip, Eigenwertproblem, Singulärwertzerlegung
-    und herkömmliche Lösungsverfahren, Nyström-Approximation und sparse sampling,
-    Effiziente Implementierung.'
+    - Wellen und Schwingungen in der Physik, Fourier- und
+      Laplace-Transformation, Diskretisierung, DFT, FFT, Implementierung,
+      Stabilitätsanalyse, Laufzeitanalyse, Code- Optimierung,
+      Hardwarebeschleunigung.
+    - Gravitationsproblem und Coulomb-Gesetz, Periodische Systeme und
+      Konvergenz, Ewald-Summierung, Fehleranalyse, Particle-Mesh-Ewald,
+      Effiziente Implementierung, Hardwarebeschleunigung.
+    - Wärmeleitungsgleichung, Poissongleichung, parabolische PDEs, PDE,
+      Analytische Lösungen für Spezialfälle, Gebietszerlegung/Finite-Elemente-
+      Approximation, Lösung mit algebraischen Methoden, Implementierung,
+      Konvergenzanalyse, Code-Optimierung, Hardwarebeschleunigung.
+    - Beispiele korrelierter, hochdimensionaler Signale,
+      Hauptkomponentenanalyse, Rayleigh-Koeffizient und Optimalitätsprinzip,
+      Eigenwertproblem, Singulärwertzerlegung und herkömmliche Lösungsverfahren,
+      Nyström-Approximation und sparse sampling, Effiziente Implementierung.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Ausarbeitung einer effizienten kommentierten Implementierung
-        im Team. Regelmäßige Präsentation von Zwischenergebnissen. Erfolgreiche Bearbeitung
-        von projektbegleitenden Aufgaben.
+      activity: |
+        Erfolgreiche Ausarbeitung einer effizienten kommentierten Implementierung im Team. Regelmäßige Präsentation von Zwischenergebnissen. Erfolgreiche Bearbeitung von projektbegleitenden Aufgaben.
     - type: Projektseminar
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Ausarbeitung einer effizienten kommentierten Implementierung
-        im Team. Regelmäßige Präsentation von Zwischenergebnissen. Erfolgreiche Bearbeitung
-        von projektbegleitenden Aufgaben.
+      activity: |
+        Erfolgreiche Ausarbeitung einer effizienten kommentierten Implementierung im Team. Regelmäßige Präsentation von Zwischenergebnissen. Erfolgreiche Bearbeitung von projektbegleitenden Aufgaben.
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -59,42 +59,48 @@
       time: 160
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Klausur (120 Minuten)
+  exam: |
+    Klausur (120 Minuten)
   language: Englisch
   total_work: 450
   credit_points: 15
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 12
   name: Einführung in die Molekülspektroskopie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Erfolgreich absolviertes Modul „Atombau und chemische Bindung“ (8
-    LP) des Bachelorstudiengangs Chemie des Fachbereichs Biologie, Chemie und Pharmazie
-    der Freien Universität Berlin oder vergleichbare Kenntnisse in der Quantenmechanik
-  goals: Die Studentinnen und Studenten können Rotations-, Schwingungs- und elektronische
-    Spektren als wichtige Hilfsmittel zur Erforschung der geometrischen Struktur,
-    der elektronischen Struktur sowie energetischer und weiterer Eigenschaften von
-    Molekülen bis hin zur qualitativen Analyse größerer Moleküle anwenden. Durch aktuelle
-    Beispiele der optischen Spektroskopie haben die Studentinnen und Studenten ein
-    vertieftes Wissen über die Zusammenhänge und verstehen die fundamentale Bedeutung
-    der Spektroskopie in Wissenschaft und Technik. Sie lösen Übungsaufgaben und besprechen
-    ihre Lösungen in Gruppen.
-  content: Physikalische Grundlagen der elektromagnetischen Strahlung, Wechselwirkung
-    elektromagnetischer Strahlung mit Materie mit/ohne Absorption und Emission von
-    Photonen, experimentelle Aspekte, Rotationsspektroskopie, Schwingungsspektroskopie,
-    elektronische Übergänge.
+  requirements: |
+    Erfolgreich absolviertes Modul „Atombau und chemische Bindung“ (8 LP) des Bachelorstudiengangs Chemie des Fachbereichs Biologie, Chemie und Pharmazie der Freien Universität Berlin oder vergleichbare Kenntnisse in der Quantenmechanik
+  goals: |
+    Die Studentinnen und Studenten können Rotations-, Schwingungs- und
+    elektronische Spektren als wichtige Hilfsmittel zur Erforschung der
+    geometrischen Struktur, der elektronischen Struktur sowie energetischer und
+    weiterer Eigenschaften von Molekülen bis hin zur qualitativen Analyse
+    größerer Moleküle anwenden. Durch aktuelle Beispiele der optischen
+    Spektroskopie haben die Studentinnen und Studenten ein vertieftes Wissen
+    über die Zusammenhänge und verstehen die fundamentale Bedeutung der
+    Spektroskopie in Wissenschaft und Technik. Sie lösen Übungsaufgaben und
+    besprechen ihre Lösungen in Gruppen.
+  content: |
+    Physikalische Grundlagen der elektromagnetischen Strahlung, Wechselwirkung
+    elektromagnetischer Strahlung mit Materie mit/ohne Absorption und Emission
+    von Photonen, experimentelle Aspekte, Rotationsspektroskopie,
+    Schwingungsspektroskopie, elektronische Übergänge.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
+      activity: |
+        Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
+      activity: |
+        Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -106,41 +112,50 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (120 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten);
+  exam: |
+    Klausur (120 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 13
   name: Einführung in die Theoretische Chemie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten kennen grundlegende analytische und numerische
-    Konzepte und Methoden der Theoretischen Chemie. Sie können zeitunabhängige und
-    zeitabhängige quantenmechanische Methoden für ausgewählte Modellsysteme der Chemie
-    anwenden und verfügen über die numerischen Fähigkeiten entsprechende Computersimulationen
-    durchzuführen. Dadurch erlangen sie ein vertieftes Verständnis für Eigenschaften
-    von Molekülen und chemischen Reaktionen.
-  content: Vertiefende mathematische Darstellung der zeitunabhängigen und zeitabhängigen
-    Quantenmechanik, Lösen von quantenmechanischen Ein-Teilchen-Problemen (freies
-    Teilchen, harmonischer Oszillator, Wasserstoffatom), Kerndynamik (Schwingung und
-    Rotation), Kernschwingungen mehratomiger Moleküle, zeitabhängige und zeitunabhängige
-    Störungsrechnung, ausgewählte numerische Lösungsverfahren zur Berechnung von zeitabhängigen
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten kennen grundlegende analytische und
+    numerische Konzepte und Methoden der Theoretischen Chemie. Sie können
+    zeitunabhängige und zeitabhängige quantenmechanische Methoden für
+    ausgewählte Modellsysteme der Chemie anwenden und verfügen über die
+    numerischen Fähigkeiten entsprechende Computersimulationen durchzuführen.
+    Dadurch erlangen sie ein vertieftes Verständnis für Eigenschaften von
+    Molekülen und chemischen Reaktionen.
+  content: |
+    Vertiefende mathematische Darstellung der zeitunabhängigen und
+    zeitabhängigen Quantenmechanik, Lösen von quantenmechanischen
+    Ein-Teilchen-Problemen (freies Teilchen, harmonischer Oszillator,
+    Wasserstoffatom), Kerndynamik (Schwingung und Rotation), Kernschwingungen
+    mehratomiger Moleküle, zeitabhängige und zeitunabhängige Störungsrechnung,
+    ausgewählte numerische Lösungsverfahren zur Berechnung von zeitabhängigen
     quantenmechanischen Modellsystemen.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse
+      activity: |
+        Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse
+      activity: |
+        Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -156,49 +171,54 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: ziert bewertet.
+  exam: |
+    ziert bewertet.
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Computational Science
+  usability: |
+    Masterstudiengang Computational Science
   differentiated: true
 - page: 14
   name: Quantenmechanische Beschreibung von Atomen und chemischer Bindung
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten haben ein grundlegendes Verständnis der Quantenmechanik
-    und ihrer Anwendung auf einfache, chemisch relevante Beispiele. Sie können die
-    Elektronenstruktur von Atomen und kleinen Molekülen mit mathematischen Werkzeugen
-    beschreiben und kennen Atommodelle und die quantenmechanischen Grundlagen spektroskopischer
-    Messungen. Sie kennen die quantentheoretischen Zusammenhänge von Orbitalen und
-    chemischer Bindung. Sie können eigenständig und in Gruppen einfache Fragestellungen
-    zur Quantennatur chemischer Modellsysteme analytisch und mit ausgewählten numerischen
-    Methoden bearbeiten, diese didaktisch aufbereiten und Gender- und Diversity-spezifisch
-    präsentieren.
-  content: Einführung in die Quantennatur der Materie und Energie, Grundlagen der
-    Quantentheorie, quantenmechanische Lösungen der zeitunabhängigen Schrödinger-Gleichung
-    für chemisch relevante Modellsysteme, Quantentheorie des Bahndrehimpulses und
-    des Spins. Quantenmechanik des Wasserstoffatoms, Mehrelektronenatome, Spin- Bahn-Kopplung,
-    Theorie der Chemischen Bindung, elementare Quantentheorie einfacher Moleküle.
-    Analytische und numerische Lösungsansätze für einfache quantenmechanische Probleme.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben ein grundlegendes Verständnis der
+    Quantenmechanik und ihrer Anwendung auf einfache, chemisch relevante
+    Beispiele. Sie können die Elektronenstruktur von Atomen und kleinen
+    Molekülen mit mathematischen Werkzeugen beschreiben und kennen Atommodelle
+    und die quantenmechanischen Grundlagen spektroskopischer Messungen. Sie
+    kennen die quantentheoretischen Zusammenhänge von Orbitalen und chemischer
+    Bindung. Sie können eigenständig und in Gruppen einfache Fragestellungen zur
+    Quantennatur chemischer Modellsysteme analytisch und mit ausgewählten
+    numerischen Methoden bearbeiten, diese didaktisch aufbereiten und Gender-
+    und Diversity-spezifisch präsentieren.
+  content: |
+    Einführung in die Quantennatur der Materie und Energie, Grundlagen der
+    Quantentheorie, quantenmechanische Lösungen der zeitunabhängigen
+    Schrödinger-Gleichung für chemisch relevante Modellsysteme, Quantentheorie
+    des Bahndrehimpulses und des Spins. Quantenmechanik des Wasserstoffatoms,
+    Mehrelektronenatome, Spin- Bahn-Kopplung, Theorie der Chemischen Bindung,
+    elementare Quantentheorie einfacher Moleküle. Analytische und numerische
+    Lösungsansätze für einfache quantenmechanische Probleme.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
-
-        Erarbeitung eines quantentheoretischen Themas mit numerischen Methoden und
-        dessen Präsentation'
+      activity: |
+        Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
+        Erarbeitung eines quantentheoretischen Themas mit numerischen Methoden und dessen Präsentation
     - type: Übungen
       swstime: 2
       attendance: recommended
-      activity: 'Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
-
-        Erarbeitung eines quantentheoretischen Themas mit numerischen Methoden und
-        dessen Präsentation'
+      activity: |
+        Bearbeitung von Übungsaufgaben, Diskussionsbeiträge
+        Erarbeitung eines quantentheoretischen Themas mit numerischen Methoden und dessen Präsentation
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -210,57 +230,56 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (180 Minuten), die auch in Form einer elektronischen Prüfungsten)
+  exam: |
+    Klausur (180 Minuten), die auch in Form einer elektronischen Prüfungsten)
     oder Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 15
   name: Grundlagen der Fernerkundung und digitalen Bildverarbeitung
   organizer: Freie Universität Berlin/Geowissenschaften
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten verfügen über grundlegende Fähigkeiten und
-    Fertigkeiten der digitalen geowissenschaftlichen Fernerkundung und digitalen Bildverarbeitung.
-    Sie können eigenständig und in Gruppen Fragenstellungen zur Fernerkundung und
-    Bildverarbeitung mit ausgewählten numerischen Methoden bearbeiten, diese didaktisch
-    aufbereiten und Gender- und Diversity-spezifisch präsentieren.
-  content: 'Es wird eine theoretische Einführung in die Thematik gegeben und ausgewählte
-    Aspekte an praktischen Beispielen mithilfe gängiger Softwarepakete vertieft und
-    geübt. Gegenstand sind die Grundlagen von:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verfügen über grundlegende Fähigkeiten und
+    Fertigkeiten der digitalen geowissenschaftlichen Fernerkundung und digitalen
+    Bildverarbeitung. Sie können eigenständig und in Gruppen Fragenstellungen
+    zur Fernerkundung und Bildverarbeitung mit ausgewählten numerischen Methoden
+    bearbeiten, diese didaktisch aufbereiten und Gender- und
+    Diversity-spezifisch präsentieren.
+  content: |
+    Es wird eine theoretische Einführung in die Thematik gegeben und ausgewählte
+    Aspekte an praktischen Beispielen mithilfe gängiger Softwarepakete vertieft
+    und geübt. Gegenstand sind die Grundlagen von:
 
     - Einführung in die Strahlungsphysik
-
     - Grundlagen der Photogrammetrie
-
     - digitale und analoge passive Aufnahmesysteme
-
     - Visualisierung multispektraler Daten
-
     - Grundlagen Bildverarbeitung
-
     - spezielle Informationsextraktion (z. B. Indizes, PCA)
-
     - Interpretation von Fernerkundungsdaten
-
     - Zeitreihenanalyse mit Rasterdaten (Change Detection)
-
     - multispektrale Klassifizierungsverfahren
-
-    - Einführung in aktive Fernerkundungssysteme'
+    - Einführung in aktive Fernerkundungssysteme
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Übungsaufgaben
+      activity: |
+        Übungsaufgaben
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: Übungsaufgaben
+      activity: |
+        Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -272,43 +291,52 @@
       time: 25
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr, jedes Wintersemester
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 16
   name: Grundlagen der Hydro- und Klimageographie
   organizer: Freie Universität Berlin/Geowissenschaften
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten beherrschen die grundlegenden Kenntnisse der
-    Klima- und Hydrogeographie, insbesondere die Fachterminologie und können sie im
-    wissenschaftlichen Diskurs anwenden. Sie können globale Zusammenhänge des Klimasystems
-    inklusive der Wechselwirkung mit den Ozeanen, der Allgemeinen Zirkulation der
-    Atmosphäre und Elemente des Wasserkreislaufs beschreiben.
-  content: Es werden die Grundlagen der Klima- und Hydrogeographie dargestellt. Dazu
-    zählen u. a. die Grundlagen des Klimasystems, Strahlungs- und Wärmehaushalt, Allgemeine
-    Zirkulation der Atmosphäre, Klimaklassifikationen, Rolle der Ozeane im Klimasystem,
-    Elemente des Wasserkreislaufs und deren raumzeitliche Ausprägung und messtechnische
-    Erfassung sowie Wasserbilanz und Wasserhaushalt auf unterschiedlichen Maßstabsebenen.
-    Ausgewählte Inhalte werden vertieft. Hierzu werden selbstständig oder in Kleingruppen
-    Übungsaufgaben bearbeitet. Zusätzlich wird eine Einführung in wissenschaftliches
-    Arbeiten, insbesondere in den Umgang mit Fachliteratur, z. B. Grundlagen der Literaturaufbereitung
-    und des korrekten Zitierens wissenschaftlicher Texte, vermittelt.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten beherrschen die grundlegenden Kenntnisse der
+    Klima- und Hydrogeographie, insbesondere die Fachterminologie und können sie
+    im wissenschaftlichen Diskurs anwenden. Sie können globale Zusammenhänge des
+    Klimasystems inklusive der Wechselwirkung mit den Ozeanen, der Allgemeinen
+    Zirkulation der Atmosphäre und Elemente des Wasserkreislaufs beschreiben.
+  content: |
+    Es werden die Grundlagen der Klima- und Hydrogeographie dargestellt. Dazu
+    zählen u. a. die Grundlagen des Klimasystems, Strahlungs- und Wärmehaushalt,
+    Allgemeine Zirkulation der Atmosphäre, Klimaklassifikationen, Rolle der
+    Ozeane im Klimasystem, Elemente des Wasserkreislaufs und deren raumzeitliche
+    Ausprägung und messtechnische Erfassung sowie Wasserbilanz und
+    Wasserhaushalt auf unterschiedlichen Maßstabsebenen. Ausgewählte Inhalte
+    werden vertieft. Hierzu werden selbstständig oder in Kleingruppen
+    Übungsaufgaben bearbeitet. Zusätzlich wird eine Einführung in
+    wissenschaftliches Arbeiten, insbesondere in den Umgang mit Fachliteratur,
+    z. B. Grundlagen der Literaturaufbereitung und des korrekten Zitierens
+    wissenschaftlicher Texte, vermittelt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Übungsaufgaben, Referat
+      activity: |
+        Übungsaufgaben, Referat
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: Übungsaufgaben, Referat
+      activity: |
+        Übungsaufgaben, Referat
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -320,65 +348,61 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Zwei Semester
   repeat: Mindestens einmal im Studienjahr, jedes Wintersemester
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 17
   name: Grundlagen von geographischen Informationssystemen
   organizer: Freie Universität Berlin/Geowissenschaften
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten verfügen über grundlegende Fähigkeiten und
-    Fertigkeiten der digitalen, räumlichen Informationsverarbeitung für das geowissenschaftliche
-    Arbeiten. Sie können eigenständig und in Gruppen Fragenstellungen zu geographischen
-    Informationssystemen mit ausgewählten rechnergestützten Methoden bearbeiten, diese
-    didaktisch aufbereiten und Gender- und Diversity-spezifisch präsentieren.
-  content: 'Es werden eine theoretische Einführung in die Thematik gegeben und ausgewählte
-    Aspekte an praktischen Beispielen mithilfe gängiger Softwarepakete vertieft und
-    geübt. Dabei werden Grundlagen von:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verfügen über grundlegende Fähigkeiten und
+    Fertigkeiten der digitalen, räumlichen Informationsverarbeitung für das
+    geowissenschaftliche Arbeiten. Sie können eigenständig und in Gruppen
+    Fragenstellungen zu geographischen Informationssystemen mit ausgewählten
+    rechnergestützten Methoden bearbeiten, diese didaktisch aufbereiten und
+    Gender- und Diversity-spezifisch präsentieren.
+  content: |
+    Es werden eine theoretische Einführung in die Thematik gegeben und
+    ausgewählte Aspekte an praktischen Beispielen mithilfe gängiger
+    Softwarepakete vertieft und geübt. Dabei werden Grundlagen von:
 
     - Struktur und Anwendungen von Geoinformationssystemen
-
     - Datenmodelle (Raster-/Vektordaten)
-
-    - Methoden und Probleme der Abbildung des Georaumes (geodätische Referenzsysteme)
-
+    - Methoden und Probleme der Abbildung des Georaumes (geodätische
+      Referenzsysteme)
     - Georeferenzierung
-
     - Extraktion und Verarbeitung von Vektordaten
-
     - Verarbeitung räumlicher und attributiver Informationen
-
     - Geodatenbanken
-
     - Interpolationsverfahren
-
     - Erstellung und Analyse digitaler Geländemodelle
-
     - Extraktion hydrologischer Parameter
-
     - Visualisierung von Geodaten
-
     - Schnittstellen der Geodatenverarbeitung
-
     - Entwicklung und Erstellung und von Karten
-
-    - Grundlagen der Fernerkundung behandelt.'
+    - Grundlagen der Fernerkundung behandelt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Übungsaufgaben
+      activity: |
+        Übungsaufgaben
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: Übungsaufgaben
+      activity: |
+        Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -390,58 +414,69 @@
       time: 25
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prü- (ca. 30 Minuten)
-    oder Hausarbeit (ca. 15 Seiten);
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prü- (ca. 30
+    Minuten) oder Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr, jedes Sommersemester
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 18
   name: Synchronisierung Erde
   organizer: Freie Universität Berlin/Geowissenschaften
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten verfügen über ein grundlegendes Verständnis
-    für Struktur, Zusammensetzung und Prozesse unseres Planeten sowie für die Einzigartigkeit
-    der Erde im planetarischen Vergleich. Sie sind mit den physischen und chemischen
-    Prozessen, die oberflächengestaltend wirken, und ihren Antriebskräften im Erdinneren
-    vertraut. Sie kennen den Erdaufbau und seine Bedeutung und kennen Methoden, die
-    Geowissenschaftler zur Erkundung des Erdinneren benutzen. Die Studentinnen und
-    Studenten kennen die geologischen Kreisläufe und ihre Zeitrahmen. Sie sind in
-    der Lage, die wichtigsten gesteinsbildenden Minerale und Gesteine zu identifizieren
-    und können diese den Bildungsbedingungen zuordnen. Die Studentinnen und Studenten
-    verfügen über ein weiterführendes Verständnis für Struktur, Zusammensetzung und
-    Prozesse unseres Planeten. Sie besitzen ein grundlegendes Verständnis für die
-    Interaktivität zwischen festem Erdkörper, Atmosphäre, Hydrosphäre und Biosphäre
-    sowie für (vorwiegend exogene) Prozesse auf verschiedenen Zeitskalen.
-  content: Es werden die Themen Fundamentale Systeme und Prozesse des Planeten Erde,
-    Raum und Zeit, Stoffbestand, geowissenschaftliche Kreisläufe, Interaktion zwischen
-    Hydrosphäre, Atmosphäre, Geosphäre; relatives und absolutes Alter, sedimentäre
-    Zyklen (Verwitterung Erosion, Sedimentation), phänomenologische Geophysik, Magmatismus,
-    Metamorphose, Struktur, Plattentektonik, Prozesse und gegenseitiges Wechselspiel
-    von Tektonik, Verwitterung, Erosion, Klima, Transportvorgängen und Ablagerungsräumen
-    in Abhängigkeit von exogenen und endogenen Variablen; Einfluss von Organismen
-    auf diese Prozesse; Kohlenstoffkreislauf; Klimawechsel; Oberflächengestaltende
-    Prozesse im Wechselspiel zwischen Klima, atmosphärischer Zusammensetzung, Tektonik;
-    Massenbilanzen und Massenflüsse im globalen Systemangeboten. Die Studentinnen
-    und Studenten befassen sich mit der Makroskopische Bestimmung von Mineralen und
-    Gesteinen.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verfügen über ein grundlegendes Verständnis
+    für Struktur, Zusammensetzung und Prozesse unseres Planeten sowie für die
+    Einzigartigkeit der Erde im planetarischen Vergleich. Sie sind mit den
+    physischen und chemischen Prozessen, die oberflächengestaltend wirken, und
+    ihren Antriebskräften im Erdinneren vertraut. Sie kennen den Erdaufbau und
+    seine Bedeutung und kennen Methoden, die Geowissenschaftler zur Erkundung
+    des Erdinneren benutzen. Die Studentinnen und Studenten kennen die
+    geologischen Kreisläufe und ihre Zeitrahmen. Sie sind in der Lage, die
+    wichtigsten gesteinsbildenden Minerale und Gesteine zu identifizieren und
+    können diese den Bildungsbedingungen zuordnen. Die Studentinnen und
+    Studenten verfügen über ein weiterführendes Verständnis für Struktur,
+    Zusammensetzung und Prozesse unseres Planeten. Sie besitzen ein
+    grundlegendes Verständnis für die Interaktivität zwischen festem Erdkörper,
+    Atmosphäre, Hydrosphäre und Biosphäre sowie für (vorwiegend exogene)
+    Prozesse auf verschiedenen Zeitskalen.
+  content: |
+    Es werden die Themen Fundamentale Systeme und Prozesse des Planeten Erde,
+    Raum und Zeit, Stoffbestand, geowissenschaftliche Kreisläufe, Interaktion
+    zwischen Hydrosphäre, Atmosphäre, Geosphäre; relatives und absolutes Alter,
+    sedimentäre Zyklen (Verwitterung Erosion, Sedimentation), phänomenologische
+    Geophysik, Magmatismus, Metamorphose, Struktur, Plattentektonik, Prozesse
+    und gegenseitiges Wechselspiel von Tektonik, Verwitterung, Erosion, Klima,
+    Transportvorgängen und Ablagerungsräumen in Abhängigkeit von exogenen und
+    endogenen Variablen; Einfluss von Organismen auf diese Prozesse;
+    Kohlenstoffkreislauf; Klimawechsel; Oberflächengestaltende Prozesse im
+    Wechselspiel zwischen Klima, atmosphärischer Zusammensetzung, Tektonik;
+    Massenbilanzen und Massenflüsse im globalen Systemangeboten. Die
+    Studentinnen und Studenten befassen sich mit der Makroskopische Bestimmung
+    von Mineralen und Gesteinen.
   teachingunit:
     - type: Grundkurs 1
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
     - type: Praktikum
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
     - type: Grundkurs 2
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
   workload:
     - type: Präsenzzeit GK1
       time: 30
@@ -457,81 +492,81 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Zwei Semester
   repeat: Sommersemester)
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 19
   name: Complex Algorithms A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten beherrschen grundlegende Kenntnisse der gängigen
-    Entwurfstechniken für Algorithmen und können Algorithmen mit ihrer Hilfe entwerfen.
-    Sie können Algorithmen in Bezug auf ihren Laufzeit- und Speicherbedarf analysieren
-    und dabei auch fortgeschrittene Analysemethoden verwenden. Sie haben ein Grundlegendes
-    Verständnis der Theorie der NP-Vollständigkeit. Sie kennen die gängigen Komplexitätsklassen
-    und können einfache Probleme in ihrer Komplexität einordnen. Sie vertiefen diese
-    Fähigkeiten selbstständig in einem ausgewählten Themengebiet der höheren Informatik.
-    Die Studentinnen und Studenten können Komplexere Algorithmen auf eines der folgenden
-    Themen anwenden: Verteilte Systeme, Mustererkennung, Datenbanktechnologie oder
-    Künstliche Intelligenz.'
-  content: 'Es werden Aspekte folgender Themen behandelt: Wege- und Flussprobleme
-    in Graphen, String-Matching, randomisierte Algorithmen, amortisierte Analyse,
-    das „Master-Theorem“ zur Analyse von Teile-und-herrsche-Rekursionsgleichungen,
-    NP-Vollständigkeit, Approximationsalgorithmen für schwere Probleme, zahlentheoretische
-    Algorithmen (einschließlich RSA-Kryptosystem), Arithmetische Algorithmen und Schaltkreise
-    sowie schnelle Fourier- Transformation. Diese werden anschließend exemplarisch
-    vertieft bearbeitet. Es stehen folgenden Themen zur Verfügung:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten beherrschen grundlegende Kenntnisse der
+    gängigen Entwurfstechniken für Algorithmen und können Algorithmen mit ihrer
+    Hilfe entwerfen. Sie können Algorithmen in Bezug auf ihren Laufzeit- und
+    Speicherbedarf analysieren und dabei auch fortgeschrittene Analysemethoden
+    verwenden. Sie haben ein Grundlegendes Verständnis der Theorie der
+    NP-Vollständigkeit. Sie kennen die gängigen Komplexitätsklassen und können
+    einfache Probleme in ihrer Komplexität einordnen. Sie vertiefen diese
+    Fähigkeiten selbstständig in einem ausgewählten Themengebiet der höheren
+    Informatik. Die Studentinnen und Studenten können Komplexere Algorithmen auf
+    eines der folgenden Themen anwenden: Verteilte Systeme, Mustererkennung,
+    Datenbanktechnologie oder Künstliche Intelligenz.
+  content: |
+    Es werden Aspekte folgender Themen behandelt: Wege- und Flussprobleme in
+    Graphen, String-Matching, randomisierte Algorithmen, amortisierte Analyse,
+    das „Master-Theorem“ zur Analyse von
+    Teile-und-herrsche-Rekursionsgleichungen, NP-Vollständigkeit,
+    Approximationsalgorithmen für schwere Probleme, zahlentheoretische
+    Algorithmen (einschließlich RSA-Kryptosystem), Arithmetische Algorithmen und
+    Schaltkreise sowie schnelle Fourier- Transformation. Diese werden
+    anschließend exemplarisch vertieft bearbeitet. Es stehen folgenden Themen
+    zur Verfügung:
 
-    - Verteilte Systeme, Verteilte Algorithmen, Verteilte Datenverwaltung, Suchverfahren
-    für die Lösung kombinatorischer Aufgaben,
-
-    - Prädikatenlogik und ihre Mechanisierung, Resolution und Theorembeweise, wissensbasierte
-    und Expertensysteme, Diffuse Logik,
-
-    - Baye’sche Verfahren der Mustererkennung, Clustering, Expectation-Maximization,
-    Neuronale Netze und Lernalgorithmen, Assoziative Netze, Rekurrente Netze. Computer-Vision
-    mit neuronalen Netzen,
-
-    - Datenbank-Zugriffstechniken und Anfrageoptimierung, Realisierung von Transaktionen,
-    insbesondere Synchronisationsverfahren, die technische, Maßnahmen, die Datenbanksysteme
-    fehlertolerant machen. Verfahren zur effizienten Verwaltung andersartiger großer
-    Datenbestände, insbesondere von XML-Dokumenten, korrekte Implementierung transaktionaler
-    Garantien in Datenverwaltungssystemen.'
+    - Verteilte Systeme, Verteilte Algorithmen, Verteilte Datenverwaltung,
+      Suchverfahren für die Lösung kombinatorischer Aufgaben,
+    - Prädikatenlogik und ihre Mechanisierung, Resolution und Theorembeweise,
+      wissensbasierte und Expertensysteme, Diffuse Logik,
+    - Baye’sche Verfahren der Mustererkennung, Clustering,
+      Expectation-Maximization, Neuronale Netze und Lernalgorithmen, Assoziative
+      Netze, Rekurrente Netze. Computer-Vision mit neuronalen Netzen,
+    - Datenbank-Zugriffstechniken und Anfrageoptimierung, Realisierung von
+      Transaktionen, insbesondere Synchronisationsverfahren, die technische,
+      Maßnahmen, die Datenbanksysteme fehlertolerant machen. Verfahren zur
+      effizienten Verwaltung andersartiger großer Datenbestände, insbesondere
+      von XML-Dokumenten, korrekte Implementierung transaktionaler Garantien in
+      Datenverwaltungssystemen.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Forschungsthemas'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Forschungsthemas
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Forschungsthemas'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Forschungsthemas
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Forschungsthemas'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Forschungsthemas
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -549,65 +584,66 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 21
   name: Computer Science and Data Structures A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten haben grundlegende Fähigkeiten zur Entwicklung
-    von objektorientierter Software: Sie beherrschen den Umgang mit Datenabstraktion,
-    Vererbung und polymorphen Typsystemen und sind in der Lage, abstrakte Datentypen
-    zu spezifizieren und zu implementieren, Korrektheitsbeweise für die Implementierungen
-    abstrakter Datentypen durchzuführen und unter Einbeziehung von Effizienzanalysen
-    eine Entscheidung über die jeweils zu wählende Datenrepräsentation zu treffen.
-    Sie kennen die wichtigsten abstrakten Datentypen und ihre gängigen Implementierungen
-    sowie die entsprechenden Schnittstellen und Klassen aus den Bibliotheken der verwendeten
-    Programmiersprache.'
-  content: Ausgangspunkt ist das Geheimnisprinzip und seine Bedeutung für die Strukturierung
-    von Programmen und die Konstruktion von Datenobjekten mittels Modulen und Klassen.
-    Eine zentrale Rolle bei der Modellierung von Daten spielt der Begriff der Datenabstraktion,
-    verbunden mit der Unterscheidung zwischen Spezifikation und Implementierung abstrakter
-    Datenobjekte und Datentypen. Folgen, Mengen, Relationen, Bäume, Graphen und geometrische
-    Objekte werden als abstrakte Typen eingeführt. Anschließend werden effizient manipulierbare
-    Repräsentationen dieser Typen betrachtet und die zugehörigen Algorithmen auf ihre
-    Komplexität hin untersucht.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben grundlegende Fähigkeiten zur
+    Entwicklung von objektorientierter Software: Sie beherrschen den Umgang mit
+    Datenabstraktion, Vererbung und polymorphen Typsystemen und sind in der
+    Lage, abstrakte Datentypen zu spezifizieren und zu implementieren,
+    Korrektheitsbeweise für die Implementierungen abstrakter Datentypen
+    durchzuführen und unter Einbeziehung von Effizienzanalysen eine Entscheidung
+    über die jeweils zu wählende Datenrepräsentation zu treffen. Sie kennen die
+    wichtigsten abstrakten Datentypen und ihre gängigen Implementierungen sowie
+    die entsprechenden Schnittstellen und Klassen aus den Bibliotheken der
+    verwendeten Programmiersprache.
+  content: |
+    Ausgangspunkt ist das Geheimnisprinzip und seine Bedeutung für die
+    Strukturierung von Programmen und die Konstruktion von Datenobjekten mittels
+    Modulen und Klassen. Eine zentrale Rolle bei der Modellierung von Daten
+    spielt der Begriff der Datenabstraktion, verbunden mit der Unterscheidung
+    zwischen Spezifikation und Implementierung abstrakter Datenobjekte und
+    Datentypen. Folgen, Mengen, Relationen, Bäume, Graphen und geometrische
+    Objekte werden als abstrakte Typen eingeführt. Anschließend werden effizient
+    manipulierbare Repräsentationen dieser Typen betrachtet und die zugehörigen
+    Algorithmen auf ihre Komplexität hin untersucht.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -625,61 +661,62 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 22
   name: Computer Science and Functional Programming A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten sind in der Lage, elementare Algorithmen funktional
-    zu entwerfen, Anforderungen an funktionale Programme formal zu spezifizieren,
-    gut strukturierte funktionale Programme zu entwickeln, funktionale Programme hinsichtlich
-    ihres Aufwandes zu untersuchen und Eigenschaften funktionaler Programme formal
-    zu beweisen. Sie haben ein grundlegendes Verständnis der Berechenbarkeit.
-  content: Grundlagen der Berechenbarkeit (Lambda-Kalkül, primitive Rekursion, μ -Rekursion).
-    Einführung in die Funktionale Programmierung (Syntax, primitive Datentypen, Listen,
-    Tupel, Zeichenketten, Ausdrücke, Funktionsdefinitionen, Rekursion und Iteration,
-    Funktionen höherer Ordnung, Polymorphie, Typsystem, Typherleitung und Überprüfung,
-    Algebraische und abstrakte Datentypen, Ein- und Ausgabe, Such- und Sortieralgorithmen).
-    Beweisen von Programmeigenschaften (Termersetzung, strukturelle Induktion, Terminierung).
-    Implementierung und Programmiertechnik (Auswertungsstrategien für funktionale
-    Programme, modularer Programmentwurf).
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage, elementare Algorithmen
+    funktional zu entwerfen, Anforderungen an funktionale Programme formal zu
+    spezifizieren, gut strukturierte funktionale Programme zu entwickeln,
+    funktionale Programme hinsichtlich ihres Aufwandes zu untersuchen und
+    Eigenschaften funktionaler Programme formal zu beweisen. Sie haben ein
+    grundlegendes Verständnis der Berechenbarkeit.
+  content: |
+    Grundlagen der Berechenbarkeit (Lambda-Kalkül, primitive Rekursion, μ
+    -Rekursion). Einführung in die Funktionale Programmierung (Syntax, primitive
+    Datentypen, Listen, Tupel, Zeichenketten, Ausdrücke, Funktionsdefinitionen,
+    Rekursion und Iteration, Funktionen höherer Ordnung, Polymorphie, Typsystem,
+    Typherleitung und Überprüfung, Algebraische und abstrakte Datentypen, Ein-
+    und Ausgabe, Such- und Sortieralgorithmen). Beweisen von
+    Programmeigenschaften (Termersetzung, strukturelle Induktion, Terminierung).
+    Implementierung und Programmiertechnik (Auswertungsstrategien für
+    funktionale Programme, modularer Programmentwurf).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -697,61 +734,62 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 23
   name: Computer Science and Object-Oriented Programming A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten sind in der Lage Algorithmen zustandsbezogen
-    zu spezifizieren, gut strukturierte imperative Programme zu entwickeln, imperative
-    Programme hinsichtlich ihrer Komplexität zu analysieren und Eigenschaften imperativer
-    Programme formal zu beweisen.
-  content: Grundlagen der Berechenbarkeit (universelle Registermaschinen, Syntax und
-    operationelle Semantik imperativer Programmiersprachen), Formale Verfahren zur
-    Spezifikation und Verifikation imperativer Programme (Bedingungen auf dem Zustandsraum,
-    Hoare-Kalkül, partielle Korrektheit, Termination), Konzepte imperativer und objektorientierter
-    Programmierung (primitive und zusammengesetzte Datentypen, Methoden, Parameterübergabe,
-    Überladung, Module, Klassen, Objekte, Klassenhierarchien, Vererbung, abstrakte
-    Klassen, Schnittstellen), Programmiermethodik (schrittweise korrekte Programmentwicklung,
-    Teile und Herrsche, Backtracking, Analyse von Laufzeit und Speicherbedarf, O-Notation,
-    Umwandlung von Rekursion in Iteration, Analyse von Such- und Sortieralgorithmen).
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage Algorithmen zustandsbezogen
+    zu spezifizieren, gut strukturierte imperative Programme zu entwickeln,
+    imperative Programme hinsichtlich ihrer Komplexität zu analysieren und
+    Eigenschaften imperativer Programme formal zu beweisen.
+  content: |
+    Grundlagen der Berechenbarkeit (universelle Registermaschinen, Syntax und
+    operationelle Semantik imperativer Programmiersprachen), Formale Verfahren
+    zur Spezifikation und Verifikation imperativer Programme (Bedingungen auf
+    dem Zustandsraum, Hoare-Kalkül, partielle Korrektheit, Termination),
+    Konzepte imperativer und objektorientierter Programmierung (primitive und
+    zusammengesetzte Datentypen, Methoden, Parameterübergabe, Überladung,
+    Module, Klassen, Objekte, Klassenhierarchien, Vererbung, abstrakte Klassen,
+    Schnittstellen), Programmiermethodik (schrittweise korrekte
+    Programmentwicklung, Teile und Herrsche, Backtracking, Analyse von Laufzeit
+    und Speicherbedarf, O-Notation, Umwandlung von Rekursion in Iteration,
+    Analyse von Such- und Sortieralgorithmen).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -769,49 +807,56 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 24
   name: Introduction to Numerical Mathematics A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten beherrschen grundlegende numerische Lösungsverfahren
-    für elementare Probleme der Algebra und gewöhnlicher Differenzialgleichungen.
-    Sie haben ein Gespür für die mathematische Struktur dieser Probleme entwickelt
-    und beherrschen die Auswahl und Entwicklung zuverlässiger und effizienter Lösungsalgorithmen.
-    Im Rahmen eines Seminars haben die Studentinnen und Studenten das erlernte Wissen
-    auf praktische Probleme des wissenschaftlichen Rechnens übertragen und einen Einblick
-    in die mathematische Modellierung solcher Probleme bekommen.
-  content: Lösungsverfahren für lineare Gleichungssysteme, Choleskyzerlegung und QR-Zerlegung.
-    Eigenwertprobleme. Bestapproximation. Interpolation durch Polynome und Splines,
-    Gauß-Quadratur und adaptive Quadratur. Anfangswertprobleme für gewöhnliche Differenzialgleichungen.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten beherrschen grundlegende numerische
+    Lösungsverfahren für elementare Probleme der Algebra und gewöhnlicher
+    Differenzialgleichungen. Sie haben ein Gespür für die mathematische Struktur
+    dieser Probleme entwickelt und beherrschen die Auswahl und Entwicklung
+    zuverlässiger und effizienter Lösungsalgorithmen. Im Rahmen eines Seminars
+    haben die Studentinnen und Studenten das erlernte Wissen auf praktische
+    Probleme des wissenschaftlichen Rechnens übertragen und einen Einblick in
+    die mathematische Modellierung solcher Probleme bekommen.
+  content: |
+    Lösungsverfahren für lineare Gleichungssysteme, Choleskyzerlegung und
+    QR-Zerlegung. Eigenwertprobleme. Bestapproximation. Interpolation durch
+    Polynome und Splines, Gauß-Quadratur und adaptive Quadratur.
+    Anfangswertprobleme für gewöhnliche Differenzialgleichungen.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -829,59 +874,62 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 25
   name: Numerics of ODEs and numerical linear algebra A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten besitzen grundlegende Kenntnisse der numerischen
-    Lösung von gewöhnlichen Differenzialgleichungen sowie der numerischen linearen
-    Algebra und können sicher damit umgehen. Im Rahmen eines Seminars haben die Studentinnen
-    und Studenten das erlernte Wissen auf praktische Probleme des wissenschaftlichen
-    Rechnens übertragen und einen Einblick in die mathematische Modellierung solcher
-    Probleme bekommen.
-  content: 'Auswahl aus folgenden Themen:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten besitzen grundlegende Kenntnisse der
+    numerischen Lösung von gewöhnlichen Differenzialgleichungen sowie der
+    numerischen linearen Algebra und können sicher damit umgehen. Im Rahmen
+    eines Seminars haben die Studentinnen und Studenten das erlernte Wissen auf
+    praktische Probleme des wissenschaftlichen Rechnens übertragen und einen
+    Einblick in die mathematische Modellierung solcher Probleme bekommen.
+  content: |
+    Auswahl aus folgenden Themen:
 
-    - Anfangswertprobleme für steife Differenzialgleichungen (Stabilität und asymptotische
-    Stabilität, von Fixpunkten, Testgleichungen)
-
-    - implizite Runge-Kutta-Verfahren (Vererbungsprinzip, Stabilitätsgebiete, A- und
-    B-Stabilität, Gauß-Verfahren)
-
+    - Anfangswertprobleme für steife Differenzialgleichungen (Stabilität und
+      asymptotische Stabilität, von Fixpunkten, Testgleichungen)
+    - implizite Runge-Kutta-Verfahren (Vererbungsprinzip, Stabilitätsgebiete, A-
+      und B-Stabilität, Gauß-Verfahren)
     - differenziell-algebraische Gleichungen (Grundbegriffe, Index)
-
-    - Hamiltonsche Systeme (Energieerhaltung, Symplektizität, symplektische Runge-Kutta-Verfahren)
-
-    - iterative Verfahren zur Lösung großer linearer Gleichungssysteme (Lineare Iterationsverfahren,
-    Vorkonditionierung, Abstiegsverfahren, Verfahren der konjugierten Gradienten).'
+    - Hamiltonsche Systeme (Energieerhaltung, Symplektizität, symplektische
+      Runge-Kutta-Verfahren)
+    - iterative Verfahren zur Lösung großer linearer Gleichungssysteme (Lineare
+      Iterationsverfahren, Vorkonditionierung, Abstiegsverfahren, Verfahren der
+      konjugierten Gradienten).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -899,56 +947,60 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch oder Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 26
   name: Numerics of partial differential equations A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten besitzen grundlegende Kenntnisse der numerischen
-    Lösung von partiellen Differenzialgleichungen sowie der numerischen linearen Algebra
-    und können sicher damit umgehen. Im Rahmen eines Seminars haben die Studentinnen
-    und Studenten das erlernte Wissen auf praktische Probleme des wissenschaftlichen
-    Rechnens übertragen und einen Einblick in die mathematische Modellierung solcher
-    Probleme bekommen.
-  content: 'Auswahl aus folgenden Themen:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten besitzen grundlegende Kenntnisse der
+    numerischen Lösung von partiellen Differenzialgleichungen sowie der
+    numerischen linearen Algebra und können sicher damit umgehen. Im Rahmen
+    eines Seminars haben die Studentinnen und Studenten das erlernte Wissen auf
+    praktische Probleme des wissenschaftlichen Rechnens übertragen und einen
+    Einblick in die mathematische Modellierung solcher Probleme bekommen.
+  content: |
+    Auswahl aus folgenden Themen:
 
     - mathematische Modellierung mit partiellen Differenzialgleichungen
-
-    - Klassifikation (elliptisch, parabolisch, hyperbolisch) und Wohlgestelltheit
-
-    - klassische Lösungen und finite Differenzen (Maximumprinzip, Konsistenz, Konvergenz)
-
-    - schwache Lösungen und finite Elemente (Sobolev-Räume, Fehlerabschätzungen, Teilraumkorrektur-Methoden)
-
-    - parabolische Differenzialgleichungen (Linien- und Rothe-Methode).'
+    - Klassifikation (elliptisch, parabolisch, hyperbolisch) und
+      Wohlgestelltheit
+    - klassische Lösungen und finite Differenzen (Maximumprinzip, Konsistenz,
+      Konvergenz)
+    - schwache Lösungen und finite Elemente (Sobolev-Räume, Fehlerabschätzungen,
+      Teilraumkorrektur-Methoden)
+    - parabolische Differenzialgleichungen (Linien- und Rothe-Methode).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -966,59 +1018,66 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch oder Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 27
   name: Synchronisierung Mathematik
   organizer: Freie Universität Berlin/Physik sowie Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten haben einen Überblick über die Struktur und
-    Ziele der Mathematik und ihre Arbeitsweisen. Weiterhin wissen die Studentinnen
-    und Studenten um die zentralen Strukturen und Sätze der Linearen Algebra und des
-    Rechnens mit Matrizen und Vektoren. Sie sind in der Lage, algebraische Probleme
-    auf dem Rechner abzubilden und mit numerischen Verfahren zu lösen.
-  content: '–  Arbeitsweise und Ziele der Mathematik, Logik, Mengen und Abbildungen,
-    algebraische Strukturen, Körper, reelle Zahlen, komplexe Zahlen, lineare Abbildungen,
-    lineare Gleichungssysteme, Matrizen, Darstellungen und Basistransformationen,
-    Determinanten, Eigenwerte und Eigenvektoren, Skalarprodukt, Orthogonalsysteme.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben einen Überblick über die Struktur und
+    Ziele der Mathematik und ihre Arbeitsweisen. Weiterhin wissen die
+    Studentinnen und Studenten um die zentralen Strukturen und Sätze der
+    Linearen Algebra und des Rechnens mit Matrizen und Vektoren. Sie sind in der
+    Lage, algebraische Probleme auf dem Rechner abzubilden und mit numerischen
+    Verfahren zu lösen.
+  content: |
 
-    -  Verwendung von Rechnern zur Lösung mathematischer Probleme. Zahlendarstellung,
-    Rundungsfehler, Kondition, Stabilität, Komplexität und Effizienz.
-
-    -  Grundlagen zur Benutzung und skriptgesteuerten Programmierung.'
+    - Arbeitsweise und Ziele der Mathematik, Logik, Mengen und Abbildungen,
+      algebraische Strukturen, Körper, reelle Zahlen, komplexe Zahlen, lineare
+      Abbildungen, lineare Gleichungssysteme, Matrizen, Darstellungen und
+      Basistransformationen, Determinanten, Eigenwerte und Eigenvektoren,
+      Skalarprodukt, Orthogonalsysteme.
+    - Verwendung von Rechnern zur Lösung mathematischer Probleme.
+      Zahlendarstellung, Rundungsfehler, Kondition, Stabilität, Komplexität und
+      Effizienz.
+    - Grundlagen zur Benutzung und skriptgesteuerten Programmierung.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Erfolgreiches Bearbeiten von Übungsaufgaben'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Erfolgreiches Bearbeiten von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Erfolgreiches Bearbeiten von Übungsaufgaben'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Erfolgreiches Bearbeiten von Übungsaufgaben
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Erfolgreiches Bearbeiten von Übungsaufgaben'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Erfolgreiches Bearbeiten von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Erfolgreiches Bearbeiten von Übungsaufgaben'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Erfolgreiches Bearbeiten von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 90
@@ -1032,42 +1091,51 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten);
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 28
   name: Dynamik der Atmosphäre
   organizer: Freie Universität Berlin/Geowissenschaften
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten haben Kenntnisse der auf den Spezialisierungsbereich
-    „Atmospheric Sciences“ zugeschnittenen Hydrodynamik und Thermodynamik, die die
-    theoretischen Grundlagen einer praktischen Wettervorhersage im synoptischen Skalenbereich
-    bilden. Sie sind in der Lage, die wichtigen Enstehungsmechanismen der Hoch- und
-    Tiefdruckgebiete der mittleren Breiten physikalisch zu verstehen und selbstständig
-    zu analysieren.
-  content: Es werden Themen wie Einführung der abgeleiteten Größen Divergenz, Vorticity
-    und Deformation. Umfassende Auswertung der Grundgleichungen zur Gewinnung meteorologischer
-    Aussagen für die synoptische Skala mit Hilfe der abgeleiteten Größen, Diskussion
-    des baroklinen quasigeostrophischen Modells der Atmosphäre, Einführung der grundlegenden
-    Wirbelgrößen und des Konzepts der potenziellen Vorticity, Land-Seewind-Zirkulation,
-    Planetarische Wellen und die wichtigen Instabilitätsprozesse in der Atmosphäre,
-    Theorie der allgemeinen atmosphärischen Zirkulation behandelt.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben Kenntnisse der auf den
+    Spezialisierungsbereich „Atmospheric Sciences“ zugeschnittenen Hydrodynamik
+    und Thermodynamik, die die theoretischen Grundlagen einer praktischen
+    Wettervorhersage im synoptischen Skalenbereich bilden. Sie sind in der Lage,
+    die wichtigen Enstehungsmechanismen der Hoch- und Tiefdruckgebiete der
+    mittleren Breiten physikalisch zu verstehen und selbstständig zu
+    analysieren.
+  content: |
+    Es werden Themen wie Einführung der abgeleiteten Größen Divergenz, Vorticity
+    und Deformation. Umfassende Auswertung der Grundgleichungen zur Gewinnung
+    meteorologischer Aussagen für die synoptische Skala mit Hilfe der
+    abgeleiteten Größen, Diskussion des baroklinen quasigeostrophischen Modells
+    der Atmosphäre, Einführung der grundlegenden Wirbelgrößen und des Konzepts
+    der potenziellen Vorticity, Land-Seewind-Zirkulation, Planetarische Wellen
+    und die wichtigen Instabilitätsprozesse in der Atmosphäre, Theorie der
+    allgemeinen atmosphärischen Zirkulation behandelt.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1079,78 +1147,94 @@
       time: 50
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 29
   name: Einführung in die Dynamik der Atmosphäre
   organizer: Freie Universität Berlin/Geowissenschaften
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten haben Kenntnisse der angewandten Hydrodynamik
-    und Thermodynamik in der Meteorologie. Sie sind mit dem meteorologischen Grundgleichungssystem
-    vertraut und können die Begriffe der Skalen, Erhaltungsgrößen und Windapproximationen
-    im meteorologischen Kontext anwenden.
-  content: Es werden Themen wie Atmosphärische Thermodynamik, Zustandsänderungen atmosphärischer
-    Luft, Statik der Atmosphäre, polytrope Atmosphären, Wasserdampf und latente Wärmen,
-    Grundlagen der Kinematik, Herleitung der prognostischen Grundgleichungen der Meteorologie
-    aus der klassischen Hydrodynamik und Thermodynamik, Skalenbegriffe in der Meteorologie,
-    Lagrangesche und Eulersche Darstellung, natürliche Koordinaten, grundlegende Gleichgewichte
-    (geostrophischer Wind, zyklostrophischer Wind, Gradientwind), thermischer Wind
-    behandelt.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben Kenntnisse der angewandten Hydrodynamik
+    und Thermodynamik in der Meteorologie. Sie sind mit dem meteorologischen
+    Grundgleichungssystem vertraut und können die Begriffe der Skalen,
+    Erhaltungsgrößen und Windapproximationen im meteorologischen Kontext
+    anwenden.
+  content: |
+    Es werden Themen wie Atmosphärische Thermodynamik, Zustandsänderungen
+    atmosphärischer Luft, Statik der Atmosphäre, polytrope Atmosphären,
+    Wasserdampf und latente Wärmen, Grundlagen der Kinematik, Herleitung der
+    prognostischen Grundgleichungen der Meteorologie aus der klassischen
+    Hydrodynamik und Thermodynamik, Skalenbegriffe in der Meteorologie,
+    Lagrangesche und Eulersche Darstellung, natürliche Koordinaten, grundlegende
+    Gleichgewichte (geostrophischer Wind, zyklostrophischer Wind, Gradientwind),
+    thermischer Wind behandelt.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 60
     - type: Vor- und Nachbereitung V
       time: 150
-  exam: Keine
+  exam: |
+    Keine
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 30
   name: Grundlagen der Synoptischen Meteorologie
   organizer: Freie Universität Berlin/Geowissenschaften
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten verstehen die dreidimensional räumlichen und
-    zeitlichen Strukturen, Prozesse und Wechselwirkungen, welche die Wetterabläufe
-    auf der synoptischen, globalen und konvektiven Skala in den mittleren Breiten
-    bestimmen. Sie können die aktuelle Wetterlage anhand von Wetterkarrten analysieren,
-    einordnen, darstellen und bewerten.
-  content: 'Es werden Themen wie Einführung in die dreidimensionale Diagnose synoptisch-skaliger
-    Wettersysteme der mittleren Breiten: Luftmassen und Fronten, Zyklonen und Antizyklonen,
-    Strahlströme und Wellen der Westwindzone und deren zeitlichen Entwicklung und
-    Relation zu Wettererscheinungen behandelt. Zum einen werden praktische Arbeiten
-    am (Graphik-)System Ninjo des DWD angeleitet und selbstständig durchgeführt. Hierbei
-    werden aktuelle Beispiele zu dem Stoff der jeweiligen Vorlesung weltweit analysiert.
-    Zum anderen werden Übungsaufgaben gelöst, um das Basisverständnis für die Inhalte
-    der Vorlesung zu schaffen. Analyse und Diskussion der aktuellen Wetterlage im
-    Europäisch-Atlantischen Sektor anhand verschiedener meteorologischer Felder und
-    Satellitenbilder.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verstehen die dreidimensional räumlichen und
+    zeitlichen Strukturen, Prozesse und Wechselwirkungen, welche die
+    Wetterabläufe auf der synoptischen, globalen und konvektiven Skala in den
+    mittleren Breiten bestimmen. Sie können die aktuelle Wetterlage anhand von
+    Wetterkarrten analysieren, einordnen, darstellen und bewerten.
+  content: |
+    Es werden Themen wie Einführung in die dreidimensionale Diagnose
+    synoptisch-skaliger Wettersysteme der mittleren Breiten: Luftmassen und
+    Fronten, Zyklonen und Antizyklonen, Strahlströme und Wellen der Westwindzone
+    und deren zeitlichen Entwicklung und Relation zu Wettererscheinungen
+    behandelt. Zum einen werden praktische Arbeiten am (Graphik-)System Ninjo
+    des DWD angeleitet und selbstständig durchgeführt. Hierbei werden aktuelle
+    Beispiele zu dem Stoff der jeweiligen Vorlesung weltweit analysiert. Zum
+    anderen werden Übungsaufgaben gelöst, um das Basisverständnis für die
+    Inhalte der Vorlesung zu schaffen. Analyse und Diskussion der aktuellen
+    Wetterlage im Europäisch-Atlantischen Sektor anhand verschiedener
+    meteorologischer Felder und Satellitenbilder.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Vortrag
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben, Vortrag
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben, Vortrag
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben, Vortrag
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1160,50 +1244,56 @@
       time: 30
     - type: Vor- und Nachbereitung Ü
       time: 85
-  exam: Keine
+  exam: |
+    Keine
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 31
   name: Computational Statistical Physics I A
   organizer: Freie Universität Berlin/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten sind in der Lage, die grundlegenden Konzepte
-    und Sätze der statistischen Physik sowie Thermodynamik zu benennen und zu beschreiben.
-    Weiterhin sind sie in der Lage, die erworbenen Methodenkenntnisse auf gegebene
-    Probleme zu übertragen und diese zu lösen. Die Studentinnen und Studenten haben
-    außerdem die für den Umgang mit der statistischen Physik und Thermodynamik notwendigen
-    Rechenmethoden erlernt und sind in der Lage, diese anzuwenden. Die Studentinnen
-    und Studenten können ihre Methodenkenntnisse und Rechenmethoden im Bereich der
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage, die grundlegenden Konzepte
+    und Sätze der statistischen Physik sowie Thermodynamik zu benennen und zu
+    beschreiben. Weiterhin sind sie in der Lage, die erworbenen
+    Methodenkenntnisse auf gegebene Probleme zu übertragen und diese zu lösen.
+    Die Studentinnen und Studenten haben außerdem die für den Umgang mit der
+    statistischen Physik und Thermodynamik notwendigen Rechenmethoden erlernt
+    und sind in der Lage, diese anzuwenden. Die Studentinnen und Studenten
+    können ihre Methodenkenntnisse und Rechenmethoden im Bereich der
     statistischen Physik auf komplexe Fragestellungen anwenden.
-  content: Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles,
-    Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik, thermodynamische
-    Potenziale, thermodynamische Prozesse, Phasenübergänge, ideale Quantengase, wechselwirkende
-    Systeme.
+  content: |
+    Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles,
+    Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik,
+    thermodynamische Potenziale, thermodynamische Prozesse, Phasenübergänge,
+    ideale Quantengase, wechselwirkende Systeme.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1221,54 +1311,62 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 32
   name: Computational Statistical Physics II A
   organizer: Freie Universität Berlin/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten haben grundlegende Kenntnisse über die Konzepte
-    und Sätze der statistischen Physik. Sie können diese benennen, beschreiben und
-    anwenden, die erworbenen Methodenkenntnisse auf gegebene Probleme übertragen und
-    diese lösen. Die Studentinnen und Studenten haben ihre Methodenkenntnisse und
-    Rechenmethoden im Bereich der statistischen Physik erweitert und sind nun in der
-    Lage, diese auf komplexe Fragestellungen anzuwenden. Mit den erlernten Methoden
-    sind Studentinnen und Studenten auch in der Lage, mikroskopische physikalische
-    Prozesse/Gesetzmäßigkeiten auf makroskopischer Ebene abzuleiten und zu analysieren.
-  content: 'Eine Auswahl aus den folgenden fortgeschrittenen Themen der Statistischen
-    Physik: Nicht-Gleichgewichts-Thermodynamik (Entropieproduktion, Onsager-Relationen),
-    Linear-Response- und Fluktuations-Dissipations-Theorem, Stochastische Prozesse
-    (Markov-Prozesse, Mastergleichung, Langevin- und Fokker-Planck-Gleichung), Kinetische
-    Theorie, Phasenübergänge (Landautheorie, Gauss-Fluktuationen, Korrelationsfunktionen,
-    Renormierungsgruppen), Theorie der Flüssigkeiten, Hydrodynamik und Elastizitätslehre,
-    Statistische Quantenmechanik, exakt lösbare Modelle.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben grundlegende Kenntnisse über die
+    Konzepte und Sätze der statistischen Physik. Sie können diese benennen,
+    beschreiben und anwenden, die erworbenen Methodenkenntnisse auf gegebene
+    Probleme übertragen und diese lösen. Die Studentinnen und Studenten haben
+    ihre Methodenkenntnisse und Rechenmethoden im Bereich der statistischen
+    Physik erweitert und sind nun in der Lage, diese auf komplexe
+    Fragestellungen anzuwenden. Mit den erlernten Methoden sind Studentinnen und
+    Studenten auch in der Lage, mikroskopische physikalische
+    Prozesse/Gesetzmäßigkeiten auf makroskopischer Ebene abzuleiten und zu
+    analysieren.
+  content: |
+    Eine Auswahl aus den folgenden fortgeschrittenen Themen der Statistischen
+    Physik: Nicht-Gleichgewichts-Thermodynamik (Entropieproduktion,
+    Onsager-Relationen), Linear-Response- und Fluktuations-Dissipations-Theorem,
+    Stochastische Prozesse (Markov-Prozesse, Mastergleichung, Langevin- und
+    Fokker-Planck-Gleichung), Kinetische Theorie, Phasenübergänge
+    (Landautheorie, Gauss-Fluktuationen, Korrelationsfunktionen,
+    Renormierungsgruppen), Theorie der Flüssigkeiten, Hydrodynamik und
+    Elastizitätslehre, Statistische Quantenmechanik, exakt lösbare Modelle.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1286,47 +1384,56 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
     Hausarbeit (ca. 15 Seiten);
   language: Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: false
 - page: 33
   name: Einführung in die Quantenmechanik
   organizer: Freie Universität Berlin/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten erlernen die grundlegenden mathematischen
-    und methodischen Konzepte der Quantenmechanik eines Teilchens. Sie haben die Fähigkeit,
-    die erworbenen Kenntnisse auf gegebene Probleme anzuwenden und diese zu lösen.
-    Die Studentinnen und Studenten können die neue Denkweise in eigene Worte fassen
-    und die grundlegenden Unterschiede zur klassischen Mechanik beschreiben. Darüber
-    hinaus können die Studentinnen und Studenten beurteilen, für welche Probleme die
-    Verwendung der Methoden der Quantenmechanik sinnvoll ist und welche Auswirkungen
-    die Anwendung auf die Gültigkeit der klassischen Mechanik bedingt. Die Studentinnen
-    und Studenten haben einen Überblick über die Historie der Quantenmechanik und
-    einigen grundlegenden Experimenten. Sie sind mit der inhaltlichen Bedeutung der
-    Quantenmechanik vertraut. Außerdem haben die Studentinnen und Studenten den notwendigen
-    mathematischen Formalismus zur Darstellung und Berechnung der Probleme der Quantentheorie
-    erlernt und können diesen anwenden.
-  content: Mathematische Grundlagen und Formalismus, Schrödinger-Gleichung, eindimensionale
-    Probleme, harmonischer Oszillator, Unschärferelation, Drehimpuls, Wasserstoffatom,
-    Potenzialstreuung, Dichtematrix, Störungstheorie, grundlegende Experimente (z.
-    B. Welle-Teilchen-Dualismus, Beugung und Interferenzeffekte, Schwarzkörperstrahlung,
-    Photoeffekt, Stern-Gerlach-Versuch).
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten erlernen die grundlegenden mathematischen und
+    methodischen Konzepte der Quantenmechanik eines Teilchens. Sie haben die
+    Fähigkeit, die erworbenen Kenntnisse auf gegebene Probleme anzuwenden und
+    diese zu lösen. Die Studentinnen und Studenten können die neue Denkweise in
+    eigene Worte fassen und die grundlegenden Unterschiede zur klassischen
+    Mechanik beschreiben. Darüber hinaus können die Studentinnen und Studenten
+    beurteilen, für welche Probleme die Verwendung der Methoden der
+    Quantenmechanik sinnvoll ist und welche Auswirkungen die Anwendung auf die
+    Gültigkeit der klassischen Mechanik bedingt. Die Studentinnen und Studenten
+    haben einen Überblick über die Historie der Quantenmechanik und einigen
+    grundlegenden Experimenten. Sie sind mit der inhaltlichen Bedeutung der
+    Quantenmechanik vertraut. Außerdem haben die Studentinnen und Studenten den
+    notwendigen mathematischen Formalismus zur Darstellung und Berechnung der
+    Probleme der Quantentheorie erlernt und können diesen anwenden.
+  content: |
+    Mathematische Grundlagen und Formalismus, Schrödinger-Gleichung,
+    eindimensionale Probleme, harmonischer Oszillator, Unschärferelation,
+    Drehimpuls, Wasserstoffatom, Potenzialstreuung, Dichtematrix,
+    Störungstheorie, grundlegende Experimente (z. B. Welle-Teilchen-Dualismus,
+    Beugung und Interferenzeffekte, Schwarzkörperstrahlung, Photoeffekt,
+    Stern-Gerlach-Versuch).
   teachingunit:
     - type: Vorlesung
       swstime: 5
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Erfolgreiches Bearbeiten von Übungsaufgaben
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 75
@@ -1338,80 +1445,80 @@
       time: 30
     - type: Schriftliche Übungsaufgaben
       time: 120
-  exam: Keine
+  exam: |
+    Keine
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 34
   name: Complex Algorithms B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten beherrschen grundlegende Kenntnisse der gängigen
-    Entwurfstechniken für Algorithmen und können Algorithmen mit ihrer Hilfe entwerfen.
-    Sie können Algorithmen in Bezug auf ihren Laufzeit- und Speicherbedarf analysieren
-    und dabei auch fortgeschrittene Analysemethoden verwenden. Sie haben ein grundlegendes
-    Verständnis der Theorie der NP-Vollständigkeit. Sie kennen die gängigen Komplexitätsklassen
-    und können einfache Probleme in ihrer Komplexität einordnen. Sie vertiefen diese
-    Fähigkeiten selbstständig in einem ausgewählten Themengebiet der höheren Informatik.
-    Die Studentinnen und Studenten können Komplexere Algorithmen auf eines der folgenden
-    Themen anwenden: Verteilte Systeme, Mustererkennung, Datenbanktechnologie oder
-    Künstliche Intelligenz.'
-  content: 'Es werden Aspekte folgender Themen behandelt: Wege- und Flussprobleme
-    in Graphen, String-Matching, randomisierte Algorithmen, amortisierte Analyse,
-    das „Master-Theorem“ zur Analyse von Teile-und-herrsche-Rekursionsgleichungen,
-    NP-Vollständigkeit, Approximationsalgorithmen für schwere Probleme, zahlentheoretische
-    Algorithmen (einschließlich RSA-Kryptosystem), Arithmetische Algorithmen und Schaltkreise
-    sowie schnelle Fourier- Transformation. Diese werden anschließend vertieft. Es
-    können folgenden Themen zusätzlich behandelt werden:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten beherrschen grundlegende Kenntnisse der
+    gängigen Entwurfstechniken für Algorithmen und können Algorithmen mit ihrer
+    Hilfe entwerfen. Sie können Algorithmen in Bezug auf ihren Laufzeit- und
+    Speicherbedarf analysieren und dabei auch fortgeschrittene Analysemethoden
+    verwenden. Sie haben ein grundlegendes Verständnis der Theorie der
+    NP-Vollständigkeit. Sie kennen die gängigen Komplexitätsklassen und können
+    einfache Probleme in ihrer Komplexität einordnen. Sie vertiefen diese
+    Fähigkeiten selbstständig in einem ausgewählten Themengebiet der höheren
+    Informatik. Die Studentinnen und Studenten können Komplexere Algorithmen auf
+    eines der folgenden Themen anwenden: Verteilte Systeme, Mustererkennung,
+    Datenbanktechnologie oder Künstliche Intelligenz.
+  content: |
+    Es werden Aspekte folgender Themen behandelt: Wege- und Flussprobleme in
+    Graphen, String-Matching, randomisierte Algorithmen, amortisierte Analyse,
+    das „Master-Theorem“ zur Analyse von
+    Teile-und-herrsche-Rekursionsgleichungen, NP-Vollständigkeit,
+    Approximationsalgorithmen für schwere Probleme, zahlentheoretische
+    Algorithmen (einschließlich RSA-Kryptosystem), Arithmetische Algorithmen und
+    Schaltkreise sowie schnelle Fourier- Transformation. Diese werden
+    anschließend vertieft. Es können folgenden Themen zusätzlich behandelt
+    werden:
 
-    - Verteilte Systeme, Verteilte Algorithmen, Verteilte Datenverwaltung, Suchverfahren
-    für die Lösung kombinatorischer Aufgaben,
-
-    - Prädikatenlogik und ihre Mechanisierung, Resolution und Theorembeweise, wissensbasierte
-    und Expertensysteme, Diffuse Logik,
-
-    - Baye’sche Verfahren der Mustererkennung, Clustering, Expectation-Maximization,
-    Neuronale Netze und Lernalgorithmen, Assoziative Netze, Rekurrente Netze. Computer-Vision
-    mit neuronalen Netzen,
-
-    - Datenbank-Zugriffstechniken und Anfrageoptimierung, Realisierung von Transaktionen,
-    insbesondere Synchronisationsverfahren, die technische, Maßnahmen, die Datenbanksysteme
-    fehlertolerant machen. Verfahren zur effizienten Verwaltung andersartiger großer
-    Datenbestände, insbesondere von XML-Dokumenten, korrekte Implementierung transaktionaler
-    Garantien in Datenverwaltungssystemen.'
+    - Verteilte Systeme, Verteilte Algorithmen, Verteilte Datenverwaltung,
+      Suchverfahren für die Lösung kombinatorischer Aufgaben,
+    - Prädikatenlogik und ihre Mechanisierung, Resolution und Theorembeweise,
+      wissensbasierte und Expertensysteme, Diffuse Logik,
+    - Baye’sche Verfahren der Mustererkennung, Clustering,
+      Expectation-Maximization, Neuronale Netze und Lernalgorithmen, Assoziative
+      Netze, Rekurrente Netze. Computer-Vision mit neuronalen Netzen,
+    - Datenbank-Zugriffstechniken und Anfrageoptimierung, Realisierung von
+      Transaktionen, insbesondere Synchronisationsverfahren, die technische,
+      Maßnahmen, die Datenbanksysteme fehlertolerant machen. Verfahren zur
+      effizienten Verwaltung andersartiger großer Datenbestände, insbesondere
+      von XML-Dokumenten, korrekte Implementierung transaktionaler Garantien in
+      Datenverwaltungssystemen.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Forschungsthemas'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Forschungsthemas
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Forschungsthemas'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Forschungsthemas
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Forschungsthemas'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Forschungsthemas
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1429,65 +1536,66 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 36
   name: Computer Science and Data Structures B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten können objektorientierte Software entwickeln:
-    sie beherrschen den Umgang mit Datenabstraktion, Vererbung und polymorphen Typsystemen
-    und sind in der Lage, abstrakte Datentypen zu spezifizieren und zu implementieren,
-    Korrektheitsbeweise für die Implementierungen abstrakter Datentypen durchzuführen
-    und unter Einbeziehung von Effizienzanalysen eine Entscheidung über die jeweils
-    zu wählende Datenrepräsentation zu treffen. Sie kennen die wichtigsten abstrakten
-    Datentypen und ihre gängigen Implementierungen sowie die entsprechenden Schnittstellen
-    und Klassen aus den Bibliotheken der verwendeten Programmiersprache,'
-  content: Ausgangspunkt ist das Geheimnisprinzip und seine Bedeutung für die Strukturierung
-    von Programmen und die Konstruktion von Datenobjekten mittels Modulen und Klassen.
-    Eine zentrale Rolle bei der Modellierung von Daten spielt der Begriff der Datenabstraktion,
-    verbunden mit der Unterscheidung zwischen Spezifikation und Implementierung abstrakter
-    Datenobjekte und Datentypen. Folgen, Mengen, Relationen, Bäume, Graphen und geometrische
-    Objekte werden als abstrakte Typen eingeführt. Anschließend werden effizient manipulierbare
-    Repräsentationen dieser Typen betrachtet und die zugehörigen Algorithmen auf ihre
-    Komplexität hin untersucht.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können objektorientierte Software entwickeln:
+    sie beherrschen den Umgang mit Datenabstraktion, Vererbung und polymorphen
+    Typsystemen und sind in der Lage, abstrakte Datentypen zu spezifizieren und
+    zu implementieren, Korrektheitsbeweise für die Implementierungen abstrakter
+    Datentypen durchzuführen und unter Einbeziehung von Effizienzanalysen eine
+    Entscheidung über die jeweils zu wählende Datenrepräsentation zu treffen.
+    Sie kennen die wichtigsten abstrakten Datentypen und ihre gängigen
+    Implementierungen sowie die entsprechenden Schnittstellen und Klassen aus
+    den Bibliotheken der verwendeten Programmiersprache,
+  content: |
+    Ausgangspunkt ist das Geheimnisprinzip und seine Bedeutung für die
+    Strukturierung von Programmen und die Konstruktion von Datenobjekten mittels
+    Modulen und Klassen. Eine zentrale Rolle bei der Modellierung von Daten
+    spielt der Begriff der Datenabstraktion, verbunden mit der Unterscheidung
+    zwischen Spezifikation und Implementierung abstrakter Datenobjekte und
+    Datentypen. Folgen, Mengen, Relationen, Bäume, Graphen und geometrische
+    Objekte werden als abstrakte Typen eingeführt. Anschließend werden effizient
+    manipulierbare Repräsentationen dieser Typen betrachtet und die zugehörigen
+    Algorithmen auf ihre Komplexität hin untersucht.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1505,62 +1613,63 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 37
   name: Computer Science and Functional Programming B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten sind in der Lage, elementare Algorithmen funktional
-    zu entwerfen, Anforderungen an funktionale Programme formal zu spezifizieren,
-    gut strukturierte funktionale Programme zu entwickeln, funktionale Programme hinsichtlich
-    ihres Aufwandes zu untersuchen und Eigenschaften funktionaler Programme formal
-    zu beweisen. Sie haben ein grundlegendes Verständnis der Berechenbarkeit.
-  content: Grundlagen der Berechenbarkeit (Lambda-Kalkül, primitive Rekursion, μ -Rekursion).
-    Einführung in die Funktionale Programmierung (Syntax, primitive Datentypen, Listen,
-    Tupel, Zeichenketten, Ausdrücke, Funktionsdefinitionen, Rekursion und Iteration,
-    Funktionen höherer Ordnung, Polymorphie, Typsystem, Typherleitung und Überprüfung,
-    Algebraische und abstrakte Datentypen, Ein- und Ausgabe, Such- und Sortieralgorithmen).
-    Beweisen von Programmeigenschaften (Termersetzung, strukturelle Induktion, Terminierung).
-    Implementierung und Programmiertechnik (Auswertungsstrategien für funktionale
-    Programme, modularer Programmentwurf).
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage, elementare Algorithmen
+    funktional zu entwerfen, Anforderungen an funktionale Programme formal zu
+    spezifizieren, gut strukturierte funktionale Programme zu entwickeln,
+    funktionale Programme hinsichtlich ihres Aufwandes zu untersuchen und
+    Eigenschaften funktionaler Programme formal zu beweisen. Sie haben ein
+    grundlegendes Verständnis der Berechenbarkeit.
+  content: |
+    Grundlagen der Berechenbarkeit (Lambda-Kalkül, primitive Rekursion, μ
+    -Rekursion). Einführung in die Funktionale Programmierung (Syntax, primitive
+    Datentypen, Listen, Tupel, Zeichenketten, Ausdrücke, Funktionsdefinitionen,
+    Rekursion und Iteration, Funktionen höherer Ordnung, Polymorphie, Typsystem,
+    Typherleitung und Überprüfung, Algebraische und abstrakte Datentypen, Ein-
+    und Ausgabe, Such- und Sortieralgorithmen). Beweisen von
+    Programmeigenschaften (Termersetzung, strukturelle Induktion, Terminierung).
+    Implementierung und Programmiertechnik (Auswertungsstrategien für
+    funktionale Programme, modularer Programmentwurf).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1578,62 +1687,63 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 38
   name: Computer Science and Object-oriented Programming B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten sind in der Lage, Algorithmen zustandsbezogen
-    zu spezifizieren, gut strukturierte imperative Programme zu entwickeln, imperative
-    Programme hinsichtlich ihrer Komplexität zu analysieren und Eigenschaften imperativer
-    Programme formal zu beweisen.
-  content: Grundlagen der Berechenbarkeit (universelle Registermaschinen, Syntax und
-    operationelle Semantik imperativer Programmiersprachen), Formale Verfahren zur
-    Spezifikation und Verifikation imperativer Programme (Bedingungen auf dem Zustandsraum,
-    Hoare-Kalkül, partielle Korrektheit, Termination), Konzepte imperativer und objektorientierter
-    Programmierung (primitive und zusammengesetzte Datentypen, Methoden, Parameterübergabe,
-    Überladung, Module, Klassen, Objekte, Klassenhierarchien, Vererbung, abstrakte
-    Klassen, Schnittstellen), Programmiermethodik (schrittweise korrekte Programmentwicklung,
-    Teile und Herrsche, Backtracking, Analyse von Laufzeit und Speicherbedarf, O-Notation,
-    Umwandlung von Rekursion in Iteration, Analyse von Such- und Sortieralgorithmen).
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage, Algorithmen zustandsbezogen
+    zu spezifizieren, gut strukturierte imperative Programme zu entwickeln,
+    imperative Programme hinsichtlich ihrer Komplexität zu analysieren und
+    Eigenschaften imperativer Programme formal zu beweisen.
+  content: |
+    Grundlagen der Berechenbarkeit (universelle Registermaschinen, Syntax und
+    operationelle Semantik imperativer Programmiersprachen), Formale Verfahren
+    zur Spezifikation und Verifikation imperativer Programme (Bedingungen auf
+    dem Zustandsraum, Hoare-Kalkül, partielle Korrektheit, Termination),
+    Konzepte imperativer und objektorientierter Programmierung (primitive und
+    zusammengesetzte Datentypen, Methoden, Parameterübergabe, Überladung,
+    Module, Klassen, Objekte, Klassenhierarchien, Vererbung, abstrakte Klassen,
+    Schnittstellen), Programmiermethodik (schrittweise korrekte
+    Programmentwicklung, Teile und Herrsche, Backtracking, Analyse von Laufzeit
+    und Speicherbedarf, O-Notation, Umwandlung von Rekursion in Iteration,
+    Analyse von Such- und Sortieralgorithmen).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in
-        der Übung
-
-        Ausarbeitung und Präsentation eines Programmierprojekts'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+          Ausarbeitung und Präsentation eines Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1651,50 +1761,57 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 39
   name: Introduction to Numerical Mathematics B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten beherrschen anspruchsvolle, numerische Lösungsverfahren
-    für elementare Probleme der Algebra und gewöhnlicher Differenzialgleichungen.
-    Sie haben ein Gespür für die mathematische Struktur dieser Probleme entwickelt
-    und beherrschen die Auswahl und Entwicklung zuverlässiger und effizienter Lösungsalgorithmen.
-    Im Rahmen eines Seminars haben die Studentinnen und Studenten das erlernte Wissen
-    auf praktische Probleme des wissenschaftlichen Rechnens übertragen und einen Einblick
-    in die mathematische Modellierung solcher Probleme bekommen.
-  content: Lösungsverfahren für lineare Gleichungssysteme, Choleskyzerlegung und QR-Zerlegung.
-    Eigenwertprobleme. Bestapproximation. Interpolation durch Polynome und Splines,
-    Gauß-Quadratur und adaptive Quadratur. Anfangswertprobleme für gewöhnliche Differenzialgleichungen
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten beherrschen anspruchsvolle, numerische
+    Lösungsverfahren für elementare Probleme der Algebra und gewöhnlicher
+    Differenzialgleichungen. Sie haben ein Gespür für die mathematische Struktur
+    dieser Probleme entwickelt und beherrschen die Auswahl und Entwicklung
+    zuverlässiger und effizienter Lösungsalgorithmen. Im Rahmen eines Seminars
+    haben die Studentinnen und Studenten das erlernte Wissen auf praktische
+    Probleme des wissenschaftlichen Rechnens übertragen und einen Einblick in
+    die mathematische Modellierung solcher Probleme bekommen.
+  content: |
+    Lösungsverfahren für lineare Gleichungssysteme, Choleskyzerlegung und
+    QR-Zerlegung. Eigenwertprobleme. Bestapproximation. Interpolation durch
+    Polynome und Splines, Gauß-Quadratur und adaptive Quadratur.
+    Anfangswertprobleme für gewöhnliche Differenzialgleichungen
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1712,60 +1829,63 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Deutsch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 40
   name: Numerics of ODEs and numerical linear algebra B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten besitzen vertiefte Kenntnisse der numerischen
-    Lösung von gewöhnlichen Differenzialgleichungen sowie der numerischen linearen
-    Algebra und können sicher damit umgehen. Im Rahmen eines Seminars haben die Studentinnen
-    und Studenten das erlernte Wissen auf praktische Probleme des wissenschaftlichen
-    Rechnens übertragen und einen Einblick in die mathematische Modellierung solcher
-    Probleme bekommen.
-  content: 'Auswahl aus folgenden Themen:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten besitzen vertiefte Kenntnisse der numerischen
+    Lösung von gewöhnlichen Differenzialgleichungen sowie der numerischen
+    linearen Algebra und können sicher damit umgehen. Im Rahmen eines Seminars
+    haben die Studentinnen und Studenten das erlernte Wissen auf praktische
+    Probleme des wissenschaftlichen Rechnens übertragen und einen Einblick in
+    die mathematische Modellierung solcher Probleme bekommen.
+  content: |
+    Auswahl aus folgenden Themen:
 
-    - Anfangswertprobleme für steife Differenzialgleichungen (Stabilität und asymptotische
-    Stabilität, von Fixpunkten, Testgleichungen)
-
-    - implizite Runge-Kutta-Verfahren (Vererbungsprinzip, Stabilitätsgebiete, A- und
-    B-Stabilität, Gauß-Verfahren)
-
+    - Anfangswertprobleme für steife Differenzialgleichungen (Stabilität und
+      asymptotische Stabilität, von Fixpunkten, Testgleichungen)
+    - implizite Runge-Kutta-Verfahren (Vererbungsprinzip, Stabilitätsgebiete, A-
+      und B-Stabilität, Gauß-Verfahren)
     - differenziell-algebraische Gleichungen (Grundbegriffe, Index)
-
-    - Hamiltonsche Systeme (Energieerhaltung, Symplektizität, symplektische Runge-Kutta-Verfahren)
-
-    - iterative Verfahren zur Lösung großer linearer Gleichungssysteme (Lineare Iterationsverfahren,
-    Vorkonditionierung, Abstiegsverfahren, Verfahren der konjugierten Gradienten).'
+    - Hamiltonsche Systeme (Energieerhaltung, Symplektizität, symplektische
+      Runge-Kutta-Verfahren)
+    - iterative Verfahren zur Lösung großer linearer Gleichungssysteme (Lineare
+      Iterationsverfahren, Vorkonditionierung, Abstiegsverfahren, Verfahren der
+      konjugierten Gradienten).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1783,57 +1903,61 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Deutsch oder Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 41
   name: Numerics of partial differential equations B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten besitzen vertiefte Kenntnisse der numerischen
-    Lösung von partiellen Differenzialgleichungen sowie der numerischen linearen Algebra
-    und können sicher damit umgehen. Im Rahmen eines Seminars haben die Studentinnen
-    und Studenten das erlernte Wissen auf praktische Probleme des wissenschaftlichen
-    Rechnens übertragen und einen Einblick in die mathematische Modellierung solcher
-    Probleme bekommen.
-  content: 'Auswahl aus folgenden Themen:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten besitzen vertiefte Kenntnisse der numerischen
+    Lösung von partiellen Differenzialgleichungen sowie der numerischen linearen
+    Algebra und können sicher damit umgehen. Im Rahmen eines Seminars haben die
+    Studentinnen und Studenten das erlernte Wissen auf praktische Probleme des
+    wissenschaftlichen Rechnens übertragen und einen Einblick in die
+    mathematische Modellierung solcher Probleme bekommen.
+  content: |
+    Auswahl aus folgenden Themen:
 
     - mathematische Modellierung mit partiellen Differenzialgleichungen
-
-    - Klassifikation (elliptisch, parabolisch, hyperbolisch) und Wohlgestelltheit
-
-    - klassische Lösungen und finite Differenzen (Maximumprinzip, Konsistenz, Konvergenz)
-
-    - schwache Lösungen und finite Elemente (Sobolev-Räume, Fehlerabschätzungen, Teilraumkorrektur-Methoden)
-
-    - parabolische Differenzialgleichungen (Linien- und Rothe-Methode).'
+    - Klassifikation (elliptisch, parabolisch, hyperbolisch) und
+      Wohlgestelltheit
+    - klassische Lösungen und finite Differenzen (Maximumprinzip, Konsistenz,
+      Konvergenz)
+    - schwache Lösungen und finite Elemente (Sobolev-Räume, Fehlerabschätzungen,
+      Teilraumkorrektur-Methoden)
+    - parabolische Differenzialgleichungen (Linien- und Rothe-Methode).
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1851,52 +1975,58 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Deutsch oder Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 42
   name: Computational Statistical Physics I B
   organizer: Freie Universität Berlin/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten sind in der Lage, die wichtigsten Konzepte
-    und Sätze der statistischen Physik sowie Thermodynamik zu benennen und zu beschreiben.
-    Weiterhin sind sie in der Lage, die erworbenen Methodenkenntnisse auf gegebene
-    Probleme zu übertragen und diese zu lösen. Die Studentinnen und Studenten haben
-    außerdem die für den Umgang mit der statistischen Physik und Thermodynamik notwendigen
-    Rechenmethoden erlernt und sind in der Lage, diese anzuwenden. Die Studentinnen
-    und Studenten können ihre Methodenkenntnisse und Rechenmethoden im Bereich der
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage, die wichtigsten Konzepte
+    und Sätze der statistischen Physik sowie Thermodynamik zu benennen und zu
+    beschreiben. Weiterhin sind sie in der Lage, die erworbenen
+    Methodenkenntnisse auf gegebene Probleme zu übertragen und diese zu lösen.
+    Die Studentinnen und Studenten haben außerdem die für den Umgang mit der
+    statistischen Physik und Thermodynamik notwendigen Rechenmethoden erlernt
+    und sind in der Lage, diese anzuwenden. Die Studentinnen und Studenten
+    können ihre Methodenkenntnisse und Rechenmethoden im Bereich der
     statistischen Physik auf komplexe Fragestellungen anwenden.
-  content: Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles,
-    Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik, thermodynamische
-    Potenziale, thermodynamische Prozesse, Phasenübergänge, ideale Quantengase, wechselwirkende
-    Systeme.
+  content: |
+    Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles,
+    Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik,
+    thermodynamische Potenziale, thermodynamische Prozesse, Phasenübergänge,
+    ideale Quantengase, wechselwirkende Systeme.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1914,55 +2044,62 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 43
   name: Computational Statistical Physics II B
   organizer: Freie Universität Berlin/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten haben vertiefte Kenntnisse über die Konzepte
-    und Sätze der statistischen Physik. Sie können diese benennen, beschreiben und
-    anwenden, die erworbenen Methodenkenntnisse auf gegebene Probleme übertragen und
-    diese lösen. Die Studentinnen und Studenten haben ihre Methodenkenntnisse und
-    Rechenmethoden im Bereich der statistischen Physik erweitert und sind nun in der
-    Lage, diese auf komplexe Fragestellungen anzuwenden. Mit den erlernten Methoden
-    sind Studentinnen und Studenten auch in der Lage, mikroskopische physikalische
-    Prozesse/Gesetzmäßigkeiten auf makroskopischer Ebene abzuleiten und zu analysieren.
-  content: 'Eine Auswahl aus den folgenden fortgeschrittenen Themen der Statistischen
-    Physik: Nicht-Gleichgewichts-Thermodynamik (Entropieproduktion, Onsager-Relationen),
-    Linear-Response- und Fluktuations-Dissipations-Theorem, Stochastische Prozesse
-    (Markov-Prozesse, Mastergleichung, Langevin- und Fokker-Planck-Gleichung), Kinetische
-    Theorie, Phasenübergänge (Landautheorie, Gauss-Fluktuationen, Korrelationsfunktionen,
-    Renormierungsgruppen), Theorie der Flüssigkeiten, Hydrodynamik und Elastizitätslehre,
-    Statistische Quantenmechanik, exakt lösbare Modelle.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben vertiefte Kenntnisse über die Konzepte
+    und Sätze der statistischen Physik. Sie können diese benennen, beschreiben
+    und anwenden, die erworbenen Methodenkenntnisse auf gegebene Probleme
+    übertragen und diese lösen. Die Studentinnen und Studenten haben ihre
+    Methodenkenntnisse und Rechenmethoden im Bereich der statistischen Physik
+    erweitert und sind nun in der Lage, diese auf komplexe Fragestellungen
+    anzuwenden. Mit den erlernten Methoden sind Studentinnen und Studenten auch
+    in der Lage, mikroskopische physikalische Prozesse/Gesetzmäßigkeiten auf
+    makroskopischer Ebene abzuleiten und zu analysieren.
+  content: |
+    Eine Auswahl aus den folgenden fortgeschrittenen Themen der Statistischen
+    Physik: Nicht-Gleichgewichts-Thermodynamik (Entropieproduktion,
+    Onsager-Relationen), Linear-Response- und Fluktuations-Dissipations-Theorem,
+    Stochastische Prozesse (Markov-Prozesse, Mastergleichung, Langevin- und
+    Fokker-Planck-Gleichung), Kinetische Theorie, Phasenübergänge
+    (Landautheorie, Gauss-Fluktuationen, Korrelationsfunktionen,
+    Renormierungsgruppen), Theorie der Flüssigkeiten, Hydrodynamik und
+    Elastizitätslehre, Statistische Quantenmechanik, exakt lösbare Modelle.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: 'Erfolgreiches Bearbeiten von Übungsaufgaben
-
-        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts'
+      activity: |
+        Erfolgreiches Bearbeiten von Übungsaufgaben
+        Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1980,50 +2117,56 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 70
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Englisch
   total_work: 450
   credit_points: 15
   duration: Ein oder zwei Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 44
   name: Molecular simulation I
   organizer: Freie Universität Berlin/Mathematik und Informatik sowie Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten lernen die theoretischen Grundlagen und Simulationstechniken
-    für einfache stochastische Systeme (z. B. Molekül-Modelle, Ising-Modelle, Diffusion
-    in Modellpotenzialen) kennen. Sie verstehen die physikalischen Prinzipien und
-    Zusammenhänge von stochastischen Trajektorien und Ensembles, sind in der Lage,
-    geeignete Simulationsdaten zu generieren und daraus Erwartungswerte zu schätzen.
-    Sie können Erlerntes sicher anwenden.
-  content: '–  Grundlagen und Herleitungen zu den wichtigsten Ensembles. Boltzmannverteilung,
-    Zustandssummen, Erwartungswerte.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten lernen die theoretischen Grundlagen und
+    Simulationstechniken für einfache stochastische Systeme (z. B.
+    Molekül-Modelle, Ising-Modelle, Diffusion in Modellpotenzialen) kennen. Sie
+    verstehen die physikalischen Prinzipien und Zusammenhänge von stochastischen
+    Trajektorien und Ensembles, sind in der Lage, geeignete Simulationsdaten zu
+    generieren und daraus Erwartungswerte zu schätzen. Sie können Erlerntes
+    sicher anwenden.
+  content: |
 
-    -  Theorie, Konstruktion, Konvergenz und Durchführung von Monte-Carlo Verfahren
-    zur Berechnung stationärer Erwartungswerte.
-
-    -  Theorie zu Raten, Zeitkorrelationen und anderen zeitabhängigen Erwartungswerten.
-
-    -  Theorie, Konstruktion, Konvergenz und Durchführung von Molekulardynamik- Simulationen
-    zur Berechnung zeitabhängiger Erwartungswerte. Die Veranstaltung ist komplementär
-    zu Molecular Simulation II. Es wird die Reihenfolge Molecular Simulation I, Molecular
-    Simulation II empfohlen, dies ist jedoch nicht zwingend nötig.'
+    - Grundlagen und Herleitungen zu den wichtigsten Ensembles.
+      Boltzmannverteilung, Zustandssummen, Erwartungswerte.
+    - Theorie, Konstruktion, Konvergenz und Durchführung von Monte-Carlo
+      Verfahren zur Berechnung stationärer Erwartungswerte.
+    - Theorie zu Raten, Zeitkorrelationen und anderen zeitabhängigen
+      Erwartungswerten.
+    - Theorie, Konstruktion, Konvergenz und Durchführung von Molekulardynamik-
+      Simulationen zur Berechnung zeitabhängiger Erwartungswerte. Die
+      Veranstaltung ist komplementär zu Molecular Simulation II. Es wird die
+      Reihenfolge Molecular Simulation I, Molecular Simulation II empfohlen,
+      dies ist jedoch nicht zwingend nötig.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation
-        der Lösungen
+      activity: |
+        Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation der Lösungen
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation
-        der Lösungen
+      activity: |
+        Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation der Lösungen
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2035,35 +2178,42 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 45
   name: Forschungsprojekt A
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und Fertigkeiten
-    im wissenschaftlichen Rechnen in einem aktuellen, nach Möglichkeit industriebezogenen
-    Forschungsprojekt einsetzen. Sie können im Team arbeiten und über ihre Arbeit
-    geeignet kommunizieren. Sie sind dazu bereit, im Team bei Bedarf Hilfestellungen
-    anzubieten, sie können einzusetzende Hilfsmittel auswählen und beurteilen und
-    in sachlicher Weise Kritik üben.
-  content: In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln
-    des wissenschaftlichen Rechnens bearbeitet.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und
+    Fertigkeiten im wissenschaftlichen Rechnen in einem aktuellen, nach
+    Möglichkeit industriebezogenen Forschungsprojekt einsetzen. Sie können im
+    Team arbeiten und über ihre Arbeit geeignet kommunizieren. Sie sind dazu
+    bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können
+    einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise
+    Kritik üben.
+  content: |
+    In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln des
+    wissenschaftlichen Rechnens bearbeitet.
   teachingunit:
     - type: Projektseminar
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeiträge
+      activity: |
+        Diskussionsbeiträge
   workload:
     - type: Präsenzzeit PS
       time: 30
@@ -2071,33 +2221,40 @@
       time: 100
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Projektbeitrags (ca. 5 Seiten)
+  exam: |
+    Projektbeitrags (ca. 5 Seiten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Scientific Computing
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
 - page: 46
   name: Forschungsprojekt E
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und Fertigkeiten
-    im wissenschaftlichen Rechnen in einem aktuellen, nach Möglichkeit industriebezogenen
-    Forschungsprojekt einsetzen. Sie können im Team arbeiten und über ihre Arbeit
-    geeignet kommunizieren. Sie sind dazu bereit, im Team bei Bedarf Hilfestellungen
-    anzubieten, sie können einzusetzende Hilfsmittel auswählen und beurteilen und
-    in sachlicher Weise Kritik üben.
-  content: In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln
-    des wissenschaftlichen Rechnens bearbeitet.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und
+    Fertigkeiten im wissenschaftlichen Rechnen in einem aktuellen, nach
+    Möglichkeit industriebezogenen Forschungsprojekt einsetzen. Sie können im
+    Team arbeiten und über ihre Arbeit geeignet kommunizieren. Sie sind dazu
+    bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können
+    einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise
+    Kritik üben.
+  content: |
+    In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln des
+    wissenschaftlichen Rechnens bearbeitet.
   teachingunit:
     - type: Projektseminar
       swstime: 4
       attendance: recommended
-      activity: Regelmäßige Diskussionsbeiträge
+      activity: |
+        Regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit PS
       time: 60
@@ -2105,35 +2262,42 @@
       time: 210
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Projektbeitrags (ca. 10 Seiten)
+  exam: |
+    Projektbeitrags (ca. 10 Seiten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Scientific Computing
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
 - page: 47
   name: Forschungsseminar computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können sich in ein aktuelles Thema anhand
-    von Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich ergänzendes
-    Hintergrundwissen aneignen. Sie können auch ein schwieriges Thema in einem Vortrag
-    verständlich vermitteln. Sie können wesentliche Elemente gegenüber weniger wichtigen
-    Elementen hervorheben und achten bewusst auf den Einsatz geeigneter Medien. Sie
-    sind dazu bereit, bei Unklarheiten Fragen zu stellen, sie können sich an einer
-    Diskussion über wissenschaftliche Fragen beteiligen und sie können in sachlicher
-    Weise Kritik üben.
-  content: In diesem Seminar werden aktuelle Forschungsthemen behandelt. Dabei können
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können sich in ein aktuelles Thema anhand von
+    Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich
+    ergänzendes Hintergrundwissen aneignen. Sie können auch ein schwieriges
+    Thema in einem Vortrag verständlich vermitteln. Sie können wesentliche
+    Elemente gegenüber weniger wichtigen Elementen hervorheben und achten
+    bewusst auf den Einsatz geeigneter Medien. Sie sind dazu bereit, bei
+    Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über
+    wissenschaftliche Fragen beteiligen und sie können in sachlicher Weise
+    Kritik üben.
+  content: |
+    In diesem Seminar werden aktuelle Forschungsthemen behandelt. Dabei können
     sich die Studentinnen und Studenten auch auf ihre Masterarbeit vorbereiten.
   teachingunit:
     - type: Seminar
       swstime: 2
       attendance: recommended
-      activity: Regelmäßige Diskussionsbeiträge
+      activity: |
+        Regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit S
       time: 30
@@ -2141,52 +2305,54 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 90
-  exam: ten)
+  exam: |
+    ten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Scientific Computing
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
 - page: 48
   name: Markov modeling
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten lernen theoretische Grundlagen zur Konformationsdynamik
-    und zur Diskreten Beschreibung von raumkontinuierlichen Markovprozessen. Sie können
-    Erlerntes mittels ausgewählter numerischer und rechnergestützter Verfahren sicher
-    anwenden. Sie sind dazu bereit, bei Unklarheiten Fragen zu stellen, sie können
-    sich an einer Diskussion über wissenschaftliche Fragen beteiligen und sie können
-    in sachlicher Weise Kritik üben.
-  content: '–  Theorie zu Raum-Zeit-diskreten Markovketten. Irreduzibilität, Ergodizität,
-    Reversibilität. Algorithmen zur Berechnung dieser Eigenschaften.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten lernen theoretische Grundlagen zur
+    Konformationsdynamik und zur Diskreten Beschreibung von raumkontinuierlichen
+    Markovprozessen. Sie können Erlerntes mittels ausgewählter numerischer und
+    rechnergestützter Verfahren sicher anwenden. Sie sind dazu bereit, bei
+    Unklarheiten Fragen zu stellen, sie können sich an einer Diskussion über
+    wissenschaftliche Fragen beteiligen und sie können in sachlicher Weise
+    Kritik üben.
+  content: |
 
-    -  Maximum-Likelihood-Verfahren zur Schätzung reversibler und nichtreversibler
-    Markovketten. Bayes-Theorem. Samplingverfahren für reversible und nichtreversible
-    Modelle. Lineare Fehlerperturbation.
-
-    -  Konvergenz von Schätzgrößen und Verbesserung der Konvergenz.
-
-    -  Eigenwerte und Eigenvektoren der Übergangsmatrix, Korrelationsfunktionen. Messgrößen
-    für molekulare Experimente.
-
-    -  Mean first passage times, Kommittoren, Transition Path Theory.
-
-    -  Approximation von kontinuierlichen Markovprozessen durch Markovketten. Approximationsfehler.
-    Variationsprinzip.'
+    - Theorie zu Raum-Zeit-diskreten Markovketten. Irreduzibilität, Ergodizität,
+      Reversibilität. Algorithmen zur Berechnung dieser Eigenschaften.
+    - Maximum-Likelihood-Verfahren zur Schätzung reversibler und
+      nichtreversibler Markovketten. Bayes-Theorem. Samplingverfahren für
+      reversible und nichtreversible Modelle. Lineare Fehlerperturbation.
+    - Konvergenz von Schätzgrößen und Verbesserung der Konvergenz.
+    - Eigenwerte und Eigenvektoren der Übergangsmatrix, Korrelationsfunktionen.
+      Messgrößen für molekulare Experimente.
+    - Mean first passage times, Kommittoren, Transition Path Theory.
+    - Approximation von kontinuierlichen Markovprozessen durch Markovketten.
+      Approximationsfehler. Variationsprinzip.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation
-        der Lösungen
+      activity: |
+        Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation der Lösungen
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation
-        der Lösungen
+      activity: |
+        Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation der Lösungen
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2198,55 +2364,57 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Computational Sciences
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 49
   name: Molecular simulation II
   organizer: Freie Universität Berlin/Mathematik und Informatik sowie Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten lernen klassische (nichtquantenmechanische)
-    Modelle für Moleküle, insbesondere Makro- und Biomoleküle, kennen. Sie können
-    Erlerntes sicher anwenden.
-  content: '–  Aufbau, Bedeutung und Parametrisierung von empirischen Energiefunktionen
-    für die klassische Molekulardynamik.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten lernen klassische (nichtquantenmechanische)
+    Modelle für Moleküle, insbesondere Makro- und Biomoleküle, kennen. Sie
+    können Erlerntes sicher anwenden.
+  content: |
 
-    -  Periodische Randbedingungen, Cutoff, Effiziente Nachbarsuche.
-
-    -  Coulombsumme, Konvergenz, Poisson-Gleichung, Ewaldsumme, Particle-Mesh-Methoden.
-
-    -  Explizit, Poisson-Boltzmann, Generalized Born.
-
-    -  Integratoren, Diskretisierungsfehler.
-
-    -  Metastabilität, Replica-Exchange, Umbrella Sampling.
-
-    -  Berechnung von Erwartungswerten aus molekularen Simulationen. Das Modul ist
-    komplementär zu Molecular Simulation I. Es wird die Reihenfolge Molecular Simulation
-    I, Molecular Simulation II empfohlen, dies ist jedoch nicht zwingend nötig. Die
-    praktischen Fähigkeiten werden in einem Simulationspraktikum vermittelt. Dieses
-    findet in der Regel als Blockveranstaltung in der vorlesungsfreien Zeit statt.'
+    - Aufbau, Bedeutung und Parametrisierung von empirischen Energiefunktionen
+      für die klassische Molekulardynamik.
+    - Periodische Randbedingungen, Cutoff, Effiziente Nachbarsuche.
+    - Coulombsumme, Konvergenz, Poisson-Gleichung, Ewaldsumme,
+      Particle-Mesh-Methoden.
+    - Explizit, Poisson-Boltzmann, Generalized Born.
+    - Integratoren, Diskretisierungsfehler.
+    - Metastabilität, Replica-Exchange, Umbrella Sampling.
+    - Berechnung von Erwartungswerten aus molekularen Simulationen. Das Modul
+      ist komplementär zu Molecular Simulation I. Es wird die Reihenfolge
+      Molecular Simulation I, Molecular Simulation II empfohlen, dies ist jedoch
+      nicht zwingend nötig. Die praktischen Fähigkeiten werden in einem
+      Simulationspraktikum vermittelt. Dieses findet in der Regel als
+      Blockveranstaltung in der vorlesungsfreien Zeit statt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Aktive Teilnahme und Diskussion
-
-        Erfolgreiche Bearbeitung von Simulationsund Programmieraufgaben'
+      activity: |
+        Aktive Teilnahme und Diskussion
+        Erfolgreiche Bearbeitung von Simulationsund Programmieraufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Aktive Teilnahme und Diskussion
-
-        Erfolgreiche Bearbeitung von Simulationsund Programmieraufgaben'
+      activity: |
+        Aktive Teilnahme und Diskussion
+        Erfolgreiche Bearbeitung von Simulationsund Programmieraufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2258,45 +2426,47 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester/Block
   repeat: Unregelmäßig
-  usability: 'Für die Module „Quantenchemie Korrelationsmethode“ (5 LP) und „Quantenreaktionsdynamik“
-    (5 LP) wird auf die
-
-    Studien- und Prüfungsordnung für den Masterstudiengang Chemie des Fachbereichs
-    Biologie, Chemie und Pharmazie der Freien Universität Berlin verwiesen. Verwendbarkeit:
-    Masterstudiengang Computational Sciences'
+  usability: |
+    Masterstudiengang Computational Sciences
   differentiated: true
 - page: 50
   name: Selected topics in theoretical computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten Forschungsgebietes
-    des wissenschaftlichen Rechnens und verstehen die zugehörigen Begriffe. Sie können
-    Erlerntes sicher anwenden. Sie sind dazu bereit, bei Unklarheiten Fragen zu stellen,
-    sie können sich an einer Diskussion über wissenschaftliche Fragen beteiligen und
-    sie können in sachlicher Weise Kritik üben.
-  content: Das Modul gibt eine Einführung in ein ausgewähltes Forschungsgebiet des
-    wissenschaftlichen Rechnens. Zusätzlich werden aktuelle Forschungsfragen berührt.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten
+    Forschungsgebietes des wissenschaftlichen Rechnens und verstehen die
+    zugehörigen Begriffe. Sie können Erlerntes sicher anwenden. Sie sind dazu
+    bereit, bei Unklarheiten Fragen zu stellen, sie können sich an einer
+    Diskussion über wissenschaftliche Fragen beteiligen und sie können in
+    sachlicher Weise Kritik üben.
+  content: |
+    Das Modul gibt eine Einführung in ein ausgewähltes Forschungsgebiet des
+    wissenschaftlichen Rechnens. Zusätzlich werden aktuelle Forschungsfragen
+    berührt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation
-        der Lösungen
+      activity: |
+        Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation der Lösungen
     - type: Übung
       swstime: 2
       attendance: 'TODO: Übung: ja, Vorlesung: Teilnahme wird empfohlen:: Übung: Ja'
-      activity: Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation
-        der Lösungen
+      activity: |
+        Erfolgreiche Bearbeitung der Übungsblätter und mündliche Präsentation der Lösungen
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2308,42 +2478,49 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Scientific Computing
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
 - page: 51
   name: Selected topics in applied computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten Gebietes
-    des wissenschaftlichen Rechnens und können Lösungen zu ausgewählten Problemen
-    selbstständig erarbeiten. Sie sind dazu bereit, bei Unklarheiten Fragen zu stellen,
-    sie können sich an einer Diskussion über wissenschaftliche Fragen beteiligen und
-    sie können in sachlicher Weise Kritik üben.
-  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet des wissenschaftlichen
-    Rechnens. Zusätzlich werden aktuelle Forschungsfragen und Anwendungsbereiche berührt.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten Gebietes
+    des wissenschaftlichen Rechnens und können Lösungen zu ausgewählten
+    Problemen selbstständig erarbeiten. Sie sind dazu bereit, bei Unklarheiten
+    Fragen zu stellen, sie können sich an einer Diskussion über
+    wissenschaftliche Fragen beteiligen und sie können in sachlicher Weise
+    Kritik üben.
+  content: |
+    Das Modul gibt einen Einblick in ein ausgewähltes Gebiet des
+    wissenschaftlichen Rechnens. Zusätzlich werden aktuelle Forschungsfragen und
+    Anwendungsbereiche berührt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Aktive Beteiligung und ggf. Diskussion
-
-        Erfolgreiche Durchführung von Computerübungen'
+      activity: |
+        Aktive Beteiligung und ggf. Diskussion
+        Erfolgreiche Durchführung von Computerübungen
     - type: Seminar am PC
       swstime: 1
       attendance: recommended
-      activity: 'Aktive Beteiligung und ggf. Diskussion
-
-        Erfolgreiche Durchführung von Computerübungen'
+      activity: |
+        Aktive Beteiligung und ggf. Diskussion
+        Erfolgreiche Durchführung von Computerübungen
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2355,35 +2532,42 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
-    (ca. 15 Seiten).
+  exam: |
+    Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+    Hausarbeit (ca. 15 Seiten).
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Scientific Computing
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
 - page: 52
   name: Forschungsprojekt C
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und Fertigkeiten
-    im wissenschaftlichen Rechnen in einem aktuellen, nach Möglichkeit industriebezogenen
-    Forschungsprojekt einsetzen. Sie können im Team arbeiten und über ihre Arbeit
-    geeignet kommunizieren. Sie sind dazu bereit, im Team bei Bedarf Hilfestellungen
-    anzubieten, sie können einzusetzende Hilfsmittel auswählen und beurteilen und
-    in sachlicher Weise Kritik üben.
-  content: In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln
-    des wissenschaftlichen Rechnens bearbeitet.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und
+    Fertigkeiten im wissenschaftlichen Rechnen in einem aktuellen, nach
+    Möglichkeit industriebezogenen Forschungsprojekt einsetzen. Sie können im
+    Team arbeiten und über ihre Arbeit geeignet kommunizieren. Sie sind dazu
+    bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können
+    einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise
+    Kritik üben.
+  content: |
+    In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln des
+    wissenschaftlichen Rechnens bearbeitet.
   teachingunit:
     - type: Projektseminar
       swstime: 2
       attendance: recommended
-      activity: Regelmäßige Diskussionsbeiträge
+      activity: |
+        Regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit PS
       time: 30
@@ -2391,58 +2575,40 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Projektbeitrags (ca. 5 Seiten)
+  exam: |
+    Projektbeitrags (ca. 5 Seiten)
   language: Englisch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: 'Für die Beschreibung des Moduls „Forschungsseminar computational sciences“
-    (5 LP) siehe oben unter III. Spezialisierungsbereich, 1. Molecular Sciences, Buchst.
-    b) Wahlpflichtteil.
-
-    Für die Beschreibung des Moduls „Forschungsprojekt A“ siehe oben unter III. Spezialisierungsbereich,
-    1. Molecular
-
-    Sciences, Buchst. b) Wahlpflichtteil.
-
-    Für das Modul „Physik der Erde II“ (6 LP) wird auf die Studien- und Prüfungsordnung
-    für den Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften
-    der Freien Universität Berlin verwiesen.
-
-    Für die Beschreibung der Module „Selected topics in theoretical computational
-    sciences“ (5 LP) und „Selected topics
-
-    in applied computational sciences“ (5 LP) siehe oben unter III. Spezialisierungsbereich,
-    1. Molecular Sciences,
-
-    Buchst. b) Wahlpflichtteil.
-
-    Für das Modul „Thermodynamik und Kinetik von geologischen Prozessen“ (6 LP) wird
-    auf die Studien- und Prüfungsordnung für den Masterstudiengang Geologische Wissenschaften
-    des Fachbereichs Geowissenschaften der Freien
-
-    Universität Berlin verwiesen. Verwendbarkeit: Masterstudiengang Scientific Computing'
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
 - page: 53
   name: Forschungsprojekt B
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und Fertigkeiten
-    im wissenschaftlichen Rechnen in einem aktuellen, nach Möglichkeit industriebezogenen
-    Forschungsprojekt einsetzen. Sie können im Team arbeiten und über ihre Arbeit
-    geeignet kommunizieren. Sie sind dazu bereit, im Team bei Bedarf Hilfestellungen
-    anzubieten, sie können einzusetzende Hilfsmittel auswählen und beurteilen und
-    in sachlicher Weise Kritik üben.
-  content: In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln
-    des wissenschaftlichen Rechnens bearbeitet.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und
+    Fertigkeiten im wissenschaftlichen Rechnen in einem aktuellen, nach
+    Möglichkeit industriebezogenen Forschungsprojekt einsetzen. Sie können im
+    Team arbeiten und über ihre Arbeit geeignet kommunizieren. Sie sind dazu
+    bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können
+    einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise
+    Kritik üben.
+  content: |
+    In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln des
+    wissenschaftlichen Rechnens bearbeitet.
   teachingunit:
     - type: Projektseminar
       swstime: 2
       attendance: recommended
-      activity: Regelmäßige Diskussionsbeiträge
+      activity: |
+        Regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit PS
       time: 30
@@ -2450,33 +2616,40 @@
       time: 130
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Projektbeitrags (ca. 5 Seiten)
+  exam: |
+    Projektbeitrags (ca. 5 Seiten)
   language: Englisch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Masterstudiengang Scientific Computing
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
 - page: 54
   name: Forschungsprojekt D
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
     und Informatik/Physik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und Fertigkeiten
-    im wissenschaftlichen Rechnen in einem aktuellen, nach Möglichkeit industriebezogenen
-    Forschungsprojekt einsetzen. Sie können im Team arbeiten und über ihre Arbeit
-    geeignet kommunizieren. Sie sind dazu bereit, im Team bei Bedarf Hilfestellungen
-    anzubieten, sie können einzusetzende Hilfsmittel auswählen und beurteilen und
-    in sachlicher Weise Kritik üben.
-  content: In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln
-    des wissenschaftlichen Rechnens bearbeitet.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und
+    Fertigkeiten im wissenschaftlichen Rechnen in einem aktuellen, nach
+    Möglichkeit industriebezogenen Forschungsprojekt einsetzen. Sie können im
+    Team arbeiten und über ihre Arbeit geeignet kommunizieren. Sie sind dazu
+    bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können
+    einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise
+    Kritik üben.
+  content: |
+    In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln des
+    wissenschaftlichen Rechnens bearbeitet.
   teachingunit:
     - type: Projektseminar
       swstime: 4
       attendance: recommended
-      activity: Regelmäßige Diskussionsbeiträge
+      activity: |
+        Regelmäßige Diskussionsbeiträge
   workload:
     - type: Präsenzzeit PS
       time: 60
@@ -2484,32 +2657,13 @@
       time: 180
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Projektbeitrags (ca. 5 Seiten)
+  exam: |
+    Projektbeitrags (ca. 5 Seiten)
   language: Englisch
   total_work: 270
   credit_points: 9
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: 'Für die Beschreibung des Moduls „Forschungsseminar computational sciences“
-    (5 LP) siehe oben unter III. Spezialisierungsbereich, 1. Molecular Sciences, Buchst.
-    b) Wahlpflichtteil.
-
-    Für die Module „Klimavariabilität und -modelle“ (8 LP), „Modelle für Wetter und
-    Umwelt“ (8 LP), „Satellitenmeteorologie“ (8 LP) wird auf die Studien- und Prüfungsordnung
-    für den Masterstudiengang Meteorologie des Fachbereichs
-
-    Geowissenschaften der Freien Universität Berlin verwiesen.
-
-    Für die Beschreibung der Module „Selected topics in theoretical computational
-    sciences“ (5 LP) und „Selected topics
-
-    in applied computational sciences“ (5 LP) siehe oben unter III. Spezialisierungsbereich,
-    1. Molecular Sciences,
-
-    Buchst. b) Wahlpflichtteil.
-
-    Für die Module „Theoretische Meteorologie I“ (8 LP) und „Theoretische Meteorologie
-    II“ (8 LP) wird auf die Studienund Prüfungsordnung für den Masterstudiengang Meteorologie
-    des Fachbereichs Geowissenschaften der Freien Universität Berlin verwiesen. Verwendbarkeit:
-    Masterstudiengang Scientific Computing'
+  usability: |
+    Masterstudiengang Scientific Computing
   differentiated: true
