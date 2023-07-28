@@ -13,6 +13,11 @@ def expand(n):
 #    | gsub("\n"; "<br>") # using line breaks markdown can handle
 #;
 
+def myUri:
+    . | @uri
+    | gsub("\\."; "%2E")
+;
+
 def cleanup:
     .
     | gsub("\\*"; "\\*") # escape * for markdown
@@ -40,11 +45,11 @@ sort_by(.name)
 | .total_work |= tostring
 | .credit_points |= tostring
 | .gh = {
-    title: ("Error in \"" + .name + "\"") | @uri,
-    body:  ("There seems to be an error in module \"" + .name + "\".\n\n<Describe here a slightly more detailed description of what is wrong>") | @uri,
+    title: ("Error in \"" + .name + "\"" | myUri),
+    body:  ("There seems to be an error in module \"" + .name + "\".\n\n<Describe here a slightly more detailed description of what is wrong>") | myUri,
     }
-| .prev = if $idx > 0 then "[« " + ($data[$idx - 1].name) + "](../" + ($data[$idx - 1].name | @uri) + "){class=prev}" else "" end
-| .next = if $idx < ($data | length-1) then "[" + ($data[$idx + 1].name) + " »](../" + ($data[$idx + 1].name | @uri) + "){class=next}" else "" end
+| .prev = if $idx > 0 then "[« " + ($data[$idx - 1].name) + "](../" + ($data[$idx - 1].name | myUri) + "){class=prev}" else "" end
+| .next = if $idx < ($data | length-1) then "[" + ($data[$idx + 1].name) + " »](../" + ($data[$idx + 1].name | myUri) + "){class=next}" else "" end
 | ([ ""
     , "<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>"
     , ([.teachingunit[] | "<tr markdown><td> **" + .type + "** <br>"
@@ -72,9 +77,9 @@ sort_by(.name)
     , "<table markdown id=\"moduledesc\">"
     , "<tr markdown class=\"moduledesc_head\"><th colspan=\"2\">" + .name + " </th></tr>"
     , "<tr markdown><td colspan=\"2\">**Organisationseinheit**   <br>" + .organizer     + "</td></tr>"
-    , "<tr markdown><td colspan=\"2\">**Zugangsvoraussetzungen** <br>\n" + .requirements  + "\n\n</td></tr>"
-    , "<tr markdown><td colspan=\"2\">**Qualifikationsziele**    <br>\n" + .goals         + "\n\n</td></tr>"
-    , "<tr markdown><td colspan=\"2\">**Inhalte**                <br>\n" + .content       + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Zugangsvoraussetzungen** <br>\n\n" + .requirements  + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Qualifikationsziele**    <br>\n\n" + .goals         + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Inhalte**                <br>\n\n" + .content       + "\n\n</td></tr>"
     , $tu
     , "<tr markdown><td colspan=\"2\">**Aufwand**                <br>\n" + $aufwand + "\n\n</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Modulprüfung**             <br>" + .exam          + "\n\n</td></tr>"
@@ -84,7 +89,7 @@ sort_by(.name)
     , "<tr markdown><td colspan=\"2\">**Leistungspunkte (LP)**     <br>" + .credit_points + "</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Dauer des Moduls**         <br>" + .duration      + "</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Häufigkeit des Angebots**  <br>" + .repeat        + "</td></tr>"
-    , "<tr markdown><td colspan=\"2\">**Verwendbarkeit**           <br>" + .usability     + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Verwendbarkeit**           <br>\n\n" + .usability     + "\n\n</td></tr>"
     , "</table>"
   ] | flatten
 | .[]

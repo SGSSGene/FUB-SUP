@@ -2,47 +2,47 @@
   name: Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten sind in der Lage,
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage,
 
     - funktionale Programme formal zu spezifizieren
-
-    - gut strukturierte funktionale Programme zu entwickeln und Eigenschaften rekursiver
-    Programme mit vollständiger Induktion zu beweisen
-
-    - atomare Datentypen (Zahlen, Zeichen) in einem rechnerinternen Format darzustellen
-    und elementare Operationen darauf anzuwenden
-
-    - algebraische Datentypen wie Tupel, Listen, Bäume umzusetzen und zu verwenden
-
+    - gut strukturierte funktionale Programme zu entwickeln und Eigenschaften
+      rekursiver Programme mit vollständiger Induktion zu beweisen
+    - atomare Datentypen (Zahlen, Zeichen) in einem rechnerinternen Format
+      darzustellen und elementare Operationen darauf anzuwenden
+    - algebraische Datentypen wie Tupel, Listen, Bäume umzusetzen und zu
+      verwenden
     - logische Ausdrücke in Schaltnetze umzusetzen
-
     - endliche Automaten in Schaltwerke umzusetzen und
-
-    - die Komponenten einer ALU zu beschreiben. Sie haben ein grundlegendes Verständnis
-    der Berechenbarkeit.'
-  content: Im Mittelpunkt stehen zunächst der Begriff des Algorithmus und der Weg
-    von der Problemstellung über die algorithmische Lösung zum Programm. Anhand zahlreicher
-    Beispiele (z. B. Sortieren und Suchen) werden Grundprinzipien des Algorithmenentwurfs
-    erläutert und insbesondere das Verständnis für Rekursion entwickelt. Die Implementierung
-    der Algorithmen wird verbunden mit der Einführung einer geeigneten Programmiersprache.
-    Im Weiteren werden die theoretischen, technischen und organisatorischen Grundlagen
-    von Rechnersystemen vorgestellt. Dabei werden die Themen Binärdarstellung von
-    Informationen im Rechner, Boolesche Funktionen und ihre Berechnung durch Schaltnetze,
-    Schaltwerke für den Aufbau von Prozessoren und das Von-Neumann-Rechnermodell behandelt.
+    - die Komponenten einer ALU zu beschreiben. Sie haben ein grundlegendes
+      Verständnis der Berechenbarkeit.
+  content: |
+    Im Mittelpunkt stehen zunächst der Begriff des Algorithmus und der Weg von
+    der Problemstellung über die algorithmische Lösung zum Programm. Anhand
+    zahlreicher Beispiele (z. B. Sortieren und Suchen) werden Grundprinzipien
+    des Algorithmenentwurfs erläutert und insbesondere das Verständnis für
+    Rekursion entwickelt. Die Implementierung der Algorithmen wird verbunden mit
+    der Einführung einer geeigneten Programmiersprache. Im Weiteren werden die
+    theoretischen, technischen und organisatorischen Grundlagen von
+    Rechnersystemen vorgestellt. Dabei werden die Themen Binärdarstellung von
+    Informationen im Rechner, Boolesche Funktionen und ihre Berechnung durch
+    Schaltnetze, Schaltwerke für den Aufbau von Prozessoren und das
+    Von-Neumann-Rechnermodell behandelt.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
     - type: Übung
       swstime: 2
       attendance: required
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -54,53 +54,56 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden.
+  exam: |
+    Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden.
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: 30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
+  usability: |
+    30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
   differentiated: true
 - page: 7
   name: Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten sind in der Lage,
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind in der Lage,
 
-    - objektorientiert zu modellieren und graphentheoretische Konzepte als Werkzeug
-    bei algorithmischen Aufgabenstellung zu benutzen
-
-    - algorithmische Lösungen zu entwerfen, dabei verschiedene Entwurfsparadigmen
-    einzusetzen und die Algorithmen hinsichtlich ihrer Korrektheit und Effizienz zu
-    bewerten
-
-    - abstrakte Datentypen zu spezifizieren, auf verschiedene Weise zu implementieren
-    und dabei die Effizienz zu analysieren
-
-    - gut strukturierte imperative Programme zu entwickeln und sie zu testen.'
-  content: Es werden Grundlagen der imperativen und objektorientierten Programmierung
-    vermittelt. Programmiert wird in Java und/oder Python. Verschiedene Entwurfsparadigmen
-    für Algorithmen (z. B. Teile & Herrsche, Greedy, dynamische Programmierung, Backtracking)
-    werden im Zusammenhang mit grundlegenden graphentheoretischen Algorithmen vorgestellt.
-    Dies wird verbunden mit der Effizienzanalyse der Algorithmen. Weiterhin werden
-    der Entwurf und die effiziente Manipulation von Datenstrukturen (Stack, Queue,
+    - objektorientiert zu modellieren und graphentheoretische Konzepte als
+      Werkzeug bei algorithmischen Aufgabenstellung zu benutzen
+    - algorithmische Lösungen zu entwerfen, dabei verschiedene
+      Entwurfsparadigmen einzusetzen und die Algorithmen hinsichtlich ihrer
+      Korrektheit und Effizienz zu bewerten
+    - abstrakte Datentypen zu spezifizieren, auf verschiedene Weise zu
+      implementieren und dabei die Effizienz zu analysieren
+    - gut strukturierte imperative Programme zu entwickeln und sie zu testen.
+  content: |
+    Es werden Grundlagen der imperativen und objektorientierten Programmierung
+    vermittelt. Programmiert wird in Java und/oder Python. Verschiedene
+    Entwurfsparadigmen für Algorithmen (z. B. Teile & Herrsche, Greedy,
+    dynamische Programmierung, Backtracking) werden im Zusammenhang mit
+    grundlegenden graphentheoretischen Algorithmen vorgestellt. Dies wird
+    verbunden mit der Effizienzanalyse der Algorithmen. Weiterhin werden der
+    Entwurf und die effiziente Manipulation von Datenstrukturen (Stack, Queue,
     Heap, Dictionary) behandelt.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
     - type: Übung
       swstime: 2
       attendance: required
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -112,53 +115,57 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden.
+  exam: |
+    Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden.
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: 30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
+  usability: |
+    30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
   differentiated: true
 - page: 8
   name: Auswirkungen der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten
 
-    - verstehen den Unterschied zwischen Verfügungswissen und Orientierungswissen,
-
-    - lernen, beim Nachdenken über Informatiksysteme zu unterscheiden zwischen technischen
-    Fragestellungen, Technikfolgenabschätzung und Technikfolgenbewertung,
-
+    - verstehen den Unterschied zwischen Verfügungswissen und
+      Orientierungswissen,
+    - lernen, beim Nachdenken über Informatiksysteme zu unterscheiden zwischen
+      technischen Fragestellungen, Technikfolgenabschätzung und
+      Technikfolgenbewertung,
     - verstehen die Modulverantwortungsaspekte der Ingenieurtätigkeit,
-
-    - erlernen einige Aspekte der Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen
-    wie z. B. Sicherheit, Schutz der Privatsphäre,
-
-    - verstehen Diversityaspekte von Anwendungen und in der Anwendungsentwicklung.'
-  content: Dieses Modul behandelt die Auswirkungen des Einsatzes von Informatiksystemen.
-    Nach grundlegenden Fragen (Konzept, Verfügungswissen, Modulverantwortungsbegriff,
-    Subjektivität von Techniksoziologie) werden konkret an Beispielen Technikfolgen
-    in informatiklastigen Gebieten behandelt, z. B. die Sicherheit softwareintensiver
-    technischer Systeme, der Schutz der Privatsphäre oder Auswirkungen der Computerisierung
-    der Arbeitswelt.
+    - erlernen einige Aspekte der Technikfolgenabschätzung in bestimmten
+      Informatik-Themenbereichen wie z. B. Sicherheit, Schutz der Privatsphäre,
+    - verstehen Diversityaspekte von Anwendungen und in der
+      Anwendungsentwicklung.
+  content: |
+    Dieses Modul behandelt die Auswirkungen des Einsatzes von
+    Informatiksystemen. Nach grundlegenden Fragen (Konzept, Verfügungswissen,
+    Modulverantwortungsbegriff, Subjektivität von Techniksoziologie) werden
+    konkret an Beispielen Technikfolgen in informatiklastigen Gebieten
+    behandelt, z. B. die Sicherheit softwareintensiver technischer Systeme, der
+    Schutz der Privatsphäre oder Auswirkungen der Computerisierung der
+    Arbeitswelt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Arbeitsaufträge
-
-        – mündliche Präsentationen der Lösung jeweils einer Aufgabe im Seminar'
+      activity: |
+        - schriftliche Bearbeitung der Arbeitsaufträge
+        - mündliche Präsentationen der Lösung jeweils einer Aufgabe im Seminar
     - type: Seminar
       swstime: 2
-      attendance: 'TODO: Vorlesung: Teilnahme wird empfohlen; Übung: Ja:: Seminar:
-        Ja'
-      activity: '– schriftliche Bearbeitung der Arbeitsaufträge
-
-        – mündliche Präsentationen der Lösung jeweils einer Aufgabe im Seminar'
+      attendance: required
+      activity: |
+        - schriftliche Bearbeitung der Arbeitsaufträge
+        - mündliche Präsentationen der Lösung jeweils einer Aufgabe im Seminar
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -168,42 +175,49 @@
       time: 30
     - type: Vor- und Nachbereitung Ü
       time: 90
-  exam: Keine
+  exam: |
+    Keine
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Blockveranstaltung nach der Vorlesungszeit Jedes Wintersemesters
-  usability: 30-LP-Modulangebot Informatik
+  usability: |
+    30-LP-Modulangebot Informatik
   differentiated: true
 - page: 9
   name: Datenbanksysteme für Nebenfach
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können den Zweck und Aufbau einer Datenbank
-    erläutern, Datenbankmodelle (wie z. B. ER-Modelle) aus Anwendungsbeschreibungen
-    erstellen, ein relationales Modell aus einem Datenbankschema ableiten, eine Datenbank
-    auf Grundlage eines relationalen Modells erstellen, und Anfrage in relationaler
-    Algebra formalisieren. Sie können die Motivation der Normalisierung von Daten
-    erklären und können Algorithmen zum Normalisieren von Daten anwenden.
-  content: 'Datenbankentwurf mit Entity-Relationship-Modellen und der UML; theoretische
-    Grundlagen relationaler Datenbanksysteme, relationale Algebra; funktionale Abhängigkeiten,
-    Normalformen, relationale Datenbankentwicklung: Datendefinition, Fremdschlüssel,
-    andere Integritätsbedingungen, objektrelationale Abbildung, Transaktionsbegriff.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können den Zweck und Aufbau einer Datenbank
+    erläutern, Datenbankmodelle (wie z. B. ER-Modelle) aus
+    Anwendungsbeschreibungen erstellen, ein relationales Modell aus einem
+    Datenbankschema ableiten, eine Datenbank auf Grundlage eines relationalen
+    Modells erstellen, und Anfrage in relationaler Algebra formalisieren. Sie
+    können die Motivation der Normalisierung von Daten erklären und können
+    Algorithmen zum Normalisieren von Daten anwenden.
+  content: |
+    Datenbankentwurf mit Entity-Relationship-Modellen und der UML; theoretische
+    Grundlagen relationaler Datenbanksysteme, relationale Algebra; funktionale
+    Abhängigkeiten, Normalformen, relationale Datenbankentwicklung:
+    Datendefinition, Fremdschlüssel, andere Integritätsbedingungen,
+    objektrelationale Abbildung, Transaktionsbegriff.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
     - type: Übung
       swstime: 1
       attendance: required
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -215,44 +229,50 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden.
+  exam: |
+    Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden.
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: 30-LP-Modulangebot Informatik
+  usability: |
+    30-LP-Modulangebot Informatik
   differentiated: true
 - page: 10
   name: Grundlagen der theoretischen Informatik für Nebenfach
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten verstehen die Grundlagen der Beschreibung
-    von Programmiersprachen. Sie beherrschen die gängigen Verfahren, um formale Sprachen
-    von einer Beschreibungsform in eine andere zu überführen, sowie Beschreibungen
-    in minimale Formen zu übersetzen. Aus einer Beschreibung können sie die gemeinte
-    Sprache ableiten. Sie verstehen, dass unterschiedliche Beschreibungsformen von
-    Berechnungsmodellen gleichartig sind und verstehen die Verfahren, um eine Form
-    in die andere zu überführen. Sie verstehen die prinzipiellen Möglichkeiten und
-    Grenzen der Berechenbarkeit. Insbesondere verstehen sie das Halteproblem und seine
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verstehen die Grundlagen der Beschreibung von
+    Programmiersprachen. Sie beherrschen die gängigen Verfahren, um formale
+    Sprachen von einer Beschreibungsform in eine andere zu überführen, sowie
+    Beschreibungen in minimale Formen zu übersetzen. Aus einer Beschreibung
+    können sie die gemeinte Sprache ableiten. Sie verstehen, dass
+    unterschiedliche Beschreibungsformen von Berechnungsmodellen gleichartig
+    sind und verstehen die Verfahren, um eine Form in die andere zu überführen.
+    Sie verstehen die prinzipiellen Möglichkeiten und Grenzen der
+    Berechenbarkeit. Insbesondere verstehen sie das Halteproblem und seine
     Unlösbarkeit.
-  content: Theoretische Rechenmodelle (Automaten, Turing-Maschinen), formale Sprachen,
+  content: |
+    Theoretische Rechenmodelle (Automaten, Turing-Maschinen), formale Sprachen,
     Sprachakzeptoren, reguläre Ausdrücke, Berechenbarkeit.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
     - type: Übung
       swstime: 1
       attendance: required
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -264,54 +284,59 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden.
+  exam: |
+    Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden.
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: 30-LP-Modulangebot Informatik
+  usability: |
+    30-LP-Modulangebot Informatik
   differentiated: true
 - page: 11
   name: Nichtsequentielle Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten verstehen die Grundbegriffe der nichtsequentiellen
-    Programmierung mit gemeinsamem Speicher. Sie können nichtsequentielle Programme
-    mit Prozessen, Threads und aktiven Objekten geeignet strukturieren und durch geeignete
-    Synchronisationsverfahren unerwünschte nichtdeterministische Effekte sowie Verklemmungen
-    vermeiden. Sie kennen und verstehen Sicherheitsrisiken, die in nichtsequentiellen
-    Programmen entstehen können und können Methoden einsetzen, diese zu vermeiden.
-    Sie können Eigenschaften von Prozessen und Threads formal spezifizieren und diese
-    exemplarisch verifizieren.
-  content: 'Programmieren und Synchronisieren von gleichzeitig laufenden Prozessen,
-    die auf gemeinsamen Speicher zugreifen.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verstehen die Grundbegriffe der
+    nichtsequentiellen Programmierung mit gemeinsamem Speicher. Sie können
+    nichtsequentielle Programme mit Prozessen, Threads und aktiven Objekten
+    geeignet strukturieren und durch geeignete Synchronisationsverfahren
+    unerwünschte nichtdeterministische Effekte sowie Verklemmungen vermeiden.
+    Sie kennen und verstehen Sicherheitsrisiken, die in nichtsequentiellen
+    Programmen entstehen können und können Methoden einsetzen, diese zu
+    vermeiden. Sie können Eigenschaften von Prozessen und Threads formal
+    spezifizieren und diese exemplarisch verifizieren.
+  content: |
+    Programmieren und Synchronisieren von gleichzeitig laufenden Prozessen, die
+    auf gemeinsamen Speicher zugreifen.
 
-    - Nichtsequentielle Programme und Prozesse in ihren verschiedenen Ausprägungen
-
+    - Nichtsequentielle Programme und Prozesse in ihren verschiedenen
+      Ausprägungen
     - Nichtdeterminismus, Determinierung
-
-    - Synchronisationsmechanismen: Sperren, Monitore, Wachen, Ereignisse, Semaphore
-
-    - Nichtsequentielle Programmausführung und Objektorientierung Ablaufsteuerung,
-    Auswahlstrategien, Prioritäten, Umgang mit und Vermeidung von Verklemmung
-
-    - Koroutinen, Implementierung, Mehrprozessorsysteme'
+    - Synchronisationsmechanismen: Sperren, Monitore, Wachen, Ereignisse,
+      Semaphore
+    - Nichtsequentielle Programmausführung und Objektorientierung
+      Ablaufsteuerung, Auswahlstrategien, Prioritäten, Umgang mit und Vermeidung
+      von Verklemmung
+    - Koroutinen, Implementierung, Mehrprozessorsysteme
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
     - type: Übung
       swstime: 1
       attendance: required
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -323,62 +348,59 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden.
+  exam: |
+    Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden.
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: 30-LP-Modulangebot Informatik
+  usability: |
+    30-LP-Modulangebot Informatik
   differentiated: true
 - page: 12
   name: Verteilte Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten verstehen die Grundbegriffe der verteilten
-    Programmierung mit Nachrichtenaustausch. Sie können relevante Interaktionsparadigmen
-    wie Client/Server und Peer-to-Peer unterscheiden, eigene Anwendungen nach diesen
-    Paradigmen geeignet einordnen und verteilte Systeme auf der Basis von Fernaufrufen
-    konstruieren. Sie können Webanwendungen und Kunde/Dienstleister-Anwendungen geeignet
-    entwerfen, strukturieren und realisieren und verteilte Systeme mithilfe geeigneter
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verstehen die Grundbegriffe der verteilten
+    Programmierung mit Nachrichtenaustausch. Sie können relevante
+    Interaktionsparadigmen wie Client/Server und Peer-to-Peer unterscheiden,
+    eigene Anwendungen nach diesen Paradigmen geeignet einordnen und verteilte
+    Systeme auf der Basis von Fernaufrufen konstruieren. Sie können
+    Webanwendungen und Kunde/Dienstleister-Anwendungen geeignet entwerfen,
+    strukturieren und realisieren und verteilte Systeme mithilfe geeigneter
     Middleware entwickeln.
-  content: '– Interaktion über Nachrichten
-
-    - Programmieren und synchronisieren von gleichzeitig laufenden Prozessen, die
-    über Nachrichtenaustausch interagieren.
-
+  content: |
+    - Interaktion über Nachrichten
+    - Programmieren und synchronisieren von gleichzeitig laufenden Prozessen,
+      die über Nachrichtenaustausch interagieren.
     - Fernaufruftechniken
-
     - Client-Server, Peer-to-Peer
-
     - Parallelrechnen im Netz
-
     - Koordinierungssprachen, Orchestrierung, Choreographie
-
     - Verarbeitung auf dem Server und auf dem Client, Mobilität
-
-    - Middleware, strukturierte Kommunikation, statische und dynamische Schnittstellen
-
+    - Middleware, strukturierte Kommunikation, statische und dynamische
+      Schnittstellen
     - Ereignisbasierte und strombasierte Verarbeitung
-
     - Sicherheit von Anwendungen im Netzwerk, Absicherung der Protokolle
-
-    - Nichtfunktionale Eigenschaften (Zeit, Speicher, Dienstgüte)'
+    - Nichtfunktionale Eigenschaften (Zeit, Speicher, Dienstgüte)
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
     - type: Übung
       swstime: 1
       attendance: required
-      activity: '– schriftliche Bearbeitung der Übungsblätter
-
-        – mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung'
+      activity: |
+        - schriftliche Bearbeitung der Übungsblätter
+        - mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -390,12 +412,14 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden.
+  exam: |
+    Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden.
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: 30-LP-Modulangebot Informatik
+  usability: |
+    30-LP-Modulangebot Informatik
   differentiated: true

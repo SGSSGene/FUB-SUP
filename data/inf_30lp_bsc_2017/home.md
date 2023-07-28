@@ -7,3 +7,5 @@ Das Original ist hier zu finden: [StO/PO 2017 (30er Modulangebot, 0132c)](https:
 Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende Abweichungen sind bekannt:
 
 - Anlage 2 is missing
+- Seite 270, Teilnahme für Übung wird vorgeschrieben....es gibt aber keine Übung
+    `Vorlesung: Teilnahme wird empfohlen; {--Übung--}{++Seminar++}: Ja`
