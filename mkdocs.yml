@@ -12,6 +12,7 @@ repo_url: https://github.com/SGSSGene/FUB-SUP
 extra_css:
   - extra.css
 markdown_extensions:
+  - md_in_html
   - footnotes
   - def_list
   - pymdownx.tasklist:
@@ -27,6 +28,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.superfences
+  - pymdownx.extra
 plugins:
   - search
   - section-index
