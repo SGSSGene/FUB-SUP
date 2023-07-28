@@ -9,9 +9,6 @@
     in eines der Forschungsthemen, die in aktuellen Projekten am Institut für Informatik
     bearbeitet werden. Sie erlernen den Forschungsstand und üben relevante Fertigkeiten
     praktisch ein.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -32,6 +29,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -64,9 +64,6 @@
     Skiplisten) kennen und üben den Umgang mit ihnen. Zudem lernen sie Algorithmen
     für Zeichenketten (digitale Suchbäume und Suchen in Zeichenketten) und Graphenalgorithmen
     kennen, diskutieren deren Anwendung und üben den Umgang mit ihnen.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -88,6 +85,9 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -128,9 +128,6 @@
     Anwendungen der Analysis in der Informatik und Bioinformatik (z. B. konvexe Optimierung;
     Interpolations- und Näherungsverfahren). Auch hier wird weiter an Rechen- oder
     Beweisaufgaben geübt.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -152,6 +149,9 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -182,8 +182,6 @@
     weitere Modalitäten auseinander. Ebenfalls lernen Studierende Standards in der
     Biometrie kennen und setzen sich mit Fragen der maschinenlesbaren Reisedokumente
     und deren Anwendung auseinander.
-  exam: Klausur (90 Minuten); die auch in Form einer elektronischen Prüfungsleistung
-    (90 Minuten) durchgeführt werden kann.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -207,6 +205,8 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (90 Minuten); die auch in Form einer elektronischen Prüfungsleistung
+    (90 Minuten) durchgeführt werden kann.
   language: Deutsch (Vorträge nach Absprache auch auf Englisch)
   total_work: 180
   credit_points: 6
@@ -236,7 +236,6 @@
     der Zielsetzung, Feedback-Regeln) und üben konkrete Formen des Einsatzes. Sie
     diskutieren immer wieder Vor- und Nachteile, sowie typische geschlechtsspezifischer
     Muster. Sie erlernen und üben konkrete Anwendungen in aktuellen Lebenssituationen.
-  exam: Keine
   teachingunit:
     - type: Seminaristischer Unterricht
       swstime: 3
@@ -247,6 +246,7 @@
       time: 45
     - type: Vor- und Nachbereitung sU
       time: 105
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -280,9 +280,6 @@
     Systems, Realtime Scheduling, Realtime Communication und üben dessen Implementierung.
     Zuletzt werden Aspekte der Sicherheit eingebetteter Systeme einschl. Angriffsvektoren,
     Prozessisolation, Trusted Computing diskutiert und bewertet.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -305,6 +302,9 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch (Vorträge nach Absprache auch auf Englisch)
   total_work: 180
   credit_points: 6
@@ -337,7 +337,6 @@
     sie Beispiele für Technikfolgen in ausgewählten informatiklastigen Gebieten hoher
     Relevanz, z. B. Sicherheit softwareintensiver technischer Systeme, Schutz der
     Privatsphäre, Computerisierung des Alltagslebens, Computerisierung der Arbeitswelt.
-  exam: Keine
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -356,6 +355,7 @@
       time: 30
     - type: Vor- und Nachbereitung Ü
       time: 90
+  exam: Keine
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -385,7 +385,6 @@
     Praktikumsbericht, in dem sie die Organisation und ihre Tätigkeiten beschreiben,
     die erreichten Lernerfolge reflektierend diskutieren und das Praktikum insgesamt
     bewerten.
-  exam: Keine
   teachingunit:
     - type: Externes Praktikum
       swstime: 17.4
@@ -402,6 +401,7 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Keine
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -436,9 +436,6 @@
     dieser Verfahren. Darüber hinaus lernen Sie Routingverfahren innerhalb und außerhalb
     Autonomer Systeme, sowie TCP und UDP kennen und üben deren Implementierung in
     C.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -460,6 +457,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -498,9 +498,6 @@
     Datenbankzugriffe realisieren können. Darüber hinaus erlernen Studierenden die
     Konzepte der Normalisierung von relationalen Datenbanken, der Transaktionen, der
     Nebenläufigkeitskontrolle und Recovery sowie Optimierungsverfahren.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 3
@@ -521,6 +518,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch/Englisch
   total_work: 180
   credit_points: 6
@@ -554,8 +554,6 @@
     insbesondere den Prinzipien der Graphischen Integrität, auseinander und befassen
     sich mit fortgeschrittenen Themen der Datenvisualisierung (z. B. Dashboard-Design,
     Barrierefreiheit, Unsicherheit in Daten, Sicherstellung der Privatsphäre).
-  exam: Klausur (120 Minuten); die auch in Form einer elektronischen Prüfungsleistung
-    (120 Minuten) durchgeführt werden kann.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -576,6 +574,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die auch in Form einer elektronischen Prüfungsleistung
+    (120 Minuten) durchgeführt werden kann.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -612,9 +612,6 @@
     und Bäume. Zuletzt erarbeiten sie sich verschiedene Beweistechniken und grundlegende
     Aspekte Diskreter Wahrscheinlichkeitstheorie. Die meisten dieser Konzepte werden
     an Rechen- oder Beweisaufgaben geübt.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -636,6 +633,9 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -666,8 +666,6 @@
     Qualifikationszielen ausgerichtet. Die Studierenden vereinbaren vorab separat
     mit der Dozentin oder dem Dozenten das Verfahren der Durchführung (Zeitrahmen,
     Präsenztermine und Betreuung, Arbeitsnachweise, Kolloquium zur Notenfindung etc.).
-  exam: Schriftliche Ausarbeitung (2.000 bis 4.000 Wörter) mit Präsentation der Ergebnisse
-    (ca. 30 Minuten) sowie Diskussion (ca. 30 Minuten)
   teachingunit:
     - type: Praxisseminar
       swstime: 2
@@ -680,6 +678,8 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
+  exam: Schriftliche Ausarbeitung (2.000 bis 4.000 Wörter) mit Präsentation der Ergebnisse
+    (ca. 30 Minuten) sowie Diskussion (ca. 30 Minuten)
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -708,9 +708,6 @@
     Programmen. Zuletzt diskutieren sie die Möglichkeiten der Interaktion in Funktionaler
     Programmierung und erlernen Funktionale Datentypen und üben dessen praktische
     Anwendung.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -731,6 +728,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -763,8 +763,6 @@
     auseinander (z. B. Gender- und DiversityAspekte im Studium und Berufsleben sowie
     in der Geschichte der Informatik, diskriminierende Algorithmen, Data Bias, nicht-inklusive
     Entwicklung von Technologie). Sie diskutieren beispielhaft Einzelfälle oder Szenarios.
-  exam: Schriftliche Ausarbeitung (2.000 bis 3.000 Wörter) und Vortrag (ca. 30 Minuten)
-    mit anschließender Diskussion (ca. 10 Minuten)
   teachingunit:
     - type: Seminaristischer Unterricht
       swstime: 3
@@ -777,6 +775,8 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Schriftliche Ausarbeitung (2.000 bis 3.000 Wörter) und Vortrag (ca. 30 Minuten)
+    mit anschließender Diskussion (ca. 10 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -810,9 +810,6 @@
     Reduktionen und üben deren Anwendung. Zuletzt erlernen sie formale Grammatiken,
     Chomsky-Hierarchie, kontextfreie Sprachen und die Theorie der NP-Vollständigkeit
     und üben deren Anwendung.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -832,6 +829,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -867,9 +867,6 @@
     sich mit technischem Datenschutz auseinander (Privacy by Design, Datensicherheit,
     Datenschutz-Folgenabschätzung) und diskutieren die Durchsetzung des Datenschutzrechts:
     Kontrollsystem, Aufsichtsbehörden, Sanktionen, Zertifizierung.'
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -890,6 +887,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -923,9 +923,6 @@
     Programmiersprachen, vernetzten Systemen und an der Schnittstelle zum Menschen.
     Darüber hinaus üben und diskutieren Studierende, wie sie Sicherheit in vernetzten
     Systemen realisieren können und erlernen die notwendigen Grundlagen der Kryptographie.'
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -946,6 +943,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -981,9 +981,6 @@
     Kapazität, und Random Coding. Abschließend werden die Eigenschaften von Kodes
     (Hamming-Distanz, Fehlerkorrektur, ...), algebraische Ansätze mit endlichen Körpern
     sowie die Rate-Distortion Theory erlernt.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1005,6 +1002,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1035,9 +1035,6 @@
     und Vererbung, Polymorphie, sowie Grundlegende Algorithmische Fragestellungen
     (z. B. Suchen, Sortieren, Auswählen und Einfache Feld- und Zeigerbasierte Datenstrukturen)
     und üben deren Implementierung.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -1059,6 +1056,9 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -1099,9 +1099,6 @@
     Rechen- und Beweisaufgaben. Sie lernen und diskutieren exemplarisch Anwendungen
     der Linearen Algebra in der Informatik und Bioinformatik (z. B. Verschlüsselungsverfahren;
     Affine Geometrie; Statistische Datenanalyse; Codierungstheorie).
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -1123,6 +1120,9 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -1154,9 +1154,6 @@
     Netze (KNN), indem mögliche Architekturen und das Konzept der Backpropagation
     erarbeitet werden. Darüber hinaus setzen sich Studierende mit den Aspekten der
     Evaluierung (Crossvalidation, Hyper-Parameter-Tuning usw.) auseinander.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1178,6 +1175,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1215,8 +1215,6 @@
     Experiment, Feldstudie) und diskutieren deren Vorund Nachteile. Die Studierenden
     erarbeiten ethische Aspekte in der Gestaltung von Bedienoberflächen (z. B. Dark
     Pattern).
-  exam: Klausur (120 Minuten); die auch in Form einer elektronischen Prüfungsleistung
-    (120 Minuten) durchgeführt werden kann.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1237,6 +1235,8 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Klausur (120 Minuten); die auch in Form einer elektronischen Prüfungsleistung
+    (120 Minuten) durchgeführt werden kann.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1280,9 +1280,6 @@
     für und des Managements von verteilten Anwendungen. Studierende üben den Einsatz
     von Programmierwerkzeugen für die Entwicklung von nebenläufigen, parallelen und
     verteilten Programmen.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -1304,6 +1301,9 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -1335,7 +1335,6 @@
     von Tutorien. Das Üben findet im Rahmen eines Tutoriums über Ein Semester zu einer
     selbst gewählten Veranstaltung des Pflichtbereichs statt. Das Diskutieren erfolgt
     im Rahmen unterstützender Beratungsgespräche.
-  exam: Keine
   teachingunit:
     - type: Seminar
       swstime: 1
@@ -1358,6 +1357,7 @@
       time: 30
     - type: Vor- und Nachbereitung Ü
       time: 90
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1383,7 +1383,6 @@
     Teil davon üben sie auch, durch konkrete Anwendung ein einem eigenen Softwareprojekt.
     Die Studierenden diskutieren Vorteile, Nachteile und Grenzen jeder Praktik und
     reflektieren ggf. ihre eigenen Erfahrungen damit.
-  exam: Keine
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1402,6 +1401,7 @@
       time: 30
     - type: Vor- und Nachbereitung PS
       time: 90
+  exam: Keine
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1430,7 +1430,6 @@
     IDEs, Testwerkzeuge. Dabei erarbeiten sie sich einige komplexe Konzepte (z. B.
     zu Team-Workflows), erlernen zahlreiche Einzelheiten und diskutieren das Gelernte
     durch Reflexion der Ergebnisse.
-  exam: Keine
   teachingunit:
     - type: Seminar am PC
       swstime: 2
@@ -1441,6 +1440,7 @@
       time: 30
     - type: Vor- und Nachbereitung SPC
       time: 120
+  exam: Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1473,11 +1473,6 @@
     und -reporting, Projektorganisation und Einbettung eines Projekts in die ausführende
     Organisation, Führen ohne formale Macht, Projektkommunikation, Führung eines Projektteams
     und Qualitätsmanagement.'
-  exam: Arbeitsaufwand (Stunden) Regelmäßige Diskussionsbeiträge, ggf. ein Vortrag,
-    Bearbeitung von Übungsaufgaben Präsenzzeit SU 30 Vor- und Nachbereitung SU 30
-    Präsenzzeit SU 30 Vor- und Nachbereitung SU 30 Prüfungsvorbereitung und Prüfung
-    30 Klausur (60 Minuten), die auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden kann, oder mündliche Prüfung (ca. 20 Minuten)
   teachingunit:
     - type: Seminaristischer Unterricht
       swstime: 4
@@ -1488,6 +1483,11 @@
       time: 30
     - type: Vor- und Nachbereitung SU
       time: 30
+  exam: Arbeitsaufwand (Stunden) Regelmäßige Diskussionsbeiträge, ggf. ein Vortrag,
+    Bearbeitung von Übungsaufgaben Präsenzzeit SU 30 Vor- und Nachbereitung SU 30
+    Präsenzzeit SU 30 Vor- und Nachbereitung SU 30 Prüfungsvorbereitung und Prüfung
+    30 Klausur (60 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+    durchgeführt werden kann, oder mündliche Prüfung (ca. 20 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1519,9 +1519,6 @@
     Assembler-Programmierung und lösen selbstständig in Kleingruppenarbeit verschiedene
     Aufgabenkomplexe u. a. zu Zahldarstellungen, Arithmetik und Konvertierung von
     Datentypen.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1543,6 +1540,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1578,7 +1578,6 @@
     weitgehend selbstständige Organisation des Projektablaufs und der Teamarbeit.
     Zuletzt diskutieren sie reflektierend den Lösungsansatz, das Produkt und vor allem
     den Prozess der Softwareentwicklung.
-  exam: Keine
   teachingunit:
     - type: Praxisseminar
       swstime: 2
@@ -1589,6 +1588,7 @@
       time: 30
     - type: Durchführung inkl. Vor- und Nachbereitung PjS
       time: 270
+  exam: Keine
   language: Deutsch
   total_work: 300
   credit_points: 10
@@ -1619,9 +1619,6 @@
     (Tests, Durchsichten, etc.), konstruktive Qualitätssicherung sowie Prozessmodelle
     und Projektmanagement. Dabei vergleichen sie klassische phasenorientierte Ansätze
     mit agilen Ansätzen und diskutieren deren Spannungsfeld.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 4
@@ -1642,6 +1639,9 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 270
   credit_points: 9
@@ -1677,9 +1677,6 @@
     Daneben werden Themen wie Statistische Modelle und Likelihood-Funktion, Maximum-Likelihood-Schätzverfahren,
     Testtheorie, Signifikanz, p-Wert und deren Anwendungen in der Informatik und Bioinformatik
     vermittelt.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1700,6 +1697,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1738,9 +1738,6 @@
     virtuellen Maschinen zu installieren, einzurichten, in den Netzwerkverbund zu
     stellen und so aufzusetzen, dass die erstellten Betriebsysteminstanzen in einem
     Labornetzwerk einen selbst erstellten Dienst anbieten.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1757,6 +1754,9 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -1780,9 +1780,6 @@
     in ein Themengebiet, das in einem aktuellen Projekt am Institut für Informatik
     bearbeitet wird. Sie erlernen einschlägiges Faktenwissen und üben einige der damit
     verbundenen Fertigkeiten praktisch ein.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1803,6 +1800,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1830,9 +1830,6 @@
     Optimierung oder Randomisierte Algorithmen und üben deren Anwendung. Zuletzt erarbeiten
     und diskutieren sie z. B. ausgewählte Themen der Berechenbarkeitstheorie oder
     zu formalen Sprachen.
-  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
-    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
-    werden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
@@ -1853,6 +1850,9 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
+  exam: Mündliche Prüfung (ca. 20 Minuten) oder Klausur (90 Minuten); die Klausur
+    kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt
+    werden.
   language: Deutsch
   total_work: 180
   credit_points: 6
@@ -1891,8 +1891,6 @@
     Basierend darauf erarbeiten Studierende einen Vortrag, halten diesen und diskutieren
     eventuelle Fragen. Sie erstellen eine schriftliche Ausarbeitung basierend auf
     den Vortrag.
-  exam: Schriftliche Ausarbeitung (3.000 bis 4.000 Wörter) und Vortrag (ca. 30 Minuten)
-    mit anschließender Diskussion (ca. 10 Minuten)
   teachingunit:
     - type: Vorlesung
       swstime: 1
@@ -1913,6 +1911,8 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 90
+  exam: Schriftliche Ausarbeitung (3.000 bis 4.000 Wörter) und Vortrag (ca. 30 Minuten)
+    mit anschließender Diskussion (ca. 10 Minuten)
   language: Deutsch
   total_work: 180
   credit_points: 6
