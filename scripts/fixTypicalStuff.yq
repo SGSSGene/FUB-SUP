@@ -1,0 +1,31 @@
+#!/usr/bin/env -S yq -z -Y -w 80 -f
+def format:
+    .
+    | gsub("\n(?<c1>[^-\n][\n]*)\n-"; "\(.c1)\n\n-")
+    | . + "\n" | gsub("(\\s*\n)+$"; "\n")
+    | style("|")
+;
+
+[.[]
+| .goals |= (.
+            | gsub("1\\. Lesen"; "\n\n1. __Lesen__")
+            | gsub("2\\. Hören"; "\n2. __Hören__")
+            | gsub("3\\. Sprechen"; "\n3. __Sprechen__")
+            | gsub("4\\. Schreiben"; "\n4. __Schreiben__")
+            | gsub("5\\. Interkulturelle Kompetenz"; "\n5. __Interkulturelle Kompetenz__")
+            | gsub("5\\. Strategien"; "\n5. __Strategien__")
+            | format
+            )
+| .content |= format
+| .requirements |= format
+| .teachingunit |= [.[] | .activity |= (.
+                                       | gsub("E- Learn"; "E-Learn")
+                                       | format
+                                       )
+                   ]
+| .exam |= format
+| .usability |= format
+
+]
+
+
