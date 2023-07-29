@@ -2,9 +2,7 @@
 tags:
   - math_bsc_2013
 ---
-[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Partielle Differentialgleichungen I"&body=There seems to be an error in module "Partielle Differentialgleichungen I".
-
-<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Partielle%20Differentialgleichungen%20I%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Partielle%20Differentialgleichungen%20I%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
 { class=open-github-issue data-search-exclude}
 
 # Partielle Differentialgleichungen I
