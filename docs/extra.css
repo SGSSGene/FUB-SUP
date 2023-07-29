@@ -85,3 +85,60 @@ code ins.critic {
       width: 400px;
     }
 }
+
+p.open-github-issue {
+    display: inline;
+    float: right;
+}
+
+p.prev-next-nav {
+    color: green;
+    display: flow-root;
+/*    position: relative;*/
+}
+p.prev-next-nav a.prev {
+    float: left;
+}
+p.prev-next-nav a.next {
+    float: right;
+}
+
+#moduledesc {
+    overflow: visible !important;
+}
+tr.moduledesc_head {
+    background: lightgray;
+}
+.moduledesc_head th {
+    text-align: center !important;
+}
+
+#moduledesc .md-typeset__table {
+    margin: 0px;
+    padding: 0px;
+    display: unset;
+}
+#moduledesc .md-typeset__scrollwrap {
+    margin: 0px;
+    padding: 0px;
+}
+.moduledesc_tutable tr {
+    display: block;
+}
+
+.moduledesc_tutable > td {
+    padding: 0px !important;
+}
+.moduledesc_tutable table {
+    border: 0px !important;
+    display: block !important;
+}
+.aufwand_table {
+    border: 0px;
+    width: unset !important;
+}
+.aufwand_table td {
+    border: 0px !important;
+    padding: 0.2em !important;
+    padding-right: 1em !important;
+}

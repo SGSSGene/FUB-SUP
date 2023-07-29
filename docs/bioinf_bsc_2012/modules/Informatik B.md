@@ -1,0 +1,104 @@
+---
+tags:
+  - bioinf_bsc_2012
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Informatik B"&body=There seems to be an error in module "Informatik B".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
+# Informatik B
+
+[« Informatik A](Informatik A.md){class=prev}
+[Mathematik für Bioinformatiker I »](Mathematik für Bioinformatiker I.md){class=next}
+{class=prev-next-nav}
+
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Informatik B </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_30lp_bsc_2017](../../inf_30lp_bsc_2017/modules/Informatik B.md)</td></tr>
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereiche im Pflichtbereich des Kernfaches
+- Studienbereich Informatik
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten sind in der Lage,
+
+- objektorientiert zu modellieren und graphentheoretische Konzepte als
+  Werkzeug bei algorithmischen Aufgabenstellung zu benutzen
+- algorithmische Lösungen zu entwerfen, dabei verschiedene
+  Entwurfsparadigmen einzusetzen und die Algorithmen hinsichtlich ihrer
+  Korrektheit und Effizienz zu bewerten
+- abstrakte Datentypen zu spezifizieren, auf verschiedene Weise zu
+  implementieren und dabei die Effizienz zu analysieren
+- gut strukturierte imperative Programme zu entwickeln und sie zu testen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es werden Grundlagen der imperativen und objektorientierten Programmierung
+vermittelt. Programmiert wird in Java und/oder Python. Verschiedene
+Entwurfsparadigmen für Algorithmen (z. B. Teile & Herrsche, Greedy,
+dynamische Programmierung, Backtracking) werden im Zusammenhang mit
+grundlegenden graphentheoretischen Algorithmen vorgestellt. Dies wird
+verbunden mit der Effizienzanalyse der Algorithmen. Weiterhin werden der
+Entwurf und die effiziente Manipulation von Datenstrukturen (Stack, Queue,
+Heap, Dictionary) behandelt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+- schriftliche Bearbeitung der Übungsblätter
+- mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+- schriftliche Bearbeitung der Übungsblätter
+- mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten); die Klausur kann auch in Form einer elektronischen
+Prüfungsleistung durchgeführt werden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>240</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>8</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

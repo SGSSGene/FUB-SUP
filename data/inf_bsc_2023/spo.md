@@ -12,8 +12,8 @@ Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der Fr
 
 ### Anlagen
 
- - [Anlage 1: Modulbeschreibungen](../module_explanations/)
- - [Anlage 2: Exemplarischer Studienverlaufsplan](../anlage2/)
+ - [Anlage 1: Modulbeschreibungen](module_explanations.md)
+ - [Anlage 2: Exemplarischer Studienverlaufsplan](anlage2.md)
  - Anlage 3: Zeugnis (Muster) (!TODO missing)
  - Anlage 4: Urkunde (Muster) (!TODO missing)
 
@@ -182,10 +182,10 @@ Die Regelstudienzeit beträgt sechs Semester.
     zeitlichen Arbeitsaufwand, die Formen der aktiven Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die Angaben über die Pflicht zur regelmäßigen Teilnahme an den Lehr- und Lernformen, die
     den Modulen jeweils zugeordneten Leistungspunkte,
     die Regeldauer und die Angebotshäufigkeit informieren
-    für die Module des Bachelorstudiengangs die Modulbeschreibungen in der [Anlage 1](../module_explanations/).
+    für die Module des Bachelorstudiengangs die Modulbeschreibungen in der [Anlage 1](module_explanations.md).
 8. Über den empfohlenen Verlauf des Studiums
     unterrichtet der exemplarische Studienverlaufsplan in
-    der [Anlage 2](../anlage2/).
+    der [Anlage 2](anlage2.md).
 
 ## § 8 Lehr- und Lernformen
 1. Im Rahmen des Lehrangebots werden folgende

@@ -1,28 +1,100 @@
+---
+tags:
+  - inf_bsc_2014
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Auswirkungen der Informatik"&body=There seems to be an error in module "Auswirkungen der Informatik".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Auswirkungen der Informatik
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Auswirkungen der Informatik |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten – verstehen den Unterschied zwischen Verfügungswissen und Orientierungswissen, – lernen, beim Nachdenken über Informatiksysteme zu unterscheiden zwischen technischen Fragestellungen, Technikfolgenabschätzung und Technikfolgenbewertung, – verstehen die Verantwortungsaspekte der Ingenieurtätigkeit, – erlernen einige Aspekte der Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B. Sicherheit, Schutz der Privatsphäre, – verstehen Gender- und Diversityaspekte von Anwendungen und in der Anwendungsentwicklung. |
-|**Inhalte**                         | Dieses Modul behandelt die Auswirkungen der Informatik. Nach grundlegenden Fragen (Konzept, Verfügungswissen, Verantwortungsbegriff, Subjektivität von Techniksoziologie) werden konkret an Beispielen Technikfolgen in informatiklastigen Gebieten behandelt, z. B. die Sicherheit softwareintensiver technischer Systeme, der Schutz der Privatsphäre oder Auswirkungen der Computerisierung der Arbeitswelt. |
-|**Modulprüfung**                    | Keine |
-|**Modulsprache**                    | Deutsch Arbeitsaufwand (Stunden) Präsenzzeit V 30 Vor- und Nachbereitung V 45 Präsenzzeit S 30 Vor- und Nachbereitung S 45 |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | -                        |
-| Seminar              | 2                         | required                           | Beteiligung an den Diskussionen im Seminar |
+[« Arbeits- und Lebensmethodik](Arbeits- und Lebensmethodik.md){class=prev}
+[Basisdidaktik Informatik »](Basisdidaktik Informatik.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 45    |
-| Präsenzzeit S                            | 30    |
-| Vor- und Nachbereitung S                 | 45    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Auswirkungen der Informatik </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Pflichtbereich
+- Themengebiet Praktische Informatik
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten
+
+- verstehen den Unterschied zwischen Verfügungswissen und Orientierungswissen,
+- lernen, beim Nachdenken über Informatiksysteme zu unterscheiden zwischen technischen Fragestellungen,
+  Technikfolgenabschätzung und Technikfolgenbewertung,
+- verstehen die Verantwortungsaspekte der Ingenieurtätigkeit,
+- erlernen einige Aspekte der Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B.
+  Sicherheit, Schutz der Privatsphäre,
+- verstehen Gender- und
+  Diversityaspekte von Anwendungen und in der Anwendungsentwicklung.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Dieses Modul behandelt die Auswirkungen der Informatik. Nach grundlegenden
+Fragen (Konzept, Verfügungswissen, Verantwortungsbegriff, Subjektivität von
+Techniksoziologie) werden konkret an Beispielen Technikfolgen in
+informatiklastigen Gebieten behandelt, z. B. die Sicherheit
+softwareintensiver technischer Systeme, der Schutz der Privatsphäre oder
+Auswirkungen der Computerisierung der Arbeitswelt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+-
+</td></tr>
+<tr markdown><td> **Seminar** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Beteiligung an den Diskussionen im Seminar, Präsentation
+eigener Rechercheergebnisse
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>45 Stunden</td></tr>
+<tr><td>Präsenzzeit S</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S</td><td>45 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+Lehramt
+
+
+</td></tr>
+
+</table>

@@ -7,3 +7,8 @@ Das Original ist hier zu finden: [StO/PO 2017 (30er Modulangebot, 0132c)](https:
 Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende Abweichungen sind bekannt:
 
 - Anlage 2 is missing
+- Seite 270, Teilnahme für Übung wird vorgeschrieben....es gibt aber keine Übung...oder nur Übung und kein Seminar??? Rate ich mal das es ein Seminar ist.
+    - `Vorlesung: Teilnahme wird empfohlen; {--Übung--}{++Seminar++}: Ja`
+    - `Präsenzzeit {--Ü--}{++S++} 30`
+    - `Vor- und Nachbereitung {--Ü--}{++S++} 90`
+

@@ -1,26 +1,85 @@
+---
+tags:
+  - math_bsc_2013
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Wissenschaftliches Arbeiten in der Mathematik"&body=There seems to be an error in module "Wissenschaftliches Arbeiten in der Mathematik".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Wissenschaftliches Arbeiten in der Mathematik
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Wissenschaftliches Arbeiten in der Mathematik |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können ein grundlegendes, mathematisches Thema anhand von wissenschaftlicher Literatur selbstständig erarbeiten, es in einer schriftlichen Ausarbeitung strukturiert darstellen, in einem Vortrag präsentieren und schwierige Sachverhalte erklären. Sie haben gelernt, sich an einer wissenschaftlichen Diskussion zu beteiligen und können Fachvorträge und Ausarbeitungen anderer kritisch beurteilen. |
-|**Inhalte**                         | Das Seminar wird jeweils zu verschiedenen Fachgebieten angeboten. Es baut in der Regel auf mindestens einem Modul des zweiten Studienjahres auf. Es findet eine Vorbesprechung zur Themenvereinbarung statt. |
-|**Modulprüfung**                    | Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten); Modulprüfung wird nicht differenziert bewertet |
-|**Modulsprache**                    | Deutsch oder Englisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Mathematik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminar              | 2                         | required                           | Vereinbarung eines Themas, Besprechung der Vortragsvorbereitung mit der Lehrkraft, regelmäßige Beteiligung an den Vorträgen und der Diskussion |
+[« Visualisierung](Visualisierung.md){class=prev}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit                              | 30    |
-| Vor- und Nachbereitung                   | 60    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Wissenschaftliches Arbeiten in der Mathematik </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Vertiefungsbereich
+- Pflichtmodul
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können ein grundlegendes, mathematisches
+Thema anhand von wissenschaftlicher Literatur selbstständig erarbeiten, es
+in einer schriftlichen Ausarbeitung strukturiert darstellen, in einem
+Vortrag präsentieren und schwierige Sachverhalte erklären. Sie haben
+gelernt, sich an einer wissenschaftlichen Diskussion zu beteiligen und
+können Fachvorträge und Ausarbeitungen anderer kritisch beurteilen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Das Seminar wird jeweils zu verschiedenen Fachgebieten angeboten. Es baut in
+der Regel auf mindestens einem Modul des zweiten Studienjahres auf. Es
+findet eine Vorbesprechung zur Themenvereinbarung statt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Seminar** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Vereinbarung eines Themas, Besprechung der Vortragsvorbereitung mit der Lehrkraft, regelmäßige Beteiligung an den Vorträgen und der Diskussion
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Vortrag (etwa 45 Minuten) mit schriftlicher Ausarbeitung (etwa 8 Seiten);
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch oder Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Mathematik
+
+
+</td></tr>
+
+</table>

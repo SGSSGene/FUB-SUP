@@ -1,4 +1,4 @@
-#!/usr/bin/env -S yq -r -f
+#!/usr/bin/env -S yq -s -r -f
 def expand(n):
     if length < n then
         . + " " | expand(n)
@@ -7,14 +7,43 @@ def expand(n):
     end
 ;
 
+#def cleanup:
+#    .
+#    | gsub("\\*"; "\\*") # escape * for markdown
+#    | gsub("\n"; "<br>") # using line breaks markdown can handle
+#;
+
+def myUri:
+    . | @uri
+    | gsub("\\."; "%2E")
+;
+
 def cleanup:
     .
     | gsub("\\*"; "\\*") # escape * for markdown
-    | gsub("\n"; "<br>") # using line breaks markdown can handle
-
+#    | "\n" + .           # add artifical empty first line (makes matching with \n much easier)
+#    | gsub("(?<c>\n[^-].*)\n-"; "\(.c)\n\n-") # add empty line if listing something
+#    | gsub("(?<c>\n-.*)\n(?<c2>[^-])"; "\(.c)\n\n\(.c2)") # add empty line after list
+#    | gsub("^\n"; "")
 ;
-
-.[env.YQ_MODULE_IDX | tonumber]
+. as $all
+| .[0]
+| sort_by(.name)
+| (env.YQ_MODULE_IDX | tonumber) as $idx
+| . as $data
+| .[$idx]
+| .modification = (if has("modification") then .modification else [] end)
+| (if has("link") then
+    .
+    | .link as $link
+    | .name as $name
+    | . as $original
+    | $all[$all[-1][$link]] | .[] | select(.name == $name)
+    | .tags = $original.tags
+    | .modification = (if has("modification") then .modification else [] end)
+    | .modification |= . + $original.modification
+    | .origin = $link
+    else . end)
 | .name |= cleanup
 | .organizer |= cleanup
 | .responsible |= cleanup
@@ -23,32 +52,80 @@ def cleanup:
 | .content |= cleanup
 | .exam |= cleanup
 | .usability |= cleanup
-| [   "# " + .name
-    , "|                                    |   |"
-    , "|------------------------------------|---|"
-    , "|**Modul**                           | " + .name + " |"
-    , "|**Hochschule/Fachbereich/Institut** | " + .organizer + " |"
-    , "|**Modulverantwortung**              | " + .responsible + " |"
-    , "|**Zugangsvoraussetzungen**          | " + .requirements + " |"
-    , "|**Qualifikationsziele**             | " + .goals + " |"
-    , "|**Inhalte**                         | " + .content + " |"
-    , "|**Modulprüfung**                    | " + .exam + " |"
-    , "|**Modulsprache**                    | " + .language + " |"
-    , "|**Arbeitsaufwand (Stunden)**        | " + (.total_work | tostring) + " |"
-    , "|**Leistungspunkte (LP)**            | " + (.credit_points | tostring) + " |"
-    , "|**Dauer des Moduls**                | " + .duration + " |"
-    , "|**Häufigkeit des Angebots**         | " + .repeat + " |"
-    , "|**Verwendbarkeit**                  | " + .usability + " |"
+| .difftext = if .differentiated then "differenzierte Bewertung" else "nicht differenzierte Bewertung" end
+| .total_work |= tostring
+| .credit_points |= tostring
+| .gh = {
+    title: ("Error in \"" + .name + "\"" | myUri),
+    body:  ("There seems to be an error in module \"" + .name + "\".\n\n<Describe here a slightly more detailed description of what is wrong>") | myUri,
+    }
+| .prev = if $idx > 0 then "[« " + ($data[$idx - 1].name) + "](" + ($data[$idx - 1].name) + ".md){class=prev}" else "" end
+| .next = if $idx < ($data | length-1) then "[" + ($data[$idx + 1].name) + " »](" + ($data[$idx + 1].name) + ".md){class=next}" else "" end
+| ([ ""
+    , "<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>"
+    , ([.teachingunit[] | "<tr markdown><td> **" + .type + "** <br>"
+                               + if has("swstime") then (.swstime | tostring) + " SWS <br> "
+                                 elif has("htime") then (.htime | tostring) + " Stunden <br> "
+                                 else ""
+                                 end
+                               + (.attendance | if . == "recommended" then "Teilnahme empfohlen" elif . == "required" then "verpflichtete Teilnahme" else "Teilnahme unbekannt (!TODO)" end) + "</td><td>"
+                               + "\n\n" + (.activity | cleanup) + "</td></tr>" ])
+
+    ] | flatten | join("\n")) as $tu
+
+| ([ "<table class=\"aufwand_table\">"
+    , ([.workload[] | "<tr><td>" + .type + "</td><td>" + (.time | tostring) + " Stunden</td></tr>"])
+    , "</table>"
+    ] | flatten | join("\n")) as $aufwand
+| (if has("tags") then
+    (["<tr markdown><td colspan=\"2\">**Bereich**<br>\n\n"
+    , ([.tags[] | "- " + .])
+    , "\n</td></tr>"
+    ] | flatten | join("\n") + "\n")
+    else ""
+    end) as $tagstext
+| (if has("origin") then
+    "<tr markdown><td colspan=\"2\">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in " + .origin + "](../../" + .origin + "/modules/" + .name + ".md)</td></tr>"
+    else ""
+    end) as $linktext
+| (if (.modification | length) > 0 then
+    (["<tr markdown><td colspan=\"2\">**Abänderung in der Modulbeschreibung**<br>\n\n"
+    , ([.modification[] | "- " + .])
+    , "\n</td></tr>"
+    ] | flatten | join("\n") + "\n")
+    else ""
+    end) as $modtext
+
+| [   "---"
+    , "tags:"
+    , ("  - " + env.YQ_TAG)
+    , "---"
+    , "[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=" + .gh.title + "&body=" + .gh.body + "&labels=bug)"
+    , "{ class=open-github-issue data-search-exclude}"
     , ""
-    , "| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |"
-    , "| ---------------------|---------------------------|------------------------------------|------------------------- |"
-    , ([.teachingunit[] | "| " + (.type | expand(20)) + " | "
-                               + (.swstime | tostring | expand(25)) + " | "
-                               + (.attendance | expand(34)) + " | "
-                               + (.activity | cleanup | expand(24)) + " |" ])
+    , "# " + .name
     , ""
-    , "|   | Aufwand in Stunden |"
-    , "| - |--------------------|"
-    , ([.workload[] | "| " + (.type | expand(40)) + " | " + (.time | tostring | expand(5)) + " |"])
+    , ([.prev, .next, "{class=prev-next-nav}"] | join("\n") | gsub("\n\n"; "\n"))
+    , ""
+    , "<table markdown id=\"moduledesc\">"
+    , "<tr markdown class=\"moduledesc_head\"><th colspan=\"2\">" + .name + " </th></tr>"
+    , "<tr markdown><td colspan=\"2\">**Organisationseinheit**   <br>" + .organizer     + "</td></tr>"
+    , $linktext
+    , $tagstext
+    , "<tr markdown><td colspan=\"2\">**Zugangsvoraussetzungen** <br>\n\n" + .requirements  + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Qualifikationsziele**    <br>\n\n" + .goals         + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Inhalte**                <br>\n\n" + .content       + "\n\n</td></tr>"
+    , $tu
+    , "<tr markdown><td colspan=\"2\">**Aufwand**                <br>\n" + $aufwand + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Modulprüfung**             <br>" + .exam          + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Differenzierte Bewertung** <br>" + .difftext      + "\n\n</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Modulsprache**             <br>" + .language      + "</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Arbeitsaufwand (Stunden)** <br>" + .total_work    + "</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Leistungspunkte (LP)**     <br>" + .credit_points + "</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Dauer des Moduls**         <br>" + .duration      + "</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Häufigkeit des Angebots**  <br>" + .repeat        + "</td></tr>"
+    , "<tr markdown><td colspan=\"2\">**Verwendbarkeit**           <br>\n\n" + .usability     + "\n\n</td></tr>"
+    , $modtext
+    , "</table>"
   ] | flatten
 | .[]

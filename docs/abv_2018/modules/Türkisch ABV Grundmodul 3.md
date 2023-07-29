@@ -1,26 +1,102 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Türkisch ABV Grundmodul 3"&body=There seems to be an error in module "Türkisch ABV Grundmodul 3".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Türkisch ABV Grundmodul 3
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Türkisch ABV Grundmodul 3 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | beauftragte Türkischlehrkraft an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Erfolgreicher Abschluss des Moduls „Türkisch ABV Einstiegsmodul“ oder des Moduls<br>„Türkisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen die schriftlichen Grundfertigkeiten auf der Niveaustufe A 2.1 GER und die mündlichen Grundfertigkeiten auf der Niveaustufe A 2.2 GER 1. Lesen: Sie können einfache Texte mittlerer Länge zu vertrauten Themen mit Anleitung verstehen sowie in einfachen Alltagstexten konkrete Informationen herausarbeiten. Sie können die Bedeutung einzelner unbekannter Wörter aus dem Kontext erschließen. 2. Hören: Siekönnen zu ihnen vertrauten Themen mit Anleitung komplexere Hörtexte auch im Detail verstehen, wenn langsam und deutlich gesprochen wird. 3. Sprechen: Sie können die Handlung einer Geschichte in einer einfachen Form erzählen, einfache Erklärungen abgeben sowie Gewohnheiten und Alltagsbeschäftigungen beschreiben. 4. Schreiben: Sie können zu ihnen vertrauten Themen einfachere Texte nach Modelltexten anfertigen. Mit Hilfe vertrauter Strukturen und vertrautem Wortschatz können sie in Ansätzen ihre eigenen Ideen ausdrücken. 5. Interkulturelle Kompetenz: Sie können für die interkulturelle Kommunikation in Ansätzen wichtige soziale und kulturelle Elemente berücksichtigen. |
-|**Inhalte**                         | – Weitere Elemente der Textgrammatik<br>- Anleitung zur Selbstkorrektur<br>- Ausbau der Basisgrammatik<br>- Ausbau des Grundwortschatzes<br>- Ausbau der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen<br>- Komplexere Hörverständnisübungen |
-|**Modulprüfung**                    | Klausur (90 Minuten) oder Präsentation (ca. 15 Minuten) oder mündliche Prüfung (ca. 15 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Türkisch und Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich<br>Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden |
+[« Türkisch ABV Grundmodul 2](Türkisch ABV Grundmodul 2.md){class=prev}
+[Türkisch ABV Grundmodul 4 »](Türkisch ABV Grundmodul 4.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ                          | 60    |
-| Vor- und Nachbereitung spÜ               | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Türkisch ABV Grundmodul 3 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreicher Abschluss des Moduls „Türkisch ABV Einstiegsmodul“ oder des Moduls
+„Türkisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen die schriftlichen
+Grundfertigkeiten auf der Niveaustufe A 2.1 GER und die mündlichen
+Grundfertigkeiten auf der Niveaustufe A 2.2 GER
+
+1. __Lesen__: Sie können einfache Texte mittlerer Länge zu vertrauten Themen
+   mit Anleitung verstehen sowie in einfachen Alltagstexten konkrete
+   Informationen herausarbeiten. Sie können die Bedeutung einzelner
+   unbekannter Wörter aus dem Kontext erschließen.
+2. __Hören__: Siekönnen zu ihnen vertrauten Themen mit Anleitung komplexere
+   Hörtexte auch im Detail verstehen, wenn langsam und deutlich gesprochen
+   wird.
+3. __Sprechen__: Sie können die Handlung einer Geschichte in einer einfachen
+   Form erzählen, einfache Erklärungen abgeben sowie Gewohnheiten und
+   Alltagsbeschäftigungen beschreiben.
+4. __Schreiben__: Sie können zu ihnen vertrauten Themen einfachere Texte
+   nach Modelltexten anfertigen. Mit Hilfe vertrauter Strukturen und
+   vertrautem Wortschatz können sie in Ansätzen ihre eigenen Ideen
+   ausdrücken.
+5. __Interkulturelle Kompetenz__: Sie können für die interkulturelle
+   Kommunikation in Ansätzen wichtige soziale und kulturelle Elemente
+   berücksichtigen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Weitere Elemente der Textgrammatik
+- Anleitung zur Selbstkorrektur
+- Ausbau der Basisgrammatik
+- Ausbau des Grundwortschatzes
+- Ausbau der Sprechfertigkeit für die Ausführung kommunikativer
+  Grundfunktionen
+- Komplexere Hörverständnisübungen
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder Präsentation (ca. 15 Minuten) oder mündliche
+Prüfung (ca. 15 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Türkisch und Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
+LBW (Kompetenzbereich Fremdsprache)
+
+
+</td></tr>
+
+</table>

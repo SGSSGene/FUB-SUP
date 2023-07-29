@@ -1,26 +1,98 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Russisch ABV Grundmodul 2"&body=There seems to be an error in module "Russisch ABV Grundmodul 2".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Russisch ABV Grundmodul 2
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Russisch ABV Grundmodul 2 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | beauftragte Russischlehrkraft an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Grundkenntnisse des Russischen (Einstufungstest der ZE Sprachenzentrum oder<br>gleichwertiger Nachweis) |
-|**Qualifikationsziele**             | Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2.1 GER 1. Lesen: Die Studentinnen und Studenten können einfache Texte zu vertrauten Themen verstehen. 2. Hören: Die Studentinnen und Studenten können einfache Informationen zu vertrauten Themen verstehen, vorausgesetzt es wird langsam und deutlich gesprochen. Sie können ein kurzes Gespräch über vertraute Themen verfolgen. 3. Sprechen: Die Studentinnen und Studenten können sich in einfachen Situationen verständigen, in denen es um einen unkomplizierten Austausch von Informationen über vertraute Themen geht. Sie können mit einfachen sprachlichen Mitteln eingeübte Themen zusammenhängend beschreiben und dabei Sätze mit Konnektoren verwenden. 4. Schreiben: Die Studentinnen und Studenten können kleine zusammenhängende Texte zu vertrauten Themen schreiben. 5. Interkulturelle Kompetenz: Die Studentinnen und Studenten können erste für die interkulturelle Kommunikation wichtige soziale und kulturelle Elemente erkennen. |
-|**Inhalte**                         | – Elemente des Grundwortschatzes<br>- Elemente der Basisgrammatik<br>- Anleitung zur Selbstkorrektur und zur effektiven Arbeit mit Hilfsmitteln<br>- Weiterentwicklung von grundlegenden Lesestrategien<br>- Hörverständnisübungen<br>- Elemente der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen |
-|**Modulprüfung**                    | Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Russisch und Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich<br>Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit |
+[« Russisch ABV Einstiegsmodul](Russisch ABV Einstiegsmodul.md){class=prev}
+[Russisch ABV Grundmodul 3 »](Russisch ABV Grundmodul 3.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ                          | 60    |
-| Vor- und Nachbereitung spÜ               | 75    |
-| Prüfungsvorbereitung und Prüfung         | 15    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Russisch ABV Grundmodul 2 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Grundkenntnisse des Russischen (Einstufungstest der ZE Sprachenzentrum oder
+gleichwertiger Nachweis)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2.1 GER
+
+1. __Lesen__: Die Studentinnen und Studenten können einfache Texte zu
+   vertrauten Themen verstehen.
+2. __Hören__: Die Studentinnen und Studenten können einfache Informationen
+   zu vertrauten Themen verstehen, vorausgesetzt es wird langsam und
+   deutlich gesprochen. Sie können ein kurzes Gespräch über vertraute Themen
+   verfolgen.
+3. __Sprechen__: Die Studentinnen und Studenten können sich in einfachen
+   Situationen verständigen, in denen es um einen unkomplizierten Austausch
+   von Informationen über vertraute Themen geht. Sie können mit einfachen
+   sprachlichen Mitteln eingeübte Themen zusammenhängend beschreiben und
+   dabei Sätze mit Konnektoren verwenden.
+4. __Schreiben__: Die Studentinnen und Studenten können kleine
+   zusammenhängende Texte zu vertrauten Themen schreiben.
+5. __Interkulturelle Kompetenz__: Die Studentinnen und Studenten können
+   erste für die interkulturelle Kommunikation wichtige soziale und
+   kulturelle Elemente erkennen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Elemente des Grundwortschatzes
+- Elemente der Basisgrammatik
+- Anleitung zur Selbstkorrektur und zur effektiven Arbeit mit Hilfsmitteln
+- Weiterentwicklung von grundlegenden Lesestrategien
+- Hörverständnisübungen
+- Elemente der Sprechfertigkeit für die Ausführung kommunikativer
+  Grundfunktionen
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ</td><td>75 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>15 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Russisch und Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
+LBW (Kompetenzbereich Fremdsprache)
+
+
+</td></tr>
+
+</table>

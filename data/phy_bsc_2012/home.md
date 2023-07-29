@@ -7,4 +7,3 @@ Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende Abwe
 
 - Anlage 2 der Studienordnung ist nicht als markdown vorhanden
 - Anlage 2-3 der Prüfungsordnung ist nicht als markdown vorhanden
-- Modules on Page 1197, 1198, 1199 have the same swstime numbers (they are in hours, not in sws)

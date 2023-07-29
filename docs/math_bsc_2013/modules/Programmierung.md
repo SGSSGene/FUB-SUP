@@ -1,26 +1,94 @@
+---
+tags:
+  - math_bsc_2013
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Programmierung"&body=There seems to be an error in module "Programmierung".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Programmierung
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Programmierung |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Anhand vieler Beispiele und selbst zu lösender Aufgaben können die Studentinnen und Studenten eigenständig Programme spezifizieren, diese in einer Programmiersprache, z. B. Java entwickeln, implementieren und testen. Sie besitzen ein grundlegendes Verständnis für die Notwendigkeit von Spezifikationen und sauberen Schnittstellen, für Objektorientierung und Vererbung sowie für die Bedeutung von Systemarchitekturen. Sie können zu passenden Problemstellungen auch aus Technik und anderen Wissenschaften geeignete mathematische Formulierungen entwickeln, dazu die richtigen Lösungen finden und ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren. |
-|**Inhalte**                         | In der Vorlesung werden allgemeine Konzepte der strukturierten Programmierung und grundlegende Techniken der Softwareentwicklung unter Verwendung einer modernen Programmiersprache, z. B. Java, vermittelt. In der Übung werden praktische, anwendungsorientierte Aufgaben, z. B. aus den Bereichen Bildverarbeitung oder Grafik- und Applet-Programmierung, bearbeitet. |
-|**Modulprüfung**                    | Demonstration einer selbst entwickelten Software zu der vom Dozenten oder der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten); die Modulprüfung wird nicht differenziert bewertet. |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich Fachnahe Zusatzqualifikationen) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminaristische Übung | 4                         | required                           | Regelmäßige Bearbeitung und Implementierung der Programmieraufgaben, Präsentation mindestens einer korrekten Lösung |
+[« Planung und Durchführung eines Tutoriums](Planung und Durchführung eines Tutoriums.md){class=prev}
+[Spezialthemen der Mathematik »](Spezialthemen der Mathematik.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit Übung                        | 60    |
-| Vor- und Nachbereitung                   | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Programmierung </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Anhand vieler Beispiele und selbst zu lösender Aufgaben können die
+Studentinnen und Studenten eigenständig Programme spezifizieren, diese in
+einer Programmiersprache, z. B. Java entwickeln, implementieren und testen.
+Sie besitzen ein grundlegendes Verständnis für die Notwendigkeit von
+Spezifikationen und sauberen Schnittstellen, für Objektorientierung und
+Vererbung sowie für die Bedeutung von Systemarchitekturen. Sie können zu
+passenden Problemstellungen auch aus Technik und anderen Wissenschaften
+geeignete mathematische Formulierungen entwickeln, dazu die richtigen
+Lösungen finden und ihre Ergebnisse wieder im Anwendungskontext richtig
+interpretieren.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+In der Vorlesung werden allgemeine Konzepte der strukturierten
+Programmierung und grundlegende Techniken der Softwareentwicklung unter
+Verwendung einer modernen Programmiersprache, z. B. Java, vermittelt. In der
+Übung werden praktische, anwendungsorientierte Aufgaben, z. B. aus den
+Bereichen Bildverarbeitung oder Grafik- und Applet-Programmierung,
+bearbeitet.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Seminaristische Übung** <br>4 SWS <br> verpflichtete Teilnahme</td><td>
+
+Regelmäßige Bearbeitung und Implementierung der Programmieraufgaben, Präsentation mindestens einer korrekten Lösung
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit Übung</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Demonstration einer selbst entwickelten Software zu der vom Dozenten oder
+der Dozentin gestellten Prüfungsaufgabe (etwa 10 Minuten);
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
+Fachnahe Zusatzqualifikationen)
+
+
+</td></tr>
+
+</table>

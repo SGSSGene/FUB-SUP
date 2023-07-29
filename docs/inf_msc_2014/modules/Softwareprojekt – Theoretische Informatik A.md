@@ -1,26 +1,110 @@
+---
+tags:
+  - inf_msc_2014
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Softwareprojekt – Theoretische Informatik A"&body=There seems to be an error in module "Softwareprojekt – Theoretische Informatik A".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Softwareprojekt – Theoretische Informatik A
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Softwareprojekt – Theoretische Informatik A |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung komplexer Softwaresysteme auf dem Gebiet der Theoretischen Informatik. Sie können selbstständig ein größeres Projekt in Teilprojekte zerlegen, geeignete Schnittstellen definieren, und einen Zeitplan erstellen. Sie können sich im Team organisieren und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte. Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-, Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich, schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber. Sie können dabei Methoden des Projektmanagements und der Softwareentwicklung sicher anwenden, insbesondere im Bereich des Entwurfs und der Realisierung (Anforderungsermittlung, Spezifikation, Architekturentwurf, Modulentwurf, Technologieauswahl, Implementierung). |
-|**Inhalte**                         | Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur Lösung einer anwendungs- oder systemorientierten Aufgabe aus dem Bereich der Theoretischen Informatik, wie z. B. der praktischen Anwendung von Algorithmen (geometrische Aufgaben, Computer-Graphik, Mustererkennung, Computer-Sehen, Datenkompression). Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang Informatik durchgeführt. Die Teams werden aus Bachelor- und Master-Studenten gemischt, wobei die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft die Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik ein, insbesondere das Definieren, Abstimmen und Dokumentieren von Schnittstellen; die Mitwirkung an der arbeitsteiligen Erstellung von Softwarekomponenten (bei Verwendung noch nicht implementierter Schnittstellen); die Beurteilung und der Umgang mit einer noch fremden Technologie oder größeren Softwarekomponente (Wiederverwendung). |
-|**Modulprüfung**                    | Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten) |
-|**Modulsprache**                    | Deutsch (ggf. Englisch) |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | der vorlesungsfreien Zeit als Blockveranstaltung. |
-|**Verwendbarkeit**                  | Masterstudiengang Informatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Projektseminar       | 2                         | required                           | laufende Berichte über den Projektstand; regelmäßige Präsentation der Zwischenergebnisse |
+[« Softwareprojekt – Technische Informatik B](Softwareprojekt – Technische Informatik B.md){class=prev}
+[Softwareprojekt – Theoretische Informatik B »](Softwareprojekt – Theoretische Informatik B.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit                              | 30    |
-| Softwareentwicklung                      | 240   |
-| Vorbereitung von Präsentationen und Dokumentation | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Softwareprojekt – Theoretische Informatik A </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereich Theoretische Informatik
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+komplexer Softwaresysteme auf dem Gebiet der Theoretischen Informatik. Sie
+können selbstständig ein größeres Projekt in Teilprojekte zerlegen,
+geeignete Schnittstellen definieren, und einen Zeitplan erstellen. Sie
+können sich im Team organisieren und leitende Funktionen übernehmen. Dabei
+berücksichtigen sie Gender- und Diversitätsaspekte. Sie haben aus eigener
+Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-, Akzeptanz-
+und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der
+obigen Tätigkeiten im Projektteam als auch zur Verhandlung mit einem
+externen Auftraggeber. Sie können dabei Methoden des Projektmanagements und
+der Softwareentwicklung sicher anwenden, insbesondere im Bereich des
+Entwurfs und der Realisierung (Anforderungsermittlung, Spezifikation,
+Architekturentwurf, Modulentwurf, Technologieauswahl, Implementierung).
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+Studentinnen und Studenten produzieren im Team ein komplexes Stück Software
+zur Lösung einer anwendungs- oder systemorientierten Aufgabe aus dem Bereich
+der Theoretischen Informatik, wie z. B. der praktischen Anwendung von
+Algorithmen (geometrische Aufgaben, Computer-Graphik, Mustererkennung,
+Computer-Sehen, Datenkompression).
+
+Das Modul wird gemeinsam mit dem
+gleichnamigen Modul aus dem Bachelorstudiengang Informatik durchgeführt. Die
+Teams werden aus Bachelor- und Master-Studenten gemischt, wobei die
+Master-Studenten leitende Funktionen übernehmen.
+
+Jedes Team durchläuft die
+Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der
+Softwaretechnik ein, insbesondere das Definieren, Abstimmen und
+Dokumentieren von Schnittstellen; die Mitwirkung an der arbeitsteiligen
+Erstellung von Softwarekomponenten (bei Verwendung noch nicht
+implementierter Schnittstellen); die Beurteilung und der Umgang mit einer
+noch fremden Technologie oder größeren Softwarekomponente
+(Wiederverwendung).
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Projektseminar** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+laufende Berichte über den Projektstand; regelmäßige Präsentation der Zwischenergebnisse
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit</td><td>30 Stunden</td></tr>
+<tr><td>Softwareentwicklung</td><td>240 Stunden</td></tr>
+<tr><td>Vorbereitung von Präsentationen und Dokumentation</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch (ggf. Englisch)</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>der vorlesungsfreien Zeit als Blockveranstaltung.</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Informatik
+
+
+</td></tr>
+
+</table>

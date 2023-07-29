@@ -1,29 +1,105 @@
+---
+tags:
+  - inf_msc_2014
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Höhere Algorithmik"&body=There seems to be an error in module "Höhere Algorithmik".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Höhere Algorithmik
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Höhere Algorithmik |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen die gängigen Entwurfstechniken für Algorithmen und können Algorithmen mit ihrer Hilfe entwerfen. Sie können Algorithmen in Bezug auf ihren Laufzeit- und Speicherbedarf analysieren und dabei auch fortgeschrittene Analysemethoden verwenden. Sie verstehen die Theorie der NP-Vollständigkeit. Sie kennen die gängigen Komplexitätsklassen und können einfache Probleme in ihrer Komplexität einordnen. |
-|**Inhalte**                         | Es werden Themen wie:<br>- Wege- und Flussprobleme in Graphen,<br>- String-Matching,<br>- randomisierte Algorithmen,<br>- amortisierte Analyse,<br>- das „Master-Theorem“ zur Analyse von teile-und-herrsche-Rekursionsgleichungen,<br>- NP-Vollständigkeit,<br>- Approximationsalgorithmen für schwere Probleme,<br>- zahlentheoretische Algorithmen (einschließlich RSA-Kryptosystem),<br>- Arithmetische Algorithmen und Schaltkreise sowie schnelle Fourier-Transformation behandelt. |
-|**Modulprüfung**                    | Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung (20 bis 25 Minuten) |
-|**Modulsprache**                    | Deutsch (ggf. Englisch) |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Informatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | Bearbeitung der Übungsblätter<br>Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung |
-| Übung                | 2                         | recommended                        | Bearbeitung der Übungsblätter<br>Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung |
+[« Grundlagen des Softwaretestens](Grundlagen des Softwaretestens.md){class=prev}
+[Kryptographie und Sicherheit in Verteilten Systemen »](Kryptographie und Sicherheit in Verteilten Systemen.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 70    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 80    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Höhere Algorithmik </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereich Theoretische Informatik
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen die gängigen Entwurfstechniken
+für Algorithmen und können Algorithmen mit ihrer Hilfe entwerfen. Sie können
+Algorithmen in Bezug auf ihren Laufzeit- und Speicherbedarf analysieren und
+dabei auch fortgeschrittene Analysemethoden verwenden. Sie verstehen die
+Theorie der NP-Vollständigkeit. Sie kennen die gängigen Komplexitätsklassen
+und können einfache Probleme in ihrer Komplexität einordnen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es werden Themen wie:
+
+- Wege- und Flussprobleme in Graphen,
+- String-Matching,
+- randomisierte Algorithmen,
+- amortisierte Analyse,
+- das „Master-Theorem“ zur Analyse von
+  teile-und-herrsche-Rekursionsgleichungen,
+- NP-Vollständigkeit,
+- Approximationsalgorithmen für schwere Probleme,
+- zahlentheoretische Algorithmen (einschließlich RSA-Kryptosystem),
+- Arithmetische Algorithmen und Schaltkreise sowie schnelle
+  Fourier-Transformation behandelt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Bearbeitung der Übungsblätter
+Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Bearbeitung der Übungsblätter
+Zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>70 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>80 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung
+(20 bis 25 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch (ggf. Englisch)</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Informatik
+
+
+</td></tr>
+
+</table>

@@ -8,16 +8,18 @@ die folgende Studien- und Prüfungsordnung für den
 Bachelorstudiengang Informatik für das Lehramt des
 Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin und das 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge
-erlassen: *
+erlassen: [^1]
+
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 11. Juni 2015 bestätigt worden.
 
 ## Anlagen
 - Anlage 1: Modulbeschreibungen
 - Anlage 2: Exemplarische Studienverlaufspläne
     - 2.1 Exemplarische Studienverlaufsplan für den Bachelorstudiengang Informatik für das Lehramt (!TODO missing)
     - 2.2 Exemplarische Studienverlaufsplan für das 60-Leistungspunkte-Modulangebot
-        Informatik im Rahmen anderer Studiengänge (!TODO missing)
-    Anlage 3: Zeugnis (Muster) (!TODO missing)
-    Anlage 4: Urkunde (Muster) (!TODO missing)
+      Informatik im Rahmen anderer Studiengänge (!TODO missing)
+- Anlage 3: Zeugnis (Muster) (!TODO missing)
+- Anlage 4: Urkunde (Muster) (!TODO missing)
 
 ## § 1 Geltungsbereich
 Diese Ordnung regelt Ziele, Inhalt und Aufbau des

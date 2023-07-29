@@ -23,7 +23,7 @@ der Charité - Universitätsmedizin Berlin erlassen: [^1]
 
 ## Anlagen
 
-- Anlage 1: [Modulbeschreibungen](../bioinf_msc_2019/module_explanations/)
+- Anlage 1: [Modulbeschreibungen](module_explanations.md)
 - Anlage 2: Exemplarische Studienverlaufspläne für den Masterstudiengang Bioinformatik (!TODO missing)
     - 2.1 Masterstudiengang Bioinformatik mit dem Profilbereich Complex Systems (!TODO missing)
     - 2.2 Masterstudiengang Bioinformatik mit dem Profilbereich Data Science (!TODO missing)

@@ -9,8 +9,5 @@ Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende Abwe
     - `(1){++ ++}Diese Studienordnung tritt am Tage nach ihrer Ver-`
 - Anlage 2 der Studienordnung ist nicht als markdown vorhanden
 - Anlage 2-3 der Prüfungsordnung ist nicht als markdown vorhanden
-- Seite 645: es fehlt der Text:
-
-    > Für die Module „Differentialgleichungen I“, „Diskrete Mathematik I“, „Algebra I“, „Numerik II“, „Differentialgeometrie I“,
-    > „Visualisierung“ und „Topologie I” wird auf die Studien- und Prüfungsordnung für den Masterstudiengang Mathematik
-    > verwiesen.
+- Seite 645: Das Modul "Differentialgleichungen I" exstiert in der 2018 msc mathe nicht mehr, ist damit "Partielle Differentialgleichungen I" gemeint? (ich nehme das mal an)
+- seite 645: Das Modul "Visualisierung" existiert in der 2018 msc mathe nicht mehr...habs einfach weggelassen

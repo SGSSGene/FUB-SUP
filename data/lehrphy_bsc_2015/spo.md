@@ -23,8 +23,6 @@ erlassen: [^1]
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
 - Anlage 4: Urkunde (Muster) (!TODO missing)
 
-    1. Abschnitt: Allgemeiner Teil
-
 ## § 1 Geltungsbereich
 Diese Ordnung regelt Ziele, Inhalt und Aufbau des
 Bachelorstudiengangs Physik für das Lehramt des

@@ -1,29 +1,91 @@
+---
+tags:
+  - math_msc_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Topologie%20III%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Topologie%20III%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Topologie III
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Topologie III |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Erfolgreiche Absolvierung des Moduls „Topologie I“ oder gleichwertige Leistung |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in der Algebraischen und Geometrischen Topologie, die in wenigstens einem Thema an aktuelle Entwicklungen in der Forschung heranführen, und können sicher damit umgehen. |
-|**Inhalte**                         | Es wird eine Auswahl aus folgenden Themen behandelt: Homotopiemengen, Homotopiegruppen und der Satz von Hurewicz, verallgemeinerte Homologietheorien und Spektren, Bündel und klassifizierende Räume, Charakteristische Klassen und Differenzierbare Strukturen, Niedrigdimensionale Topologie, Geometrische Gruppentheorie, Faserungen und Spektralsequenzen und Kohomologieoperationen. |
-|**Modulprüfung**                    | Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder schriftliche Ausarbeitung (etwa 8 Seiten) |
-|**Modulsprache**                    | Deutsch oder Englisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes zweite Sommersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie mündliche Präsentation |
-| Übung                | 2                         | required                           | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie mündliche Präsentation |
+[« Topologie II](Topologie II.md){class=prev}
+[What is ... »](What is ....md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 20    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 50    |
-| Prüfungsvorbereitung und Prüfung         | 20    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Topologie III </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Aufbaumodul
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Topologie I“ oder gleichwertige Leistung
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten besitzen fortgeschrittene Kenntnisse in der
+Algebraischen und Geometrischen Topologie, die in wenigstens einem Thema an
+aktuelle Entwicklungen in der Forschung heranführen, und können sicher damit
+umgehen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es wird eine Auswahl aus folgenden Themen behandelt: Homotopiemengen,
+Homotopiegruppen und der Satz von Hurewicz, verallgemeinerte
+Homologietheorien und Spektren, Bündel und klassifizierende Räume,
+Charakteristische Klassen und Differenzierbare Strukturen,
+Niedrigdimensionale Topologie, Geometrische Gruppentheorie, Faserungen und
+Spektralsequenzen und Kohomologieoperationen.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie mündliche Präsentation
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie mündliche Präsentation
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>20 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>50 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>20 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (60 Minuten) oder mündliche Prüfung (etwa 15 Minuten) oder
+schriftliche Ausarbeitung (etwa 8 Seiten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch oder Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes zweite Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+
+
+</td></tr>
+
+</table>

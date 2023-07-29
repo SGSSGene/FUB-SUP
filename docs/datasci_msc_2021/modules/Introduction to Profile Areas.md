@@ -1,28 +1,97 @@
+---
+tags:
+  - datasci_msc_2021
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Introduction to Profile Areas"&body=There seems to be an error in module "Introduction to Profile Areas".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Introduction to Profile Areas
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Introduction to Profile Areas |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik |
-|**Modulverantwortung**              | Dozenten und Dozentinnen des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden kennen themenbezogen exemplarische Problemstellungen und Lösungsansätze aus den zwei Profilbereichen und sind in der Lage diese problemlösungsorientiert anzuwenden. Sie erkennen, wo welche Kompetenzen gebraucht werden und sind in der Lage, eine bereichsspezifische Problemstellung zu analysieren. Studierende können Unterschiede und Gemeinsamkeiten des Arbeitens in den zwei verschiedenen Profilbereichen erarbeiten und vergleichen. Sie können geeignete themenbezogene Literatur finden und sind in der Lage, praktische Probleme aus den jeweiligen Bereichen zu bearbeiten. |
-|**Inhalte**                         | Das Modul präsentiert themenbezogen disziplinübergreifend exemplarische Problemstellungen und Lösungsansätze aus den Profilbereichen „Data Science in Life Sciences“ und „Data Science Technologies“. Im Bereich der Projektarbeit bearbeiten Teams gemeinsam konkrete Aufgabenstellungen zu ausgewählten Themen aus den Profilbereichen. Sie erarbeiten konkrete Lösungsvorschläge für praxisorientierte Problemstellungen, setzen diese um und präsentieren die Ergebnisse. |
-|**Modulprüfung**                    | Keine |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Data Science |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | required                           | Rekapitulation des Lehrvortrags, Bearbeitung von Projekten |
-| Projektseminar       | 2                         | required                           | Rekapitulation des Lehrvortrags, Bearbeitung von Projekten |
+[« Interdisziplinäre Zugänge im Rahmen von Data Science B](Interdisziplinäre Zugänge im Rahmen von Data Science B.md){class=prev}
+[Künstliche Intelligenz »](Künstliche Intelligenz.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit RV                           | 30    |
-| Vor- und Nachbereitung RV                | 30    |
-| Präsenzzeit ProjS                        | 30    |
-| Vor- und Nachbereitung ProjS             | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Introduction to Profile Areas </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Grundlagenbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden kennen themenbezogen exemplarische Problemstellungen und
+Lösungsansätze aus den zwei Profilbereichen und sind in der Lage diese
+problemlösungsorientiert anzuwenden. Sie erkennen, wo welche Kompetenzen
+gebraucht werden und sind in der Lage, eine bereichsspezifische
+Problemstellung zu analysieren. Studierende können Unterschiede und
+Gemeinsamkeiten des Arbeitens in den zwei verschiedenen Profilbereichen
+erarbeiten und vergleichen. Sie können geeignete themenbezogene Literatur
+finden und sind in der Lage, praktische Probleme aus den jeweiligen
+Bereichen zu bearbeiten.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Das Modul präsentiert themenbezogen disziplinübergreifend exemplarische
+Problemstellungen und Lösungsansätze aus den Profilbereichen „Data Science
+in Life Sciences“ und „Data Science Technologies“. Im Bereich der
+Projektarbeit bearbeiten Teams gemeinsam konkrete Aufgabenstellungen zu
+ausgewählten Themen aus den Profilbereichen. Sie erarbeiten konkrete
+Lösungsvorschläge für praxisorientierte Problemstellungen, setzen diese um
+und präsentieren die Ergebnisse.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Rekapitulation des Lehrvortrags, Bearbeitung von Projekten
+</td></tr>
+<tr markdown><td> **Projektseminar** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Rekapitulation des Lehrvortrags, Bearbeitung von Projekten
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit RV</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung RV</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit ProjS</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung ProjS</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Data Science
+
+
+</td></tr>
+
+</table>

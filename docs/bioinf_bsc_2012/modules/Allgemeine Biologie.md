@@ -1,26 +1,94 @@
+---
+tags:
+  - bioinf_bsc_2012
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Allgemeine Biologie"&body=There seems to be an error in module "Allgemeine Biologie".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Allgemeine Biologie
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Allgemeine Biologie |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Fachbereich BCP/Institut für Biologie |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten besitzen einen Überblick über die Pflanzenzelle, Kenntnisse über die Pflanzenmorphologie und grundsätzliche pflanzliche Entwicklungsvorgänge, physiologische Prozesse und Diversität im Pflanzenreich. Sie haben einen Überblick über das Tierreich. Sie kennen die wesentlichen Organisationsformen im Tierreich und ihre phylogenetischen Beziehungen. |
-|**Inhalte**                         | Vorlesung Botanik und Biodiversität: Bau der Pflanzenzelle, Grundlagen des Stoff- und Energiestoffwechsels, pflanzliche Transport- und Entwicklungsprozesse, Struktur- und Funktionszusammenhänge bei Samenpflanzen, Merkmale, Baupläne und Zusammenhänge der wichtigsten Taxa des Pflanzenreichs, Biodiversität im Pflanzenreich. Vorlesung Zoologie und Evolution: Evolution als historischer Prozess, Diversität und Systematik der wichtigsten Tiergruppen und ihrer Merkmale, grundlegende Baupläne und Funktionen. |
-|**Modulprüfung**                    | Keine |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 180 |
-|**Leistungspunkte (LP)**            | 6 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Bioinformatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung A          | 2                         | recommended                        | Test oder Befragung im Antwort-Wahl-Verfahren. Der Test oder die Befragung im Antwort-Wahl-Verfahren kann auch in elektronischer Form durchgeführt werden. |
-| Vorlesung B          | 2                         | recommended                        | Test oder Befragung im Antwort-Wahl-Verfahren. Der Test oder die Befragung im Antwort-Wahl-Verfahren kann auch in elektronischer Form durchgeführt werden. |
+[« Algorithmische Bioinformatik](Algorithmische Bioinformatik.md){class=prev}
+[Allgemeine Chemie »](Allgemeine Chemie.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit                              | 60    |
-| Vor- und Nachbereitung                   | 120   |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Allgemeine Biologie </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Fachbereich BCP/Institut für Biologie</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereiche im Pflichtbereich des Kernfaches
+- Studienbereich Biologie/Chemie/Biochemie
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten besitzen einen Überblick über die
+Pflanzenzelle, Kenntnisse über die Pflanzenmorphologie und grundsätzliche
+pflanzliche Entwicklungsvorgänge, physiologische Prozesse und Diversität im
+Pflanzenreich. Sie haben einen Überblick über das Tierreich. Sie kennen die
+wesentlichen Organisationsformen im Tierreich und ihre phylogenetischen
+Beziehungen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Vorlesung Botanik und Biodiversität: Bau der Pflanzenzelle, Grundlagen des
+Stoff- und Energiestoffwechsels, pflanzliche Transport- und
+Entwicklungsprozesse, Struktur- und Funktionszusammenhänge bei
+Samenpflanzen, Merkmale, Baupläne und Zusammenhänge der wichtigsten Taxa des
+Pflanzenreichs, Biodiversität im Pflanzenreich. Vorlesung Zoologie und
+Evolution: Evolution als historischer Prozess, Diversität und Systematik der
+wichtigsten Tiergruppen und ihrer Merkmale, grundlegende Baupläne und
+Funktionen.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung A** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Test oder Befragung im Antwort-Wahl-Verfahren. Der Test oder die Befragung im Antwort-Wahl-Verfahren kann auch in elektronischer Form durchgeführt werden.
+</td></tr>
+<tr markdown><td> **Vorlesung B** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Test oder Befragung im Antwort-Wahl-Verfahren. Der Test oder die Befragung im Antwort-Wahl-Verfahren kann auch in elektronischer Form durchgeführt werden.
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung</td><td>120 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>180</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>6</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

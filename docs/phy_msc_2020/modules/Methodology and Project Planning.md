@@ -1,28 +1,99 @@
+---
+tags:
+  - phy_msc_2020
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Methodology and Project Planning"&body=There seems to be an error in module "Methodology and Project Planning".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Methodology and Project Planning
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Methodology and Project Planning |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Physik/Physik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Erfolgreiche Absolvierung des Moduls „Advanced Laboratory Course for Master<br>Students“ (10 LP) und eines Moduls der theoretischen Physik aus dem Wahlpflichtbereich im Umfang von 10 LP<br>sowie weiterer Module des Masterstudiengangs im Umfang von mindestens 25 LP |
-|**Qualifikationsziele**             | Die Studierenden kennen die speziellen physikalischen Methoden und Fertigkeiten, die zur Durchführung der Masterarbeit notwendig sind, und können diese praktisch anwenden. Sie sind in der Lage, ein Forschungsprojekt zu planen, die Planung schriftlich zu präsentieren und zu begründen sowie gegen kritische Nachfragen zu verteidigen. |
-|**Inhalte**                         | Im Modul erlernt die oder der Studierende unter fachkundiger Anleitung ausgewählte theoretische und/oder experimentelle Methoden und Fertigkeiten, die für die Durchführung der Masterarbeit notwendig sind. Besonderer Wert wird hierbei je nach experimenteller oder theoretischer Ausrichtung auf den sicheren und präzisen Umgang mit Messapparaturen, Algorithmen, Programmen und Hilfsmitteln sowie auf die zuverlässige Handhabung der notwendigen Fertigkeiten gelegt. Aufbauend auf der Beherrschung dieser Methoden wird exemplarisch die Planung eines wissenschaftlichen Projekts ausgearbeitet und schriftlich dargestellt. |
-|**Modulprüfung**                    | Keine |
-|**Modulsprache**                    | Englisch (ggf. Deutsch) |
-|**Arbeitsaufwand (Stunden)**        | 450 |
-|**Leistungspunkte (LP)**            | 15 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Masterstudiengang Physik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Projektmodul         | 4                         | required                           | Darstellen eines Projektvorhabens, Diskussionsbeteiligung<br>Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten |
-| Praktikum (experimentell oder theoretisch) | 7                         | required                           | Darstellen eines Projektvorhabens, Diskussionsbeteiligung<br>Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten |
+[« History of Physics](History of Physics.md){class=prev}
+[Modern Methods in Experimental Physics A »](Modern Methods in Experimental Physics A.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit PM                           | 60    |
-| Vor- und Nachbereitung PM                | 180   |
-| Präsenzzeit P                            | 105   |
-| Vor- und Nachbereitung P                 | 105   |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Methodology and Project Planning </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Physik/Physik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Wahlbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Advanced Laboratory Course for Master
+Students“ (10 LP) und eines Moduls der theoretischen Physik aus dem Wahlpflichtbereich im Umfang von 10 LP
+sowie weiterer Module des Masterstudiengangs im Umfang von mindestens 25 LP
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden kennen die speziellen physikalischen Methoden und
+Fertigkeiten, die zur Durchführung der Masterarbeit notwendig sind, und
+können diese praktisch anwenden. Sie sind in der Lage, ein Forschungsprojekt
+zu planen, die Planung schriftlich zu präsentieren und zu begründen sowie
+gegen kritische Nachfragen zu verteidigen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Im Modul erlernt die oder der Studierende unter fachkundiger Anleitung
+ausgewählte theoretische und/oder experimentelle Methoden und Fertigkeiten,
+die für die Durchführung der Masterarbeit notwendig sind. Besonderer Wert
+wird hierbei je nach experimenteller oder theoretischer Ausrichtung auf den
+sicheren und präzisen Umgang mit Messapparaturen, Algorithmen, Programmen
+und Hilfsmitteln sowie auf die zuverlässige Handhabung der notwendigen
+Fertigkeiten gelegt. Aufbauend auf der Beherrschung dieser Methoden wird
+exemplarisch die Planung eines wissenschaftlichen Projekts ausgearbeitet und
+schriftlich dargestellt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Projektmodul** <br>4 SWS <br> verpflichtete Teilnahme</td><td>
+
+Darstellen eines Projektvorhabens, Diskussionsbeteiligung
+Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten
+</td></tr>
+<tr markdown><td> **Praktikum (experimentell oder theoretisch)** <br>7 SWS <br> verpflichtete Teilnahme</td><td>
+
+Darstellen eines Projektvorhabens, Diskussionsbeteiligung
+Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit PM</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung PM</td><td>180 Stunden</td></tr>
+<tr><td>Präsenzzeit P</td><td>105 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung P</td><td>105 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch (ggf. Deutsch)</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>450</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>15</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Physik
+
+
+</td></tr>
+
+</table>

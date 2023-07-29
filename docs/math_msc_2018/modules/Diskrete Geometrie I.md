@@ -1,29 +1,98 @@
+---
+tags:
+  - math_msc_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Diskrete%20Geometrie%20I%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Diskrete%20Geometrie%20I%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Diskrete Geometrie I
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Diskrete Geometrie I |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen diskrete geometrische Strukturen im Euklidischen Raum nebst grundlegenden Beschreibungs-, Analyse- und Beweismethoden und können sicher damit umgehen. |
-|**Inhalte**                         | Es wird eine Auswahl aus folgenden Themen behandelt: Kombinatorische Geometrie: Punkte und Geraden in der Ebene (Sylvester-Gallai, Erdös-Szekeres, Szeméredi-Trotter, Dualität, Arrangements), Einführung in die Lineare Optimierung (Lineare Programme, Simplex-Verfahren geometrisch, LP-Dualität), Grundlegende Strukturen der Diskreten Geometrie (Konvexe Polytope, polytopale Komplexe, Punktkonfigurationen, Hyperebenen-Arrangements, Triangulierungen, Delaunay und Voronoi), Grundzüge der Polyedertheorie (Polarität, Darstellungssatz von Minkowski-Weyl, simplizial/einfach, Graph, Satz von Steinitz, Satz von Balinski, Durchmesser, Hirsch-Vermutung, Seitenverband, Euler-Gleichung, f-Vektoren, Schälbarkeit) Grundlegende Beispiele (reguläre Polytope, Stapelpolytope, zyklische Polytope, Zonotope, Hypersimplexe, 0/1- Polytope der kombinatorischen Optimierung, etc.) |
-|**Modulprüfung**                    | Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) |
-|**Modulsprache**                    | Deutsch oder Englisch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
-| Übung                | 2                         | required                           | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
+[« Differentialgeometrie III](Differentialgeometrie III.md){class=prev}
+[Diskrete Geometrie II »](Diskrete Geometrie II.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 90    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Diskrete Geometrie I </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Basismodul
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen diskrete geometrische Strukturen
+im Euklidischen Raum nebst grundlegenden Beschreibungs-, Analyse- und
+Beweismethoden und können sicher damit umgehen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es wird eine Auswahl aus folgenden Themen behandelt: Kombinatorische
+Geometrie: Punkte und Geraden in der Ebene (Sylvester-Gallai,
+Erdös-Szekeres, Szeméredi-Trotter, Dualität, Arrangements), Einführung in
+die Lineare Optimierung (Lineare Programme, Simplex-Verfahren geometrisch,
+LP-Dualität), Grundlegende Strukturen der Diskreten Geometrie (Konvexe
+Polytope, polytopale Komplexe, Punktkonfigurationen,
+Hyperebenen-Arrangements, Triangulierungen, Delaunay und Voronoi), Grundzüge
+der Polyedertheorie (Polarität, Darstellungssatz von Minkowski-Weyl,
+simplizial/einfach, Graph, Satz von Steinitz, Satz von Balinski,
+Durchmesser, Hirsch-Vermutung, Seitenverband, Euler-Gleichung, f-Vektoren,
+Schälbarkeit)
+
+Grundlegende Beispiele (reguläre Polytope, Stapelpolytope,
+zyklische Polytope, Zonotope, Hypersimplexe, 0/1- Polytope der
+kombinatorischen Optimierung, etc.)
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>90 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch oder Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+
+
+</td></tr>
+
+</table>

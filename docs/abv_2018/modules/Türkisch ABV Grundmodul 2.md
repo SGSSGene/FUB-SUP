@@ -1,26 +1,95 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Türkisch ABV Grundmodul 2"&body=There seems to be an error in module "Türkisch ABV Grundmodul 2".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Türkisch ABV Grundmodul 2
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Türkisch ABV Grundmodul 2 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | beauftragte Türkischlehrkraft an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Grundkenntnisse des Türkischen (Einstufungstest der ZE Sprachenzentrum oder<br>gleichwertiger Nachweis) |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen die schriftlichen Grundfertigkeiten auf der Niveaustufe A 1.2 GER und die mündlichen Grundfertigkeiten auf der Niveaustufe A 1.1 GER 1. Lesen: Sie können zu ihnen vertrauten Themen kurze einfache Texte verstehen, die einen gewissen Anteil international bekannter Wörter enthalten. 2. Hören: Sie können zu ihnen vertrauten Themen die wesentlichen Punkte eines einfachen Hörtextes verstehen, vorausgesetzt, es wird langsam und deutlich in Standardsprache gesprochen. 3. Sprechen: Sie können zu ihnen vertrauten Themen mit einfachen sprachlichen Mitteln an sehr kurzen Gesprächen teilnehmen. 4. Schreiben: Sie können zu ihnen vertrauten Themen in einfachen Sätzen kurze Texte schreiben. 5. Interkulturelle Kompetenz: Sie können erste für die interkulturelle Kommunikation wichtige soziale und kulturelle Elemente erkennen. |
-|**Inhalte**                         | – Erste Elemente der Textgrammatik<br>- Weitere Elemente der Basisgrammatik<br>- Weitere Elemente des Grundwortschatzes<br>- Weitere Elemente der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen<br>- Hörverständnisübungen |
-|**Modulprüfung**                    | Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Türkisch und Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich<br>Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden |
+[« Türkisch ABV Einstiegsmodul](Türkisch ABV Einstiegsmodul.md){class=prev}
+[Türkisch ABV Grundmodul 3 »](Türkisch ABV Grundmodul 3.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ                          | 60    |
-| Vor- und Nachbereitung spÜ               | 75    |
-| Prüfungsvorbereitung und Prüfung         | 15    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Türkisch ABV Grundmodul 2 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Grundkenntnisse des Türkischen (Einstufungstest der ZE Sprachenzentrum oder
+gleichwertiger Nachweis)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen die schriftlichen
+Grundfertigkeiten auf der Niveaustufe A 1.2 GER und die mündlichen
+Grundfertigkeiten auf der Niveaustufe A 1.1 GER
+
+1. __Lesen__: Sie können zu ihnen vertrauten Themen kurze einfache Texte
+   verstehen, die einen gewissen Anteil international bekannter Wörter
+   enthalten.
+2. __Hören__: Sie können zu ihnen vertrauten Themen die wesentlichen Punkte
+   eines einfachen Hörtextes verstehen, vorausgesetzt, es wird langsam und
+   deutlich in Standardsprache gesprochen.
+3. __Sprechen__: Sie können zu ihnen vertrauten Themen mit einfachen
+   sprachlichen Mitteln an sehr kurzen Gesprächen teilnehmen.
+4. __Schreiben__: Sie können zu ihnen vertrauten Themen in einfachen Sätzen
+   kurze Texte schreiben.
+5. __Interkulturelle Kompetenz__: Sie können erste für die interkulturelle
+   Kommunikation wichtige soziale und kulturelle Elemente erkennen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Erste Elemente der Textgrammatik
+- Weitere Elemente der Basisgrammatik
+- Weitere Elemente des Grundwortschatzes
+- Weitere Elemente der Sprechfertigkeit für die Ausführung kommunikativer
+  Grundfunktionen
+- Hörverständnisübungen
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ</td><td>75 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>15 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Türkisch und Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
+LBW (Kompetenzbereich Fremdsprache)
+
+
+</td></tr>
+
+</table>

@@ -1,26 +1,104 @@
+---
+tags:
+  - inf_msc_2014
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Softwareprojekt – Technische Informatik B"&body=There seems to be an error in module "Softwareprojekt – Technische Informatik B".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Softwareprojekt – Technische Informatik B
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Softwareprojekt – Technische Informatik B |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung komplexer Softwaresysteme auf dem Gebiet der Technischen Informatik. Sie können selbstständig ein größeres Projekt in Teilprojekte zerlegen, geeignete Schnittstellen definieren und einen Zeitplan erstellen. Sie können sich im Team organisieren und leitende Funktionen übernehmen. Dabei berücksichtigen sie Gender- und Diversitätsaspekte. Sie haben aus eigener Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-, Akzeptanz- und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich, schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der obigen Tätigkeiten im Projektteam als auch zur Verhandlung mit einem externen Auftraggeber. Sie können dabei Methoden des Projektmanagements und der Softwareentwicklung sicher anwenden, insbesondere im Bereich der Qualitätssicherung (Test, Inspektion, Prozessmanagement, Projektmanagement, Reengineering). |
-|**Inhalte**                         | Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die Studentinnen und Studenten produzieren im Team ein komplexes Stück Software zur Lösung einer anwendungs-, hardware- oder systemorientierten Aufgabe aus dem Bereich der Technischen Informatik, wie z. B. der Telematik, der Mobilkommunikation oder der Robotik. Das Modul wird gemeinsam mit dem gleichnamigen Modul aus dem Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin durchgeführt. Die Teams werden aus Bachelor- und Master-Studenten gemischt, wobei die Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft die Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der Softwaretechnik ein, insbesondere das Durchsehen von Anforderungen, Schnittstellen, Implementierungen, Testfällen; das Testen (Modultests, Integrationstests, Systemtests) und die Versions- und Konfigurationsverwaltung. |
-|**Modulprüfung**                    | Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten); die Modulprüfung wird nicht differenziert bewertet. |
-|**Modulsprache**                    | Deutsch (ggf. Englisch) |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | der vorlesungsfreien Zeit als Blockveranstaltung |
-|**Verwendbarkeit**                  | Masterstudiengang Informatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Projektseminar       | 2                         | required                           | Laufende Berichte über den Projektstand; regelmäßige Präsentation Zwischenergebnisse |
+[« Softwareprojekt – Technische Informatik A](Softwareprojekt – Technische Informatik A.md){class=prev}
+[Softwareprojekt – Theoretische Informatik A »](Softwareprojekt – Theoretische Informatik A.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit Pr                           | 30    |
-| Softwareentwicklung                      | 240   |
-| Vorbereitung von Präsentationen und Dokumentation | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Softwareprojekt – Technische Informatik B </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereich Technische Informatik
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen die arbeitsteilige Entwicklung
+komplexer Softwaresysteme auf dem Gebiet der Technischen Informatik. Sie
+können selbstständig ein größeres Projekt in Teilprojekte zerlegen,
+geeignete Schnittstellen definieren und einen Zeitplan erstellen. Sie können
+sich im Team organisieren und leitende Funktionen übernehmen. Dabei
+berücksichtigen sie Gender- und Diversitätsaspekte. Sie haben aus eigener
+Erfahrung ein vertieftes Verständnis für Qualitäts-, Aufwands-, Akzeptanz-
+und Erfolgsfaktoren und beherrschen Kommunikationstechniken (mündlich,
+schriftlich), sowohl intern zur erfolgreichen Planung und Koordination der
+obigen Tätigkeiten im Projektteam als auch zur Verhandlung mit einem
+externen Auftraggeber. Sie können dabei Methoden des Projektmanagements und
+der Softwareentwicklung sicher anwenden, insbesondere im Bereich der
+Qualitätssicherung (Test, Inspektion, Prozessmanagement, Projektmanagement,
+Reengineering).
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Das Softwareprojekt kann wechselnde inhaltliche Schwerpunkte haben. Die
+Studentinnen und Studenten produzieren im Team ein komplexes Stück Software
+zur Lösung einer anwendungs-, hardware- oder systemorientierten Aufgabe aus
+dem Bereich der Technischen Informatik, wie z. B. der Telematik, der
+Mobilkommunikation oder der Robotik. Das Modul wird gemeinsam mit dem
+gleichnamigen Modul aus dem Bachelorstudiengang Informatik des Fachbereichs
+Mathematik und Informatik der Freien Universität Berlin durchgeführt. Die
+Teams werden aus Bachelor- und Master-Studenten gemischt, wobei die
+Master-Studenten leitende Funktionen übernehmen. Jedes Team durchläuft die
+Phasen eines Softwareprojekts und übt die Methoden und Hilfsmittel der
+Softwaretechnik ein, insbesondere das Durchsehen von Anforderungen,
+Schnittstellen, Implementierungen, Testfällen; das Testen (Modultests,
+Integrationstests, Systemtests) und die Versions- und
+Konfigurationsverwaltung.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Projektseminar** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Laufende Berichte über den Projektstand; regelmäßige Präsentation Zwischenergebnisse
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit Pr</td><td>30 Stunden</td></tr>
+<tr><td>Softwareentwicklung</td><td>240 Stunden</td></tr>
+<tr><td>Vorbereitung von Präsentationen und Dokumentation</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Präsentation (ca. 15 Minuten) oder Posterpräsentation (ca. 15 Minuten);
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch (ggf. Englisch)</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>der vorlesungsfreien Zeit als Blockveranstaltung</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Informatik
+
+
+</td></tr>
+
+</table>

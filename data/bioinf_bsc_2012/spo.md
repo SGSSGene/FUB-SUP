@@ -20,7 +20,7 @@ für den Bachelorstudiengang Bioinformatik erlassen: [^1]
 
 ### Anlagen
 
-- Anlage 1: [Modulbeschreibungen](../bioinf_bsc_2012/module_explanations/)
+- Anlage 1: [Modulbeschreibungen](module_explanations.md)
 - Anlage 2: Exemplarischer Studienverlaufsplan (!TODO missing)
 
 
@@ -254,9 +254,9 @@ Fachbereichen Mathematik und Informatik und Biologie,
 Chemie, Pharmazie der Freien Universität Berlin sowie
 der Fakultät der Charité - Universitätsmedizin Berl
 eingesetzte Gemeinsame Kommission Bioinformatik am
-10. Juli 2012 folgende Prüfungsordnung für den Bachelorstudiengang Bioinformatik erlassen:* [^2]
+10. Juli 2012 folgende Prüfungsordnung für den Bachelorstudiengang Bioinformatik erlassen: [^2]
 
-[^2]:* Diese Ordnung ist von der für Hochschulen zuständigen Senat
+[^2]: Diese Ordnung ist von der für Hochschulen zuständigen Senat
 verwaltung am 21. August 2012 bestätigt worden. Die Geltungsdau
 der Ordnung ist bis zum 30. September 2013 befristet.
 

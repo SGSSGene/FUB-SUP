@@ -1,29 +1,95 @@
+---
+tags:
+  - bioinf_msc_2019
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Methods in Life Sciences"&body=There seems to be an error in module "Methods in Life Sciences".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Methods in Life Sciences
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Methods in Life Sciences |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie, Chemie, Biochemie und Pharmazie |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden besitzen ein tieferes Verständnis für moderne molekular- und zellbiologische Methoden. Sie können bereits erlernte mathematische Konzepte auf konkrete biologische Fragestellungen beziehen. Die Studierenden entwickeln ein Verständnis für die Methoden der Datengenerierung und können die Methoden und Daten selbstständig bewerten und vergleichen. |
-|**Inhalte**                         | Aktuelle Entwicklungen in der Molekularbiologie und deren algorithmische Herausforderungen. |
-|**Modulprüfung**                    | Präsentation mit Diskussion (ca. 15-30 Minuten) oder schriftliche Ausarbeitung (ca. 10 Seiten) oder Klausur (60 Minuten), ggf. ganz oder teilweise im Antwort-Wahl-Verfahren und kann auch in Form einer elektronischen Prüfungsleistung oder mündlichen Prüfung durchgeführt werden. |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester, nach Absprache als Blockveranstaltung möglich |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Bioinformatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Recherche, Präsentation und Diskussion |
-| Seminar              | 1                         | required                           | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Recherche, Präsentation und Diskussion |
+[« Methodology for clinical trials](Methodology for clinical trials.md){class=prev}
+[Research Internship »](Research Internship.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 60    |
-| Präsenzzeit S                            | 15    |
-| Vor- und Nachbereitung S                 | 15    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Methods in Life Sciences </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie, Chemie, Biochemie und Pharmazie</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- V-Modul
+- Profilstudium mit der Ausrichtung Advanced Algorithms
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden besitzen ein tieferes Verständnis für moderne molekular-
+und zellbiologische Methoden. Sie können bereits erlernte mathematische
+Konzepte auf konkrete biologische Fragestellungen beziehen. Die Studierenden
+entwickeln ein Verständnis für die Methoden der Datengenerierung und können
+die Methoden und Daten selbstständig bewerten und vergleichen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Aktuelle Entwicklungen in der Molekularbiologie und deren algorithmische
+Herausforderungen.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Recherche, Präsentation und Diskussion
+</td></tr>
+<tr markdown><td> **Seminar** <br>1 SWS <br> verpflichtete Teilnahme</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Recherche, Präsentation und Diskussion
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit S</td><td>15 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S</td><td>15 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Präsentation mit Diskussion (ca. 15-30 Minuten) oder schriftliche
+Ausarbeitung (ca. 10 Seiten) oder Klausur (60 Minuten), ggf. ganz oder
+teilweise im Antwort-Wahl-Verfahren und kann auch in Form einer
+elektronischen Prüfungsleistung oder mündlichen Prüfung durchgeführt werden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester, nach Absprache als Blockveranstaltung möglich</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

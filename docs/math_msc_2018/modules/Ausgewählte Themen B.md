@@ -1,29 +1,86 @@
+---
+tags:
+  - math_msc_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Ausgew%C3%A4hlte%20Themen%20B%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Ausgew%C3%A4hlte%20Themen%20B%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Ausgewählte Themen B
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Ausgewählte Themen B |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten mathematischen Gebietes und verstehen zugehörige Begriffe. Sie können Erlerntes sicher anwenden. |
-|**Inhalte**                         | Das Modul gibt eine Einführung in ein ausgewähltes mathematisches Gebiet. Zusätzlich werden aktuelle Forschungsfragen berührt. |
-|**Modulprüfung**                    | Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder schriftliche Ausarbeitung (etwa 10 Seiten) – die Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Deutsch oder Englisch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Unregelmäßig |
-|**Verwendbarkeit**                  | Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
-| Übung                | 2                         | required                           | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
+[« Ausgewählte Themen A](Ausgewählte Themen A.md){class=prev}
+[Ausgewählte Themen C »](Ausgewählte Themen C.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 90    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Ausgewählte Themen B </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Ergänzungsmodul
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten kennen Grundlagen eines ausgewählten
+mathematischen Gebietes und verstehen zugehörige Begriffe. Sie können
+Erlerntes sicher anwenden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Das Modul gibt eine Einführung in ein ausgewähltes mathematisches Gebiet.
+Zusätzlich werden aktuelle Forschungsfragen berührt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>90 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) oder
+schriftliche Ausarbeitung (etwa 10 Seiten) – –
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch oder Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Unregelmäßig</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+
+
+</td></tr>
+
+</table>

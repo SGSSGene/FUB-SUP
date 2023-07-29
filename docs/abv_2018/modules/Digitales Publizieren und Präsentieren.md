@@ -1,26 +1,92 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Digitales Publizieren und Präsentieren"&body=There seems to be an error in module "Digitales Publizieren und Präsentieren".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Digitales Publizieren und Präsentieren
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Digitales Publizieren und Präsentieren |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung |
-|**Modulverantwortung**              | Verantwortliche/r des Kompetenzbereichs Informations- und Medienkompetenz |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können selbstständig und situationsbezogen mit aktuellen Informations- und Medientechnologien umgehen. Sie sind in der Lage, digitale Präsentationen und Publikationen fachgerecht zu konzipieren und in interdisziplinären Projektgruppen zu entwickeln. Dabei können sie eigene Ergebnisse für die Lernund Arbeitsprozesse definieren, nach fachlich begründeten Kriterien bewerten und eigenständig gestalten. Die Studentinnen und Studenten können entscheiden, welche Softwareprodukte entsprechend praxisrelevanter Einsatzszenarien anzuwenden sind und sind in der Lage ihre Wahl inhaltlich zu begründen. Sie können wissenschaftliche Texte mit Sonderzeichen fachgerecht und effizient erstellen und bearbeiten, sie kennen alle professionell genutzten Funktionen von Textverarbeitungsprogrammen und entscheiden, welche Tools und Funktionen situationsbezogen optimal eingesetzt werden. Die Studentinnen und Studenten realisieren anwendungsorientierte Projekte, deren Ergebnisse sie professionell im computergestützten Vortrag präsentieren und kommunizieren. |
-|**Inhalte**                         | Digitale Textverarbeitung anhand von anwendungsorientierten Projekten, die vertiefte Kenntnisse der Textverarbeitungs-Software erfordern. Computergestütztes Präsentieren mit selbstständig entwickelten Inhalten, die mittels professioneller Präsentations-Software visuell umgesetzt wurden. Planung und Durchführung komplexer, eigenständig gewählter IT-Projekte in interdisziplinär zusammengesetzten Arbeitsgruppen. |
-|**Modulprüfung**                    | Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations- und Medienkompetenz) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminar am PC        | 3                         | recommended                        | Diskutieren, Gruppenarbeit, Projektskizzen, Blended Learning, Projektarbeit |
+[« Digitale Datenanalyse und statistische Methoden](Digitale Datenanalyse und statistische Methoden.md){class=prev}
+[Diversity Management »](Diversity Management.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit S-PC                         | 45    |
-| Vor- und Nachbereitung S-PC              | 75    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Digitales Publizieren und Präsentieren </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können selbstständig und situationsbezogen
+mit aktuellen Informations- und Medientechnologien umgehen. Sie sind in der
+Lage, digitale Präsentationen und Publikationen fachgerecht zu konzipieren
+und in interdisziplinären Projektgruppen zu entwickeln. Dabei können sie
+eigene Ergebnisse für die Lern- und Arbeitsprozesse definieren, nach fachlich
+begründeten Kriterien bewerten und eigenständig gestalten. Die Studentinnen
+und Studenten können entscheiden, welche Softwareprodukte entsprechend
+praxisrelevanter Einsatzszenarien anzuwenden sind und sind in der Lage ihre
+Wahl inhaltlich zu begründen. Sie können wissenschaftliche Texte mit
+Sonderzeichen fachgerecht und effizient erstellen und bearbeiten, sie kennen
+alle professionell genutzten Funktionen von Textverarbeitungsprogrammen und
+entscheiden, welche Tools und Funktionen situationsbezogen optimal
+eingesetzt werden. Die Studentinnen und Studenten realisieren
+anwendungsorientierte Projekte, deren Ergebnisse sie professionell im
+computergestützten Vortrag präsentieren und kommunizieren.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Digitale Textverarbeitung anhand von anwendungsorientierten Projekten, die
+vertiefte Kenntnisse der Textverarbeitungs-Software erfordern.
+Computergestütztes Präsentieren mit selbstständig entwickelten Inhalten, die
+mittels professioneller Präsentations-Software visuell umgesetzt wurden.
+Planung und Durchführung komplexer, eigenständig gewählter IT-Projekte in
+interdisziplinär zusammengesetzten Arbeitsgruppen.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Seminar am PC** <br>3 SWS <br> Teilnahme empfohlen</td><td>
+
+Diskutieren, Gruppenarbeit, Projektskizzen, Blended Learning, Projektarbeit
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit S-PC</td><td>45 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S-PC</td><td>75 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Schriftliche Ausarbeitung (ca. 5 Seiten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations- und
+Medienkompetenz)
+
+
+</td></tr>
+
+</table>

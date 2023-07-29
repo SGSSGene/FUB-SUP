@@ -1,29 +1,102 @@
+---
+tags:
+  - lehrphy_bsc_2015
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Theoretische Physik 2"&body=There seems to be an error in module "Theoretische Physik 2".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Theoretische Physik 2
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Theoretische Physik 2 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Physik/Institut für Theoretische Physik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können die Begriffe aus dem Komplex elektromagnetischer Felder und Potenziale definieren und gegeneinander abgrenzen. Sie kennen den Zusammenhang zwischen elektrischen und magnetischen Feldern sowie zwischen ruhenden und bewegten Ladungen und sind in der Lage, diesen anschaulich zu illustrieren. Sie können aus einfachen Ladungs- und Stromverteilungen die zugehörigen Felder berechnen und dabei das Konzept der Symmetrie angemessen benutzen. Sie kennen die Bedeutung der Maxwell-Gleichungen und ihrer Vorhersagen für die Entwicklung der Physik und können diese im historischen Kontext darstellen. Sie können die Maxwellgleichungen als gekoppelte partielle Differenzialgleichungen klassifizieren und ihre Lösungsmethoden im Vergleich zu denen von kinematischen Bewegungsgleichungen beurteilen und vergleichen. Sie können einfache Typen von elektromagnetischen Wellen als Lösungen der Maxwell-Gleichungen erkennen und rechnerisch nachvollziehen. Sie kennen die Zusammenhänge zwischen elektromagnetischen Wellen und Optik. Sie kennen die Symmetrie von Raum und Zeit und sind in der Lage, einfache Gedankenexperimente, die zum Konzept der Relativitätstheorie führen, anschaulich zu referieren. Sie können verschiedenartige Transformationen von Raum und Zeit (Galilei- versus Lorentz-Transformation) gegeneinander abgrenzen, beurteilen und rechnerisch nachvollziehen. |
-|**Inhalte**                         | Elektrodynamik und Relativitätstheorie: Elektrische und magnetische Felder und Potenziale in statischen und dynamischen Situationen, Berechnung von Feldern durch verschiedene Methoden (Integration, Gauß’scher Intergralsatz und Amperesches Durchflutungsgesetz), Maxwell-Gleichungen. Elektromagnetische Wellen im Vakuum und in Materie, Optik, Relativitätstheorie |
-|**Modulprüfung**                    | Klausur (90 Minuten) |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 210 |
-|**Leistungspunkte (LP)**            | 7 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Einmal im Studienjahr, im Sommersemester |
-|**Verwendbarkeit**                  | Physik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | Bearbeiten und Vorrechnen von Übungsaufgaben |
-| Übung                | 2                         | TODO: Vorlesung: Teilnahme wird empfohlen; Übung: ja:: Übung: Ja | Bearbeiten und Vorrechnen von Übungsaufgaben |
+[« Theoretische Physik 1](Theoretische Physik 1.md){class=prev}
+[Vertiefung Physik A »](Vertiefung Physik A.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 45    |
-| Präsenzzeit Ü                            | 30    |
-| Bearbeitung der Aufgabenblätter          | 45    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Theoretische Physik 2 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Physik/Institut für Theoretische Physik</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können die Begriffe aus dem Komplex
+elektromagnetischer Felder und Potenziale definieren und gegeneinander
+abgrenzen. Sie kennen den Zusammenhang zwischen elektrischen und
+magnetischen Feldern sowie zwischen ruhenden und bewegten Ladungen und sind
+in der Lage, diesen anschaulich zu illustrieren. Sie können aus einfachen
+Ladungs- und Stromverteilungen die zugehörigen Felder berechnen und dabei
+das Konzept der Symmetrie angemessen benutzen. Sie kennen die Bedeutung der
+Maxwell-Gleichungen und ihrer Vorhersagen für die Entwicklung der Physik und
+können diese im historischen Kontext darstellen. Sie können die
+Maxwellgleichungen als gekoppelte partielle Differenzialgleichungen
+klassifizieren und ihre Lösungsmethoden im Vergleich zu denen von
+kinematischen Bewegungsgleichungen beurteilen und vergleichen. Sie können
+einfache Typen von elektromagnetischen Wellen als Lösungen der
+Maxwell-Gleichungen erkennen und rechnerisch nachvollziehen. Sie kennen die
+Zusammenhänge zwischen elektromagnetischen Wellen und Optik. Sie kennen die
+Symmetrie von Raum und Zeit und sind in der Lage, einfache
+Gedankenexperimente, die zum Konzept der Relativitätstheorie führen,
+anschaulich zu referieren. Sie können verschiedenartige Transformationen von
+Raum und Zeit (Galilei- versus Lorentz-Transformation) gegeneinander
+abgrenzen, beurteilen und rechnerisch nachvollziehen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Elektrodynamik und Relativitätstheorie: Elektrische und magnetische Felder
+und Potenziale in statischen und dynamischen Situationen, Berechnung von
+Feldern durch verschiedene Methoden (Integration, Gauß’scher Intergralsatz
+und Amperesches Durchflutungsgesetz), Maxwell-Gleichungen.
+Elektromagnetische Wellen im Vakuum und in Materie, Optik,
+Relativitätstheorie
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Bearbeiten und Vorrechnen von Übungsaufgaben
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeiten und Vorrechnen von Übungsaufgaben
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>45 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Bearbeitung der Aufgabenblätter</td><td>45 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>210</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>7</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Einmal im Studienjahr, im Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Physik
+
+
+</td></tr>
+
+</table>

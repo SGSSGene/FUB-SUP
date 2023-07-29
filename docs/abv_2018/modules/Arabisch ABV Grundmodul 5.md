@@ -1,26 +1,103 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Arabisch ABV Grundmodul 5"&body=There seems to be an error in module "Arabisch ABV Grundmodul 5".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Arabisch ABV Grundmodul 5
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Arabisch ABV Grundmodul 5 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/ZE Sprachenzentrum |
-|**Modulverantwortung**              | Beauftragte Arabischlehrkraft an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Erfolgreiche Absolvierung des Moduls Arabisch ABV Grundmodul 4“ oder gleichwertige Kenntnisse (nachzuweisen durch einen Einstufungstest an der ZE Sprachenzentrum oder gleichwertiger<br>Nachweis) |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen die mündlichen Grundfertigkeiten auf der Niveaustufe B 1.1 GER und der schriftlichen Grundfertigkeiten auf der Niveaustufe B 1.2 GER 1. Lesen: Die Studentinnen und Studenten können unter Zuhilfenahme von Wörterbüchern Texte verschiedener Textgattungen mit kulturhistorischem, politischem und sozialwissenschaftlichen Inhalt größeren Umfangs sowie authentische Texte längeren Umfangs in ihrer Hauptaussage, Argumentation und Schlussfolgerung verstehen und Details nach wiederholtem Lesen entnehmen. 2. Hören: Sie können die Hauptaussagen von Vorträgen zu ihnen vertrauten Themen verstehen, wenn in deutlich artikulierter Standardsprache gesprochen wird. 3. Sprechen: Sie können sich zu einem ihnen vertrauten Thema äußern. Sie können vorbereitete Präsentation zu einem vertrauten Thema vortragen. 4. Schreiben: Sie können Aufsätze zu vertrauten Themen schreiben und ihre eigene Meinung vertreten. 5. Interkulturelle Kompetenz: Sie können die für die interkulturelle Kommunikation wichtigsten sozialen und kulturellen Elemente bei ihrem Spracherwerb bewusst miteinbeziehen. |
-|**Inhalte**                         | – Verfestigung und Erweiterung der Sprachkenntnisse<br>- Anleitung zur Selbstkorrektur<br>- Weiterentwicklung von Lese-, Schreib- und Hörfertigkeiten an unterschiedlichen Textsorten<br>- Sprachmittlungsübungen zu unterschiedlichen Themen<br>- Übungen mit unterschiedlichen audio-visuellen Materialien<br>- Sensibilisierung für verschiedene Sprachregister des Arabischen<br>- Auseinandersetzung mit aktuellen kulturellen, politischen und wirtschaftlichen Entwicklungen in der arabischen Welt |
-|**Modulprüfung**                    | Klausur (90 Minuten) sowie Präsentation (ca. 15 Minuten) oder mündliche Prüfung (ca. 15 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Arabisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich<br>Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Übung                | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden |
+[« Arabisch ABV Grundmodul 4](Arabisch ABV Grundmodul 4.md){class=prev}
+[Auslandspraktikum – A »](Auslandspraktikum – A.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit Ü                            | 60    |
-| Vor- und Nachbereitung Ü                 | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Arabisch ABV Grundmodul 5 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/ZE Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls Arabisch ABV Grundmodul 4“ oder gleichwertige Kenntnisse (nachzuweisen durch einen Einstufungstest an der ZE Sprachenzentrum oder gleichwertiger
+Nachweis)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen die mündlichen Grundfertigkeiten
+auf der Niveaustufe B 1.1 GER und der schriftlichen Grundfertigkeiten auf
+der Niveaustufe B 1.2 GER
+
+1. __Lesen__: Die Studentinnen und Studenten können unter Zuhilfenahme von
+   Wörterbüchern Texte verschiedener Textgattungen mit kulturhistorischem,
+   politischem und sozialwissenschaftlichen Inhalt größeren Umfangs sowie
+   authentische Texte längeren Umfangs in ihrer Hauptaussage, Argumentation
+   und Schlussfolgerung verstehen und Details nach wiederholtem Lesen
+   entnehmen.
+2. __Hören__: Sie können die Hauptaussagen von Vorträgen zu ihnen vertrauten
+   Themen verstehen, wenn in deutlich artikulierter Standardsprache
+   gesprochen wird.
+3. __Sprechen__: Sie können sich zu einem ihnen vertrauten Thema äußern. Sie
+   können vorbereitete Präsentation zu einem vertrauten Thema vortragen.
+4. __Schreiben__: Sie können Aufsätze zu vertrauten Themen schreiben und
+   ihre eigene Meinung vertreten.
+5. __Interkulturelle Kompetenz__: Sie können die für die interkulturelle
+   Kommunikation wichtigsten sozialen und kulturellen Elemente bei ihrem
+   Spracherwerb bewusst miteinbeziehen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Verfestigung und Erweiterung der Sprachkenntnisse
+- Anleitung zur Selbstkorrektur
+- Weiterentwicklung von Lese-, Schreib- und Hörfertigkeiten an
+  unterschiedlichen Textsorten
+- Sprachmittlungsübungen zu unterschiedlichen Themen
+- Übungen mit unterschiedlichen audio-visuellen Materialien
+- Sensibilisierung für verschiedene Sprachregister des Arabischen
+- Auseinandersetzung mit aktuellen kulturellen, politischen und
+  wirtschaftlichen Entwicklungen in der arabischen Welt
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit Ü</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) sowie Präsentation (ca. 15 Minuten) oder mündliche
+Prüfung (ca. 15 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Arabisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
+LBW (Kompetenzbereich Fremdsprache)
+
+
+</td></tr>
+
+</table>

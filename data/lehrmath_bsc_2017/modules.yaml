@@ -2,53 +2,50 @@
   name: Mathematik entdecken I
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten erkennen die Notwendigkeit präziser Begriffsbildung
-    und mathematischer Beweise zu sicherem Erkenntnisgewinn; sie können dies an Beispielen
-    belegen. Sie kennen Lernstrategien universitärer Mathematik. Sie beherrschen Problemlösestrategien
-    und haben den kreativen Aspekt der Mathematik erlebt. Die Studentinnen und Studenten
-    können die Korrektheit mathematischer Beweise bewerten, selbst einfache Argumentationsketten
-    entwickeln und diese schriftlich kommunizieren. Sie können Beispiele einfacher
-    mathematischer Objekte mit vorgegebenen Eigenschaften konstruieren. Sie können
-    in elementaren Zusammenhängen Muster erkennen, Vermutungen ableiten und diese
-    verifizieren/falsifizieren. Die Studentinnen und Studenten erkennen den Nutzen
-    des universitären Standpunkts für die Planung und Gestaltung mathematischen Schulunterrichts;
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten erkennen die Notwendigkeit präziser
+    Begriffsbildung und mathematischer Beweise zu sicherem Erkenntnisgewinn; sie
+    können dies an Beispielen belegen. Sie kennen Lernstrategien universitärer
+    Mathematik. Sie beherrschen Problemlösestrategien und haben den kreativen
+    Aspekt der Mathematik erlebt. Die Studentinnen und Studenten können die
+    Korrektheit mathematischer Beweise bewerten, selbst einfache
+    Argumentationsketten entwickeln und diese schriftlich kommunizieren. Sie
+    können Beispiele einfacher mathematischer Objekte mit vorgegebenen
+    Eigenschaften konstruieren. Sie können in elementaren Zusammenhängen Muster
+    erkennen, Vermutungen ableiten und diese verifizieren/falsifizieren.
+
+    Die Studentinnen und Studenten erkennen den Nutzen des universitären
+    Standpunkts für die Planung und Gestaltung mathematischen Schulunterrichts;
     sie können dies an Beispielen belegen.
-  content: 'Die beschriebenen Kompetenzen werden anhand einer Auswahl folgender mathematischer
-    Inhalte entwickelt.
+  content: |
+    Die beschriebenen Kompetenzen werden anhand einer Auswahl folgender
+    mathematischer Inhalte entwickelt.
 
     - Elementare Kombinatorik, Prinzipien des Zählens
-
-    - Elementare Zahlentheorie (Teilbarkeit in ℤ , Euklidischer Algorithmus, Restklassen
-    und Kongruenzen, Primkörper)
-
+    - Elementare Zahlentheorie (Teilbarkeit in ℤ , Euklidischer Algorithmus,
+      Restklassen und Kongruenzen, Primkörper)
     - Mengenoperationen und Aussagenlogik, Implikationsrichtungen
-
     - Konstruktionen der Euklidischen Geometrie
-
     - Konstruktionen der projektiven Geometrie
-
     - Euklidische und projektive Geometrie
-
     - Gemeinsamkeiten und Unterschiede
-
-    - Inzidenzgeometrien und andere Axiomengruppen, endliche affine und projektive
-    Ebenen, Hilbert-Axiome
-
+    - Inzidenzgeometrien und andere Axiomengruppen, endliche affine und
+      projektive Ebenen, Hilbert-Axiome
     - Raumgeometrie, Volumina
-
-    - Koordinatengeometrie, lineare Gleichungssysteme in zwei und drei Variablen'
+    - Koordinatengeometrie, lineare Gleichungssysteme in zwei und drei Variablen
   teachingunit:
     - type: Grundkurs
       swstime: 4
       attendance: recommended
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
     - type: Übung
       swstime: 2
       attendance: required
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
   workload:
     - type: Präsenzzeit GK
       time: 60
@@ -62,55 +59,58 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (120 Minuten) oder mündliche Prüfung (ca. 25 Minuten) oder schriftliche
-    Ausarbeitung (ca. 10 Seiten)
+  exam: |
+    Klausur (120 Minuten) oder mündliche Prüfung (ca. 25 Minuten) oder
+    schriftliche Ausarbeitung (ca. 10 Seiten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Bachelorstudiengang Mathematik für das Lehramt
+  usability: |
+    Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 11
   name: Mathematik entdecken II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können den Nutzen des universitären Standpunkts
-    für die Planung und Gestaltung mathematischen Schulunterrichts begründen. Sie
-    haben ihre Problemlösekompetenz vertieft. Sie haben Abstraktion als Vereinfachung
-    und als Ordnungsprinzip mathematischen Wissens kennengelernt. Sie sind für den
-    Aufbau komplexerer Theorien in Analysis und Linearer Algebra vorbereitet. Die
-    Studentinnen und Studenten können mathematische Argumente auf verschiedenen Graden
-    der Formalität schriftlich kommunizieren. Die Studentinnen und Studenten haben
-    Querbeziehungen geometrischer Inhalte mit algebraischen und analytischen Techniken
-    gesehen. Ihnen wurden exemplarisch Bezüge zur Schulmathematik aufgezeigt, und
-    sie sind in der Lage, solche Bezüge in weiterführenden Veranstaltungen selbstständig
-    herzustellen.
-  content: 'Die beschriebenen Kompetenzen werden anhand einer Auswahl folgender mathematischer
-    Inhalte entwickelt.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können den Nutzen des universitären
+    Standpunkts für die Planung und Gestaltung mathematischen Schulunterrichts
+    begründen. Sie haben ihre Problemlösekompetenz vertieft. Sie haben
+    Abstraktion als Vereinfachung und als Ordnungsprinzip mathematischen Wissens
+    kennengelernt. Sie sind für den Aufbau komplexerer Theorien in Analysis und
+    Linearer Algebra vorbereitet. Die Studentinnen und Studenten können
+    mathematische Argumente auf verschiedenen Graden der Formalität schriftlich
+    kommunizieren. Die Studentinnen und Studenten haben Querbeziehungen
+    geometrischer Inhalte mit algebraischen und analytischen Techniken gesehen.
+    Ihnen wurden exemplarisch Bezüge zur Schulmathematik aufgezeigt, und sie
+    sind in der Lage, solche Bezüge in weiterführenden Veranstaltungen
+    selbstständig herzustellen.
+  content: |
+    Die beschriebenen Kompetenzen werden anhand einer Auswahl folgender
+    mathematischer Inhalte entwickelt.
 
-    - Parallelen in der Euklidischen und projektiven Geometrie, hyperbolische Ebene
-
+    - Parallelen in der Euklidischen und projektiven Geometrie, hyperbolische
+      Ebene
     - Quantifizierte Aussagen
-
     - Konstruierbarkeit und Nicht-Konstruierbarkeit mit Zirkel und Lineal
-
     - Symmetriegruppen
-
     - Anknüpfungspunkte/Fragen an die Analysis, (Lineare) Algebra, Stochastik
-
-    - Schulbezug, Anwendungen, Geschichte(n)'
+    - Schulbezug, Anwendungen, Geschichte(n)
   teachingunit:
     - type: Grundkurs
       swstime: 2
       attendance: recommended
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
     - type: Übung
       swstime: 2
       attendance: required
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie kurze Präsentationen und aktive Beteiligung an der Diskussion
   workload:
     - type: Präsenzzeit GK
       time: 30
@@ -122,49 +122,54 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 20 Minuten) oder schriftliche
-    Ausarbeitung (ca. 8 Seiten)
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 20 Minuten) oder
+    schriftliche Ausarbeitung (ca. 8 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: Bachelorstudiengang Mathematik für das Lehramt
+  usability: |
+    Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 12
   name: Mathematisches Panorama
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten besitzen einen Überblick über vielfältige
-    Aspekte der Mathematik als Kulturgut, Wissens- und Wissenschaftsgebiet sowie ein
-    vertieftes Verständnis für Schlüsselbegriffe aus der Mathematik, die aus der Schule
-    bekannt sind. Sie können zu passenden Problemstellungen auch aus anderen Wissenschaften
-    geeignete mathematische Formulierungen entwickeln, dazu die richtigen Lösungen
-    finden und ihre Ergebnisse wieder im Anwendungskontext richtig interpretieren.
-  content: 'Das Modul bietet eine Einführung in die Mathematik als Wissens- und Wissenschaftsgebiet;
-    der Inhalt soll insbesondere bei der Vermittlung von Mathematik, z. B. in der
-    Schule, in anderen außeruniversitären öffentlichen und privaten Bildungseinrichtungen
-    sowie in betrieblichen Kontexten, von Nutzen sein. Es werden unter anderem folgende
-    Schwerpunkte behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten besitzen einen Überblick über vielfältige
+    Aspekte der Mathematik als Kulturgut, Wissens- und Wissenschaftsgebiet sowie
+    ein vertieftes Verständnis für Schlüsselbegriffe aus der Mathematik, die aus
+    der Schule bekannt sind. Sie können zu passenden Problemstellungen auch aus
+    anderen Wissenschaften geeignete mathematische Formulierungen entwickeln,
+    dazu die richtigen Lösungen finden und ihre Ergebnisse wieder im
+    Anwendungskontext richtig interpretieren.
+  content: |
+    Das Modul bietet eine Einführung in die Mathematik als Wissens- und
+    Wissenschaftsgebiet; der Inhalt soll insbesondere bei der Vermittlung von
+    Mathematik, z. B. in der Schule, in anderen außeruniversitären öffentlichen
+    und privaten Bildungseinrichtungen sowie in betrieblichen Kontexten, von
+    Nutzen sein. Es werden unter anderem folgende Schwerpunkte behandelt:
 
     - Teilgebiete und Struktur („Landkarte“) der modernen Mathematik
-
-    - Geschichtliche Entwicklung der Gebiete der Mathematik sowie deren Vernetzung
-
+    - Geschichtliche Entwicklung der Gebiete der Mathematik sowie deren
+      Vernetzung
     - Anwendungen der Mathematik
-
-    - Einblick in eine Auswahl aktueller Probleme aus der Mathematik'
+    - Einblick in eine Auswahl aktueller Probleme aus der Mathematik
   teachingunit:
     - type: Grundkurs
       swstime: 2
       attendance: recommended
-      activity: Regelmäßige, schriftliche Ausarbeitungen oder kurze Präsentationen
-        sowie aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitungen oder kurze Präsentationen sowie aktive Beteiligung an der Diskussion
     - type: Übung
       swstime: 2
       attendance: required
-      activity: Regelmäßige, schriftliche Ausarbeitungen oder kurze Präsentationen
-        sowie aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitungen oder kurze Präsentationen sowie aktive Beteiligung an der Diskussion
   workload:
     - type: Präsenzzeit GK
       time: 30
@@ -176,66 +181,61 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: (ca. 8 Seiten); diese Modulprüfung wird nicht differenziert bewertet.
+  exam: |
+    (ca. 8 Seiten);
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Bachelorstudiengang Mathematik für das Lehramt
+  usability: |
+    Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: false
 - page: 13
   name: Zahlen, Gleichungen, algebraische Strukturen
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten haben algebraische Strukturen als gemeinsame
-    Verallgemeinerung von Beispielen aus Geometrie, linearer Algebra, Analysis und
-    Kombinatorik kennengelernt. Sie erkennen so den Mehrwert einer solchen Abstraktion
-    als Vereinfachung und als Ordnungsprinzip und können diesen Mehrwert an Beispielen
-    belegen. Sie kennen zentrale Sätze und Konstruktionen der elementaren Algebra
-    und können sie in einfachen Beweisaufgaben anwenden. Sie begreifen Algebra und
-    Zahlentheorie aus ihrer (Ideen-)Geschichte und ihren Anwendungen heraus als lebendige
-    Wissenschaft, und sie können vor diesem Hintergrund den Schulbezug der vermittelten
-    Inhalte selbstständig herstellen.
-  content: 'Ausgewählte Themen aus:
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten haben algebraische Strukturen als gemeinsame
+    Verallgemeinerung von Beispielen aus Geometrie, linearer Algebra, Analysis
+    und Kombinatorik kennengelernt. Sie erkennen so den Mehrwert einer solchen
+    Abstraktion als Vereinfachung und als Ordnungsprinzip und können diesen
+    Mehrwert an Beispielen belegen. Sie kennen zentrale Sätze und Konstruktionen
+    der elementaren Algebra und können sie in einfachen Beweisaufgaben anwenden.
+    Sie begreifen Algebra und Zahlentheorie aus ihrer (Ideen-)Geschichte und
+    ihren Anwendungen heraus als lebendige Wissenschaft, und sie können vor
+    diesem Hintergrund den Schulbezug der vermittelten Inhalte selbstständig
+    herstellen.
+  content: |
+    Ausgewählte Themen aus:
 
     - Aufbau des Zahlensystems
-
     - Beispiele von Gruppen, Ringen, Körpern
-
-    - Teilbarkeit in Ringen (insbesondere Polynomringe); Restklassen und Kongruenzen;
-    Moduln und Ideale
-
+    - Teilbarkeit in Ringen (insbesondere Polynomringe); Restklassen und
+      Kongruenzen; Moduln und Ideale
     - Der erweiterte Euklidische Algorithmus für univariate Polynome
-
     - Klassische diophantische Gleichungen
-
     - Primzahltests und Kryptographie
-
     - Die Struktur abelscher Gruppen
-
     - Chinesischer Restsatz mit Anwendungen
-
     - Elliptische Kurven
-
     - Körpererweiterungen, Konstruktionen mit Zirkel und Lineal
-
     - Lineare fehlerkorrigierende Codes
-
     - Nicht-abelsche Gruppen (Satz von Lagrange, Normalteiler)
-
-    - Das quadratische Reziprozitätsgesetz'
+    - Das quadratische Reziprozitätsgesetz
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
     - type: Übung
       swstime: 2
       attendance: required
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -249,58 +249,60 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (120 Minuten) oder mündliche Prüfung (ca. 25 Minuten)
+  exam: |
+    Klausur (120 Minuten) oder mündliche Prüfung (ca. 25 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Bachelorstudiengang Mathematik für das Lehramt
+  usability: |
+    Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 14
   name: Wahrscheinlichkeit und Statistik
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können vom Zufall abhängige Phänomene modellieren
-    und in diesen Modellen argumentieren. Sie können Daten mit elementaren Mitteln
-    der beschreibenden Statistik ordnen, darstellen und durch Kenndaten charakterisieren.
-    Die Studentinnen und Studenten verfügen über einen Fundus an Beispielen, die die
-    Fallstricke der schließenden Statistik illustrieren. Sie können so den Gebrauch
-    von Statistiken in der öffentlichen Diskussion kritisch bewerten. Sie begreifen
-    die Stochastik aus ihrer (Ideen-)Geschichte und ihren Anwendungen heraus als lebendige
-    Wissenschaft, und sie können vor diesem Hintergrund den Schulbezug der vermittelten
-    Inhalte selbstständig herstellen.
-  content: 'Es werden insbesondere folgende Inhalte vermittelt.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können vom Zufall abhängige Phänomene
+    modellieren und in diesen Modellen argumentieren. Sie können Daten mit
+    elementaren Mitteln der beschreibenden Statistik ordnen, darstellen und
+    durch Kenndaten charakterisieren. Die Studentinnen und Studenten verfügen
+    über einen Fundus an Beispielen, die die Fallstricke der schließenden
+    Statistik illustrieren. Sie können so den Gebrauch von Statistiken in der
+    öffentlichen Diskussion kritisch bewerten. Sie begreifen die Stochastik aus
+    ihrer (Ideen-)Geschichte und ihren Anwendungen heraus als lebendige
+    Wissenschaft, und sie können vor diesem Hintergrund den Schulbezug der
+    vermittelten Inhalte selbstständig herstellen.
+  content: |
+    Es werden insbesondere folgende Inhalte vermittelt.
 
     - Diskrete Wahrscheinlichkeitsräume und -maße
-
-    - Diskrete und stetige Zufallsvariablen und ihre Verteilungen, wichtige Beispiele
-
+    - Diskrete und stetige Zufallsvariablen und ihre Verteilungen, wichtige
+      Beispiele
     - Erwartungswert, (Ko-)Varianz, Korrelation
-
     - Bedingte Wahrscheinlichkeit, Unabhängigkeit
-
     - Schwaches Gesetz der großen Zahl
-
     - Zentraler Grenzwertsatz
-
-    - Datenanalyse und deskriptive Statistik: Histogramme; empirische Verteilung;
-    Kenngrößen von Stichprobenverteilungen; Beispiele irreführender deskriptiver Statistiken;
-    lineare Regression
-
-    - Elementare Begriffe und Techniken des Testens und Schätzens: Maximum-Likelihood-Prinzip;
-    Konfidenzintervalle; Hypothesentests; Fehler erster und zweiter Art.'
+    - Datenanalyse und deskriptive Statistik: Histogramme; empirische
+      Verteilung; Kenngrößen von Stichprobenverteilungen; Beispiele
+      irreführender deskriptiver Statistiken; lineare Regression
+    - Elementare Begriffe und Techniken des Testens und Schätzens:
+      Maximum-Likelihood-Prinzip; Konfidenzintervalle; Hypothesentests; Fehler
+      erster und zweiter Art.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
     - type: Übung
       swstime: 2
       attendance: required
-      activity: Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben
-        sowie aktive Beteiligung an der Diskussion
+      activity: |
+        Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -314,31 +316,38 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (120 Minuten) oder mündliche Prüfung (ca. 25 Minuten)
+  exam: |
+    Klausur (120 Minuten) oder mündliche Prüfung (ca. 25 Minuten)
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Bachelorstudiengang Mathematik für das Lehramt
+  usability: |
+    Bachelorstudiengang Mathematik für das Lehramt
+  differentiated: true
 - page: 15
   name: Proseminar Mathematik – Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können sich unter Anleitung in ein grundlegendes
-    Thema der Mathematik anhand von wissenschaftlicher Literatur einarbeiten, beherrschen
-    gängige Vortrags- und Präsentationstechniken, wissen, was zu einer schriftlichen
-    Ausarbeitung eines Vortrags gehört, und können eine fachliche Diskussion moderieren.
-  content: Exemplarisch werden Themen und Inhalte der Aufbau- oder Vertiefungsmodule
-    vertieft Es werden Themen behandelt, die für Berufsfelder der mathematischen Bildung
-    (insbesondere Schule, Erwachsenenbildung) relevant sind.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können sich unter Anleitung in ein
+    grundlegendes Thema der Mathematik anhand von wissenschaftlicher Literatur
+    einarbeiten, beherrschen gängige Vortrags- und Präsentationstechniken,
+    wissen, was zu einer schriftlichen Ausarbeitung eines Vortrags gehört, und
+    können eine fachliche Diskussion moderieren.
+  content: |
+    Exemplarisch werden Themen und Inhalte der Aufbau- oder Vertiefungsmodule
+    vertieft Es werden Themen behandelt, die für Berufsfelder der mathematischen
+    Bildung (insbesondere Schule, Erwachsenenbildung) relevant sind.
   teachingunit:
     - type: Proseminar
       swstime: 2
       attendance: required
-      activity: Vereinbarung eines Themas, Besprechung der Vortragsvorbereitung mit
-        der Lehrkraft, Vortrag, regelmäßige Beteiligung an der Diskussion
+      activity: |
+        Vereinbarung eines Themas, Besprechung der Vortragsvorbereitung mit der Lehrkraft, Vortrag, regelmäßige Beteiligung an der Diskussion
   workload:
     - type: Präsenzzeit
       time: 30
@@ -346,10 +355,12 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: diese Modulprüfung wird nicht differenziert bewertet.
+  exam: |2+
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: angebot Mathematik
+  usability: |
+    angebot Mathematik
+  differentiated: false

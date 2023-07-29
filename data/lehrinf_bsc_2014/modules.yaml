@@ -2,41 +2,42 @@
   name: Logik und Diskrete Mathematik für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten kennen am Ende des Moduls grundlegende Konzepte
-    der Logik, Mengenlehre und Kombinatorik. Sie können diese zur mathematischen Modellierung
-    von Anwendungen in der Informatik anwenden. Sie sind in der Lage, mathematische
-    Beweise nachzuvollziehen und im Kontext mit informatischen Problemstellungen einfache
-    Beweise selbst zu entwickeln. Sie können abstrakt denken und einfache Sachverhalte
-    in einer Logik formalisieren. Sie beherrschen grundlegende Konzepte der Diskreten
-    Mathematik und können kombinatorische Techniken in der Praxis (z.  B. bei Entwurf
-    und Analyse von Algorithmen) anwenden.
-  content: 'Aussagenlogik und mathematische Beweistechniken
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten kennen am Ende des Moduls grundlegende
+    Konzepte der Logik, Mengenlehre und Kombinatorik. Sie können diese zur
+    mathematischen Modellierung von Anwendungen in der Informatik anwenden. Sie
+    sind in der Lage, mathematische Beweise nachzuvollziehen und im Kontext mit
+    informatischen Problemstellungen einfache Beweise selbst zu entwickeln. Sie
+    können abstrakt denken und einfache Sachverhalte in einer Logik
+    formalisieren. Sie beherrschen grundlegende Konzepte der Diskreten
+    Mathematik und können kombinatorische Techniken in der Praxis (z. B. bei
+    Entwurf und Analyse von Algorithmen) anwenden.
+  content: |
+    Aussagenlogik und mathematische Beweistechniken
 
-    - Boolesche Formeln und Boolesche Funktionen, DNF und KNF, Erfüllbarkeit, Resolutionskalkül
-
-    - Mengenlehre: Mengen, Relationen, Äquivalenz- und Ordnungsrelationen, Funktionen
-
+    - Boolesche Formeln und Boolesche Funktionen, DNF und KNF, Erfüllbarkeit,
+      Resolutionskalkül
+    - Mengenlehre: Mengen, Relationen, Äquivalenz- und Ordnungsrelationen,
+      Funktionen
     - Natürliche Zahlen und vollständige Induktion, Abzählbarkeit
-
     - Prädikatenlogik und mathematische Strukturen
-
-    - Kombinatorik: Abzählprinzipien, Binomialkoeffizienten und Stirling-Zahlen, Rekursion,
-    Schubfachprinzip, diskrete Wahrscheinlichkeitsverteilungen
-
-    - Graphentheorie: Graphen und ihre Darstellungen, Wege und Kreise in Graphen,
-    Bäume'
+    - Kombinatorik: Abzählprinzipien, Binomialkoeffizienten und Stirling-Zahlen,
+      Rekursion, Schubfachprinzip, diskrete Wahrscheinlichkeitsverteilungen
+    - Graphentheorie: Graphen und ihre Darstellungen, Wege und Kreise in
+      Graphen, Bäume
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
     - type: Übung
       swstime: 2
       attendance: required
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -48,46 +49,56 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+  exam: |
+    Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
     Prüfungsleistung (120 Minuten) durchgeführt werden
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: 'Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
-
-    Informatik'
+  usability: |
+    Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
+    Informatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
 - page: 11
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten verstehen am Ende des Moduls: die Rolle des
-    Betriebssystems als Abstraktion des Rechnersystems, den grundlegenden Aufbau aktueller
-    Betriebssysteme, die Funktion und den Aufbau des Internets. Sie können Rechner
-    auf Assembler-Ebene und systemnah programmieren, können die Vor- und Nachteile
-    verschiedener Mechanismen (PIO vs. DMA, polling vs. Interrupt, paging vs. Segmentation
-    usw.) beurteilen, Mechanismen von Betriebssystemen sinnvoll einsetzen und Programme
-    über das Netzwerk kommunizieren lassen. Ein-/Ausgabe-Systeme, DMA/PIO, Unterbrechungsbehandlung,
-    Puffer, Prozesse/Threads, virtueller Speicher, UNIX und Windows, Shells, Utilities,
-    Peripherie und Vernetzung, Netze, Medien, Medienzugriff, Protokolle, Referenzmodelle,
-    TCP/IP, grundlegender Aufbau des Internets.'
-  content: Themenbereiche sind hier insbesondere Ein-/Ausgabe-Systeme, DMA/PIO, Unterbrechungsbehandlung,
-    Puffer, Prozesse/Threads, virtueller Speicher, UNIX und Windows, Shells, Utilities,
-    Peripherie und Vernetzung, Netze, Medien, Medienzugriff, Protokolle, Referenzmodelle,
-    TCP/IP, grundlegender Aufbau des Internets.
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verstehen am Ende des Moduls: die Rolle des
+    Betriebssystems als Abstraktion des Rechnersystems, den grundlegenden Aufbau
+    aktueller Betriebssysteme, die Funktion und den Aufbau des Internets. Sie
+    können Rechner auf Assembler-Ebene und systemnah programmieren, können die
+    Vor- und Nachteile verschiedener Mechanismen (PIO vs. DMA, polling vs.
+    Interrupt, paging vs. Segmentation usw.) beurteilen, Mechanismen von
+    Betriebssystemen sinnvoll einsetzen und Programme über das Netzwerk
+    kommunizieren lassen. Ein-/Ausgabe-Systeme, DMA/PIO,
+    Unterbrechungsbehandlung, Puffer, Prozesse/Threads, virtueller Speicher,
+    UNIX und Windows, Shells, Utilities, Peripherie und Vernetzung, Netze,
+    Medien, Medienzugriff, Protokolle, Referenzmodelle, TCP/IP, grundlegender
+    Aufbau des Internets.
+  content: |
+    Themenbereiche sind hier insbesondere Ein-/Ausgabe-Systeme, DMA/PIO,
+    Unterbrechungsbehandlung, Puffer, Prozesse/Threads, virtueller Speicher,
+    UNIX und Windows, Shells, Utilities, Peripherie und Vernetzung, Netze,
+    Medien, Medienzugriff, Protokolle, Referenzmodelle, TCP/IP, grundlegender
+    Aufbau des Internets.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
     - type: Seminar am PC
       swstime: 2
       attendance: required
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -101,96 +112,123 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 15
-  exam: Klausur (60 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    (60 Minuten) durchgeführt werden
+  exam: |
+    Klausur (60 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (60 Minuten) durchgeführt werden
   language: Deutsch
   total_work: 180
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: 'Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
-
-    Informatik
-
-    Für die übrigen Module des Pflichtbereichs wird auf die Studien- und Prüfungsordnung
-    für den Bachelorstudiengang
-
-    Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
-    verwiesen.'
+  usability: |
+    Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
+    Informatik Für die übrigen Module des Pflichtbereichs wird auf die Studien-
+    und Prüfungsordnung für den Bachelorstudiengang Informatik des Fachbereichs
+    Mathematik und Informatik der Freien Universität Berlin verwiesen.
+  differentiated: true
+  tags:
+    - Wahlbereich
+  modification:
+    - Es ist unklar ob dies ein Pflicht oder Wahlmodul ist. Da der Pflichteil bereits mit 50LP erfüllt ist, gehe ich davon aus das es ein Wahlmodul ist.
+- page: 11
+  name: Funktionale Programmierung
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Datenbanksysteme
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Grundlagen der Theoretischen Informatik
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Algorithmen, Datensrtukturen  und Datenabstrakionen
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnissen
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
 - page: 12
   name: Nichtsequentielle und verteilte Programmierung für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
-  requirements: Erfolgreiche Absolvierung des Moduls Objektorientierte Programmierung
-    für Studentinnen und Studenten mit Programmierkenntnissen oder des Moduls Objektorientierte
-    Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse
-  goals: Die Studentinnen und Studenten verstehen die Grundbegriffe der nichtsequentiellen
-    Programmierung mit gemeinsamen Speicher und Nachrichtenaustausch. Sie können nichtsequentielle
-    Programme mit Prozessen/Threads/ aktiven Objekten geeignet strukturieren und durch
-    geeignete Synchronisationsverfahren unerwünschte nichtdeterministische Effekte
-    sowie Verklemmungen vermeiden. Sie kennen und verstehen Sicherheitsrisiken, die
-    in nichtsequentiellen Programmen entstehen können und können Methoden einsetzen,
-    diese zu vermeiden. Sie können Eigenschaften von Prozessen und Threads formal
-    spezifizieren und diese exemplarisch verifizieren. Die Studentinnen und Studenten
-    können relevante Interaktionsparadigmen wie Client/Server und Peer-to-Peer unterscheiden
-    und eigene Anwendungen nach diesen Paradigmen geeignet einordnen und verteilte
-    Systeme auf der Basis von Interprozesskommunikation und Fernaufrufen konstruieren.
-    Sie können Webanwendungen, Kunde-/ Dienstleister-Anwendungen, Peer-to-Peer Anwendungen
-    geeignet entwerfen, strukturieren und realisieren und verteilte Systeme mit Hilfe
-    geeigneter Middleware entwickeln.
-  content: 'Programmieren und synchronisieren von gleichzeitig laufenden Prozessen,
-    die auf gemeinsamen Speicher zugreifen oder über Nachrichtenaustausch interagieren.
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen oder des Moduls Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse
+  goals: |
+    Die Studentinnen und Studenten verstehen die Grundbegriffe der
+    nichtsequentiellen Programmierung mit gemeinsamen Speicher und
+    Nachrichtenaustausch. Sie können nichtsequentielle Programme mit
+    Prozessen/Threads/ aktiven Objekten geeignet strukturieren und durch
+    geeignete Synchronisationsverfahren unerwünschte nichtdeterministische
+    Effekte sowie Verklemmungen vermeiden. Sie kennen und verstehen
+    Sicherheitsrisiken, die in nichtsequentiellen Programmen entstehen können
+    und können Methoden einsetzen, diese zu vermeiden. Sie können Eigenschaften
+    von Prozessen und Threads formal spezifizieren und diese exemplarisch
+    verifizieren.
 
-    - Nichtsequentielle Programme und Prozesse in ihren verschiedenen Ausprägungen,
-    Nichtdeterminismus, Determinierung
+    Die Studentinnen und Studenten können relevante
+    Interaktionsparadigmen wie Client/Server und Peer-to-Peer unterscheiden und
+    eigene Anwendungen nach diesen Paradigmen geeignet einordnen und verteilte
+    Systeme auf der Basis von Interprozesskommunikation und Fernaufrufen
+    konstruieren. Sie können Webanwendungen, Kunde-/ Dienstleister-Anwendungen,
+    Peer-to-Peer Anwendungen geeignet entwerfen, strukturieren und realisieren
+    und verteilte Systeme mit Hilfe geeigneter Middleware entwickeln.
+  content: |
+    Programmieren und synchronisieren von gleichzeitig laufenden Prozessen, die
+    auf gemeinsamen Speicher zugreifen oder über Nachrichtenaustausch
+    interagieren.
 
-    - Synchronisationsmechanismen: Sperren, Monitore, Wachen, Ereignisse, Semaphore
-
+    - Nichtsequentielle Programme und Prozesse in ihren verschiedenen
+      Ausprägungen, Nichtdeterminismus, Determinierung
+    - Synchronisationsmechanismen: Sperren, Monitore, Wachen, Ereignisse,
+      Semaphore
     - Nichtsequentielle Programmausführung und Objektorientierung
-
-    - Ablaufsteuerung, Auswahlstrategien, Prioritäten, Umgang mit und Vermeidung von
-    Verklemmung
-
+    - Ablaufsteuerung, Auswahlstrategien, Prioritäten, Umgang mit und Vermeidung
+      von Verklemmung
     - Koroutinen, Implementierung, Mehrprozessorsysteme
-
-    - Interaktion über Nachrichten, Sicherheitsaspekte von Anwendungen im Netzwerk
-
-    - Programmieren und synchronisieren von gleichzeitig laufenden Prozessen, die
-    über Nachrichtenaustausch interagieren
-
+    - Interaktion über Nachrichten, Sicherheitsaspekte von Anwendungen im
+      Netzwerk
+    - Programmieren und synchronisieren von gleichzeitig laufenden Prozessen,
+      die über Nachrichtenaustausch interagieren
     - Fernaufruftechniken
-
     - Client-Server, Peer-to-Peer
-
     - Parallelrechnen im Netz
-
     - Koordinierungssprachen, Orchestrierung, Choreographie
-
     - Verarbeitung auf dem Server und auf dem Client, Mobilität
-
-    - Middleware, strukturierte Kommunikation, statische und dynamische Schnittstellen
-
+    - Middleware, strukturierte Kommunikation, statische und dynamische
+      Schnittstellen
     - Ereignisbasierte und strombasierte Verarbeitung
-
     - Sicherheit von Anwendungen im Netzwerk, Absicherung der Protokolle
+    - Ausblick auf nichtfunktionale Eigenschaften (Zeit, Speicher, Dienstgüte)
 
-    - Ausblick auf nichtfunktionale Eigenschaften (Zeit, Speicher, Dienstgüte) Kenntnisse
-    des Moduls „Algorithmen, Datenstrukturen und Datenabstraktion“ werden vorausgesetzt.
-    Im Selbststudium erwerben die Studentinnen und Studenten Kenntnisse über Betriebssysteme,
-    die im Zusammenhang mit nichtsequentieller Programmierung stehen (etwa Pipelining,
-    Cache, Speicherhierarchie, Unterbrechungsbehandlung, Puffer, Prozesse/Threads)
-    FU-Mitteilungen'
+    Kenntnisse des Moduls „Algorithmen, Datenstrukturen und Datenabstraktion“
+    werden vorausgesetzt. Im Selbststudium erwerben die Studentinnen und
+    Studenten Kenntnisse über Betriebssysteme, die im Zusammenhang mit
+    nichtsequentieller Programmierung stehen (etwa Pipelining, Cache,
+    Speicherhierarchie, Unterbrechungsbehandlung, Puffer, Prozesse/Threads)
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
     - type: Übung
       swstime: 2
       attendance: required
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -202,41 +240,49 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+  exam: |
+    Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
     Prüfungsleistung (120 Minuten) durchgeführt werden
   language: Deutsch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: 'Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
-
-    Informatik'
+  usability: |
+    Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
+    Informatik
+  differentiated: true
+  tags:
+    - Wahlbereich
 - page: 14
   name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozentin oder Dozent des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten verstehen am Ende des Moduls: die grundlegenden
-    Architekturmerkmale von Rechnersystemen, die Interaktionen der Architekturmerkmale
-    in Mehrkern- und Mehrprozessorsystemen, die elementaren Möglichkeiten der Beschleunigung
-    von Rechnersystemen'
-  content: Themenbereiche sind hier insbesondere Harvard/v. Neumann-Architektur, Mikroarchitektur
-    RISC/CISC, Mikroprogrammierung, Pipelining, Cache, Speicherhierarchie, Bussysteme,
-    Assemblerprogrammierung, Multiprozessorsysteme, VLIW, Sprungvorhersage. Ebenso
-    werden interne Zahlendarstellungen, Rechnerarithmetik und die Repräsentation weiterer
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verstehen am Ende des Moduls: die
+    grundlegenden Architekturmerkmale von Rechnersystemen, die Interaktionen der
+    Architekturmerkmale in Mehrkern- und Mehrprozessorsystemen, die elementaren
+    Möglichkeiten der Beschleunigung von Rechnersystemen
+  content: |
+    Themenbereiche sind hier insbesondere Harvard/v. Neumann-Architektur,
+    Mikroarchitektur RISC/CISC, Mikroprogrammierung, Pipelining, Cache,
+    Speicherhierarchie, Bussysteme, Assemblerprogrammierung,
+    Multiprozessorsysteme, VLIW, Sprungvorhersage. Ebenso werden interne
+    Zahlendarstellungen, Rechnerarithmetik und die Repräsentation weiterer
     Datentypen im Rechner behandelt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
     - type: Seminar am PC
       swstime: 2
       attendance: required
-      activity: Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation
-        der Lösungen von Übungsaufgaben in den Übungen
+      activity: |
+        Schriftliche Bearbeitung der Übungsblätter Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -248,22 +294,56 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (60 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    (60 Minuten) durchgeführt werden
+  exam: |
+    Klausur (60 Minuten); die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung (60 Minuten) durchgeführt werden
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: 'Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
-
-    Informatik
-
-    Für die übrigen Module des Wahlbereichs wird auf die Studien- und Prüfungsordnung
-    für den Bachelorstudiengang
-
-    Informatik des Fachbereichs Mathematik und Informatik der Freien Universität Berlin
-    und die Studien- und Prüfungsordnung für den Masterstudiengang Informatik des
-    Fachbereichs Mathematik und Informatik der Freien Universität
-
-    Berlin verwiesen.'
+  usability: |
+    Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
+    Informatik Für die übrigen Module des Wahlbereichs wird auf die Studien- und
+    Prüfungsordnung für den Bachelorstudiengang Informatik des Fachbereichs
+    Mathematik und Informatik der Freien Universität Berlin und die Studien- und
+    Prüfungsordnung für den Masterstudiengang Informatik des Fachbereichs
+    Mathematik und Informatik der Freien Universität Berlin verwiesen.
+  differentiated: true
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Softwaretechnik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Systemverwaltung
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Softwareprojekt B
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Auswirkung der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Gesellschaftliche Aspekte der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Grundlagen der Technischen Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Wissenschaftliches Arbeiten in der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich

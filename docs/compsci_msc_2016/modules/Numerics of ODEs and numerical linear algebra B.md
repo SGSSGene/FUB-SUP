@@ -1,33 +1,113 @@
+---
+tags:
+  - compsci_msc_2016
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Numerics of ODEs and numerical linear algebra B"&body=There seems to be an error in module "Numerics of ODEs and numerical linear algebra B".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Numerics of ODEs and numerical linear algebra B
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Numerics of ODEs and numerical linear algebra B |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten besitzen vertiefte Kenntnisse der numerischen Lösung von gewöhnlichen Differenzialgleichungen sowie der numerischen linearen Algebra und können sicher damit umgehen. Im Rahmen eines Seminars haben die Studentinnen und Studenten das erlernte Wissen auf praktische Probleme des wissenschaftlichen Rechnens übertragen und einen Einblick in die mathematische Modellierung solcher Probleme bekommen. |
-|**Inhalte**                         | Auswahl aus folgenden Themen:<br>- Anfangswertprobleme für steife Differenzialgleichungen (Stabilität und asymptotische Stabilität, von Fixpunkten, Testgleichungen)<br>- implizite Runge-Kutta-Verfahren (Vererbungsprinzip, Stabilitätsgebiete, A- und B-Stabilität, Gauß-Verfahren)<br>- differenziell-algebraische Gleichungen (Grundbegriffe, Index)<br>- Hamiltonsche Systeme (Energieerhaltung, Symplektizität, symplektische Runge-Kutta-Verfahren)<br>- iterative Verfahren zur Lösung großer linearer Gleichungssysteme (Lineare Iterationsverfahren, Vorkonditionierung, Abstiegsverfahren, Verfahren der konjugierten Gradienten). |
-|**Modulprüfung**                    | Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit (ca. 15 Seiten). |
-|**Modulsprache**                    | Deutsch oder Englisch |
-|**Arbeitsaufwand (Stunden)**        | 450 |
-|**Leistungspunkte (LP)**            | 15 |
-|**Dauer des Moduls**                | Ein oder zwei Semester |
-|**Häufigkeit des Angebots**         | Mindestens einmal im Studienjahr |
-|**Verwendbarkeit**                  | Masterstudiengang Computational Sciences |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | Erfolgreiches Bearbeiten von Übungsaufgaben<br>Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts |
-| Übung                | 2                         | recommended                        | Erfolgreiches Bearbeiten von Übungsaufgaben<br>Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts |
-| Seminar              | 2                         | recommended                        | Erfolgreiches Bearbeiten von Übungsaufgaben<br>Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts |
+[« Numerics of ODEs and numerical linear algebra A](Numerics of ODEs and numerical linear algebra A.md){class=prev}
+[Numerics of partial differential equations A »](Numerics of partial differential equations A.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 80    |
-| Präsenzzeit S                            | 30    |
-| Vor- und Nachbereitung S                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 60    |
-| Schriftliche Übungsaufgaben              | 60    |
-| Prüfungsvorbereitung und Prüfung         | 70    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Numerics of ODEs and numerical linear algebra B </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Bereich Scientific Computing
+- Numeric
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten besitzen vertiefte Kenntnisse der numerischen
+Lösung von gewöhnlichen Differenzialgleichungen sowie der numerischen
+linearen Algebra und können sicher damit umgehen. Im Rahmen eines Seminars
+haben die Studentinnen und Studenten das erlernte Wissen auf praktische
+Probleme des wissenschaftlichen Rechnens übertragen und einen Einblick in
+die mathematische Modellierung solcher Probleme bekommen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Auswahl aus folgenden Themen:
+
+- Anfangswertprobleme für steife Differenzialgleichungen (Stabilität und
+  asymptotische Stabilität, von Fixpunkten, Testgleichungen)
+- implizite Runge-Kutta-Verfahren (Vererbungsprinzip, Stabilitätsgebiete, A-
+  und B-Stabilität, Gauß-Verfahren)
+- differenziell-algebraische Gleichungen (Grundbegriffe, Index)
+- Hamiltonsche Systeme (Energieerhaltung, Symplektizität, symplektische
+  Runge-Kutta-Verfahren)
+- iterative Verfahren zur Lösung großer linearer Gleichungssysteme (Lineare
+  Iterationsverfahren, Vorkonditionierung, Abstiegsverfahren, Verfahren der
+  konjugierten Gradienten).
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Erfolgreiches Bearbeiten von Übungsaufgaben
+Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Erfolgreiches Bearbeiten von Übungsaufgaben
+Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
+</td></tr>
+<tr markdown><td> **Seminar** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Erfolgreiches Bearbeiten von Übungsaufgaben
+Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>80 Stunden</td></tr>
+<tr><td>Präsenzzeit S</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>60 Stunden</td></tr>
+<tr><td>Schriftliche Übungsaufgaben</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>70 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleistung
+durchgeführt werden kann, oder mündliche Prüfung (ca. 30 Minuten) oder
+Hausarbeit (ca. 15 Seiten).
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch oder Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>450</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>15</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein oder zwei Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Mindestens einmal im Studienjahr</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Computational Sciences
+
+
+</td></tr>
+
+</table>

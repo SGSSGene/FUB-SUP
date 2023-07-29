@@ -1,0 +1,136 @@
+---
+tags:
+  - lehrinf_bsc_2015
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Nichtsequentielle und verteilte Programmierung für Lehramt"&body=There seems to be an error in module "Nichtsequentielle und verteilte Programmierung für Lehramt".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
+# Nichtsequentielle und verteilte Programmierung für Lehramt
+
+[« Logik und Diskrete Mathematik für Lehramt](Logik und Diskrete Mathematik für Lehramt.md){class=prev}
+[Objektorientierte Programmierung »](Objektorientierte Programmierung.md){class=next}
+{class=prev-next-nav}
+
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Nichtsequentielle und verteilte Programmierung für Lehramt </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Wahlpflichtbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Objektorientierte Programmierung“
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten verstehen die Grundbegriffe der
+nichtsequentiellen Programmierung mit gemeinsamen Speicher und
+Nachrichtenaustausch. Sie können nichtsequentielle Programme mit
+Prozessen/Threads/aktiven Objekten geeignet strukturieren und durch
+geeignete Synchronisationsverfahren unerwünschte nichtdeterministische
+Effekte sowie Verklemmungen vermeiden. Sie kennen und verstehen
+Sicherheitsrisiken, die in nichtsequentiellen Programmen entstehen können
+und können Methoden einsetzen, diese zu vermeiden. Sie können Eigenschaften
+von Prozessen und Threads formal spezifizieren und diese exemplarisch
+verifizieren.
+
+Die Studentinnen und Studenten können relevante Interaktionsparadigmen wie
+Client/Server und Peer-to-Peer unterscheiden und eigene Anwendungen nach
+diesen Paradigmen geeignet einordnen und verteilte Systeme auf der Basis von
+Interprozesskommunikation und Fernaufrufen konstruieren. Sie können
+Webanwendungen, Kunde/Dienstleister-Anwendungen, Peer-to-Peer-Anwendungen
+geeignet entwerfen, strukturieren und realisieren und verteilte Systeme
+mithilfe geeigneter Middleware entwickeln.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Programmieren und Synchronisieren von gleichzeitig laufenden Prozessen, die
+auf gemeinsamen Speicher zugreifen oder über Nachrichtenaustausch
+interagieren.
+
+- Nichtsequentielle Programme und Prozesse in ihren verschiedenen
+  Ausprägungen, Nichtdeterminismus, Determinierung
+- Synchronisationsmechanismen: Sperren, Monitore, Wachen, Ereignisse,
+  Semaphore
+- Nichtsequentielle Programmausführung und Objektorientierung
+- Ablaufsteuerung, Auswahlstrategien, Prioritäten, Umgang mit und Vermeidung
+  von Verklemmung
+- Koroutinen, Implementierung, Mehrprozessorsysteme
+- Interaktion über Nachrichten, Sicherheitsaspekte von Anwendungen im
+  Netzwerk
+- Programmieren und Synchronisieren von gleichzeitig laufenden Prozessen,
+  die über Nachrichtenaustausch interagieren
+- Fernaufruftechniken
+- Client-Server, Peer-to-Peer
+- Parallelrechnen im Netz
+- Koordinierungssprachen, Orchestrierung, Choreographie
+- Verarbeitung auf dem Server und auf dem Client, Mobilität
+- Middleware, strukturierte Kommunikation, statische und dynamische
+  Schnittstellen
+- Ereignisbasierte und strombasierte Verarbeitung
+- Sicherheit von Anwendungen im Netzwerk, Absicherung der Protokolle
+- Ausblick auf nichtfunktionale Eigenschaften (Zeit, Speicher, Dienstgüte)
+
+Kenntnisse des Moduls „Algorithmen, Datenstrukturen und Datenabstraktion“
+werden vorausgesetzt. Im Selbststudium erwerben die Studentinnen und Studenten
+Kenntnisse über Betriebssysteme, die im Zusammenhang mit nichtsequentieller
+Programmierung stehen (etwa Pipelining, Cache, Speicherhierarchie,
+Unterbrechungsbehandlung, Puffer, Prozesse/Threads).
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Schriftliche Bearbeitung der Übungsblätter, mündliche Präsentation der
+Lösungen von Übungsaufgaben in den Übungen.
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Schriftliche Bearbeitung der Übungsblätter, mündliche Präsentation der
+Lösungen von Übungsaufgaben in den Übungen.
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>120 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+Prüfungsleistung (120 Minuten) durchgeführt werden
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Informatik für das Lehramt
+60-LP-Modulangebot Informatik
+
+
+</td></tr>
+
+</table>

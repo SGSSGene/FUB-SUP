@@ -2,43 +2,40 @@
   name: Foundations in Computer Science
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen ein grundlegendes Verständnis für mathematische
-    Konzepte und Methoden in der fortgeschrittenen Algorithmik vor dem Hintergrund
-    aktueller Forschungsrichtungen der Bioinformatik. Sie kennen weiterführende Werkzeuge
-    zur Entwicklung und Analyse von deterministischen und randomisierten Algorithmen.
-    Sie kennen Konzepte und Methoden Daten entsprechend ihrer Entropie zu komprimieren
-    und zugreifbar zu machen. Sie kennen Konzepte für parallele und vektorisierte
-    Algorithmen sowie Paradigmen für verteiltes Rechnen. Sie können die Konzepte selbstständig
-    erkennen und die Analysemethoden selbst auf verwandte Probleme anwenden.
-  content: 'Es werden Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen ein grundlegendes Verständnis für mathematische
+    Konzepte und Methoden in der fortgeschrittenen Algorithmik vor dem
+    Hintergrund aktueller Forschungsrichtungen der Bioinformatik. Sie kennen
+    weiterführende Werkzeuge zur Entwicklung und Analyse von deterministischen
+    und randomisierten Algorithmen. Sie kennen Konzepte und Methoden Daten
+    entsprechend ihrer Entropie zu komprimieren und zugreifbar zu machen. Sie
+    kennen Konzepte für parallele und vektorisierte Algorithmen sowie Paradigmen
+    für verteiltes Rechnen. Sie können die Konzepte selbstständig erkennen und
+    die Analysemethoden selbst auf verwandte Probleme anwenden.
+  content: |
+    Es werden Themen aus folgenden Gebieten behandelt:
 
     - Einführung in verschiedene Arten von Algorithmen und Analysemethoden
-
     - Grundlagen kompakter Datenstrukturen
-
     - Graphentheorie und fortgeschrittene Graph-Algorithmen
-
     - Analyse von randomisierten Datenstrukturen und Algorithmen
-
     - Grundlagen und Modelle für paralleles und vektorisiertes Rechnen
-
-    - Konzepte, Paradigmen und Frameworks für verteiltes Rechnen'
+    - Konzepte, Paradigmen und Frameworks für verteiltes Rechnen
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -50,56 +47,58 @@
       time: 40
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Grundlagenstudium
 - page: 12
   name: Foundations in Mathematics and Statistics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein grundlegendes Verständnis für fortgeschrittene
-    mathematische Konzepte und Methoden im Bereich der Statistik, Numerik und Optimierung
-    vor dem Hintergrund aktueller Forschungsrichtungen der Bioinformatik und Systembiologie.
-    Sie sind in der Lage, problemspezifische Methoden auszuwählen, diese in der Praxis
-    anzuwenden und die Qualität der Ergebnisse zu beurteilen.
-  content: 'Es werden Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein grundlegendes Verständnis für fortgeschrittene
+    mathematische Konzepte und Methoden im Bereich der Statistik, Numerik und
+    Optimierung vor dem Hintergrund aktueller Forschungsrichtungen der
+    Bioinformatik und Systembiologie. Sie sind in der Lage, problemspezifische
+    Methoden auszuwählen, diese in der Praxis anzuwenden und die Qualität der
+    Ergebnisse zu beurteilen.
+  content: |
+    Es werden Themen aus folgenden Gebieten behandelt:
 
     - Lineare Programmierung (Simplex-Algorithmus, Dualität)
-
-    - Ganzzahlige lineare Programmierung (Branch-and-bound, Schnittebenen, Branch-and-Cut)
-
+    - Ganzzahlige lineare Programmierung (Branch-and-bound, Schnittebenen,
+      Branch-and-Cut)
     - Lokale Suche und Metaheuristiken
-
     - Gewöhnliche Differentialgleichungen (Modellierung, Analyse, Sensitivität)
-
     - Lineare Modelle und Testtheorie
-
     - Klassifizierung
-
     - Bootstrap und Modellevaluation
-
-    - Markov Modelle (EM, HMM, MCMC)'
+    - Markov Modelle (EM, HMM, MCMC)
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -111,63 +110,63 @@
       time: 40
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Grundlagenstudium
 - page: 13
   name: Foundations in Bio-Medicine
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein grundlegendes Verständnis für grundlegende Konzepte
-    im Bereich der Analyse genomischer Daten und deren Bezug zu Krankheit und Gesundheit.
-    Dies beinhaltet auch das Verständnis welche Methoden zur Variantensuche und Interpretation
-    in welchem Fall adäquat sind und welche funktionellen Auswirkungen diese haben
-    können. Sie lernen, selbstständig diese Erkenntnisse in ähnlichen Situationen
-    anzuwenden.
-  content: 'Es werden Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein grundlegendes Verständnis für grundlegende
+    Konzepte im Bereich der Analyse genomischer Daten und deren Bezug zu
+    Krankheit und Gesundheit. Dies beinhaltet auch das Verständnis welche
+    Methoden zur Variantensuche und Interpretation in welchem Fall adäquat sind
+    und welche funktionellen Auswirkungen diese haben können. Sie lernen,
+    selbstständig diese Erkenntnisse in ähnlichen Situationen anzuwenden.
+  content: |
+    Es werden Themen aus folgenden Gebieten behandelt:
 
-    - Wirkmechanismen von Mutationen bei verschiedenen Vererbungsformen, z. B. monogen,
-    mitochondrial, oder polygen
-
-    - Methodik im Labor zur Bestimmung genetischer Variationen (SNVs, SNPs, CNVs)
-
+    - Wirkmechanismen von Mutationen bei verschiedenen Vererbungsformen, z. B.
+      monogen, mitochondrial, oder polygen
+    - Methodik im Labor zur Bestimmung genetischer Variationen (SNVs, SNPs,
+      CNVs)
     - Methoden zur Interpretation und funktionellen Bewertung von Mutationen
-
-    - Zellorganelle und deren mutationsbedingte Fehlfunktion mit assoziierten Krankheiten
-
+    - Zellorganelle und deren mutationsbedingte Fehlfunktion mit assoziierten
+      Krankheiten
     - ausgewählte Beispiele
-
-    - Genregulation, z. B. long range gene regulation, Chromatin-Epigenetik und die
-    Bedeutung für Genregulation
-
+    - Genregulation, z. B. long range gene regulation, Chromatin-Epigenetik und
+      die Bedeutung für Genregulation
     - Krankheits-assoziierte Fehler der Genregulation
-
     - ausgewählte Beispiele
-
     - Methoden der Erfassung von Daten in Laborumgebungen
-
-    - Behandlung von medizinischen Daten'
+    - Behandlung von medizinischen Daten
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -179,46 +178,57 @@
       time: 40
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 180
   credit_points: 6
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Grundlagenstudium
 - page: 14
   name: Introduction to Focus Areas
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
     Informatik, Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
     Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen themenbezogen exemplarische Problemstellungen und
-    Lösungsansätze aus den drei Fokusbereichen und sind in der Lage diese problemlösungsorientiert
-    anzuwenden. Sie erkennen, wo welche Kompetenzen gebraucht werden und sind in der
-    Lage, eine bereichsspezifische Problemstellung zu analysieren. Sie können Unterschiede
-    und Gemeinsamkeiten des Arbeitens in den drei verschiedenen Fokusbereichen erarbeiten
-    und vergleichen. Sie können geeignete themenbezogene Literatur finden und sind
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen themenbezogen exemplarische Problemstellungen und
+    Lösungsansätze aus den drei Fokusbereichen und sind in der Lage diese
+    problemlösungsorientiert anzuwenden. Sie erkennen, wo welche Kompetenzen
+    gebraucht werden und sind in der Lage, eine bereichsspezifische
+    Problemstellung zu analysieren. Sie können Unterschiede und Gemeinsamkeiten
+    des Arbeitens in den drei verschiedenen Fokusbereichen erarbeiten und
+    vergleichen. Sie können geeignete themenbezogene Literatur finden und sind
     in der Lage, praktische Probleme aus den jeweiligen Bereichen zu bearbeiten.
-  content: Das Modul präsentiert themenbezogen disziplinübergreifend exemplarische
-    Problemstellungen und Lösungsansätze aus den drei Fokusbereichen „Data Science
-    for Bioinformatics“, „Complex Systems in Bioinformatics“ und „Advanced Algorithms
-    in Bioinformatics“. Im Bereich der Projektarbeit bearbeiten Teams gemeinsam konkrete
-    Aufgabenstellungen zu ausgewählten Themen aus diesem Fokusbereichen. Sie erarbeiten
-    konkrete Lösungsvorschläge für praxisorientierte Problemstellungen, setzen diese
-    um und präsentieren die Ergebnisse.
+  content: |
+    Das Modul präsentiert themenbezogen disziplinübergreifend exemplarische
+    Problemstellungen und Lösungsansätze aus den drei Fokusbereichen „Data
+    Science for Bioinformatics“, „Complex Systems in Bioinformatics“ und
+    „Advanced Algorithms in Bioinformatics“. Im Bereich der Projektarbeit
+    bearbeiten Teams gemeinsam konkrete Aufgabenstellungen zu ausgewählten
+    Themen aus diesem Fokusbereichen. Sie erarbeiten konkrete Lösungsvorschläge
+    für praxisorientierte Problemstellungen, setzen diese um und präsentieren
+    die Ergebnisse.
   teachingunit:
     - type: Ringvorlesung
       swstime: 2
       attendance: required
-      activity: Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von
-        Anwendungsproblemen, Projektarbeit
+      activity: |
+        Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von Anwendungsproblemen, Projektarbeit
     - type: seminaristischer Unterricht
       swstime: 2
       attendance: required
-      activity: Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von
-        Anwendungsproblemen, Projektarbeit
+      activity: |
+        Fachaustausch, Beantwortung von Diskussionsfragen, Diskussion von Anwendungsproblemen, Projektarbeit
   workload:
     - type: Präsenzzeit RV
       time: 30
@@ -228,69 +238,68 @@
       time: 30
     - type: Projektbearbeitung SU
       time: 270
-  exam: Ausarbeitung und Vorstellung der Ergebnisse der Projektarbeit entweder in
-    einer schriftlichen Ausarbeitung (ca. 5 Seiten Bericht) oder als wissenschaftliches
-    Poster zusammen mit mündlicher Präsentation (ca. 5 Minuten). – Die Modulprüfung
-    wird nicht differenziert bewertet –
+  exam: |
+    Ausarbeitung und Vorstellung der Ergebnisse der Projektarbeit entweder in
+    einer schriftlichen Ausarbeitung (ca. 5 Seiten Bericht) oder als
+    wissenschaftliches Poster zusammen mit mündlicher Präsentation (ca. 5
+    Minuten).
   language: Englisch
   total_work: 360
   credit_points: 12
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: false
+  tags:
+    - Grundlagenstudium
 - page: 15
   name: Complex Systems in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein vertieftes Verständnis grundlegender mathematischer
-    und algorithmischer Konzepte im Bereich der Modellierung, Simulation und Analyse
-    von komplexen biologischen Systeme vor dem Hintergrund aktueller Forschungsrichtungen
-    der Systembiologie und Biotechnologie. Sie sind in der Lage, eine gegebene biologische
-    oder medizinische Fragestellung zu analysieren, einen geeigneten Modellierungsansatz
-    auszuwählen, eigenständig eine Problemlösung zu entwickeln sowie die Ergebnisse
-    zu beurteilen und zu kommunizieren.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein vertieftes Verständnis grundlegender
+    mathematischer und algorithmischer Konzepte im Bereich der Modellierung,
+    Simulation und Analyse von komplexen biologischen Systeme vor dem
+    Hintergrund aktueller Forschungsrichtungen der Systembiologie und
+    Biotechnologie. Sie sind in der Lage, eine gegebene biologische oder
+    medizinische Fragestellung zu analysieren, einen geeigneten
+    Modellierungsansatz auszuwählen, eigenständig eine Problemlösung zu
+    entwickeln sowie die Ergebnisse zu beurteilen und zu kommunizieren.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Netzwerkstrukturanalyse
-
     - Graphische Modellierung
-
-    - Modellierung biochemischer Netzwerke mit gewöhnlichen Differentialgleichungen
-
+    - Modellierung biochemischer Netzwerke mit gewöhnlichen
+      Differentialgleichungen
     - Diskrete Modellierung regulatorischer Netzwerke
-
     - Constraint-basierte Modellierung
-
-    - Stochastische und hybride Modellierung'
+    - Stochastische und hybride Modellierung
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeiten der Übungsaufgaben
-
-        Seminarvortrag'
+        Seminarvortrag
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeiten der Übungsaufgaben
-
-        Seminarvortrag'
+        Seminarvortrag
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeiten der Übungsaufgaben
-
-        Seminarvortrag'
+        Seminarvortrag
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -306,53 +315,61 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
 - page: 16
   name: Complex Systems in Biomedical Applications
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden lernen komplexe Systeme in der Biologie/Physiologie kennen.
-    Sie können Aufnahme, Verarbeitung und Aufbereitung der Daten, auf deren Grundlage
-    ausgewählte Schlüssel-Prozesse modelliert werden, kritisch bewerten und interpretieren.
-  content: 'Anhand ausgewählter, aktueller Beispiele aus der Biologie und Physiologie
-    werden die Arbeitsschritte von Datengewinnung, Datenverarbeitung, Datenaufbereitung,
-    Datenbeurteilung bis hin zur Modellierung komplexer physiologischer Zusammenhänge
-    theoretisch und praktisch erarbeitet. Es werden Modelle aus folgenden Gebieten
-    vertieft behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden lernen komplexe Systeme in der Biologie/Physiologie kennen.
+    Sie können Aufnahme, Verarbeitung und Aufbereitung der Daten, auf deren
+    Grundlage ausgewählte Schlüssel-Prozesse modelliert werden, kritisch
+    bewerten und interpretieren.
+  content: |
+    Anhand ausgewählter, aktueller Beispiele aus der Biologie und Physiologie
+    werden die Arbeitsschritte von Datengewinnung, Datenverarbeitung,
+    Datenaufbereitung, Datenbeurteilung bis hin zur Modellierung komplexer
+    physiologischer Zusammenhänge theoretisch und praktisch erarbeitet. Es
+    werden Modelle aus folgenden Gebieten vertieft behandelt:
 
-    - Biophysikalische und biochemische Grundprozesse (z. B. freie und erleichterte
-    Diffusion durch Kanal- und -Transportproteine, aktiver Ionentransport durch Membrantransporter,
-    Rezeptor-Liganden-Interaktion, Interaktion von Struktur-und Motorproteinen)
-
+    - Biophysikalische und biochemische Grundprozesse (z. B. freie und
+      erleichterte Diffusion durch Kanal- und -Transportproteine, aktiver
+      Ionentransport durch Membrantransporter, Rezeptor-Liganden-Interaktion,
+      Interaktion von Struktur-und Motorproteinen)
     - Struktur-Funktionsanalyse von Transportproteinen
-
-    - Biologische Netzwerke (z. B. Signalnetze, metabolische Netze, Transportom-Modelle)
-
-    - Modellierung physiologischer Funktionen eines Organismus (z. B. Stofftransport
-    an der Niere, Muskelbewegung, Temperaturregulation, Circadiane Rhythmik)'
+    - Biologische Netzwerke (z. B. Signalnetze, metabolische Netze,
+      Transportom-Modelle)
+    - Modellierung physiologischer Funktionen eines Organismus (z. B.
+      Stofftransport an der Niere, Muskelbewegung, Temperaturregulation,
+      Circadiane Rhythmik)
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeiten der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeiten der Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -364,164 +381,149 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - V-Modul
 - page: 17
   name: Ethics and Policy Questions
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik und
     Mathematik sowie Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen die grundlegenden Werte- und Normensysteme ethischer
-    und rechtlicher Grundlagen und Rahmenbedingungen im Bereich der Lebenswissenschaften
-    mit einem Fokus auf der medizinischen Forschung. Sie können das vorhandene Wissen
-    für eine ethik- und rechtsgebundene Fachlichkeit in typischen Handlungsfeldern,
-    wie z. B. der Medizin, einsetzen und erkennen ethische Fragestellungen und ethische
-    Dilemma. Sie sind in der Lage, ethische und rechtliche Probleme beruflichen Handelns
-    gezielt auf Basis geeigneter Methoden und Quellen zu analysieren und einer vertretbar
-    und fundiert begründete Lösung zuzuführen. Sie reflektieren die eigene moralische
-    und ethische Grundhaltung und deren Auswirkung auf die persönliche Haltung und
-    Handlung. Sie kennen die Arbeitsweise und Aufgaben von Ethikkommissionen, besonders
-    im Bereich der Medizin.
-  content: '– Erläuterung und Diskussion von Grundbegriffen wie Normen, Werte, Moral
-    und Ethik unter interdisziplinären und disziplinären Gesichtspunkten
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen die grundlegenden Werte- und Normensysteme ethischer
+    und rechtlicher Grundlagen und Rahmenbedingungen im Bereich der
+    Lebenswissenschaften mit einem Fokus auf der medizinischen Forschung. Sie
+    können das vorhandene Wissen für eine ethik- und rechtsgebundene
+    Fachlichkeit in typischen Handlungsfeldern, wie z. B. der Medizin, einsetzen
+    und erkennen ethische Fragestellungen und ethische Dilemma. Sie sind in der
+    Lage, ethische und rechtliche Probleme beruflichen Handelns gezielt auf
+    Basis geeigneter Methoden und Quellen zu analysieren und einer vertretbar
+    und fundiert begründete Lösung zuzuführen. Sie reflektieren die eigene
+    moralische und ethische Grundhaltung und deren Auswirkung auf die
+    persönliche Haltung und Handlung. Sie kennen die Arbeitsweise und Aufgaben
+    von Ethikkommissionen, besonders im Bereich der Medizin.
+  content: |
 
+    - Erläuterung und Diskussion von Grundbegriffen wie Normen, Werte, Moral und
+    Ethik unter interdisziplinären und disziplinären Gesichtspunkten
     - Gesellschaftliche Auswirkungen des eigenen Handelns
-
     - Algorithmic Bias („Diskriminierende Algorithmen“)
-
     - Grundlagen ethischer Diskurse
-
     - Historie der Ethikkommissionen in Deutschland
-
     - Aufgabe, Regularien und Arbeitsweise von Ethikkommissionen
-
     - Aktuelle Herausforderungen
-
-    - Zukunftsperspektiven für ethisches Handeln und Forschen'
+    - Zukunftsperspektiven für ethisches Handeln und Forschen
   teachingunit:
     - type: Praxisseminar
       swstime: 2
       attendance: required
-      activity: Bearbeitung der Aufgaben, Präsentation der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Präsentation der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 30
     - type: Vor- und Nachbereitung
       time: 120
-  exam: Keine
+  exam: |
+    Keine
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
 - page: 18
   name: Research Internship
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
     Informatik, Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
     Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben praktische Forschungserfahrung im Bereich der Datenwissenschaft
-    gesammelt und können Lehrinhalte des Studiums in der Forschungspraxis anwenden.
-    Sie haben Erfahrung in der Projektkoordination und -abwicklung und sind in der
-    Lage, im Team zu arbeiten.
-  content: Aktuelle Forschungsthemen aus dem Bereich der Bioinformatik.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben praktische Forschungserfahrung im Bereich der
+    Datenwissenschaft gesammelt und können Lehrinhalte des Studiums in der
+    Forschungspraxis anwenden. Sie haben Erfahrung in der Projektkoordination
+    und -abwicklung und sind in der Lage, im Team zu arbeiten.
+  content: |
+    Aktuelle Forschungsthemen aus dem Bereich der Bioinformatik.
   teachingunit:
     - type: Praktikum
-      swstime: 9
+      swstime: 270h
       attendance: required
-      activity: Praktikumsbericht und Abschlussvortrag, Betreuungsgespräch
+      activity: |
+        Praktikumsbericht und Abschlussvortrag, Betreuungsgespräch
   workload:
     - type: Präsenzzeit
       time: 270
     - type: Vor- und Nachbereitung
       time: 30
-  exam: Keine
+  exam: |
+    Keine
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 19
-#  name: Current research topics in Complex Systems
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
-#    Informatik, Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
-#    Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Vorgehensweisen in verschiedenen Themenbereichen
-#    der Bioinformatik im Bereich der komplexen Systeme und können die wesentlichen
-#    Algorithmen anwenden und die erzielten Ergebnisse analysieren und interpretieren.
-#  content: In diesem Seminar werden anhand von aktuellen Veröffentlichung aus hochrangigen
-#    Fachjournalen oder Fachkonferenzen neuste Forschungsarbeiten der Bioinformatik
-#    im Bereich der komplexen Systeme vorgestellt.
-#  teachingunit:
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: Recherche, Präsentation und Diskussion
-#  workload:
-#    - type: Präsenzzeit
-#      time: 30
-#    - type: Vor- und Nachbereitung
-#      time: 70
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Präsentation mit Diskussion (ca. 30 bis 45 Minuten) oder schriftliche Ausarbeitung
-#    (ca. 10 Seiten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
 - page: 20
   name: Advanced Network Analysis
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen fortgeschrittene Kenntnisse in der Modellierung
-    und Analyse biochemischer, biophysikalischer oder biologischer Eigenschaften molekularer
-    Netzwerke, insbesondere in Hinsicht der Verknüpfung von experimentellen Ergebnissen,
-    mathematischem Modell und algorithmischer Umsetzung. Sie sind in der Lage, Modelle
-    für molekulare Netzwerke zu entwerfen und kritisch zu bewerten; sie lernen algorithmische
-    Methoden zur Analyse solcher Modelle kennen, können ihre Aussagekraft einschätzen
-    und gewinnen eigene Anwendungserfahrungen.
-  content: 'Es werden ausgewählte fortgeschrittene Inhalte aus den folgenden Bereichen
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen fortgeschrittene Kenntnisse in der Modellierung
+    und Analyse biochemischer, biophysikalischer oder biologischer Eigenschaften
+    molekularer Netzwerke, insbesondere in Hinsicht der Verknüpfung von
+    experimentellen Ergebnissen, mathematischem Modell und algorithmischer
+    Umsetzung. Sie sind in der Lage, Modelle für molekulare Netzwerke zu
+    entwerfen und kritisch zu bewerten; sie lernen algorithmische Methoden zur
+    Analyse solcher Modelle kennen, können ihre Aussagekraft einschätzen und
+    gewinnen eigene Anwendungserfahrungen.
+  content: |
+    Es werden ausgewählte fortgeschrittene Inhalte aus den folgenden Bereichen
     behandelt:
 
     - Netzwerkstrukturanalyse
-
     - dynamische Modellierung molekularer Netzwerke
-
     - Simulation, Analyse und Kontrolle dynamischer Modelle
-
-    - Netzwerkinferenz'
+    - Netzwerkinferenz
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -533,208 +535,56 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# reworded in Änderungsordnung 2021 (see at the end of this document)
-#- page: 21
-#  name: Human Evolution
-#  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
-#    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
-#    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
-#  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
-#    liegen die Schwerpunkte in den folgenden Bereichen:
-#
-#    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
-#    Phänotyps, kognitiver Fähigkeiten
-#
-#    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
-#    evolutionäre Medizin'
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 1
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Diskussion und Präsentation
-#
-#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Diskussion und Präsentation
-#
-#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-#    - type: Praxisseminar
-#      swstime: 2
-#      attendance: required
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Diskussion und Präsentation
-#
-#        Bearbeitung der Aufgaben, Darstellung der Ergebnisse'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 15
-#    - type: Vor- und Nachbereitung V
-#      time: 15
-#    - type: Präsenzzeit S
-#      time: 30
-#    - type: Vor- und Nachbereitung S
-#      time: 30
-#    - type: Präsenzzeit PS
-#      time: 30
-#    - type: Vor- und Nachbereitung PS
-#      time: 10
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 20
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 22
-#  name: Special aspects of Complex Systems
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
-#    Gebietes der Complex Systems anwenden.
-#  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Complex Systems,
-#    beispielsweise in Programmiermethoden für große Datenmengen aus dem Bereich der
-#    Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 30
-#    - type: Vor- und Nachbereitung V
-#      time: 30
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 30
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 30
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 23
-#  name: Selected topics in Complex Systems
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
-#    Anwendungsgebiet der Complex Systems. Sie können Erlerntes sicher anwenden.
-#  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der analyse Multi-Modaler,
-#    verteilter Daten, der Modellierung, Simulation, Optimierung von Zell-Systemen
-#    oder des Maschinellen Lernens.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 4
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 60
-#    - type: Vor- und Nachbereitung V
-#      time: 80
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 80
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 300
-#  credit_points: 10
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - V-Modul
 - page: 24
   name: Computer-Aided Drug Design
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen und verstehen verschiedene Methoden der Chemieinformatik
-    und strukturellen Bioinformatik für den Computergestützten Wirkstoffentwurf, inklusive
-    verfügbarer Software und Datenquellen. Sie können diese Methoden praktisch anwenden
-    (Programmieranteil) und an einem Fallbeispiel kritisch diskutieren und analysieren.
-    Der Kurs soll die Studierenden dazu befähigen, ihre eigene Wirkstoffentwurf-Pipeline
-    zu entwerfen und ihre Ergebnisse zu beurteilen.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen und verstehen verschiedene Methoden der
+    Chemieinformatik und strukturellen Bioinformatik für den Computergestützten
+    Wirkstoffentwurf, inklusive verfügbarer Software und Datenquellen. Sie
+    können diese Methoden praktisch anwenden (Programmieranteil) und an einem
+    Fallbeispiel kritisch diskutieren und analysieren. Der Kurs soll die
+    Studierenden dazu befähigen, ihre eigene Wirkstoffentwurf-Pipeline zu
+    entwerfen und ihre Ergebnisse zu beurteilen.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Computer-gestützter Wirkstoffentwurf
-
     - Proteinstrukturen und Protein-Ligand Wechselwirkungen
-
-    - Verfügbare Datenbanken für Protein und Molekülstrukturen, Datengenerierung und
-    Analyse
-
+    - Verfügbare Datenbanken für Protein und Molekülstrukturen, Datengenerierung
+      und Analyse
     - Visualisierung von Molekülen und Wechselwirkungen
-
-    - Ligand-basierte Methoden (Fokus auf kleine Moleküle): l Moleküldeskriptoren,
-    Molekülvergleich, Substrukturen und Filtern l Virtuelles Screening, Maschinelles
-    Lernen l ADMET Vorhersage
-
-    - Struktur-basierte Methoden (Fokus auf Proteinstrukturen): l Homologie Modellierung
-    l Protein-Ligand Docking l Aktive Zentren im Protein und deren Vergleich l Off-Target
-    Vorhersage
-
-    - Praktische Anwendung, inkl. Programmierung (in Python)'
+    - Ligand-basierte Methoden (Fokus auf kleine Moleküle): l
+      Moleküldeskriptoren, Molekülvergleich, Substrukturen und Filtern l
+      Virtuelles Screening, Maschinelles Lernen l ADMET Vorhersage
+    - Struktur-basierte Methoden (Fokus auf Proteinstrukturen): l Homologie
+      Modellierung l Protein-Ligand Docking l Aktive Zentren im Protein und
+      deren Vergleich l Off-Target Vorhersage
+    - Praktische Anwendung, inkl. Programmierung (in Python)
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -742,48 +592,53 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - Praxismodul
 - page: 25
   name: Current topics in cell-physiology
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen verschiedene elektrophysiologische, molekularbiologische
-    und optische Messmethoden und können sie auf eine physiologische Fragestellung
-    aus der aktuellen Forschung anwenden. Sie sind in der Lage, die Ergebnisse zu
-    evaluieren und mit erstellten Computermodellen zu vergleichen und zu bewerten.
-    Sie können Vorteile und Limitationen verschiedener Methoden gegeneinander abwägen
-    und die Übertragbarkeit der verwendeten Computermodelle auf zelluläre Systeme
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen verschiedene elektrophysiologische,
+    molekularbiologische und optische Messmethoden und können sie auf eine
+    physiologische Fragestellung aus der aktuellen Forschung anwenden. Sie sind
+    in der Lage, die Ergebnisse zu evaluieren und mit erstellten
+    Computermodellen zu vergleichen und zu bewerten. Sie können Vorteile und
+    Limitationen verschiedener Methoden gegeneinander abwägen und die
+    Übertragbarkeit der verwendeten Computermodelle auf zelluläre Systeme
     kritisch einschätzen.
-  content: 'Anhand einer zellphysiologischen Fragestellung werden, u. a. anhand von
-    Computermodellen, experimentelle Lösungsansätze entwickelt. Im experimentellen
-    Teil können folgende Techniken zum Einsatz kommen:
+  content: |
+    Anhand einer zellphysiologischen Fragestellung werden, u. a. anhand von
+    Computermodellen, experimentelle Lösungsansätze entwickelt. Im
+    experimentellen Teil können folgende Techniken zum Einsatz kommen:
 
     - Impedanzspektroskopie
-
     - Polymerase-Kettenreaktion (PCR)
-
     - Sequenzierung
-
     - Transformation
-
     - Transfektion
-
     - Western-Blot
-
-    - Konfokale Laser-Scanning-Mikroskopie'
+    - Konfokale Laser-Scanning-Mikroskopie
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -791,36 +646,44 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - Praxismodul
 - page: 26
   name: Computational Systems Biology
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben praktische Erfahrungen bei der Modellierung und Analyse
-    molekularer Netzwerke. Sie kennen unterschiedliche Methoden und Softwarewerkzeuge
-    zur Network Analysis und sind in der Lage, diese auf konkrete systembiologische
-    Fragestellungen anzuwenden, die Ergebnisse zu interpretieren und sie in einem
-    interdisziplinären Kontext zu kommunizieren.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben praktische Erfahrungen bei der Modellierung und
+    Analyse molekularer Netzwerke. Sie kennen unterschiedliche Methoden und
+    Softwarewerkzeuge zur Network Analysis und sind in der Lage, diese auf
+    konkrete systembiologische Fragestellungen anzuwenden, die Ergebnisse zu
+    interpretieren und sie in einem interdisziplinären Kontext zu kommunizieren.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Simulation biochemischer Reaktionsnetzwerke
-
     - Struktur und Dynamik regulatorischer Netzwerke
-
-    - Metabolic Engineering'
+    - Metabolic Engineering
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -828,64 +691,66 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - Praxismodul
 - page: 27
   name: Medical Bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein tieferes Verständnis für grundlegende Konzepte
-    im Bereich der medizinischen Bioinformatik und Genomik vor dem Hintergrund aktueller
-    Forschungsrichtungen der Bioinformatik und Biotechnologie. Sie verstehen die verschiedenen
-    Fragestellungen und Ziele der biomedizinischen Genomanalyse. Sie wissen, welche
-    Ergebnisse aus welchen klinischen Daten abgeleitet werden können und können computergestützte
-    Vorhersagen im klinischen und wissenschaftlichen Kontext angemessen beurteilen.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein tieferes Verständnis für grundlegende Konzepte im
+    Bereich der medizinischen Bioinformatik und Genomik vor dem Hintergrund
+    aktueller Forschungsrichtungen der Bioinformatik und Biotechnologie. Sie
+    verstehen die verschiedenen Fragestellungen und Ziele der biomedizinischen
+    Genomanalyse. Sie wissen, welche Ergebnisse aus welchen klinischen Daten
+    abgeleitet werden können und können computergestützte Vorhersagen im
+    klinischen und wissenschaftlichen Kontext angemessen beurteilen.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Kopplungsungleichgewicht (LD), Kopplungsanalyse, Assoziationsanalysen
-
-    - Ontologien, semantische Analyse, integrative Analyse biomedizinischer Daten
-
+    - Ontologien, semantische Analyse, integrative Analyse biomedizinischer
+      Daten
     - Analyse medizinisch relevanter Hochdurchsatzsequenzierdaten
-
-    - Exom- und Genomsequenzierung, Interpretation und Bewertung von Sequenzvarianten.
-    Analyse von RNA- Expressionsdaten und epigenomischen Daten in einem biomedizinischen
-    Kontext'
+    - Exom- und Genomsequenzierung, Interpretation und Bewertung von
+      Sequenzvarianten. Analyse von RNA- Expressionsdaten und epigenomischen
+      Daten in einem biomedizinischen Kontext
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
     - type: Übung
       swstime: 1
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -901,94 +766,64 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 28
-#  name: Current research topics in Data Science in Life Sciences
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
-#    Informatik und Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
-#    Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Vorgehensweisen in verschiedenen Themenbereichen
-#    der Bioinformatik im Bereich Data Science und können die wesentlichen Algorithmen
-#    anwenden und die erzielten Ergebnisse analysieren und interpretieren.
-#  content: In diesem Seminar werden anhand von aktuellen Veröffentlichung aus hochrangigen
-#    Fachjournalen oder Fachkonferenzen neuste Forschungsarbeiten der Bioinformatik
-#    im Bereich Data Science vorgestellt.
-#  teachingunit:
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: Recherche, Präsentation und Diskussion
-#  workload:
-#    - type: Präsenzzeit
-#      time: 30
-#    - type: Vor- und Nachbereitung
-#      time: 70
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Präsentation mit Diskussion (ca. 30 bis 45 Minuten) oder schriftliche Ausarbeitung
-#    (ca. 10 Seiten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
 - page: 29
   name: Machine Learning in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik und
     Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen zentrale statistische und algorithmische Konzepte
-    im Feld des Maschinellen Lernens und können diese im Kontext aktueller Forschung
-    in Bioinformatik, Biologie und Biotechnologie einordnen und anwenden. Sie sind
-    in der Lage für spezifische Fragestellungen passende Methoden und Modelle auszuwählen
-    und können die Resultate evaluiert und kommunizieren.
-  content: 'Es werden wechselnde Themen des maschinellen Lernens im Bereich der Bioinformatik
-    vertieft, z. B.:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen zentrale statistische und algorithmische Konzepte im
+    Feld des Maschinellen Lernens und können diese im Kontext aktueller
+    Forschung in Bioinformatik, Biologie und Biotechnologie einordnen und
+    anwenden. Sie sind in der Lage für spezifische Fragestellungen passende
+    Methoden und Modelle auszuwählen und können die Resultate evaluiert und
+    kommunizieren.
+  content: |
+    Es werden wechselnde Themen des maschinellen Lernens im Bereich der
+    Bioinformatik vertieft, z. B.:
 
-    - Regularization methods for variable selections and regression methods for features
-    decorrelation with application to Mass Spectroscopy data and Cancer data
-
-    - Support Vector Machines for tumor classification based on genomic data and clinical
-    covariates
-
+    - Regularization methods for variable selections and regression methods for
+      features decorrelation with application to Mass Spectroscopy data and
+      Cancer data
+    - Support Vector Machines for tumor classification based on genomic data and
+      clinical covariates
     - SVMs with string kernels to classify omics data, such as RNA sequences
-
-    - Artificial Neural Networks (ANNs) and Deep Learning and some recent applications
-    in Bioinformatics
-
-    - Graphical models for signal cascade analysis and quasi-species identification
-
-    - Active learning with Random Forests applied to modern omics data, such as Mass
-    Specrometry or NGS
-
-    - Unsupervised learning: model-based clustering of microRNA expression data'
+    - Artificial Neural Networks (ANNs) and Deep Learning and some recent
+      applications in Bioinformatics
+    - Graphical models for signal cascade analysis and quasi-species
+      identification
+    - Active learning with Random Forests applied to modern omics data, such as
+      Mass Specrometry or NGS
+    - Unsupervised learning: model-based clustering of microRNA expression data
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1000,50 +835,55 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 30
   name: Big Data Analysis in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen zentrale Konzepte im Bereich der (Vor-)Verarbeitung
-    und Analyse von großen Datenmengen und können diese im Kontext der Bioinformatik
-    und anderen Lebenswissenschaften einordnen und anwenden. Sie sind in der Lage
-    für spezifische Fragestellungen passende Methoden und Modelle auszuwählen und
-    können die Resultate evaluiert und kommunizieren.
-  content: 'Es werden die folgenden Themen behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen zentrale Konzepte im Bereich der (Vor-)Verarbeitung
+    und Analyse von großen Datenmengen und können diese im Kontext der
+    Bioinformatik und anderen Lebenswissenschaften einordnen und anwenden. Sie
+    sind in der Lage für spezifische Fragestellungen passende Methoden und
+    Modelle auszuwählen und können die Resultate evaluiert und kommunizieren.
+  content: |
+    Es werden die folgenden Themen behandelt:
 
-    - Infrastruktur- und Programmier-Frameworks zur Analyse von sehr großen Datensätzen
-
+    - Infrastruktur- und Programmier-Frameworks zur Analyse von sehr großen
+      Datensätzen
     - Datenvorverarbeitung und Datenqualität
-
     - Maschinelles Lernen für sehr große Datensätze
-
     - Analyse von Stream-Daten
-
-    - Analyse von sehr großen Netzwerken'
+    - Analyse von sehr großen Netzwerken
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1055,53 +895,59 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten) oder Bearbeitung
-    eines Projektes mit schriftlicher Ausarbeitung (ca. 10 Seiten) und mündlicher
-    Präsentation (ca. 10 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten) oder Bearbeitung eines Projektes mit schriftlicher Ausarbeitung
+    (ca. 10 Seiten) und mündlicher Präsentation (ca. 10 Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 31
   name: Complex Data Analysis in Physiology
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Datenverarbeitung,
-    insbesondere im Bereich der Bildgebung und Elektrophysiologie anhand ausgewählter
-    Beispiele.
-  content: 'Theoretische und praktische Aspekte der Daten-Akquise, real-time Daten-Verarbeitung
-    und automatisierte Mustererkennung in der Biomedizin. Es werden vertieft Themen
-    aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der
+    Datenverarbeitung, insbesondere im Bereich der Bildgebung und
+    Elektrophysiologie anhand ausgewählter Beispiele.
+  content: |
+    Theoretische und praktische Aspekte der Daten-Akquise, real-time
+    Daten-Verarbeitung und automatisierte Mustererkennung in der Biomedizin. Es
+    werden vertieft Themen aus folgenden Gebieten behandelt:
 
-    - Datenerfassung und Prozessierung von Bilddateien in Forschung und Klinik (z.
-    B. Live Cell Imaging, Super- Resolution-Mikroskopie, bildgebende Verfahren in
-    der Medizin)
-
-    - Elektrophysiologische Verfahren (z. B. Impedanzspektroskopie, Microarrays, EEG,
-    EKG)
-
-    - Verfahren und Anwendung automatisierter Mustererkennung (z. B. automatisierte
-    Tumorerkennung, real-time Analyse biologischer Signale im Brain-Computer Interface
-    oder in Retinaimplantaten, Vorhersage von individuellen Arrhythmierisiken)'
+    - Datenerfassung und Prozessierung von Bilddateien in Forschung und Klinik
+      (z. B. Live Cell Imaging, Super- Resolution-Mikroskopie, bildgebende
+      Verfahren in der Medizin)
+    - Elektrophysiologische Verfahren (z. B. Impedanzspektroskopie, Microarrays,
+      EEG, EKG)
+    - Verfahren und Anwendung automatisierter Mustererkennung (z. B.
+      automatisierte Tumorerkennung, real-time Analyse biologischer Signale im
+      Brain-Computer Interface oder in Retinaimplantaten, Vorhersage von
+      individuellen Arrhythmierisiken)
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung der Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung der Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1113,44 +959,53 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 32
   name: Methodology for clinical trials
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein tieferes Verständnis für das Design, die Durchführung
-    und die statistische Analyse von klinischen Studien.
-  content: Das Studium beschäftigt sich mit statistischen Methoden und Design von
-    klinischen Studien. Es werden grundlegende Aspekte wie Randomisierung, Blindstudien,
-    Definition von Kontrollgruppen und Studien-Endpunkte sowie Studientypen (Effizienz-,
-    Äquivalenz-, Bioäquivalenz-, Phase I, Phase II, Phase II) und Prinzipien der Metaanalyse
-    diskutiert. Die entsprechenden statistischen Modelle und Tests werden vorgestellt.
-    Ziel der Veranstaltung ist die Ausbildung statistischen Denkens im Kontext von
-    klinischen Studien, was sowohl die Anwendung statistischer Tests als auch das
-    kritische Überprüfen des experimentellen Ansatzes umfasst.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein tieferes Verständnis für das Design, die
+    Durchführung und die statistische Analyse von klinischen Studien.
+  content: |
+    Das Studium beschäftigt sich mit statistischen Methoden und Design von
+    klinischen Studien. Es werden grundlegende Aspekte wie Randomisierung,
+    Blindstudien, Definition von Kontrollgruppen und Studien-Endpunkte sowie
+    Studientypen (Effizienz-, Äquivalenz-, Bioäquivalenz-, Phase I, Phase II,
+    Phase II) und Prinzipien der Metaanalyse diskutiert. Die entsprechenden
+    statistischen Modelle und Tests werden vorgestellt. Ziel der Veranstaltung
+    ist die Ausbildung statistischen Denkens im Kontext von klinischen Studien,
+    was sowohl die Anwendung statistischer Tests als auch das kritische
+    Überprüfen des experimentellen Ansatzes umfasst.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung der Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung der Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1162,48 +1017,54 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 33
   name: Advanced Biometrical Methods
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studierenden haben einen Überblick über die Verwendung von Monte-Carlo
-    Simulationen und kennen sich in der Thematik der gruppensequentiellen und adaptiven
-    Studiendesigns aus
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben einen Überblick über die Verwendung von Monte-Carlo
+    Simulationen und kennen sich in der Thematik der gruppensequentiellen und
+    adaptiven Studiendesigns aus
 
-    - insbesondere im regulatorischen Kontext. Sie können die benötigte Fallzahl für
-    eine Studie mit verschiedenen Methoden berechnen und kennen die Unterschiede zu
-    klassischen Design ohne Zwischenauswertungen.'
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+    - insbesondere im regulatorischen Kontext. Sie können die benötigte Fallzahl
+      für eine Studie mit verschiedenen Methoden berechnen und kennen die
+      Unterschiede zu klassischen Design ohne Zwischenauswertungen.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Fallzahlplanungen
-
     - Gruppensequentielle und adaptive Studiendesigns
-
-    - Monte-Carlo-Simulationen in methodischer Forschung und Studienplanung'
+    - Monte-Carlo-Simulationen in methodischer Forschung und Studienplanung
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung der Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Bearbeitung der Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung der Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1215,130 +1076,51 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 34
-#  name: Special aspects of Data Science in the Life Sciences
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
-#    Gebietes der Data Science in den Lebenswissenschaften anwenden.
-#  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Data Science
-#    in den Lebenswissenschaften, beispielsweise in aktuellen Verfahren zur Datenanalyse
-#    im Bereich der Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche
-#    berührt.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-#        von ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 30
-#    - type: Vor- und Nachbereitung V
-#      time: 30
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 30
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 30
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 35
-#  name: Selected topics in Data Science in the Life Sciences
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
-#    Anwendungsgebiet der Data Science in den Lebenswissenschaften. Sie können Erlerntes
-#    sicher anwenden.
-#  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Methoden zur Analyse
-#    von Daten aus den Lebenswissenschaften.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 4
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 60
-#    - type: Vor- und Nachbereitung V
-#      time: 80
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 80
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 300
-#  credit_points: 10
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 36
   name: Current topics in medical genomics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen verschiedene informatische und statistische Methoden
-    aus dem Bereich Medizinische Genomik und können sie auf eine integrative genomische
-    Fragestellung aus der aktuellen Forschung anwenden. Sie sind in der Lage, die
-    Ergebnisse zu evaluieren und mit erstellten Computerprogrammen und -skripten zu
-    vergleichen und zu bewerten. Sie können Vorteile und Limitationen verschiedener
-    Methoden gegeneinander abwägen und die Relevanz der Ergebnisse der Computerprogramme
-    für das Verständnis von biologischen Systemen in medizinischen Kontexten kritisch
-    einschätzen.
-  content: Anhand einer genomischen Fragestellung werden anhand von zu erstellenden
-    Computerprogrammen und Skripten informatische Lösungsansätze entwickelt, um Forschungsfragen
-    aus der aktuellen Literatur oder Erweiterungen derselben anzugehen. Ziel ist es
-    zu lernen, wie eine integrative Datenanalyse zum Verständnis von Hochdurchsatzdaten
-    herangezogen werden kann. Die Studierenden sollen Themen aus der aktuellen Literatur
-    erarbeiten und Skripten bzw. Programme entwickeln um Teilaspekte zu prüfen und
-    zu erweitern.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen verschiedene informatische und statistische Methoden
+    aus dem Bereich Medizinische Genomik und können sie auf eine integrative
+    genomische Fragestellung aus der aktuellen Forschung anwenden. Sie sind in
+    der Lage, die Ergebnisse zu evaluieren und mit erstellten Computerprogrammen
+    und -skripten zu vergleichen und zu bewerten. Sie können Vorteile und
+    Limitationen verschiedener Methoden gegeneinander abwägen und die Relevanz
+    der Ergebnisse der Computerprogramme für das Verständnis von biologischen
+    Systemen in medizinischen Kontexten kritisch einschätzen.
+  content: |
+    Anhand einer genomischen Fragestellung werden anhand von zu erstellenden
+    Computerprogrammen und Skripten informatische Lösungsansätze entwickelt, um
+    Forschungsfragen aus der aktuellen Literatur oder Erweiterungen derselben
+    anzugehen. Ziel ist es zu lernen, wie eine integrative Datenanalyse zum
+    Verständnis von Hochdurchsatzdaten herangezogen werden kann. Die
+    Studierenden sollen Themen aus der aktuellen Literatur erarbeiten und
+    Skripten bzw. Programme entwickeln um Teilaspekte zu prüfen und zu
+    erweitern.
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -1346,37 +1128,49 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 37
   name: Applied Machine Learning in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden können Standardprogramme, Systeme und Bibliotheken im Bereich
-    des maschinellen Lernens für die Bioinformatik selbstständig benutzen. Sie können
-    aus diesen Bausteinen komplexe Workflows konzipieren und in einer modernen Programmiersprache
-    implementieren. Fehlende Methoden können sie selbstständig planen und implementieren.
-    Sie können die Ergebnisse interpretieren und graphisch aufbereiten.
-  content: Die Studierenden lernen zentrale statistische und algorithmische Konzepte
-    im Feld des Maschinellen Lernens kennen, insbesondere im Kontext aktueller Forschung
-    in Bioinformatik, Biologie und Biotechnologie. Dabei werden verschiedene praktische
-    Probleme bearbeitet und Methoden aus der Vorlesung angewandt und implementiert,
-    um relevante Information mit Hilfe von R aus biologischen Datensätzen zu extrahieren.
-    Insbesondere werden sie dabei lernen, wie für spezifische Fragestellungen passende
-    Modelle ausgewählt werden und wie Resultate evaluiert und kommuniziert werden
-    können. Studierende vertiefen in wöchentlichen Übungsaufgaben das Gelernte.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können Standardprogramme, Systeme und Bibliotheken im
+    Bereich des maschinellen Lernens für die Bioinformatik selbstständig
+    benutzen. Sie können aus diesen Bausteinen komplexe Workflows konzipieren
+    und in einer modernen Programmiersprache implementieren. Fehlende Methoden
+    können sie selbstständig planen und implementieren. Sie können die
+    Ergebnisse interpretieren und graphisch aufbereiten.
+  content: |
+    Die Studierenden lernen zentrale statistische und algorithmische Konzepte im
+    Feld des Maschinellen Lernens kennen, insbesondere im Kontext aktueller
+    Forschung in Bioinformatik, Biologie und Biotechnologie. Dabei werden
+    verschiedene praktische Probleme bearbeitet und Methoden aus der Vorlesung
+    angewandt und implementiert, um relevante Information mit Hilfe von R aus
+    biologischen Datensätzen zu extrahieren. Insbesondere werden sie dabei
+    lernen, wie für spezifische Fragestellungen passende Modelle ausgewählt
+    werden und wie Resultate evaluiert und kommuniziert werden können.
+    Studierende vertiefen in wöchentlichen Übungsaufgaben das Gelernte.
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -1384,65 +1178,66 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 38
   name: Advanced Algorithms for Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein tieferes Verständnis für grundlegende algorithmische
-    Konzepte im Bereich der Analyse genomischer Sequenzen vor dem Hintergrund aktueller
-    Forschungsrichtungen der Bioinformatik und Biotechnologie. Sie verstehen verschiedene
-    Paradigmen zur approximativen Suche, sie wissen, unter welchen Voraussetzungen
-    bestimmte Algorithmen anderen vorzuziehen sind, und können wissenschaftliche Publikationen
-    auf dem Gebiet entsprechend einschätzen.
-  content: 'Es werden vertieft Themen u. a. aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein tieferes Verständnis für grundlegende
+    algorithmische Konzepte im Bereich der Analyse genomischer Sequenzen vor dem
+    Hintergrund aktueller Forschungsrichtungen der Bioinformatik und
+    Biotechnologie. Sie verstehen verschiedene Paradigmen zur approximativen
+    Suche, sie wissen, unter welchen Voraussetzungen bestimmte Algorithmen
+    anderen vorzuziehen sind, und können wissenschaftliche Publikationen auf dem
+    Gebiet entsprechend einschätzen.
+  content: |
+    Es werden vertieft Themen u. a. aus folgenden Gebieten behandelt:
 
     - Theoretische Informatik
-
     - Komplexitätstheorie
-
     - Berechenbarkeit
-
-    - Datenstrukturen für Strings (compressed suffix arrays, approximative Suche,
-    Bloom filter, de Bruijn graphs)
-
-    - Algorithmen für RNA Strukturbestimmung und strukturellem alignment (2D, 3D)'
+    - Datenstrukturen für Strings (compressed suffix arrays, approximative
+      Suche, Bloom filter, de Bruijn graphs)
+    - Algorithmen für RNA Strukturbestimmung und strukturellem alignment (2D,
+      3D)
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeiten der Übungsaufgaben
-
-        Seminarvortrag'
+        Seminarvortrag
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeiten der Übungsaufgaben
-
-        Seminarvortrag'
+        Seminarvortrag
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeiten der Übungsaufgaben
-
-        Seminarvortrag'
+        Seminarvortrag
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1458,110 +1253,65 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Sommersemester
-  usability: Masterstudiengang Bioinformatik
-- page: 39
-  name: Methods in Life Sciences
-  organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
-    Chemie, Biochemie und Pharmazie
-  responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen ein tieferes Verständnis für algorithmische Probleme,
-    die im Zusammenhang mit modernen molekularbiologischen Daten auftreten. Sie können
-    bereits erlernte mathematische Konzepte und Methoden der fortgeschrittenen Algorithmik
-    auf die jeweiligen Daten adaptieren und verschiedene Methoden der Auswertung solcher
-    Daten selbstständig bewerten und vergleichen.
-  content: Aktuelle Entwicklungen in der Molekularbiologie und deren algorithmische
-    Herausforderungen.
-  teachingunit:
-    - type: Vorlesung
-      swstime: 2
-      attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Recherche, Präsentation und Diskussion'
-    - type: Seminar
-      swstime: 1
-      attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Recherche, Präsentation und Diskussion'
-  workload:
-    - type: Präsenzzeit V
-      time: 30
-    - type: Vor- und Nachbereitung V
-      time: 60
-    - type: Präsenzzeit S
-      time: 15
-    - type: Vor- und Nachbereitung S
-      time: 15
-    - type: Prüfungsvorbereitung und Prüfung
-      time: 30
-  exam: Präsentation mit Diskussion (ca. 15 bis 30 Minuten) oder schriftliche Ausarbeitung
-    (ca. 10 Seiten) oder Klausur (60 Minuten), ggf. ganz oder teilweise im Antwort-Wahl-Verfahren
-    und kann auch in Form einer elektronischen Prüfungsleistung durchgeführt werden.
-  language: Englisch
-  total_work: 150
-  credit_points: 5
-  duration: Ein Semester
-  repeat: Jedes Wintersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Advanced Algorithms
 - page: 40
   name: Biodiversity and Evolution
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben einen Überblick über die Verwendung von evolutionärer
-    Bioinformatik und Next Generation Sequencing (NGS) in der modernen Biodiversitätsforschung.
-    Sie wissen, wie die Evolution von Genen und Genomen vonstat- tengeht und kennen
-    die Grundlagen zur Analyse von Metagenomen und Metatranskriptomen und deren praktische
-    Anwendung. Sie wissen, welche informatischen Methoden in der heutigen Biodiversitätsforschung
-    verwendet werden und können beurteilen, für welche Anwendungen in den genannten
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben einen Überblick über die Verwendung von evolutionärer
+    Bioinformatik und Next Generation Sequencing (NGS) in der modernen
+    Biodiversitätsforschung. Sie wissen, wie die Evolution von Genen und Genomen
+    vonstat- tengeht und kennen die Grundlagen zur Analyse von Metagenomen und
+    Metatranskriptomen und deren praktische Anwendung. Sie wissen, welche
+    informatischen Methoden in der heutigen Biodiversitätsforschung verwendet
+    werden und können beurteilen, für welche Anwendungen in den genannten
     Gebieten welche Methoden verwendet werden.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
-    - Genomevolution,  , Evolution von Populationen
-
-    - Aktuelle Anwendungen von NGS in der Biodiversitätsforschung einschließlich Genomik
-    und Transkriptomik von „non-model“-organismen, Metagenomik, DNA metabarcoding,
-    Populationsbiologie und Populationsgenetik, Analyse ökologischer Gemeinschaften
-    (Struktur und Funktion)'
+    - Genomevolution, , Evolution von Populationen
+    - Aktuelle Anwendungen von NGS in der Biodiversitätsforschung einschließlich
+      Genomik und Transkriptomik von „non-model“-organismen, Metagenomik, DNA
+      metabarcoding, Populationsbiologie und Populationsgenetik, Analyse
+      ökologischer Gemeinschaften (Struktur und Funktion)
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
     - type: Übung
       swstime: 1
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1577,60 +1327,62 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
 - page: 41
   name: Structural Bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen die aktuellen und forschungsnahen Algorithmen zur
-    Analyse biologischer Strukturen. Sie sind in der Lage, Stärken und Schwächen verschiedener
-    Herangehensweisen einzuschätzen und können selbstständig einordnen, bei welchem
-    Analyseproblem welche Algorithmen adäquat sind.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen die aktuellen und forschungsnahen Algorithmen zur
+    Analyse biologischer Strukturen. Sie sind in der Lage, Stärken und Schwächen
+    verschiedener Herangehensweisen einzuschätzen und können selbstständig
+    einordnen, bei welchem Analyseproblem welche Algorithmen adäquat sind.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Struktur, Funktion und Dynamik von Proteinen
-
     - Algorithmen zur molekularen Ähnlichkeit und ihre Anwendung
-
-    - Methoden zur Berechnung (multipler) lokaler und globaler Struktur-Alignements
-
-    - Docking von organischen Kleinstrukturen an Proteine sowie Protein-Protein-Docking'
+    - Methoden zur Berechnung (multipler) lokaler und globaler
+      Struktur-Alignements
+    - Docking von organischen Kleinstrukturen an Proteine sowie
+      Protein-Protein-Docking
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
     - type: Übung
       swstime: 1
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung der Übungsaufgaben
-
-        Recherche, Präsentation und Diskussion'
+        Recherche, Präsentation und Diskussion
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1646,159 +1398,43 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 42
-#  name: Current research topics in Advanced Algorithms
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
-#    Informatik, Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
-#    Chemie und Biochemie sowie Fakultät der Charité – Universitätsmedizin Berlin
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen aktuelle Vorgehensweisen in verschiedenen Themenbereichen
-#    der Bioinformatik im Bereich der weiterführenden Algorithmen und können die wesentlichen
-#    Algorithmen anwenden und die erzielten Ergebnisse analysieren und interpretieren.
-#  content: In diesem Seminar werden anhand von aktuellen Veröffentlichung aus hochrangigen
-#    Fachjournalen oder Fachkonferenzen neuste Forschungsarbeiten der Bioinformatik
-#    im Bereich der weiterführenden Algorithmen vorgestellt.
-#  teachingunit:
-#    - type: Seminar
-#      swstime: 2
-#      attendance: required
-#      activity: Recherche, Präsentation und Diskussion
-#  workload:
-#    - type: Präsenzzeit
-#      time: 30
-#    - type: Vor- und Nachbereitung
-#      time: 70
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Präsentation mit Diskussion (ca. 30 bis 45 Minuten) oder schriftliche Ausarbeitung
-#    (ca. 10 Seiten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 43
-#  name: Selected topics in Advanced Algorithms
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden kennen die Grundlagen in einem Spezialgebiet oder einem
-#    Anwendungsgebiet der Advanced Algorithms. Sie können Erlerntes sicher anwenden.
-#  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der Analyse Multi-Modaler,
-#    verteilter Daten, der Modellierung, Simulation, Optimierung von Omics-Experimenten
-#    oder des Maschinellen Lernens.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 4
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 60
-#    - type: Vor- und Nachbereitung V
-#      time: 80
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 80
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 50
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 300
-#  credit_points: 10
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
-# removed in Änderungsordnung 2021
-#- page: 44
-#  name: Special aspects of Advanced Algorithms
-#  organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
-#  responsible: Dozentinnen und Dozenten des Moduls
-#  requirements: Keine
-#  goals: Die Studierenden können wesentliche Begriffe und Ergebnisse eines ausgewählten
-#    Gebietes der Advanced Algorithms anwenden.
-#  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Advanced Algorithms,
-#    beispielsweise in Programmiermethoden für große Datenmengen aus dem Bereich der
-#    Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
-#  teachingunit:
-#    - type: Vorlesung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#    - type: Übung
-#      swstime: 2
-#      attendance: recommended
-#      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-#        ergänzender Literatur
-#
-#        Bearbeitung von Übungsaufgaben'
-#  workload:
-#    - type: Präsenzzeit V
-#      time: 30
-#    - type: Vor- und Nachbereitung V
-#      time: 30
-#    - type: Präsenzzeit Ü
-#      time: 30
-#    - type: Vor- und Nachbereitung Ü
-#      time: 30
-#    - type: Prüfungsvorbereitung und Prüfung
-#      time: 30
-#  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-#    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
-#  language: Englisch
-#  total_work: 150
-#  credit_points: 5
-#  duration: Ein Semester
-#  repeat: Unregelmäßig
-#  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
 - page: 45
   name: Applied Sequence Analysis
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden können Standardprogramme im Bereich der Sequenzanalyse selbstständig
-    benutzen. Sie kennen die verschiedenen Konzepte und sind in der Lage, ausgewählte
-    Systeme zu bedienen und zu programmieren. Sie können neue Workflows konzipieren
-    und die Ergebnisse grafisch aufbereiten.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können Standardprogramme im Bereich der Sequenzanalyse
+    selbstständig benutzen. Sie kennen die verschiedenen Konzepte und sind in
+    der Lage, ausgewählte Systeme zu bedienen und zu programmieren. Sie können
+    neue Workflows konzipieren und die Ergebnisse grafisch aufbereiten.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Implementierungen von verteiltem Rechnen
-
     - Einbinden von Standardprogrammen in Workflows
-
-    - Erstellen und Anwenden von Bioinformatik Workflows in bestehenden Systemen'
+    - Erstellen und Anwenden von Bioinformatik Workflows in bestehenden Systemen
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -1806,37 +1442,44 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 46
   name: Environmental metagenomics
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden können Genomdaten aus Umweltproben sammeln und analysieren.
-    Sie wissen, wie Proben zu entnehmen und zu lagern sind. Sie können die Proben
-    selbst für die Genomanalyse vorbereiten und die gewonnenen Daten interpretieren
-    und präsentieren.
-  content: 'Es werden Themen aus den folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können Genomdaten aus Umweltproben sammeln und analysieren.
+    Sie wissen, wie Proben zu entnehmen und zu lagern sind. Sie können die
+    Proben selbst für die Genomanalyse vorbereiten und die gewonnenen Daten
+    interpretieren und präsentieren.
+  content: |
+    Es werden Themen aus den folgenden Gebieten behandelt:
 
     - Umweltprobenahme
-
     - Aufbereitung der Proben im Labor (z. B. DNA-Extraktion, Molekularbiologie)
-
     - Datenanalyse
-
-    - Präsentation der Ergebnisse'
+    - Präsentation der Ergebnisse
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -1844,37 +1487,45 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 47
   name: Current topics in structural bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden verfügen über praktische Erfahrungen in der Anwendung aktueller
-    Algorithmen zur Analyse biologischer Strukturen. Sie erkennen Stärken und Schwächen
-    verschiedener Herangehensweisen und wenden selbstständig geeignete Algorithmen
-    auf gegebene Analyseprobleme an.
-  content: 'Es werden vertieft Themen aus folgenden Gebieten behandelt:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden verfügen über praktische Erfahrungen in der Anwendung
+    aktueller Algorithmen zur Analyse biologischer Strukturen. Sie erkennen
+    Stärken und Schwächen verschiedener Herangehensweisen und wenden
+    selbstständig geeignete Algorithmen auf gegebene Analyseprobleme an.
+  content: |
+    Es werden vertieft Themen aus folgenden Gebieten behandelt:
 
     - Homologie-Modellierung von Proteinen
-
-    - In-silico-Screening mit anschließender Substanz-Bewertung und -Filtrierung (ADMETox)
-
+    - In-silico-Screening mit anschließender Substanz-Bewertung und -Filtrierung
+      (ADMETox)
     - 3D-Überlagerungen, 3D QSAR, Pharmakophor-Suchen
-
-    - Verwendung von GOLD und Accelrys zum strukturbasierten Liganden-Design'
+    - Verwendung von GOLD und Accelrys zum strukturbasierten Liganden-Design
   teachingunit:
     - type: Praxisseminar
       swstime: 4
       attendance: required
-      activity: Bearbeitung der Aufgaben, Darstellung der Ergebnisse
+      activity: |
+        Bearbeitung der Aufgaben, Darstellung der Ergebnisse
   workload:
     - type: Präsenzzeit
       time: 60
@@ -1882,15 +1533,20 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 20
-  exam: Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca.
-    15 Minuten)
+  exam: |
+    Schriftliche Präsentation (ca. 5 Seiten) oder mündliche Präsentation (ca. 15
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 5
   name: Current research topics in Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1898,20 +1554,24 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden können sich in ein aktuelles Thema anhand von Spezialliteratur
-    selbstständig einarbeiten, es aufbereiten und sich ergänzendes Hintergrundwissen
-    aneignen. Sie sind in der Lage, Sachverhalte in einem Vortrag verständlich zu
-    vermitteln. Sie sind fähig, sich an einer Diskussion über wissenschaftliche Fragen
-    zu beteiligen.
-  content: Es werden anhand von Veröffentlichungen aus renommierten Fachjournalen
-    oder Fachkonferenzen aktuelle Forschungsergebnisse der Bioinformatik analysiert,
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können sich in ein aktuelles Thema anhand von
+    Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich
+    ergänzendes Hintergrundwissen aneignen. Sie sind in der Lage, Sachverhalte
+    in einem Vortrag verständlich zu vermitteln. Sie sind fähig, sich an einer
+    Diskussion über wissenschaftliche Fragen zu beteiligen.
+  content: |
+    Es werden anhand von Veröffentlichungen aus renommierten Fachjournalen oder
+    Fachkonferenzen aktuelle Forschungsergebnisse der Bioinformatik analysiert,
     einordnen und vorgestellt.
   teachingunit:
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: Recherche, Präsentation und Diskussion
+      activity: |
+        Recherche, Präsentation und Diskussion
   workload:
     - type: Präsenzzeit
       time: 30
@@ -1919,15 +1579,19 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Präsentation mit Diskussion (ca. 30–45 Minuten) oder schriftliche Ausarbeitung
-    (ca. 10 Seiten)
+  exam: |
+    Präsentation mit Diskussion (ca. 30–45 Minuten) oder schriftliche
+    Ausarbeitung (ca. 10 Seiten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
 - page: 6
   name: Current research topics in Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1935,20 +1599,25 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden können sich in ein zweites aktuelles Thema anhand von Spezialliteratur
-    selbstständig einarbeiten, es aufbereiten und sich ergänzendes Hintergrundwissen
-    aneignen. Sie sind in der Lage, anspruchsvolle Sachverhalte in einem Vortrag verständlich
-    zu vermitteln. Sie sind fähig, sich an einer Diskussion über wissenschaftliche
-    Fragen zu beteiligen und Lösungsansätze mit entwickeln.
-  content: Es werden anhand von Veröffentlichungen aus renommierten Fachjournalen
-    oder Fachkonferenzen aktuelle Forschungsergebnisse der Bioinformatik analysiert,
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können sich in ein zweites aktuelles Thema anhand von
+    Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich
+    ergänzendes Hintergrundwissen aneignen. Sie sind in der Lage, anspruchsvolle
+    Sachverhalte in einem Vortrag verständlich zu vermitteln. Sie sind fähig,
+    sich an einer Diskussion über wissenschaftliche Fragen zu beteiligen und
+    Lösungsansätze mit entwickeln.
+  content: |
+    Es werden anhand von Veröffentlichungen aus renommierten Fachjournalen oder
+    Fachkonferenzen aktuelle Forschungsergebnisse der Bioinformatik analysiert,
     eingeordnet und vorgestellt.
   teachingunit:
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: Recherche, Präsentation und Diskussion
+      activity: |
+        Recherche, Präsentation und Diskussion
   workload:
     - type: Präsenzzeit
       time: 30
@@ -1956,15 +1625,19 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Präsentation mit Diskussion (ca. 30–45 Minuten) oder schriftliche Ausarbeitung
-    (ca. 10 Seiten)
+  exam: |
+    Präsentation mit Diskussion (ca. 30–45 Minuten) oder schriftliche
+    Ausarbeitung (ca. 10 Seiten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
 - page: 7
   name: Current research topics in Bioinformatics C
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1972,20 +1645,25 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden können sich in ein drittes aktuelles Thema anhand von Spezialliteratur
-    selbstständig einarbeiten, es aufbereiten und sich ergänzendes Hintergrundwissen
-    aneignen. Sie sind in der Lage, auch schwierige Sachverhalte in einem Vortrag
-    verständlich zu vermitteln. Sie sind fähig, sich an einer Diskussion über wissenschaftliche
-    Fragen zu beteiligen und in sachlicher Weise Kritik zu üben.
-  content: Es werden anhand von Veröffentlichungen aus renommierten Fachjournalen
-    oder Fachkonferenzen aktuelle Forschungsergebnisse der Bioinformatik analysiert,
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können sich in ein drittes aktuelles Thema anhand von
+    Spezialliteratur selbstständig einarbeiten, es aufbereiten und sich
+    ergänzendes Hintergrundwissen aneignen. Sie sind in der Lage, auch
+    schwierige Sachverhalte in einem Vortrag verständlich zu vermitteln. Sie
+    sind fähig, sich an einer Diskussion über wissenschaftliche Fragen zu
+    beteiligen und in sachlicher Weise Kritik zu üben.
+  content: |
+    Es werden anhand von Veröffentlichungen aus renommierten Fachjournalen oder
+    Fachkonferenzen aktuelle Forschungsergebnisse der Bioinformatik analysiert,
     eingeordnet und vorgestellt.
   teachingunit:
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: Recherche, Präsentation und Diskussion
+      activity: |
+        Recherche, Präsentation und Diskussion
   workload:
     - type: Präsenzzeit
       time: 30
@@ -1993,15 +1671,19 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Präsentation mit Diskussion (ca. 30–45 Minuten) oder schriftliche Ausarbeitung
-    (ca. 10 Seiten)
+  exam: |
+    Präsentation mit Diskussion (ca. 30–45 Minuten) oder schriftliche
+    Ausarbeitung (ca. 10 Seiten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
 - page: 8
   name: Special aspects of Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2009,27 +1691,28 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen wesentliche Begriffe und Methoden eines ausgewählten
-    Gebietes der Bioinformatik. Sie sind in der Lage, sie auf eine Fragestellung aus
-    den Lebenswissenschaften anzuwenden und die Ergebnisse zu bewerten.
-  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Bioinformatik.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen wesentliche Begriffe und Methoden eines ausgewählten
+    Gebietes der Bioinformatik. Sie sind in der Lage, sie auf eine Fragestellung
+    aus den Lebenswissenschaften anzuwenden und die Ergebnisse zu bewerten.
+  content: |
+    Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Bioinformatik.
     Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2041,15 +1724,21 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 9
   name: Special aspects of Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2057,28 +1746,29 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen wesentliche Begriffe und Methoden eines zweiten ausgewählten
-    Gebietes der Bioinformatik. Sie sind in der Lage, sie auf eine anspruchsvolle
-    Fragestellung aus den Lebenswissenschaften anzuwenden und die Ergebnisse kritisch
-    zu bewerten.
-  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Bioinformatik.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen wesentliche Begriffe und Methoden eines zweiten
+    ausgewählten Gebietes der Bioinformatik. Sie sind in der Lage, sie auf eine
+    anspruchsvolle Fragestellung aus den Lebenswissenschaften anzuwenden und die
+    Ergebnisse kritisch zu bewerten.
+  content: |
+    Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Bioinformatik.
     Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2090,15 +1780,21 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 10
   name: Special aspects of Bioinformatics C
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2106,28 +1802,29 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen wesentliche Begriffe und Methoden eines dritten Gebietes
-    der Bioinformatik. Sie sind in der Lage, sie auf eine schwierige Fragestellung
-    aus den Lebenswissenschaften anzuwenden, die Ergebnisse kritisch zu bewerten und
-    in einen größeren Zusammenhang einzuordnen.
-  content: Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Bioinformatik.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen wesentliche Begriffe und Methoden eines dritten
+    Gebietes der Bioinformatik. Sie sind in der Lage, sie auf eine schwierige
+    Fragestellung aus den Lebenswissenschaften anzuwenden, die Ergebnisse
+    kritisch zu bewerten und in einen größeren Zusammenhang einzuordnen.
+  content: |
+    Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Bioinformatik.
     Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur
-
-        Bearbeitung von Übungsaufgaben'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
+        Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2139,15 +1836,21 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 11
   name: Selected topics in Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2155,42 +1858,39 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen die methodischen Grundlagen in einem ausgewählten
-    Gebiet der Bioinformatik. Sie beherrschen die zugehörigen Verfahren, sind in der
-    Lage, sie auf eine biologische Fragestellung anzuwenden sowie die Ergebnisse zu
-    analysieren.
-  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der Modellierung
-    biologischer Systeme oder des Maschinellen Lernens, oder fortgeschrittene Methoden
-    zur Analyse von Daten aus den Lebenswissenschaften.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen die methodischen Grundlagen in einem ausgewählten
+    Gebiet der Bioinformatik. Sie beherrschen die zugehörigen Verfahren, sind in
+    der Lage, sie auf eine biologische Fragestellung anzuwenden sowie die
+    Ergebnisse zu analysieren.
+  content: |
+    Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der Modellierung
+    biologischer Systeme oder des Maschinellen Lernens, oder fortgeschrittene
+    Methoden zur Analyse von Daten aus den Lebenswissenschaften.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
-        Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung von Übungsaufgaben
-
-        Vortrag'
+        Vortrag
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
-        Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung von Übungsaufgaben
-
-        Vortrag'
+        Vortrag
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
-        Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung von Übungsaufgaben
-
-        Vortrag'
+        Vortrag
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2206,15 +1906,21 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 12
   name: Selected topics in Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -2222,42 +1928,39 @@
     Chemie, Biochemie und Pharmazie sowie Fakultät der Charité – Universitätsmedizin
     Berlin
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen die methodischen Grundlagen in einem zweiten ausgewählten
-    Gebiet der Bioinformatik. Sie beherrschen die zugehörigen Verfahren, sind in der
-    Lage, sie auf eine biologische Fragestellung sicher anzuwenden sowie die Ergebnisse
-    zu analysieren und zu interpretieren.
-  content: Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der Modellierung
-    biologischer Systeme oder des Maschinellen Lernens, oder fortgeschrittene Methoden
-    zur Analyse von Daten aus den Lebenswissenschaften.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen die methodischen Grundlagen in einem zweiten
+    ausgewählten Gebiet der Bioinformatik. Sie beherrschen die zugehörigen
+    Verfahren, sind in der Lage, sie auf eine biologische Fragestellung sicher
+    anzuwenden sowie die Ergebnisse zu analysieren und zu interpretieren.
+  content: |
+    Wechselnde Inhalte, zum Beispiel fortgeschrittene Aspekte der Modellierung
+    biologischer Systeme oder des Maschinellen Lernens, oder fortgeschrittene
+    Methoden zur Analyse von Daten aus den Lebenswissenschaften.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
-        Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung von Übungsaufgaben
-
-        Vortrag'
+        Vortrag
     - type: Übung
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
-        Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung von Übungsaufgaben
-
-        Vortrag'
+        Vortrag
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender
-        Literatur
-
+      activity: |
+        Nachbearbeitung der Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
         Bearbeitung von Übungsaufgaben
-
-        Vortrag'
+        Vortrag
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2273,43 +1976,50 @@
       time: 80
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
-# added in Änderungsordnung 2021
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 13
   name: Methods in Life Sciences
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
     Chemie, Biochemie und Pharmazie
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen ein tieferes Verständnis für moderne molekular-
-    und zellbiologische Methoden. Sie können bereits erlernte mathematische Konzepte
-    auf konkrete biologische Fragestellungen beziehen. Die Studierenden entwickeln
-    ein Verständnis für die Methoden der Datengenerierung und können die Methoden
-    und Daten selbstständig bewerten und vergleichen.
-  content: Aktuelle Entwicklungen in der Molekularbiologie und deren algorithmische
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen ein tieferes Verständnis für moderne molekular-
+    und zellbiologische Methoden. Sie können bereits erlernte mathematische
+    Konzepte auf konkrete biologische Fragestellungen beziehen. Die Studierenden
+    entwickeln ein Verständnis für die Methoden der Datengenerierung und können
+    die Methoden und Daten selbstständig bewerten und vergleichen.
+  content: |
+    Aktuelle Entwicklungen in der Molekularbiologie und deren algorithmische
     Herausforderungen.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Recherche, Präsentation und Diskussion'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Recherche, Präsentation und Diskussion
     - type: Seminar
       swstime: 1
       attendance: required
-      activity: 'Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von
-        ergänzender Literatur
-
-        Recherche, Präsentation und Diskussion'
+      activity: |
+        Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+        Recherche, Präsentation und Diskussion
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -2321,46 +2031,57 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Präsentation mit Diskussion (ca. 15-30 Minuten) oder schriftliche Ausarbeitung
-    (ca. 10 Seiten) oder Klausur (60 Minuten), ggf. ganz oder teilweise im Antwort-Wahl-Verfahren
-    und kann auch in Form einer elektronischen Prüfungsleistung oder mündlichen Prüfung
-    durchgeführt werden.
+  exam: |
+    Präsentation mit Diskussion (ca. 15-30 Minuten) oder schriftliche
+    Ausarbeitung (ca. 10 Seiten) oder Klausur (60 Minuten), ggf. ganz oder
+    teilweise im Antwort-Wahl-Verfahren und kann auch in Form einer
+    elektronischen Prüfungsleistung oder mündlichen Prüfung durchgeführt werden.
   language: Englisch
   total_work: 150
   credit_points: 5
   duration: Ein Semester, nach Absprache als Blockveranstaltung möglich
   repeat: Jedes Wintersemester
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - V-Modul
+    - Profilstudium mit der Ausrichtung Advanced Algorithms
 - page: 14
   name: Human Evolution
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
   responsible: Dozentinnen und Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
-    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage, passende
-    Algorithmen zur Analyse vorhandener Daten auszuwählen und anzuwenden.
-  content: 'Es werden Themen zur molekularen Evolution des Menschen behandelt. Insbesondere
-    liegen die Schwerpunkte in den folgenden Bereichen:
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Evolution
+    des Menschen, insbesondere auf der molekularen Ebene. Sie sind in der Lage,
+    passende Algorithmen zur Analyse vorhandener Daten auszuwählen und
+    anzuwenden.
+  content: |
+    Es werden Themen zur molekularen Evolution des Menschen behandelt.
+    Insbesondere liegen die Schwerpunkte in den folgenden Bereichen:
 
-    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes, Transkriptomes,
-    Phänotyps, kognitiver Fähigkeiten
-
-    - Archaische Menschen, Neolithische Revolution, moderne Menschen, Adaptation,
-    evolutionäre Medizin'
+    - Vergleich des Menschen mit anderen Primaten auf Ebene des Genomes,
+      Transkriptomes, Phänotyps, kognitiver Fähigkeiten
+    - Archaische Menschen, Neolithische Revolution, moderne Menschen,
+      Adaptation, evolutionäre Medizin
   teachingunit:
     - type: Vorlesung
       swstime: 1
       attendance: recommended
-      activity: 'Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten
-        von ergänzender Literatur'
+      activity: |
+        Nachbearbeitung der Inhalte der Vorlesung und selbstständiges Erarbeiten von ergänzender Literatur
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Vortrag und Diskussion'
+      activity: |
+        Vortrag und Diskussion
     - type: Seminar am PC
       swstime: 2
       attendance: required
-      activity: 'Entwicklung eines eigenen Modells, Programmierung, Auswertung, Lösung von Übungsaufgaben, kritische Diskussion von Ergebnissen'
+      activity: |
+        Entwicklung eines eigenen Modells, Programmierung, Auswertung, Lösung von Übungsaufgaben, kritische Diskussion von Ergebnissen
   workload:
     - type: Präsenzzeit V
       time: 15
@@ -2376,11 +2097,18 @@
       time: 70
     - type: Prüfungsvorbereitung und Prüfung
       time: 50
-  exam: Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung
-    durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten)
+  exam: |
+    Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+    Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+    Minuten)
   language: Englisch
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig
-  usability: Masterstudiengang Bioinformatik
+  usability: |
+    Masterstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - V-Modul
+    - Profilstudium mit der Ausrichtung Complex Systems

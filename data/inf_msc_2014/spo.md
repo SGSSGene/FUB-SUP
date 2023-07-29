@@ -9,12 +9,11 @@ Studien- und Prüfungsordnung für den Masterstudiengang Informatik des Fachbere
 
 
 ## Anlagen
-//!TODO Anlagen are missing
 
   - Anlage 1: Modulbeschreibungen
-  - Anlage 2: Exemplarischer Studienverlaufsplan
-  - Anlage 3: Zeugnis (Muster)
-  - Anlage 4: Urkunde (Muster)
+  - Anlage 2: Exemplarischer Studienverlaufsplan (!TODO missing)
+  - Anlage 3: Zeugnis (Muster) (!TODO missing)
+  - Anlage 4: Urkunde (Muster) (!TODO missing)
 
 ## § 1 Geltungsbereich
 1. Diese Ordnung regelt Ziele, Inhalt und Aufbau des

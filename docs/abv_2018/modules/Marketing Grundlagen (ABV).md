@@ -1,26 +1,86 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Marketing Grundlagen (ABV)"&body=There seems to be an error in module "Marketing Grundlagen (ABV)".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Marketing Grundlagen (ABV)
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Marketing Grundlagen (ABV) |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Fachbereich Wirtschaftswissenschaften/Professur für Betriebswirtschaftslehre |
-|**Modulverantwortung**              | Verantwortliche/r des Kompetenzbereichs Organisation und Management |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten kennen und beherrschen grundlegende Analysemethoden, Strategien und Instrumente der marktorientierten Unternehmensführung, die anwendungsbezogen vermittelt werden. Sie analysieren praxisnah und unter Anleitung die Vermarktungsaktivitäten von Unternehmen, reflektieren deren Zusammenhang mit anderen betrieblichen Funktionsbereichen und können ansatzweise eigene Problemlösungen für praxisrelevante Problemstellungen des Marketings entwickeln. |
-|**Inhalte**                         | Die Themenvermittlung geschieht durch einführende Darstellungen sowie die Bearbeitung von praxisorientierten Aufgaben und Fallbeispielen. Beispielhaft werden ausgewählte Themen wie Grundbegriffe des Marketing, Unternehmen und Absatzmärkte, Besonderheiten von Investitionsgütern und Dienstleistungen, Strategische Geschäftsfelder, Strategisches Marketing, Portfolio-, WB- und SWOT-Analysen, Austauschtheorien und Wettbewerbsvorteile, Operatives Marketing, Produkt-, Distributions-, Kommunikations- und Preispolitik, Electronic Marketing bearbeitet. |
-|**Modulprüfung**                    | Schriftliche Ausarbeitungen (ca. 8 Seiten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation und Management) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminar              | 4                         | recommended                        | Gemeinsame Diskussion von Beispielaufgaben und aktuellen Problemstellungen, aktive Nutzung von E- Learning-Modulen |
+[« Layout und Design von Printmedien](Layout und Design von Printmedien.md){class=prev}
+[Nachhaltigkeit erforschen »](Nachhaltigkeit erforschen.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit S                            | 60    |
-| Vor- und Nachbereitung S                 | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Marketing Grundlagen (ABV) </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Fachbereich Wirtschaftswissenschaften/Professur für Betriebswirtschaftslehre</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten kennen und beherrschen grundlegende
+Analysemethoden, Strategien und Instrumente der marktorientierten
+Unternehmensführung, die anwendungsbezogen vermittelt werden. Sie
+analysieren praxisnah und unter Anleitung die Vermarktungsaktivitäten von
+Unternehmen, reflektieren deren Zusammenhang mit anderen betrieblichen
+Funktionsbereichen und können ansatzweise eigene Problemlösungen für
+praxisrelevante Problemstellungen des Marketings entwickeln.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Die Themenvermittlung geschieht durch einführende Darstellungen sowie die
+Bearbeitung von praxisorientierten Aufgaben und Fallbeispielen. Beispielhaft
+werden ausgewählte Themen wie Grundbegriffe des Marketing, Unternehmen und
+Absatzmärkte, Besonderheiten von Investitionsgütern und Dienstleistungen,
+Strategische Geschäftsfelder, Strategisches Marketing, Portfolio-, WB- und
+SWOT-Analysen, Austauschtheorien und Wettbewerbsvorteile, Operatives
+Marketing, Produkt-, Distributions-, Kommunikations- und Preispolitik,
+Electronic Marketing bearbeitet.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Seminar** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Gemeinsame Diskussion von Beispielaufgaben und aktuellen Problemstellungen, aktive Nutzung von E-Learning-Modulen
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit S</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Schriftliche Ausarbeitungen (ca. 8 Seiten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Organisation und
+Management)
+
+
+</td></tr>
+
+</table>

@@ -1,28 +1,95 @@
+---
+tags:
+  - inf_bsc_2023
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Berufsbezogenes Praktikum Informatik"&body=There seems to be an error in module "Berufsbezogenes Praktikum Informatik".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Berufsbezogenes Praktikum Informatik
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Berufsbezogenes Praktikum Informatik |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | der\*die Praktikumsbeauftragte |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden kennen diverse Aufgabenstellungen und Phänomene der informatischen Berufspraxis aus eigener Anschauung. Sie können Kompetenzen aus dem Studium darauf anwenden. Sie erkennen die Relevanz der Studieninhalte zur Bewältigung dieser Aufgaben und Phänomene. Sie haben für einige Studieninhalte weitaus verbesserte praktische Fertigkeiten und können diese Fertigkeiten weitaus besser einschätzen. Die Studierenden können eine Arbeitsstelle auswählen, den Grad ihres Interesses für verschiedene Arten von Aufgaben erkennen und artikulieren und mit einem Arbeitgeber die Arbeitsbedingungen verhandeln. |
-|**Inhalte**                         | Die Studierenden suchen sich selbstständig eine Praktikumsstelle und klären deren Eignung. Sie üben im Rahmen dieser Praktikumsstelle die informatische Arbeit (meist Softwareentwicklung) im Kontext einer Organisation und verfassen einen Praktikumsbericht, in dem sie die Organisation und ihre Tätigkeiten beschreiben, die erreichten Lernerfolge reflektierend diskutieren und das Praktikum insgesamt bewerten. |
-|**Modulprüfung**                    | Keine |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Externes Praktikum   | 17.4                      | required                           | Praktikumsbezogene Tätigkeiten |
+[« Auswirkungen der Informatik](Auswirkungen der Informatik.md){class=prev}
+[Betriebs- und Kommunikationssysteme »](Betriebs- und Kommunikationssysteme.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 15    |
-| Präsenzzeit P                            | 45    |
-| Vor- und Nachbereitung P                 | 30    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Berufsbezogenes Praktikum Informatik </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereich Allgemeine Berufsvorbereitung
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden kennen diverse Aufgabenstellungen und Phänomene der
+informatischen Berufspraxis aus eigener Anschauung. Sie können Kompetenzen
+aus dem Studium darauf anwenden. Sie erkennen die Relevanz der
+Studieninhalte zur Bewältigung dieser Aufgaben und Phänomene. Sie haben für
+einige Studieninhalte weitaus verbesserte praktische Fertigkeiten und können
+diese Fertigkeiten weitaus besser einschätzen.
+
+Die Studierenden können eine Arbeitsstelle auswählen, den Grad ihres
+Interesses für verschiedene Arten von Aufgaben erkennen und artikulieren und
+mit einem Arbeitgeber die Arbeitsbedingungen verhandeln.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Die Studierenden suchen sich selbstständig eine Praktikumsstelle und klären
+deren Eignung. Sie üben im Rahmen dieser Praktikumsstelle die informatische
+Arbeit (meist Softwareentwicklung) im Kontext einer Organisation und
+verfassen einen Praktikumsbericht, in dem sie die Organisation und ihre
+Tätigkeiten beschreiben, die erreichten Lernerfolge reflektierend
+diskutieren und das Praktikum insgesamt bewerten.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Externes Praktikum** <br>260 Stunden <br> verpflichtete Teilnahme</td><td>
+
+Praktikumsbezogene Tätigkeiten
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>15 Stunden</td></tr>
+<tr><td>Präsenzzeit P</td><td>45 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung P</td><td>30 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
+Zusatzqualifikation)
+
+
+</td></tr>
+
+</table>
