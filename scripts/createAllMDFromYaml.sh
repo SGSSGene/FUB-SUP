@@ -4,6 +4,8 @@ path="${1}"
 input="data/${path}"
 output="docs/${path}"
 
+export YQ_TAG=${path}
+
 mkdir -p ${output}/modules
 
 ct=$(yq "(. | length) - 1" ${input}/modules.yaml)

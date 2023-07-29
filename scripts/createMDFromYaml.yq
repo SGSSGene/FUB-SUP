@@ -67,8 +67,12 @@ sort_by(.name)
     , "</table>"
     ] | flatten | join("\n")) as $aufwand
 
-| [  "[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=" + .gh.title + "&body=" + .gh.body + "&labels=bug)"
-    , "{class=open-github-issue}"
+| [   "---"
+    , "tags:"
+    , ("  - " + env.YQ_TAG)
+    , "---"
+    , "[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=" + .gh.title + "&body=" + .gh.body + "&labels=bug)"
+    , "{ class=open-github-issue data-search-exclude}"
     , ""
     , "# " + .name
     , ""
