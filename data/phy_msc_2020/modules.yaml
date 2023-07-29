@@ -2,32 +2,38 @@
   name: Advanced Laboratory Course for Master Students
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben sich komplexere physikalische Fragestellungen erarbeitet,
-    kennen weiterführende experimentelle Methoden der aktuellen physikalischen Forschung
-    zu deren Lösung und können diese anwenden. Sie sind befähigt, sich ein neues Arbeitsgebiet
-    in kurzer Zeit anhand von aktueller Fachliteratur zu erschließen und durch Präsentationen
-    in verständlicher Form weiterzuvermitteln.
-  content: 'Literaturstudium zur Einführung in ein neues Arbeitsgebiet, ausführliche
-    Auseinandersetzung mit physikalischen Fragestellungen, modernen Experimentiermethoden
-    und Messtechniken, Dokumentation der Versuchsdurchführung, kritische Bewertung
-    und Diskussion der Ergebnisse, schriftliche Darstellung von Fragestellungen, Auswertungen
-    und Ergebnissen, Präsentation und Erläuterung von Experimentiermethoden, deren
-    Möglichkeiten und Grenzen. Themenbereiche: Festkörperphysik (Magnetismus, Oberflächenphysik,
-    Supraleitung), Atom- und Molekülphysik, Kernphysik, Biophysik.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben sich komplexere physikalische Fragestellungen
+    erarbeitet, kennen weiterführende experimentelle Methoden der aktuellen
+    physikalischen Forschung zu deren Lösung und können diese anwenden. Sie sind
+    befähigt, sich ein neues Arbeitsgebiet in kurzer Zeit anhand von aktueller
+    Fachliteratur zu erschließen und durch Präsentationen in verständlicher Form
+    weiterzuvermitteln.
+  content: |
+    Literaturstudium zur Einführung in ein neues Arbeitsgebiet, ausführliche
+    Auseinandersetzung mit physikalischen Fragestellungen, modernen
+    Experimentiermethoden und Messtechniken, Dokumentation der
+    Versuchsdurchführung, kritische Bewertung und Diskussion der Ergebnisse,
+    schriftliche Darstellung von Fragestellungen, Auswertungen und Ergebnissen,
+    Präsentation und Erläuterung von Experimentiermethoden, deren Möglichkeiten
+    und Grenzen. Themenbereiche: Festkörperphysik (Magnetismus,
+    Oberflächenphysik, Supraleitung), Atom- und Molekülphysik, Kernphysik,
+    Biophysik.
   teachingunit:
     - type: Praktikum
       swstime: 6
       attendance: required
-      activity: 'Praktische Versuchsdurchführung und Protokollierung
-
-        Vortrag von ca. 20 Minuten, Diskussionsbeteiligung'
+      activity: |
+        Praktische Versuchsdurchführung und Protokollierung
+        Vortrag von ca. 20 Minuten, Diskussionsbeteiligung
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Praktische Versuchsdurchführung und Protokollierung
-
-        Vortrag von ca. 20 Minuten, Diskussionsbeteiligung'
+      activity: |
+        Praktische Versuchsdurchführung und Protokollierung
+        Vortrag von ca. 20 Minuten, Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit P
       time: 90
@@ -37,70 +43,86 @@
       time: 30
     - type: Vor- und Nachbereitung S
       time: 30
-  exam: Keine
+  exam: |
+    Keine
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 11
   name: Selected Topics in Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen vertiefte Kenntnis eines physikalischen Sachverhalts
-    und sind in der Lage, diesen für eine wissenschaftliche Präsentation aufzubereiten
-    und mithilfe eines wissenschaftlichen Vortrags und der Moderation einer wissenschaftlichen
-    Diskussion anderen zu vermitteln. Sie besitzen die Fähigkeit, eine wissenschaftliche
-    Präsentation an die Kenntnisse des Publikums anzupassen. Sie sind in der Lage,
-    die Literatur zu reflektieren und anhand dessen kritische Fragen differenziert
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen vertiefte Kenntnis eines physikalischen
+    Sachverhalts und sind in der Lage, diesen für eine wissenschaftliche
+    Präsentation aufzubereiten und mithilfe eines wissenschaftlichen Vortrags
+    und der Moderation einer wissenschaftlichen Diskussion anderen zu
+    vermitteln. Sie besitzen die Fähigkeit, eine wissenschaftliche Präsentation
+    an die Kenntnisse des Publikums anzupassen. Sie sind in der Lage, die
+    Literatur zu reflektieren und anhand dessen kritische Fragen differenziert
     zu beantworten.
-  content: Unter Anleitung einer Dozentin oder eines Dozenten werden Inhalte zu wechselnden
-    Themengebieten aus aktuellen Fragen und Methoden der modernen Physik von Studierenden
-    anhand von Fachliteratur erarbeitet, präsentiert und diskutiert.
+  content: |
+    Unter Anleitung einer Dozentin oder eines Dozenten werden Inhalte zu
+    wechselnden Themengebieten aus aktuellen Fragen und Methoden der modernen
+    Physik von Studierenden anhand von Fachliteratur erarbeitet, präsentiert und
+    diskutiert.
   teachingunit:
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: Vortrag (etwa 30 Minuten), Diskussionsbeteiligung
+      activity: |
+        Vortrag (etwa 30 Minuten), Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit S
       time: 30
     - type: Vor- und Nachbereitung S
       time: 120
-  exam: Keine
+  exam: |
+    Keine
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 12
   name: Advanced Quantum Mechanics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden vertiefen ihre Kenntnisse der Quantenmechanik. Sie verstehen
-    die Konzepte und Methoden der fortgeschrittenen Quantenmechanik und sind in der
-    Lage, diese sprachlich und mathematisch zu beschreiben und auf grundlegende Probleme
-    der Physik sicher anwenden zu können.
-  content: 'Im Modul werden fortgeschrittene Konzepte der Quantenmechanik vertieft.
-    Der Inhalt umfasst eine Auswahl aus folgenden Themen: Mehrteilchensysteme, Formalismus
-    der 2. Quantisierung, Näherungsmethoden, Bose- und Fermi-Statistik, Feldquantisierung,
-    Korrelationsfunktionen, Relativistische Quantentheorie und Dirac-Gleichung, Streutheorie,
-    aktuelle Fragen und Methoden der Quantentheorie (z. B. Pfadintegral, Quanten-Information).'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden vertiefen ihre Kenntnisse der Quantenmechanik. Sie
+    verstehen die Konzepte und Methoden der fortgeschrittenen Quantenmechanik
+    und sind in der Lage, diese sprachlich und mathematisch zu beschreiben und
+    auf grundlegende Probleme der Physik sicher anwenden zu können.
+  content: |
+    Im Modul werden fortgeschrittene Konzepte der Quantenmechanik vertieft. Der
+    Inhalt umfasst eine Auswahl aus folgenden Themen: Mehrteilchensysteme,
+    Formalismus der 2. Quantisierung, Näherungsmethoden, Bose- und
+    Fermi-Statistik, Feldquantisierung, Korrelationsfunktionen, Relativistische
+    Quantentheorie und Dirac-Gleichung, Streutheorie, aktuelle Fragen und
+    Methoden der Quantentheorie (z. B. Pfadintegral, Quanten-Information).
   teachingunit:
     - type: Wahlpflichtvorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit WV
       time: 60
@@ -112,38 +134,45 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 13
   name: Statistical Physics and Thermodynamics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden sind in der Lage, die grundlegenden Konzepte und Sätze der
-    statistischen Physik sowie Thermodynamik zu benennen und zu beschreiben. Weiterhin
-    sind sie in der Lage, die erworbenen Methodenkenntnisse auf gegebene Probleme
-    zu übertragen und diese zu lösen. Die Studierenden haben außerdem die für den
-    Umgang mit der statistischen Physik und Thermodynamik notwendigen Rechenmethoden
-    erlernt und sind in der Lage, diese anzuwenden.
-  content: Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles,
-    Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik, thermodynamische
-    Potentiale, thermodynamische Prozesse, Phasenübergänge, ideale Quantengase, wechselwirkende
-    Systeme
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden sind in der Lage, die grundlegenden Konzepte und Sätze der
+    statistischen Physik sowie Thermodynamik zu benennen und zu beschreiben.
+    Weiterhin sind sie in der Lage, die erworbenen Methodenkenntnisse auf
+    gegebene Probleme zu übertragen und diese zu lösen. Die Studierenden haben
+    außerdem die für den Umgang mit der statistischen Physik und Thermodynamik
+    notwendigen Rechenmethoden erlernt und sind in der Lage, diese anzuwenden.
+  content: |
+    Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles,
+    Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik,
+    thermodynamische Potentiale, thermodynamische Prozesse, Phasenübergänge,
+    ideale Quantengase, wechselwirkende Systeme
   teachingunit:
     - type: Wahlpflichtvorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit WV
       time: 60
@@ -155,44 +184,53 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 14
   name: Advanced Statistical Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ihre Kenntnisse über die grundlegenden Konzepte und
-    Sätze der statistischen Physik weiter vertieft. Sie können diese benennen, beschreiben
-    und anwenden, die erworbenen Methodenkenntnisse auf gegebene Probleme übertragen
-    und diese lösen. Die Studierenden haben ihre Methodenkenntisse und Rechenmethoden
-    im Bereich der statistischen Physik erweitert und sind nun in der Lage, diese
-    auf komplexere Fragestellungen anzuwenden. Mit den erlernten Methoden sind Studierenden
-    auch in der Lage, mikroskopische physikalische Prozesse/Gesetzmäßigkeiten auf
-    makroskopischer Ebene abzuleiten und zu analysieren.
-  content: 'Eine Auswahl aus den folgenden fortgeschrittenen Themen der Statistischen
-    Physik: Nicht-Gleichgewichts Thermodynamik (Entropieproduktion, Onsager-Relationen),
-    Linear-Response- und Fluktuations-Dissipations-Theorem, Stochastische Prozesse
-    (Markov Prozesse, Mastergleichung, Langevin- und Fokker-Planck-Gleichung), Kinetische
-    Theorie, Phasenübergänge (Landautheorie, Gauss-Fluktuationen, Korrelationsfunktionen,
-    Renormierungsgruppen), Theorie der Flüssigkeiten, Hydrodynamik und Elastizitätslehre,
-    Statistische Quantenmechanik, exakt lösbare Modelle.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ihre Kenntnisse über die grundlegenden Konzepte und
+    Sätze der statistischen Physik weiter vertieft. Sie können diese benennen,
+    beschreiben und anwenden, die erworbenen Methodenkenntnisse auf gegebene
+    Probleme übertragen und diese lösen. Die Studierenden haben ihre
+    Methodenkenntisse und Rechenmethoden im Bereich der statistischen Physik
+    erweitert und sind nun in der Lage, diese auf komplexere Fragestellungen
+    anzuwenden. Mit den erlernten Methoden sind Studierenden auch in der Lage,
+    mikroskopische physikalische Prozesse/Gesetzmäßigkeiten auf makroskopischer
+    Ebene abzuleiten und zu analysieren.
+  content: |
+    Eine Auswahl aus den folgenden fortgeschrittenen Themen der Statistischen
+    Physik: Nicht-Gleichgewichts Thermodynamik (Entropieproduktion,
+    Onsager-Relationen), Linear-Response- und Fluktuations-Dissipations-Theorem,
+    Stochastische Prozesse (Markov Prozesse, Mastergleichung, Langevin- und
+    Fokker-Planck-Gleichung), Kinetische Theorie, Phasenübergänge
+    (Landautheorie, Gauss-Fluktuationen, Korrelationsfunktionen,
+    Renormierungsgruppen), Theorie der Flüssigkeiten, Hydrodynamik und
+    Elastizitätslehre, Statistische Quantenmechanik, exakt lösbare Modelle.
   teachingunit:
     - type: Wahlpflichtvorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit WV
       time: 60
@@ -204,35 +242,43 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 15
   name: Quantum Field Theory and Many-Body Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden verstehen die Konzepte und Methoden der Quantenfeldtheorie
-    mit dem Schwerpunkt Vielteilchentheorie. Sie können diese sprachlich wiedergeben
-    sowie mathematisch darstellen und auf Probleme der Vielteilchenphysik anwenden.
-  content: Greensche Funktionen, diagrammatische Störungstheorie und Feynman-Diagramme,
-    nicht-perturbative Methoden, ausgewählte Anwendungen in der kondensierten Materie
-    oder der relativistischen Feldtheorie
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden verstehen die Konzepte und Methoden der Quantenfeldtheorie
+    mit dem Schwerpunkt Vielteilchentheorie. Sie können diese sprachlich
+    wiedergeben sowie mathematisch darstellen und auf Probleme der
+    Vielteilchenphysik anwenden.
+  content: |
+    Greensche Funktionen, diagrammatische Störungstheorie und Feynman-Diagramme,
+    nicht-perturbative Methoden, ausgewählte Anwendungen in der kondensierten
+    Materie oder der relativistischen Feldtheorie
   teachingunit:
     - type: Wahlpflichtvorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit WV
       time: 60
@@ -244,37 +290,45 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 16
   name: Advanced Solid State Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein detailliertes und kritisches Verständnis einiger
-    Teilgebiete der Festkörperphysik sowie allgemein verwendeter experimenteller Methoden
-    auf dem neuesten Stand des Wissens. Sie können ihr Wissen auf konkrete Probleme
-    anwenden.
-  content: Im Modul werden die grundlegenden Konzepte der Festkörperphysik (Beschreibung
-    der geometrischen Struktur, elektronische und vibronische Zustände, elementare
-    Anregungen, kollektive Phänomene) anhand eines oder mehrerer relevanter Teilgebiete
-    der Festkörperphysik (Halbleiterphysik, Physik der Grenzflächen- und Nanostrukturen,
-    Photonik, Supraleitung, Magnetismus, Ferroelektrizität) vertieft.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein detailliertes und kritisches Verständnis einiger
+    Teilgebiete der Festkörperphysik sowie allgemein verwendeter experimenteller
+    Methoden auf dem neuesten Stand des Wissens. Sie können ihr Wissen auf
+    konkrete Probleme anwenden.
+  content: |
+    Im Modul werden die grundlegenden Konzepte der Festkörperphysik
+    (Beschreibung der geometrischen Struktur, elektronische und vibronische
+    Zustände, elementare Anregungen, kollektive Phänomene) anhand eines oder
+    mehrerer relevanter Teilgebiete der Festkörperphysik (Halbleiterphysik,
+    Physik der Grenzflächen- und Nanostrukturen, Photonik, Supraleitung,
+    Magnetismus, Ferroelektrizität) vertieft.
   teachingunit:
     - type: Wahlpflichtvorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit WV
       time: 60
@@ -286,37 +340,45 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 17
   name: Advanced Atomic and Molecular Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein detailliertes und kritisches Verständnis einiger
-    Teilgebiete der Atom- und Molekülphysik sowie moderner spektroskopischer Methoden.
-    Sie können ihr Wissen auf konkrete Fragestellungen anwenden.
-  content: Im Modul werden die grundlegenden Konzepte der Atom- und Molekülphysik
-    (quantenmechanische Beschreibung von Atomen und Molekülen, die Wechselwirkung
-    von Atomen und Molekülen mit elektromagnetischen Feldern) anhand eines oder mehrerer
-    relevanter Teilgebiete der Atom- und Molekülphysik (z. B. einzelne Atome und Moleküle
-    in Fallen, Spektroskopie atomarer Cluster, Biomoleküle, Einzelmolekülexperimente
-    in kondensierter Phase) vertieft.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein detailliertes und kritisches Verständnis einiger
+    Teilgebiete der Atom- und Molekülphysik sowie moderner spektroskopischer
+    Methoden. Sie können ihr Wissen auf konkrete Fragestellungen anwenden.
+  content: |
+    Im Modul werden die grundlegenden Konzepte der Atom- und Molekülphysik
+    (quantenmechanische Beschreibung von Atomen und Molekülen, die
+    Wechselwirkung von Atomen und Molekülen mit elektromagnetischen Feldern)
+    anhand eines oder mehrerer relevanter Teilgebiete der Atom- und
+    Molekülphysik (z. B. einzelne Atome und Moleküle in Fallen, Spektroskopie
+    atomarer Cluster, Biomoleküle, Einzelmolekülexperimente in kondensierter
+    Phase) vertieft.
   teachingunit:
     - type: Wahlpflichtvorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit WV
       time: 60
@@ -328,42 +390,50 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 18
   name: Advanced Biophysics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden haben ein detailliertes und kritisches Verständnis einiger
-    Teilgebiete der Molekularen Biophysik sowie moderner spektroskopischer Methoden.
-    Sie können ihr Wissen auf konkrete Fragestellungen anwenden.
-  content: 'In dem Modul werden eine Reihe biophysikalischer Konzepte und Methoden
-    vorgestellt bzw. vertieft. Thema ist insbesondere die Anwendung von ausgewählten
-    Methoden der Spektroskopie und Diffraktion auf biologisch relevante Systeme wie
-    Proteine, Nukleinsäure und Membranen. Die besprochenen experimentellen Ansätze
-    umfassen eine Auswahl aus den im folgenden aufgelisteten Methoden: Absorptionsspektroskopie
-    im Sichtbaren, UV und IR; Fluoreszenzspektroskopie; zeitaufgelöste Emissions-
-    und Absorptionsspektroskopie; Spektroskopie mit linear- und zirkular polarisiertem
-    Licht; Schwingungsspektroskopie: Fourier Transform Infrarot, Resonanz-Raman; Röntgen-
-    und Neutronendiffraktion; Magnetische Resonanz- und Röntgenspektroskopie; dynamische
-    Lichtstreuung; Einzelmolekültechniken, optische Pinzetten.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben ein detailliertes und kritisches Verständnis einiger
+    Teilgebiete der Molekularen Biophysik sowie moderner spektroskopischer
+    Methoden. Sie können ihr Wissen auf konkrete Fragestellungen anwenden.
+  content: |
+    In dem Modul werden eine Reihe biophysikalischer Konzepte und Methoden
+    vorgestellt bzw. vertieft. Thema ist insbesondere die Anwendung von
+    ausgewählten Methoden der Spektroskopie und Diffraktion auf biologisch
+    relevante Systeme wie Proteine, Nukleinsäure und Membranen. Die besprochenen
+    experimentellen Ansätze umfassen eine Auswahl aus den im folgenden
+    aufgelisteten Methoden: Absorptionsspektroskopie im Sichtbaren, UV und IR;
+    Fluoreszenzspektroskopie; zeitaufgelöste Emissions- und
+    Absorptionsspektroskopie; Spektroskopie mit linear- und zirkular
+    polarisiertem Licht; Schwingungsspektroskopie: Fourier Transform Infrarot,
+    Resonanz-Raman; Röntgen- und Neutronendiffraktion; Magnetische Resonanz- und
+    Röntgenspektroskopie; dynamische Lichtstreuung; Einzelmolekültechniken,
+    optische Pinzetten.
   teachingunit:
     - type: Wahlpflichtvorlesung
       swstime: 4
-      attendance: 'TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Wahlpflichtvorlesung:
-        Ja'
-      activity: Praktische Versuchsdurchführung und Protokollierung
+      attendance: required
+      activity: |
+        Praktische Versuchsdurchführung und Protokollierung
     - type: Praktikum
       swstime: 4
       attendance: required
-      activity: Praktische Versuchsdurchführung und Protokollierung
+      activity: |
+        Praktische Versuchsdurchführung und Protokollierung
   workload:
     - type: Präsenzzeit WV
       time: 60
@@ -375,37 +445,46 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 19
   name: Theoretical Solid State Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden verstehen die Konzepte und Methoden der Theoretischen Festkörperphysik.
-    Sie können diese sprachlich sowie mathematisch darstellen und auf aktuelle Probleme
-    der Festkörperphysik anwenden.
-  content: Phononen, Elektronen, Theorie der Fermiflüssigkeiten, Elektron-Phonon-Wechselwirkung,
-    Magnetismus, Transporttheorie, ungeordnete Systeme, grundlegende Konzepte zur
-    Beschreibung von Festkörpern und ihrer Anregungen, Anwendungen (z. B. Supraleitung,
-    Magnetismus), quantenfeldtheoretische Methoden zur Beschreibung von Festkörpern
-    (Störungstheorie, Molekularfeldnäherung, Funktionalintegrale), lineare Antwort
-    und Transporteigenschaften, stark korrelierte Systeme, aktuelle Themen
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden verstehen die Konzepte und Methoden der Theoretischen
+    Festkörperphysik. Sie können diese sprachlich sowie mathematisch darstellen
+    und auf aktuelle Probleme der Festkörperphysik anwenden.
+  content: |
+    Phononen, Elektronen, Theorie der Fermiflüssigkeiten,
+    Elektron-Phonon-Wechselwirkung, Magnetismus, Transporttheorie, ungeordnete
+    Systeme, grundlegende Konzepte zur Beschreibung von Festkörpern und ihrer
+    Anregungen, Anwendungen (z. B. Supraleitung, Magnetismus),
+    quantenfeldtheoretische Methoden zur Beschreibung von Festkörpern
+    (Störungstheorie, Molekularfeldnäherung, Funktionalintegrale), lineare
+    Antwort und Transporteigenschaften, stark korrelierte Systeme, aktuelle
+    Themen
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -417,40 +496,47 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 20
   name: Advanced Theoretical Biophysics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzten einen individuellen Schwerpunkt. Sie besitzen einen
-    Überblick über theoretische Methoden, die aktuell in biophysikalischer Forschung
-    eingesetzt werden, sind in der Lage, diese anzuwenden und können Vor- und Nachteile
-    verschiedener Methoden für biologisch relevante Fragestellungen kritisch einschätzen.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Berechnung der Konformationspotenziale
-    von Biomolekülen, klassische, quantenmechanische sowie kombiniert klassisch-quantenmechanische
-    molekulare Modellierungsmethoden, Modellierung biochemischer Reaktionen, elektrostatische
-    Modelle von Biomolekülen, grundlegende Methoden der Bioinformatik.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzten einen individuellen Schwerpunkt. Sie besitzen einen
+    Überblick über theoretische Methoden, die aktuell in biophysikalischer
+    Forschung eingesetzt werden, sind in der Lage, diese anzuwenden und können
+    Vor- und Nachteile verschiedener Methoden für biologisch relevante
+    Fragestellungen kritisch einschätzen.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Berechnung der
+    Konformationspotenziale von Biomolekülen, klassische, quantenmechanische
+    sowie kombiniert klassisch-quantenmechanische molekulare
+    Modellierungsmethoden, Modellierung biochemischer Reaktionen,
+    elektrostatische Modelle von Biomolekülen, grundlegende Methoden der
+    Bioinformatik.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von numerischen Modellierungen und Übungsaufgaben,
-        Protokollierung der Ergebnisse
+      activity: |
+        Erfolgreiche Bearbeitung von numerischen Modellierungen und Übungsaufgaben, Protokollierung der Ergebnisse
     - type: Praktikum (Labor)
       swstime: 2
-      attendance: 'TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Praktikum
-        (Labor): Ja'
-      activity: Erfolgreiche Bearbeitung von numerischen Modellierungen und Übungsaufgaben,
-        Protokollierung der Ergebnisse
+      attendance: required
+      activity: |
+        Erfolgreiche Bearbeitung von numerischen Modellierungen und Übungsaufgaben, Protokollierung der Ergebnisse
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -462,38 +548,46 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Schriftlicher Bericht (ca. 30 Seiten) oder Klausur (90 Minuten) oder mündliche
-    Prüfung (ca. 30 Minuten)
+  exam: |
+    Schriftlicher Bericht (ca. 30 Seiten) oder Klausur (90 Minuten) oder
+    mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 21
   name: Nanophysics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen den gegenwärtigen Stand der Forschung und die zukünftigen
-    Herausforderungen in dem modernen, interdisziplinären Forschungsfeld der Nanophysik.
-    Sie sind in der Lage, experimentelle und theoretische Ergebnisse zu interpretieren
-    und zu beurteilen.
-  content: Die Grundlagen nanophysikalischer Systeme, wichtige Untersuchungsmethoden
-    und Anwendungsmöglichkeiten werden durch exemplarische Beispiele vorgestellt.
-    Dabei kann sich die Veranstaltung an bestimmten Nanosystemen, physikalischen Themenkomplexen
-    oder Untersuchungsmethoden orientieren. Neben Lehrbüchern wird Originalliteratur
-    genutzt, um den gegenwärtigen Stand der Forschung zu diskutieren.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen den gegenwärtigen Stand der Forschung und die
+    zukünftigen Herausforderungen in dem modernen, interdisziplinären
+    Forschungsfeld der Nanophysik. Sie sind in der Lage, experimentelle und
+    theoretische Ergebnisse zu interpretieren und zu beurteilen.
+  content: |
+    Die Grundlagen nanophysikalischer Systeme, wichtige Untersuchungsmethoden
+    und Anwendungsmöglichkeiten werden durch exemplarische Beispiele
+    vorgestellt. Dabei kann sich die Veranstaltung an bestimmten Nanosystemen,
+    physikalischen Themenkomplexen oder Untersuchungsmethoden orientieren. Neben
+    Lehrbüchern wird Originalliteratur genutzt, um den gegenwärtigen Stand der
+    Forschung zu diskutieren.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -503,38 +597,47 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 22
   name: Ultrafast Spectroscopy and Nonlinear Optics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen grundlegende Kenntnisse auf dem Gebiet der Nichtlinearen
-    Optik und der Dynamik elementarer optisch induzierter Prozesse. Sie haben einen
-    Überblick über moderne Methoden der Ultrakurzzeitspektroskopie und der Nichtlinearen
-    Optik sowie deren Anwendung auf spezielle Probleme.
-  content: Grundlagen der Wechselwirkung von Licht und Materie, Wellenpaket-Dynamik,
-    Elektronen-Dynamik und elementare Streuprozesse, kollektive Anregungen in Festkörpern.
-    Experimentelle Methoden der Ultrakurzzeitspektroskopie sowie ausgewählte Anwendungen,
-    z. B. Femtochemie, kohärente Kontrolle, Photoelektronen-Spektroskopie, Attosekundenphysik,
-    Beugungsmethoden, Strukturdynamik.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen grundlegende Kenntnisse auf dem Gebiet der
+    Nichtlinearen Optik und der Dynamik elementarer optisch induzierter
+    Prozesse. Sie haben einen Überblick über moderne Methoden der
+    Ultrakurzzeitspektroskopie und der Nichtlinearen Optik sowie deren Anwendung
+    auf spezielle Probleme.
+  content: |
+    Grundlagen der Wechselwirkung von Licht und Materie, Wellenpaket-Dynamik,
+    Elektronen-Dynamik und elementare Streuprozesse, kollektive Anregungen in
+    Festkörpern. Experimentelle Methoden der Ultrakurzzeitspektroskopie sowie
+    ausgewählte Anwendungen, z. B. Femtochemie, kohärente Kontrolle,
+    Photoelektronen-Spektroskopie, Attosekundenphysik, Beugungsmethoden,
+    Strukturdynamik.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -544,37 +647,46 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 23
   name: Spectroscopy with Synchrotron Radiation
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
-    Überblick über spektroskopische Methoden, die in aktueller experimenteller Forschung
-    mit Synchrotronstrahlung Anwendung finden, und sind in der Lage, deren Vor- und
-    Nachteile für eine gegebene Fragestellung selbstständig abzuschätzen.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Röntgenquellen und
-    Emission intensiver Röntgenstrahlung, physikalische Grundlagen von Nanometeroptik,
-    Nanometer-Technologien, moderne spektroskopische Methoden mit Mikro/Nano-Strukturauflösung
-    wie μ EXAFS/ μ XANES, μ XRF, μ XBIC, orts- und zeitaufgelöste Spektroskopiemethoden.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
+    Überblick über spektroskopische Methoden, die in aktueller experimenteller
+    Forschung mit Synchrotronstrahlung Anwendung finden, und sind in der Lage,
+    deren Vor- und Nachteile für eine gegebene Fragestellung selbstständig
+    abzuschätzen.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Röntgenquellen und
+    Emission intensiver Röntgenstrahlung, physikalische Grundlagen von
+    Nanometeroptik, Nanometer-Technologien, moderne spektroskopische Methoden
+    mit Mikro/Nano-Strukturauflösung wie μ EXAFS/ μ XANES, μ XRF, μ XBIC, orts-
+    und zeitaufgelöste Spektroskopiemethoden.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Praktische Versuchsdurchführung und Protokollierung
+      activity: |
+        Praktische Versuchsdurchführung und Protokollierung
     - type: Praktikum
       swstime: 2
       attendance: required
-      activity: Praktische Versuchsdurchführung und Protokollierung
+      activity: |
+        Praktische Versuchsdurchführung und Protokollierung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -586,40 +698,49 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Schriftlicher Bericht (ca. 30 Seiten) oder Klausur (90 Minuten) oder mündliche
-    Prüfung (ca. 30 Minuten)
+  exam: |
+    Schriftlicher Bericht (ca. 30 Seiten) oder Klausur (90 Minuten) oder
+    mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 24
   name: Photobiophysics and Photosynthesis
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aufgrund ausgewählter Beispiele aktuelle Fragestellungen
-    aus der biophysikalischen Forschung im Bereich der Photobiophysik und der Photosynthese
-    sowie neue Methoden und deren Möglichkeiten. Sie sind befähigt, Ergebnisse hinsichtlich
-    des aktuellen Kenntnisstands zu interpretieren und kritisch zu beurteilen.
-  content: 'Die Umwandlung und Nutzung von Licht in biologischen Systemen ist von
-    grundlegender Bedeutung für das Leben auf der Erde. Themen sind: Überblick über
-    Photosynthese und photosynthetische Organismen; photophysikalische Grundlagen
-    von Lichtabsorption, Fluoreszenzemission und Energietransfer in photosynthetischen
-    Antennensystemen, lichtgetriebene Prozesse in Kofaktor-Protein-Komplexen, ausgewählte
-    Methoden der Photobiophysik, Photosensoren, Signaltransduktion, Protonen- und
-    Elektronentransfer in biologischen Systemen, zeitaufgelöste Spektroskopie.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen aufgrund ausgewählter Beispiele aktuelle
+    Fragestellungen aus der biophysikalischen Forschung im Bereich der
+    Photobiophysik und der Photosynthese sowie neue Methoden und deren
+    Möglichkeiten. Sie sind befähigt, Ergebnisse hinsichtlich des aktuellen
+    Kenntnisstands zu interpretieren und kritisch zu beurteilen.
+  content: |
+    Die Umwandlung und Nutzung von Licht in biologischen Systemen ist von
+    grundlegender Bedeutung für das Leben auf der Erde. Themen sind: Überblick
+    über Photosynthese und photosynthetische Organismen; photophysikalische
+    Grundlagen von Lichtabsorption, Fluoreszenzemission und Energietransfer in
+    photosynthetischen Antennensystemen, lichtgetriebene Prozesse in
+    Kofaktor-Protein-Komplexen, ausgewählte Methoden der Photobiophysik,
+    Photosensoren, Signaltransduktion, Protonen- und Elektronentransfer in
+    biologischen Systemen, zeitaufgelöste Spektroskopie.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Laborversuche, Protokollierung und parallele Diskussion
+      activity: |
+        Laborversuche, Protokollierung und parallele Diskussion
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Laborversuche, Protokollierung und parallele Diskussion
+      activity: |
+        Laborversuche, Protokollierung und parallele Diskussion
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -631,38 +752,46 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 25
   name: Semiconductor Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen ein detailliertes und kritisches Verständnis einiger
-    Teilgebiete der Halbleiterphysik sowie von Aspekten ihrer Anwendung. Sie sind
-    in der Lage, ihr Wissen auf konkrete Fragestellungen anzuwenden.
-  content: Im Modul werden die grundlegenden Konzepte der elektronischen Zustände
-    in Halbleitern und deren Realisierung mit anorganischen oder organischen Materialien,
-    des Ladungsträgertransports in Halbleitern und Kontaktsystemen und des Einflusses
-    von Strukturdimensionen auf Eigenschaften von Halbleitern vertieft. Es wird auf
-    spezielle Aspekte der Anwendung von Halbleitern sowie auf ausgewählte Charakterisierungsmethoden
-    von Halbleiter und Halbleitergrenzflächeneigenschaften eingegangen.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen ein detailliertes und kritisches Verständnis
+    einiger Teilgebiete der Halbleiterphysik sowie von Aspekten ihrer Anwendung.
+    Sie sind in der Lage, ihr Wissen auf konkrete Fragestellungen anzuwenden.
+  content: |
+    Im Modul werden die grundlegenden Konzepte der elektronischen Zustände in
+    Halbleitern und deren Realisierung mit anorganischen oder organischen
+    Materialien, des Ladungsträgertransports in Halbleitern und Kontaktsystemen
+    und des Einflusses von Strukturdimensionen auf Eigenschaften von Halbleitern
+    vertieft. Es wird auf spezielle Aspekte der Anwendung von Halbleitern sowie
+    auf ausgewählte Charakterisierungsmethoden von Halbleiter und
+    Halbleitergrenzflächeneigenschaften eingegangen.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -672,36 +801,44 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 26
   name: General Relativity
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden verstehen die Konzepte und Methoden der Allgemeinen Relativitätstheorie
-    und können diese anwenden. Sie sind in der Lage, die mathematischen Voraussetzungen
-    und physikalischen Annahmen der Allgemeinen Relativitätstheorie wiederzugeben
-    und grundlegende Schlussfolgerungen darzustellen.
-  content: Riemannsche Geometrie, Äquivalenzprinzip, Einstein-Gleichungen, Anwendungen
-    der allgemeinen Relativitätstheorie (Schwarzschildmetrik, Gravitationskollaps
-    und schwarze Löcher, Gravitationswellen), Kosmologie
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden verstehen die Konzepte und Methoden der Allgemeinen
+    Relativitätstheorie und können diese anwenden. Sie sind in der Lage, die
+    mathematischen Voraussetzungen und physikalischen Annahmen der Allgemeinen
+    Relativitätstheorie wiederzugeben und grundlegende Schlussfolgerungen
+    darzustellen.
+  content: |
+    Riemannsche Geometrie, Äquivalenzprinzip, Einstein-Gleichungen, Anwendungen
+    der allgemeinen Relativitätstheorie (Schwarzschildmetrik,
+    Gravitationskollaps und schwarze Löcher, Gravitationswellen), Kosmologie
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -711,56 +848,58 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 27
   name: History of Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden besitzen ein historisches Verständnis für Grundbegriffe
-    und Arbeitsweisen der Physik. Ein solches Verständnis soll insbesondere dazu beitragen,
-    das Bewusstsein für die Veränderlichkeit dieser Grundbegriffe wach zu halten und
-    an historischen Beispielen Perspektiven innovativer Forschung kennen zu lernen.
-    Darüber hinaus haben die Studierenden ein Übersichtswissen über die Entwicklung
-    der Physik von ihren Anfängen bis heute, das an einzelnen Beispielen auch auf
-    technischer Ebene vertieft ist. Ein weiteres Ziel des Moduls ist es, ein Verständnis
-    für die Einbettung physikalischen Forschens in jeweils unterschiedliche kulturelle
-    und gesellschaftliche Zusammenhänge zu erarbeiten. Ein reflektiver Umgang mit
-    Begriffen und Methoden, ein Blick für Entwicklungspotentiale und ein Gespür für
-    die Verknüpfung zwischen physikalischem Wissen und seinen Kontexten gehören zu
-    den wichtigsten Lernzielen.
-  content: '– physikalisches Wissen der Antike: Aristoteles und Archimedes
-
-    - die Entwicklung der Physik in außereuropäischen Kulturen: das Beispiel China
-
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen ein historisches Verständnis für Grundbegriffe und
+    Arbeitsweisen der Physik. Ein solches Verständnis soll insbesondere dazu
+    beitragen, das Bewusstsein für die Veränderlichkeit dieser Grundbegriffe
+    wach zu halten und an historischen Beispielen Perspektiven innovativer
+    Forschung kennen zu lernen. Darüber hinaus haben die Studierenden ein
+    Übersichtswissen über die Entwicklung der Physik von ihren Anfängen bis
+    heute, das an einzelnen Beispielen auch auf technischer Ebene vertieft ist.
+    Ein weiteres Ziel des Moduls ist es, ein Verständnis für die Einbettung
+    physikalischen Forschens in jeweils unterschiedliche kulturelle und
+    gesellschaftliche Zusammenhänge zu erarbeiten. Ein reflektiver Umgang mit
+    Begriffen und Methoden, ein Blick für Entwicklungspotentiale und ein Gespür
+    für die Verknüpfung zwischen physikalischem Wissen und seinen Kontexten
+    gehören zu den wichtigsten Lernzielen.
+  content: |
+    - physikalisches Wissen der Antike: Aristoteles und Archimedes
+    - die Entwicklung der Physik in außereuropäischen Kulturen: das Beispiel
+      China
     - das Erbe der antiken Physik im arabischen und lateinischen Mittelalter
-
     - die wissenschaftliche Revolution der Frühen Neuzeit
-
     - die analytische Tradition des 18. und 19. Jahrhunderts
-
     - die Konsolidierung der klassischen Physik
-
     - Reflexion der Fachkultur unter Berücksichtigung von Genderaspekten
-
-    - die physikalische Revolution des 20. Jahrhunderts'
+    - die physikalische Revolution des 20. Jahrhunderts
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -770,35 +909,43 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 28
   name: Advanced Topics in Theoretical Condensed Matter Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie lernen theoretische
-    Ansätze und Konzepte, die in der aktuellen Forschung zur Festkörpertheorie eingesetzt
-    werden, kennen und sind in der Lage, diese anzuwenden.
-  content: 'Es wird eine Auswahl aus folgenden modernen Themen der Festkörpertheorie
-    behandelt: Phasenübergänge, niederdimensionale und mesoskopische Systeme, korrelierte
-    Elektronensysteme, Festkörper im Nichtgleichgewicht.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie lernen
+    theoretische Ansätze und Konzepte, die in der aktuellen Forschung zur
+    Festkörpertheorie eingesetzt werden, kennen und sind in der Lage, diese
+    anzuwenden.
+  content: |
+    Es wird eine Auswahl aus folgenden modernen Themen der Festkörpertheorie
+    behandelt: Phasenübergänge, niederdimensionale und mesoskopische Systeme,
+    korrelierte Elektronensysteme, Festkörper im Nichtgleichgewicht.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -808,39 +955,48 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 29
   name: Special Topics in Magnetism
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aktuelle Fragestellungen aus der Forschung im Bereich
-    Magnetismus sowie aktuell verwendete Methoden und deren Möglichkeiten und sind
-    befähigt, Ergebnisse hinsichtlich des aktuellen Kenntnisstands zu interpretieren
-    und kritisch zu beurteilen.
-  content: 'Anhand exemplarisch ausgewählter Beispiele werden die Grundlagen und Anwendungen,
-    der aktuelle Forschungsstand sowie die Möglichkeiten und Grenzen moderner experimenteller
-    Methoden im Bereich der Magnetismusforschung aufgezeigt. Behandelte Themen können
-    sein: Magnetische Nanostrukturen, neue magnetische Materialien, Magnetotransportphänomene/Spinelektronik,
-    Magnetisierungsdynamik, magnetische Kopplungsphänomene/magnetische Grenzflächen,
-    Mikromagnetismus/magnetische Domänen, molekularer Magnetismus.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen aktuelle Fragestellungen aus der Forschung im
+    Bereich Magnetismus sowie aktuell verwendete Methoden und deren
+    Möglichkeiten und sind befähigt, Ergebnisse hinsichtlich des aktuellen
+    Kenntnisstands zu interpretieren und kritisch zu beurteilen.
+  content: |
+    Anhand exemplarisch ausgewählter Beispiele werden die Grundlagen und
+    Anwendungen, der aktuelle Forschungsstand sowie die Möglichkeiten und
+    Grenzen moderner experimenteller Methoden im Bereich der
+    Magnetismusforschung aufgezeigt. Behandelte Themen können sein: Magnetische
+    Nanostrukturen, neue magnetische Materialien,
+    Magnetotransportphänomene/Spinelektronik, Magnetisierungsdynamik,
+    magnetische Kopplungsphänomene/magnetische Grenzflächen,
+    Mikromagnetismus/magnetische Domänen, molekularer Magnetismus.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -850,37 +1006,46 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 30
   name: Special Topics in Molecular Physics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aktuelle Fragestellungen in der Molekülphysik und
-    insbesondere die Anwendung moderner Spektroskopietechniken zur Untersuchung molekülphysikalischer
-    Fragestellungen und sind befähigt, Ergebnisse hinsichtlich des aktuellen Kenntnisstands
-    zu interpretieren und kritisch zu beurteilen.
-  content: Im Modul werden anhand von Beispielen ausgewählte moderne Konzepte in der
-    Molekülphysik vertieft vorgestellt. Als spezifische Themen kommen unter anderem
-    Einzelmolekültechniken, Elektronen- und Kernspinresonanz- Spektroskopie, Schwingungsspektroskopie
-    und Ultrakurzzeit-Spektroskopie in Frage.
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen aktuelle Fragestellungen in der Molekülphysik und
+    insbesondere die Anwendung moderner Spektroskopietechniken zur Untersuchung
+    molekülphysikalischer Fragestellungen und sind befähigt, Ergebnisse
+    hinsichtlich des aktuellen Kenntnisstands zu interpretieren und kritisch zu
+    beurteilen.
+  content: |
+    Im Modul werden anhand von Beispielen ausgewählte moderne Konzepte in der
+    Molekülphysik vertieft vorgestellt. Als spezifische Themen kommen unter
+    anderem Einzelmolekültechniken, Elektronen- und Kernspinresonanz-
+    Spektroskopie, Schwingungsspektroskopie und Ultrakurzzeit-Spektroskopie in
+    Frage.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -890,41 +1055,49 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 31
   name: Special Topics in Molecular Biophysics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden kennen aktuelle Fragestellungen aus der Forschung im Bereich
-    der Molekularen Biophysik sowie neue Methoden und deren Möglichkeiten. Sie sind
-    befähigt, Ergebnisse hinsichtlich des aktuellen Kenntnisstands zu interpretieren
-    und kritisch zu beurteilen.
-  content: 'Anhand ausgewählter Beispiele werden die Grundlagen und Anwendungen, der
-    aktuelle Forschungsstand sowie die Möglichkeiten und Grenzen moderner Konzepte
-    und Methoden in der Molekularen Biophysik aufgezeigt. Die angesprochenen Themen
-    orientieren sich an aktuellen biophysikalischen Forschungsschwerpunkten des Fachbereichs
-    und können sein (unter anderen): Fortgeschrittene Ansätze in der Vibrations-,
-    Röntgen- oder Elektronen- Spin-Resonanz-Spektroskopie an Biomolekülen; Biomoleküle
-    an Oberflächen oder in Membranen; Verfolgung der Funktion von Photorezeptoren
-    oder Biokatalysatoren auf atomarer Ebene.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen aktuelle Fragestellungen aus der Forschung im
+    Bereich der Molekularen Biophysik sowie neue Methoden und deren
+    Möglichkeiten. Sie sind befähigt, Ergebnisse hinsichtlich des aktuellen
+    Kenntnisstands zu interpretieren und kritisch zu beurteilen.
+  content: |
+    Anhand ausgewählter Beispiele werden die Grundlagen und Anwendungen, der
+    aktuelle Forschungsstand sowie die Möglichkeiten und Grenzen moderner
+    Konzepte und Methoden in der Molekularen Biophysik aufgezeigt. Die
+    angesprochenen Themen orientieren sich an aktuellen biophysikalischen
+    Forschungsschwerpunkten des Fachbereichs und können sein (unter anderen):
+    Fortgeschrittene Ansätze in der Vibrations-, Röntgen- oder Elektronen-
+    Spin-Resonanz-Spektroskopie an Biomolekülen; Biomoleküle an Oberflächen oder
+    in Membranen; Verfolgung der Funktion von Photorezeptoren oder
+    Biokatalysatoren auf atomarer Ebene.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -934,51 +1107,55 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 32
   name: Advanced Astronomy and Astrophysics
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Das Modul vermittelt im Rahmen von wechselnden, weiterführenden Vorlesungen
-    vertiefte Kenntnisse auf modernen Teilgebieten der Astronomie und Astrophysik.
-    In dem Praktikum werden dazu ergänzend praktische Fertigkeiten bzgl. astronomischer
-    Beobachtungsmethoden bzw. numerische Methoden zu astrophysikalischen Fragestellungen
-    vermittelt.
-  content: '– wechselnde Vorlesungen zu unterschiedlichen Spezialthemen aus der Astronomie
-    und Astrophysik (z. B. Relativistische Astrophysik, Kosmologie, Physik der Sternatmosphären,
-    kosmische Elektrodynamik, ISM, Beobachtungsmethoden der Astronomie, Planetenphysik,
-    Sternaufbau und Sternentwicklung)
-
-    - praktische Aufgaben aus der Astronomie (z. B. Astrometrie, Sternspektroskopie,
-    Entfernungsbestimmung, galaktische Rotation, Beobachtungen mit den zentrumseigenen
-    Teleskopen)
-
-    - numerische Methoden astrophysikalischer Fragestellungen'
+  requirements: |
+    Keine
+  goals: |
+    Das Modul vermittelt im Rahmen von wechselnden, weiterführenden Vorlesungen
+    vertiefte Kenntnisse auf modernen Teilgebieten der Astronomie und
+    Astrophysik. In dem Praktikum werden dazu ergänzend praktische Fertigkeiten
+    bzgl. astronomischer Beobachtungsmethoden bzw. numerische Methoden zu
+    astrophysikalischen Fragestellungen vermittelt.
+  content: |
+    - wechselnde Vorlesungen zu unterschiedlichen Spezialthemen aus der
+      Astronomie und Astrophysik (z. B. Relativistische Astrophysik, Kosmologie,
+      Physik der Sternatmosphären, kosmische Elektrodynamik, ISM,
+      Beobachtungsmethoden der Astronomie, Planetenphysik, Sternaufbau und
+      Sternentwicklung)
+    - praktische Aufgaben aus der Astronomie (z. B. Astrometrie,
+      Sternspektroskopie, Entfernungsbestimmung, galaktische Rotation,
+      Beobachtungen mit den zentrumseigenen Teleskopen)
+    - numerische Methoden astrophysikalischer Fragestellungen
   teachingunit:
     - type: Vorlesung 1
       swstime: 2
-      attendance: 'TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Vorlesung
-        1: Ja'
-      activity: Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
+      attendance: recommended
+      activity: |
+        Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
     - type: Vorlesung 2
       swstime: 2
-      attendance: 'TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Vorlesung
-        2: Ja'
-      activity: Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
+      attendance: recommended
+      activity: |
+        Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
     - type: Laborpraktikum
       swstime: 4
-      attendance: 'TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Laborpraktikum:
-        Ja'
-      activity: Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
+      attendance: required
+      activity: |
+        Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
   workload:
     - type: Präsenzzeit V1
       time: 30
@@ -994,34 +1171,42 @@
       time: 120
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Mündliche Prüfung (ca. 30 Minuten)
+  exam: |
+    Mündliche Prüfung (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 360
   credit_points: 12
   duration: Ein oder zwei Semester
   repeat: Mindestens jedes zweite Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 33
   name: Modern Methods in Theoretical Physics A
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie beherrschen
-    ausgewählte Methoden, die in aktueller theoretischer Forschung Anwendung finden,
-    und sind in der Lage, diese selbstständig anzuwenden.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Gruppentheorie und
-    Symmetrien in der Physik, Dichtefunktionaltheorie, Pfadintegrale, Dichtematrixtheorie,
-    Quantenoptik, Feldtheorie, Gleichgewichts- und Nichtgleichgewichtstheorie.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie beherrschen
+    ausgewählte Methoden, die in aktueller theoretischer Forschung Anwendung
+    finden, und sind in der Lage, diese selbstständig anzuwenden.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Gruppentheorie und
+    Symmetrien in der Physik, Dichtefunktionaltheorie, Pfadintegrale,
+    Dichtematrixtheorie, Quantenoptik, Feldtheorie, Gleichgewichts- und
+    Nichtgleichgewichtstheorie.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1031,36 +1216,44 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 34
   name: Modern Methods in Theoretical Physics B
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie beherrschen
-    ausgewählte Methoden, die in aktueller theoretischer Forschung Anwendung finden.
-    Sie sind in der Lage, selbstständig konkrete Problemstellungen zu analysieren
-    und mit den erlernten Methoden zu lösen.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Gruppentheorie und
-    Symmetrien in der Physik, Dichtefunktionaltheorie, Pfadintegrale, Dichtematrixtheorie,
-    Quantenoptik, Feldtheorie, Gleichgewichts- und Nichtgleichgewichtstheorie.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie beherrschen
+    ausgewählte Methoden, die in aktueller theoretischer Forschung Anwendung
+    finden. Sie sind in der Lage, selbstständig konkrete Problemstellungen zu
+    analysieren und mit den erlernten Methoden zu lösen.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Gruppentheorie und
+    Symmetrien in der Physik, Dichtefunktionaltheorie, Pfadintegrale,
+    Dichtematrixtheorie, Quantenoptik, Feldtheorie, Gleichgewichts- und
+    Nichtgleichgewichtstheorie.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1072,36 +1265,45 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 35
   name: Modern Methods in Theoretical Physics C
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie beherrschen
-    ein breites Spektrum an Methoden, die in aktueller theoretischer Forschung Anwendung
-    finden. Sie sind in der Lage, konkrete Fragestellungen zu analysieren, geeignete
-    Methoden zur Lösung auszuwählen und erfolgreich einzusetzen.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Gruppentheorie und
-    Symmetrien in der Physik, Dichtefunktionaltheorie, Pfadintegrale, Dichtematrixtheorie,
-    Quantenoptik, Feldtheorie, Gleichgewichts- und Nichtgleichgewichtstheorie.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie beherrschen ein
+    breites Spektrum an Methoden, die in aktueller theoretischer Forschung
+    Anwendung finden. Sie sind in der Lage, konkrete Fragestellungen zu
+    analysieren, geeignete Methoden zur Lösung auszuwählen und erfolgreich
+    einzusetzen.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Gruppentheorie und
+    Symmetrien in der Physik, Dichtefunktionaltheorie, Pfadintegrale,
+    Dichtematrixtheorie, Quantenoptik, Feldtheorie, Gleichgewichts- und
+    Nichtgleichgewichtstheorie.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1113,37 +1315,45 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 36
   name: Modern Methods in Experimental Physics A
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
-    Überblick über ausgewählte Methoden, die in aktueller experimenteller Forschung
-    Anwendung finden, und sind in der Lage, deren Vor- und Nachteile für eine gegebene
-    Fragestellung selbstständig abzuschätzen.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Spektroskopische
-    Methoden (optische Spektroskopie, Elektronenspektroskopie, Röntgenspektroskopie,
-    magnetische Resonanzspektroskopie), Beugungsmethoden, abbildende und bildgebende
-    Methoden, Korrelationsmessungen, zeitaufgelöste Methoden, Transportmessungen.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
+    Überblick über ausgewählte Methoden, die in aktueller experimenteller
+    Forschung Anwendung finden, und sind in der Lage, deren Vor- und Nachteile
+    für eine gegebene Fragestellung selbstständig abzuschätzen.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Spektroskopische
+    Methoden (optische Spektroskopie, Elektronenspektroskopie,
+    Röntgenspektroskopie, magnetische Resonanzspektroskopie), Beugungsmethoden,
+    abbildende und bildgebende Methoden, Korrelationsmessungen, zeitaufgelöste
+    Methoden, Transportmessungen.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
     - type: Übung
       swstime: 1
       attendance: recommended
-      activity: Diskussionsbeteiligung
+      activity: |
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1153,38 +1363,46 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 37
   name: Modern Methods in Experimental Physics B
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
-    Überblick über Methoden, die in aktueller experimenteller Forschung Anwendung
-    finden, und sind in der Lage, deren Vor- und Nachteile für eine gegebene Fragestellung
-    selbstständig abzuschätzen. Sie können selbstständig konkrete Problemstellungen
-    analysieren und Messergebnisse interpretieren.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Spektroskopische
-    Methoden (optische Spektroskopie, Elektronenspektroskopie, Röntgenspektroskopie,
-    magnetische Resonanzspektroskopie), Beugungsmethoden, abbildende und bildgebende
-    Methoden, Korrelationsmessungen, zeitaufgelöste Methoden, Transportmessungen.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
+    Überblick über Methoden, die in aktueller experimenteller Forschung
+    Anwendung finden, und sind in der Lage, deren Vor- und Nachteile für eine
+    gegebene Fragestellung selbstständig abzuschätzen. Sie können selbstständig
+    konkrete Problemstellungen analysieren und Messergebnisse interpretieren.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Spektroskopische
+    Methoden (optische Spektroskopie, Elektronenspektroskopie,
+    Röntgenspektroskopie, magnetische Resonanzspektroskopie), Beugungsmethoden,
+    abbildende und bildgebende Methoden, Korrelationsmessungen, zeitaufgelöste
+    Methoden, Transportmessungen.
   teachingunit:
     - type: Vorlesung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 30
@@ -1196,38 +1414,47 @@
       time: 75
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 38
   name: Modern Methods in Experimental Physics C
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
-    breiten Überblick über eine Vielzahl von Methoden, die in aktueller experimenteller
-    Forschung Anwendung finden, und sind in der Lage, deren Vor- und Nachteile für
-    eine gegebene Fragestellung selbstständig abzuschätzen. Sie können selbstständig
-    konkrete Problemstellungen analysieren und Messergebnisse interpretieren.
-  content: 'Es wird eine Auswahl aus folgenden Themen behandelt: Spektroskopische
-    Methoden (optische Spektroskopie, Elektronenspektroskopie, Röntgenspektroskopie,
-    magnetische Resonanzspektroskopie), Beugungsmethoden, abbildende und bildgebende
-    Methoden, Korrelationsmessungen, zeitaufgelöste Methoden, Transportmessungen.'
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden setzen einen individuellen Schwerpunkt. Sie haben einen
+    breiten Überblick über eine Vielzahl von Methoden, die in aktueller
+    experimenteller Forschung Anwendung finden, und sind in der Lage, deren Vor-
+    und Nachteile für eine gegebene Fragestellung selbstständig abzuschätzen.
+    Sie können selbstständig konkrete Problemstellungen analysieren und
+    Messergebnisse interpretieren.
+  content: |
+    Es wird eine Auswahl aus folgenden Themen behandelt: Spektroskopische
+    Methoden (optische Spektroskopie, Elektronenspektroskopie,
+    Röntgenspektroskopie, magnetische Resonanzspektroskopie), Beugungsmethoden,
+    abbildende und bildgebende Methoden, Korrelationsmessungen, zeitaufgelöste
+    Methoden, Transportmessungen.
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
     - type: Übung
       swstime: 2
       attendance: recommended
-      activity: Erfolgreiche Bearbeitung von Übungsaufgaben
+      activity: |
+        Erfolgreiche Bearbeitung von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -1239,53 +1466,56 @@
       time: 90
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+  exam: |
+    Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
     (ca. 15 Seiten)
   language: Englisch (ggf. Deutsch)
   total_work: 300
   credit_points: 10
   duration: Ein Semester
   repeat: Unregelmäßig*
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 39
   name: Scientific Specialization
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: 'Erfolgreiche Absolvierung des Moduls „Advanced Laboratory Course
-    for Master
-
-    Students“ (10 LP) und eines Moduls der theoretischen Physik aus dem Wahlpflichtbereich
-    im Umfang von 10 LP
-
-    sowie weiterer Module des Masterstudiengangs im Umfang von mindestens 25 LP'
-  goals: Eigenständige Einarbeitung in das wissenschaftliche Forschungsgebiet der
-    Masterarbeit. Die Studierenden kennen den aktuellen Stand der Wissenschaft auf
-    diesem Gebiet und sind in der Lage, Vor- und Nachteile verschiedener Herangehensweisen
-    an eine aktuelle Fragestellung abzuwägen und in Diskussionen fundiert zu vertreten.
-    Sie haben die für die Durchführung der Masterarbeit notwendigen fachlichen Spezialkenntnisse.
-  content: Im Modul arbeitet sich der oder die Studierende anhand von Originalliteratur
-    (wissenschaftliche Zeitschriften und Monographien) selbstständig detailliert in
-    ein modernes Forschungsgebiet ein, das von der Betreuerin oder vom Betreuer der
-    Forschungsphase vorgegeben wird. Wert wird hierbei auf den wissenschaftlichen
-    Gehalt, die kritische Bewertung von Literatur, wissenschaftlich korrekte Darstellung
-    und die Regeln guter wissenschaftlicher Praxis gelegt. Ausgehend vom Literaturstudium
-    werden offene Fragestellungen herausgearbeitet und die notwendigen Untersuchungen
-    zu ihrer Beantwortung diskutiert und geplant. Im Seminar wird die Fähigkeit zur
-    fachlichen Präsentation und kritischen Diskussion geübt.
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Advanced Laboratory Course for Master
+    Students“ (10 LP) und eines Moduls der theoretischen Physik aus dem Wahlpflichtbereich im Umfang von 10 LP
+    sowie weiterer Module des Masterstudiengangs im Umfang von mindestens 25 LP
+  goals: |
+    Eigenständige Einarbeitung in das wissenschaftliche Forschungsgebiet der
+    Masterarbeit. Die Studierenden kennen den aktuellen Stand der Wissenschaft
+    auf diesem Gebiet und sind in der Lage, Vor- und Nachteile verschiedener
+    Herangehensweisen an eine aktuelle Fragestellung abzuwägen und in
+    Diskussionen fundiert zu vertreten. Sie haben die für die Durchführung der
+    Masterarbeit notwendigen fachlichen Spezialkenntnisse.
+  content: |
+    Im Modul arbeitet sich der oder die Studierende anhand von Originalliteratur
+    (wissenschaftliche Zeitschriften und Monographien) selbstständig detailliert
+    in ein modernes Forschungsgebiet ein, das von der Betreuerin oder vom
+    Betreuer der Forschungsphase vorgegeben wird. Wert wird hierbei auf den
+    wissenschaftlichen Gehalt, die kritische Bewertung von Literatur,
+    wissenschaftlich korrekte Darstellung und die Regeln guter
+    wissenschaftlicher Praxis gelegt. Ausgehend vom Literaturstudium werden
+    offene Fragestellungen herausgearbeitet und die notwendigen Untersuchungen
+    zu ihrer Beantwortung diskutiert und geplant. Im Seminar wird die Fähigkeit
+    zur fachlichen Präsentation und kritischen Diskussion geübt.
   teachingunit:
     - type: Projektmodul
       swstime: 4
       attendance: required
-      activity: 'Dokumentation und Auswertung von Originalliteratur, Berechnungen
-
-        Diskussionsbeteiligung'
+      activity: |
+        Dokumentation und Auswertung von Originalliteratur, Berechnungen
+        Diskussionsbeteiligung
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'Dokumentation und Auswertung von Originalliteratur, Berechnungen
-
-        Diskussionsbeteiligung'
+      activity: |
+        Dokumentation und Auswertung von Originalliteratur, Berechnungen
+        Diskussionsbeteiligung
   workload:
     - type: Präsenzzeit PM
       time: 60
@@ -1297,51 +1527,54 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 150
-  exam: Wissenschaftlicher Vortrag (ca. 30 Minuten) mit anschließender Diskussion
+  exam: |
+    Wissenschaftlicher Vortrag (ca. 30 Minuten) mit anschließender Diskussion
     (ca. 30 Minuten)
   language: Englisch (ggf. Deutsch)
   total_work: 450
   credit_points: 15
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
 - page: 40
   name: Methodology and Project Planning
   organizer: Freie Universität Berlin/Physik/Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: 'Erfolgreiche Absolvierung des Moduls „Advanced Laboratory Course
-    for Master
-
-    Students“ (10 LP) und eines Moduls der theoretischen Physik aus dem Wahlpflichtbereich
-    im Umfang von 10 LP
-
-    sowie weiterer Module des Masterstudiengangs im Umfang von mindestens 25 LP'
-  goals: Die Studierenden kennen die speziellen physikalischen Methoden und Fertigkeiten,
-    die zur Durchführung der Masterarbeit notwendig sind, und können diese praktisch
-    anwenden. Sie sind in der Lage, ein Forschungsprojekt zu planen, die Planung schriftlich
-    zu präsentieren und zu begründen sowie gegen kritische Nachfragen zu verteidigen.
-  content: Im Modul erlernt die oder der Studierende unter fachkundiger Anleitung
-    ausgewählte theoretische und/oder experimentelle Methoden und Fertigkeiten, die
-    für die Durchführung der Masterarbeit notwendig sind. Besonderer Wert wird hierbei
-    je nach experimenteller oder theoretischer Ausrichtung auf den sicheren und präzisen
-    Umgang mit Messapparaturen, Algorithmen, Programmen und Hilfsmitteln sowie auf
-    die zuverlässige Handhabung der notwendigen Fertigkeiten gelegt. Aufbauend auf
-    der Beherrschung dieser Methoden wird exemplarisch die Planung eines wissenschaftlichen
-    Projekts ausgearbeitet und schriftlich dargestellt.
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Advanced Laboratory Course for Master
+    Students“ (10 LP) und eines Moduls der theoretischen Physik aus dem Wahlpflichtbereich im Umfang von 10 LP
+    sowie weiterer Module des Masterstudiengangs im Umfang von mindestens 25 LP
+  goals: |
+    Die Studierenden kennen die speziellen physikalischen Methoden und
+    Fertigkeiten, die zur Durchführung der Masterarbeit notwendig sind, und
+    können diese praktisch anwenden. Sie sind in der Lage, ein Forschungsprojekt
+    zu planen, die Planung schriftlich zu präsentieren und zu begründen sowie
+    gegen kritische Nachfragen zu verteidigen.
+  content: |
+    Im Modul erlernt die oder der Studierende unter fachkundiger Anleitung
+    ausgewählte theoretische und/oder experimentelle Methoden und Fertigkeiten,
+    die für die Durchführung der Masterarbeit notwendig sind. Besonderer Wert
+    wird hierbei je nach experimenteller oder theoretischer Ausrichtung auf den
+    sicheren und präzisen Umgang mit Messapparaturen, Algorithmen, Programmen
+    und Hilfsmitteln sowie auf die zuverlässige Handhabung der notwendigen
+    Fertigkeiten gelegt. Aufbauend auf der Beherrschung dieser Methoden wird
+    exemplarisch die Planung eines wissenschaftlichen Projekts ausgearbeitet und
+    schriftlich dargestellt.
   teachingunit:
     - type: Projektmodul
       swstime: 4
       attendance: required
-      activity: 'Darstellen eines Projektvorhabens, Diskussionsbeteiligung
-
-        Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten'
+      activity: |
+        Darstellen eines Projektvorhabens, Diskussionsbeteiligung
+        Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten
     - type: Praktikum (experimentell oder theoretisch)
       swstime: 7
       attendance: required
-      activity: 'Darstellen eines Projektvorhabens, Diskussionsbeteiligung
-
-        Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten'
+      activity: |
+        Darstellen eines Projektvorhabens, Diskussionsbeteiligung
+        Durchführung von Versuchen, schriftliche Ausarbeitung von etwa 20 Seiten
   workload:
     - type: Präsenzzeit PM
       time: 60
@@ -1351,11 +1584,13 @@
       time: 105
     - type: Vor- und Nachbereitung P
       time: 105
-  exam: Keine
+  exam: |
+    Keine
   language: Englisch (ggf. Deutsch)
   total_work: 450
   credit_points: 15
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Masterstudiengang Physik
+  usability: |
+    Masterstudiengang Physik
   differentiated: true
