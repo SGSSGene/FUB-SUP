@@ -171,7 +171,7 @@
       time: 15
     - type: betreute Computerübung
       time: 15
-    - type: Selbststudium am
+    - type: Selbststudium am PC
       time: 0
     - type: Vor- und Nachbereitung Ü
       time: 30
@@ -190,6 +190,8 @@
   tags:
     - Fachliche Angebote
     - Chemie
+  modification:
+    - Es felht der geschätzte Arbeitsaufwand für Selbststudium am Rechner
 - page: 14
   name: Quantenmechanische Beschreibung von Atomen und chemischer Bindung
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie

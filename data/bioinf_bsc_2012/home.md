@@ -8,7 +8,3 @@ Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende Abwe
 
 - Anlage 2 der Studienordnung wurde nicht übernommen
 - Anlage 2 und 3 der Prüfungsordnung wurde nicht übernommen
-- Informationen über "Informatik A" und "Informatik B" fehlen:
-  > Für die Module „Informatik A“ und „Informatik B“ wird auf die Studienordnung des Fachbereichs Mathematik und
-  > Informatik der Freien Universität Berlin für den Bachelorstudiengang mit dem Kernfach Informatik, für das 60- und das
-  > 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge verwiesen.

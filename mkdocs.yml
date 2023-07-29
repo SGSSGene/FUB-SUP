@@ -142,23 +142,24 @@ nav:
     - Studien- und Prüfungsordnung: bioinf_bsc_2012/spo.md
     - Modulbeschreibungen:
       - bioinf_bsc_2012/module_explanations.md
-      - bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen.md
       - bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen – Praktikum.md
+      - bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen.md
       - bioinf_bsc_2012/modules/Algorithmische Bioinformatik.md
       - bioinf_bsc_2012/modules/Allgemeine Biologie.md
       - bioinf_bsc_2012/modules/Allgemeine Chemie.md
       - bioinf_bsc_2012/modules/Genetik und Genomforschung.md
       - bioinf_bsc_2012/modules/Informatik A.md
-      - bioinf_bsc_2012/modules/Mathematik für Bioinformatiker II.md
+      - bioinf_bsc_2012/modules/Informatik B.md
       - bioinf_bsc_2012/modules/Mathematik für Bioinformatiker I.md
+      - bioinf_bsc_2012/modules/Mathematik für Bioinformatiker II.md
       - bioinf_bsc_2012/modules/Medizinische Physiologie.md
-      - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie III.md
-      - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie II.md
       - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie I.md
+      - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie II.md
+      - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie III.md
       - bioinf_bsc_2012/modules/Neurobiologie.md
       - bioinf_bsc_2012/modules/Projektmanagement im Softwarebereich.md
-      - bioinf_bsc_2012/modules/Statistik für Biowissenschaften II.md
       - bioinf_bsc_2012/modules/Statistik für Biowissenschaften I.md
+      - bioinf_bsc_2012/modules/Statistik für Biowissenschaften II.md
   - Bioinformatik Msc 2019:
     - bioinf_msc_2019/home.md
     - Studien- und Prüfungsordnung: bioinf_msc_2019/spo.md
@@ -261,10 +262,12 @@ nav:
     - Studien- und Prüfungsordnung: datasci_msc_2019/spo.md
     - Modulbeschreibungen:
       - datasci_msc_2019/module_explanations.md
+      - datasci_msc_2019/modules/Advanced Network Analysis.md
       - datasci_msc_2019/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
       - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in Life Sciences.md
       - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in the Social Sciences.md
       - datasci_msc_2019/modules/Ausgewählte Themen der Data Science Technologies.md
+      - datasci_msc_2019/modules/Big Data Analysis in Bioinformatics.md
       - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science A.md
       - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science B.md
       - datasci_msc_2019/modules/Data Science in the Life Sciences.md
@@ -275,43 +278,65 @@ nav:
       - datasci_msc_2019/modules/Entwicklung von psychologischen Online-Interventionen.md
       - datasci_msc_2019/modules/Ethical Foundations of Data Science.md
       - datasci_msc_2019/modules/Forschungspraxis.md
+      - datasci_msc_2019/modules/Höhere Algorithmik.md
       - datasci_msc_2019/modules/Introduction to Profile Areas.md
+      - datasci_msc_2019/modules/Künstliche Intelligenz.md
       - datasci_msc_2019/modules/Machine Learning for Data Science.md
+      - datasci_msc_2019/modules/Machine Learning in Bioinformatics.md
       - datasci_msc_2019/modules/Mobile Mental Health.md
+      - datasci_msc_2019/modules/Mobilkommunikation.md
+      - datasci_msc_2019/modules/Mustererkennung.md
       - datasci_msc_2019/modules/Natural Language Processing.md
+      - datasci_msc_2019/modules/Netzbasierte Informatinssysteme.md
       - datasci_msc_2019/modules/Neurocognitive Methods and Programming for Data Science.md
       - datasci_msc_2019/modules/Programming for Data Science.md
+      - datasci_msc_2019/modules/Rechnersicherheit.md
       - datasci_msc_2019/modules/Softwareprojekt Data Science.md
       - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in Life Sciences.md
       - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in the Social Sciences.md
       - datasci_msc_2019/modules/Spezielle Aspekte der Data Science Technologies.md
+      - datasci_msc_2019/modules/Spezielle Aspekte der Datenverwaltung.md
       - datasci_msc_2019/modules/Statistics for Data Science.md
+      - datasci_msc_2019/modules/Telematik.md
+      - datasci_msc_2019/modules/Verteilte Systeme.md
   - Data Science Msc 2021:
     - datasci_msc_2021/home.md
     - Studien- und Prüfungsordnung: datasci_msc_2021/spo.md
     - Modulbeschreibungen:
       - datasci_msc_2021/module_explanations.md
-      - datasci_msc_2021/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
       - datasci_msc_2021/modules/Aktuelle Forschungsthemen der Data Science in Life Sciences.md
+      - datasci_msc_2021/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
+      - datasci_msc_2021/modules/Applied Machine Learning in Bioinformatics.md
+      - datasci_msc_2021/modules/Ausgewählte Themen der Data Science in Life Sciences.md
       - datasci_msc_2021/modules/Ausgewählte Themen der Data Science Technologies A.md
       - datasci_msc_2021/modules/Ausgewählte Themen der Data Science Technologies B.md
-      - datasci_msc_2021/modules/Ausgewählte Themen der Data Science in Life Sciences.md
+      - datasci_msc_2021/modules/Big Data Analysis in Bioinformatics.md
       - datasci_msc_2021/modules/Data Science in Life Sciences.md
       - datasci_msc_2021/modules/Datenbanksysteme Data Science.md
       - datasci_msc_2021/modules/Ethical Foundations of Data Science.md
       - datasci_msc_2021/modules/Forschungspraxis.md
+      - datasci_msc_2021/modules/Höhere Algorithmik.md
       - datasci_msc_2021/modules/Interdisziplinäre Zugänge im Rahmen von Data Science A.md
       - datasci_msc_2021/modules/Interdisziplinäre Zugänge im Rahmen von Data Science B.md
       - datasci_msc_2021/modules/Introduction to Profile Areas.md
+      - datasci_msc_2021/modules/Künstliche Intelligenz.md
       - datasci_msc_2021/modules/Machine Learning for Data Science.md
+      - datasci_msc_2021/modules/Machine Learning in Bioinformatics.md
       - datasci_msc_2021/modules/Masterseminar Data Science in Life Sciences.md
       - datasci_msc_2021/modules/Masterseminar der Data Science Technologies.md
+      - datasci_msc_2021/modules/Mobilkommunikation.md
+      - datasci_msc_2021/modules/Mustererkennung.md
+      - datasci_msc_2021/modules/Netzbasierte Informationssysteme.md
       - datasci_msc_2021/modules/Programming for Data Science.md
+      - datasci_msc_2021/modules/Rechnersicherheit.md
       - datasci_msc_2021/modules/Softwareprojekt Data Science A.md
       - datasci_msc_2021/modules/Softwareprojekt Data Science B.md
-      - datasci_msc_2021/modules/Spezielle Aspekte der Data Science Technologies.md
       - datasci_msc_2021/modules/Spezielle Aspekte der Data Science in Life Sciences.md
+      - datasci_msc_2021/modules/Spezielle Aspekte der Data Science Technologies.md
+      - datasci_msc_2021/modules/Spezielle Aspekte der Datenverwaltung.md
       - datasci_msc_2021/modules/Statistics for Data Science.md
+      - datasci_msc_2021/modules/Telematik.md
+      - datasci_msc_2021/modules/Verteilte Systeme.md
   - Informatik Bsc 2014:
     - inf_bsc_2014/home.md
     - Studien- und Prüfungsordnung: inf_bsc_2014/spo.md

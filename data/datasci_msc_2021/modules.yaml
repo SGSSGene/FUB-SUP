@@ -52,6 +52,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 12
   name: Statistics for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -109,6 +111,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: false
+  tags:
+    - Grundlagenbereich
 - page: 13
   name: Machine Learning for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -173,6 +177,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 14
   name: Programming for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -206,6 +212,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 15
   name: Ethical Foundations of Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -250,6 +258,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 16
   name: Forschungspraxis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -285,6 +295,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 17
   name: Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -339,6 +351,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 18
   name: Spezielle Aspekte der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -389,6 +403,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 19
   name: Aktuelle Forschungsthemen der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -439,6 +455,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 20
   name: Ausgewählte Themen der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -491,6 +509,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 21
   name: Masterseminar Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -535,6 +555,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 22
   name: Softwareprojekt Data Science A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -584,12 +606,12 @@
   total_work: 300
   credit_points: 10
   duration: Ein Semester
-  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in
-
-    der vorlesungsfreien Zeit als Blockveranstaltung.'
+  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in der vorlesungsfreien Zeit als Blockveranstaltung.'
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 23
   name: Softwareprojekt Data Science B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -640,12 +662,12 @@
   total_work: 300
   credit_points: 10
   duration: Ein Semester
-  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in
-
-    der vorlesungsfreien Zeit als Blockveranstaltung.'
+  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in der vorlesungsfreien Zeit als Blockveranstaltung.'
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 24
   name: Spezielle Aspekte der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -696,6 +718,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 25
   name: Aktuelle Forschungsthemen der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -747,6 +771,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 26
   name: Ausgewählte Themen der Data Science Technologies A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -799,6 +825,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 27
   name: Ausgewählte Themen der Data Science Technologies B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -851,6 +879,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 28
   name: Datenbanksysteme Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -920,6 +950,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 29
   name: Masterseminar der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -970,6 +1002,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 30
   name: Interdisziplinäre Zugänge im Rahmen von Data Science A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -1015,6 +1049,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 31
   name: Interdisziplinäre Zugänge im Rahmen von Data Science B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -1058,3 +1094,65 @@
   usability: |
       Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
+- page: 31
+  name: Machine Learning in Bioinformatics
+  link: bioinf_msc_2019
+  tags:
+    - Profilbereich
+- page: 31
+  name: Big Data Analysis in Bioinformatics
+  link: bioinf_msc_2019
+  tags:
+    - Profilbereich
+- page: 31
+  name: Applied Machine Learning in Bioinformatics
+  link: bioinf_msc_2019
+  tags:
+    - Profilbereich
+- page: 36
+  name: Verteilte Systeme
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Mobilkommunikation
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Telematik
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Höhere Algorithmik
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Rechnersicherheit
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Mustererkennung
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Netzbasierte Informationssysteme
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Künstliche Intelligenz
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Spezielle Aspekte der Datenverwaltung
+  link: inf_msc_2014
+  tags:
+    - Profilbereich

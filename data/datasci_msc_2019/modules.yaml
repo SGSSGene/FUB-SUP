@@ -54,6 +54,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 12
   name: Statistics for Data Science
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -111,6 +113,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: false
+  tags:
+    - Grundlagenbereich
 - page: 13
   name: Machine Learning for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -168,6 +172,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 14
   name: Programming for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -201,6 +207,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 15
   name: Data Science in the Social Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -264,6 +272,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 16
   name: Ethical Foundations of Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -308,6 +318,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 17
   name: Forschungspraxis
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -345,6 +357,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 18
   name: Neurocognitive Methods and Programming for Data Science
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -408,6 +422,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 19
   name: Cognitive Neuroscience for Data Science A
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -469,6 +485,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 20
   name: Cognitive Neuroscience for Data Science B
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -526,6 +544,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 21
   name: Differentialpsychologische Ansätze in den Data Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/Wissenschaftsbereich
@@ -586,6 +606,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 22
   name: Natural Language Processing
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -645,6 +667,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 23
   name: Einführung in die Psychoinformatik
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -691,6 +715,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 24
   name: Mobile Mental Health
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -736,6 +762,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 25
   name: Entwicklung von psychologischen Online-Interventionen
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -790,6 +818,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 26
   name: Ausgewählte Themen der Data Science in the Social Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -827,6 +857,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 27
   name: Spezielle Aspekte der Data Science in the Social Sciences
   organizer: Freie Universität Berlin/Erziehungswissenschaft und Psychologie/ Psychologie
@@ -864,6 +896,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 28
   name: Data Science in the Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -918,6 +952,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 29
   name: Spezielle Aspekte der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -969,6 +1005,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 30
   name: Ausgewählte Themen der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -1020,6 +1058,8 @@
   usability: |
     Masterstudiengang Data Scienc
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 31
   name: Softwareprojekt Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -1075,6 +1115,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 32
   name: Spezielle Aspekte der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -1126,6 +1168,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 33
   name: Aktuelle Forschungsthemen der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -1177,6 +1221,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 34
   name: Ausgewählte Themen der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/ Informatik
@@ -1229,6 +1275,8 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
 - page: 35
   name: Datenbanksysteme Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1298,3 +1346,67 @@
   usability: |
     Masterstudiengang Data Science
   differentiated: true
+  tags:
+    - Profilbereich
+- page: 36
+  name: Machine Learning in Bioinformatics
+  link: bioinf_msc_2019
+  tags:
+    - Profilbereich
+- page: 36
+  name: Big Data Analysis in Bioinformatics
+  link: bioinf_msc_2019
+  tags:
+    - Profilbereich
+- page: 36
+  name: Advanced Network Analysis
+  link: bioinf_msc_2019
+  tags:
+    - Profilbereich
+  modification:
+    - This course is supposed to have 10LP via DataScience 2019, but in bioinformatic it is only listet with 5LP
+- page: 36
+  name: Verteilte Systeme
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Mobilkommunikation
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Telematik
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Höhere Algorithmik
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Rechnersicherheit
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Mustererkennung
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Netzbasierte Informationssysteme
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Künstliche Intelligenz
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
+- page: 36
+  name: Spezielle Aspekte der Datenverwaltung
+  link: inf_msc_2014
+  tags:
+    - Profilbereich
