@@ -419,10 +419,23 @@ nav:
     - Studien- und Prüfungsordnung: lehrinf_bsc_2014/spo.md
     - Modulebeschreibungen:
       - lehrinf_bsc_2014/module_explanations.md
+      - lehrinf_bsc_2014/modules/Algorithmen, Datensrtukturen  und Datenabstrakionen.md
+      - lehrinf_bsc_2014/modules/Auswirkung der Informatik.md
       - lehrinf_bsc_2014/modules/Betriebs- und Kommunikationssysteme.md
+      - lehrinf_bsc_2014/modules/Datenbanksysteme.md
+      - lehrinf_bsc_2014/modules/Funktionale Programmierung.md
+      - lehrinf_bsc_2014/modules/Gesellschaftliche Aspekte der Informatik.md
+      - lehrinf_bsc_2014/modules/Grundlagen der Technischen Informatik.md
+      - lehrinf_bsc_2014/modules/Grundlagen der Theoretischen Informatik.md
       - lehrinf_bsc_2014/modules/Logik und Diskrete Mathematik für Lehramt.md
       - lehrinf_bsc_2014/modules/Nichtsequentielle und verteilte Programmierung für Lehramt.md
+      - lehrinf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md
+      - lehrinf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnissen.md
       - lehrinf_bsc_2014/modules/Rechnerarchitektur.md
+      - lehrinf_bsc_2014/modules/Softwareprojekt B.md
+      - lehrinf_bsc_2014/modules/Softwaretechnik.md
+      - lehrinf_bsc_2014/modules/Systemverwaltung.md
+      - lehrinf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md
   - Informatik Lehramt Bsc 2015:
     - lehrinf_bsc_2015/home.md
     - Studien- und Prüfungsordnung: lehrinf_bsc_2015/spo.md

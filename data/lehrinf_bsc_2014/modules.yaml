@@ -61,6 +61,8 @@
     Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
     Informatik
   differentiated: true
+  tags:
+    - Pflichtbereich
 - page: 11
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -124,6 +126,40 @@
     und Prüfungsordnung für den Bachelorstudiengang Informatik des Fachbereichs
     Mathematik und Informatik der Freien Universität Berlin verwiesen.
   differentiated: true
+  tags:
+    - Wahlbereich
+  modification:
+    - Es ist unklar ob dies ein Pflicht oder Wahlmodul ist. Da der Pflichteil bereits mit 50LP erfüllt ist, gehe ich davon aus das es ein Wahlmodul ist.
+- page: 11
+  name: Funktionale Programmierung
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Datenbanksysteme
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Grundlagen der Theoretischen Informatik
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Algorithmen, Datensrtukturen  und Datenabstrakionen
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 11
+  name: Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnissen
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
 - page: 12
   name: Nichtsequentielle und verteilte Programmierung für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -216,6 +252,8 @@
     Bachelorstudiengang Informatik für das Lehramt, 60-LP-Modulangebot
     Informatik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 14
   name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -272,3 +310,40 @@
     Prüfungsordnung für den Masterstudiengang Informatik des Fachbereichs
     Mathematik und Informatik der Freien Universität Berlin verwiesen.
   differentiated: true
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Softwaretechnik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Systemverwaltung
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Softwareprojekt B
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Auswirkung der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Gesellschaftliche Aspekte der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Grundlagen der Technischen Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
+- page: 12
+  name: Wissenschaftliches Arbeiten in der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlbereich
