@@ -1,4 +1,4 @@
-#!/usr/bin/env -S yq -r -f
+#!/usr/bin/env -S yq -s -r -f
 def expand(n):
     if length < n then
         . + " " | expand(n)
@@ -25,14 +25,22 @@ def cleanup:
 #    | gsub("(?<c>\n[^-].*)\n-"; "\(.c)\n\n-") # add empty line if listing something
 #    | gsub("(?<c>\n-.*)\n(?<c2>[^-])"; "\(.c)\n\n\(.c2)") # add empty line after list
 #    | gsub("^\n"; "")
-
-
 ;
-
-sort_by(.name)
-| . as $data
+. as $all
+| .[0]
+| sort_by(.name)
 | (env.YQ_MODULE_IDX | tonumber) as $idx
+| . as $data
 | .[$idx]
+| (if has("link") then
+    .
+    | .link as $link
+    | .name as $name
+    | . as $original
+    | $all[$all[-1][$link]] | .[] | select(.name == $name)
+    | .tags = $original.tags
+    | .origin = $link
+    else . end)
 | .name |= cleanup
 | .organizer |= cleanup
 | .responsible |= cleanup
@@ -66,7 +74,17 @@ sort_by(.name)
     , ([.workload[] | "<tr><td>" + .type + "</td><td>" + (.time | tostring) + " Stunden</td></tr>"])
     , "</table>"
     ] | flatten | join("\n")) as $aufwand
-
+| (if has("tags") then
+    (["<tr markdown><td colspan=\"2\">**Bereich**<br>\n\n"
+    , ([.tags[] | "- " + .])
+    , "\n</td></tr>"
+    ] | flatten | join("\n") + "\n")
+    else ""
+    end) as $tagstext
+| (if has("origin") then
+    "<tr markdown><td colspan=\"2\">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in " + .origin + "](../../../" + .origin + "/modules/" + .name + ")</td></tr>"
+    else ""
+    end) as $linktext
 | [   "---"
     , "tags:"
     , ("  - " + env.YQ_TAG)
@@ -81,6 +99,8 @@ sort_by(.name)
     , "<table markdown id=\"moduledesc\">"
     , "<tr markdown class=\"moduledesc_head\"><th colspan=\"2\">" + .name + " </th></tr>"
     , "<tr markdown><td colspan=\"2\">**Organisationseinheit**   <br>" + .organizer     + "</td></tr>"
+    , $linktext
+    , $tagstext
     , "<tr markdown><td colspan=\"2\">**Zugangsvoraussetzungen** <br>\n\n" + .requirements  + "\n\n</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Qualifikationsziele**    <br>\n\n" + .goals         + "\n\n</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Inhalte**                <br>\n\n" + .content       + "\n\n</td></tr>"

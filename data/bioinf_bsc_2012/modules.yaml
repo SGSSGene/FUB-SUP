@@ -1,4 +1,16 @@
 - page: 6
+  name: Informatik A
+  link: inf_30lp_bsc_2017
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Informatik
+- page: 6
+  name: Informatik B
+  link: inf_30lp_bsc_2017
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Informatik
+- page: 6
   name: Algorithmen und Datenstrukturen
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
     für Informatik
@@ -49,6 +61,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Informatik
 - page: 7
   name: Algorithmen und Datenstrukturen – Praktikum
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -89,6 +104,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: false
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Informatik
 - page: 8
   name: Algorithmische Bioinformatik
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -160,6 +178,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Informatik
 - page: 9
   name: Mathematik für Bioinformatiker I
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -222,6 +243,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Mathematik und Statistik
 - page: 10
   name: Mathematik für Bioinformatiker II
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -287,6 +311,9 @@
     Mathematik des Fachbereichs Mathematik und Informatik der Freien Universität
     Berlin verwiesen. Verwendbarkeit: Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Mathematik und Statistik
 - page: 11
   name: Statistik für Biowissenschaften I
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
@@ -344,6 +371,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Mathematik und Statistik
 - page: 12
   name: Statistik für Biowissenschaften II
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
@@ -397,6 +427,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Mathematik und Statistik
 - page: 13
   name: Allgemeine Chemie
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -468,6 +501,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 14
   name: Allgemeine Biologie
   organizer: Freie Universität Berlin/Fachbereich BCP/Institut für Biologie
@@ -516,6 +552,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 15
   name: Molekularbiologie und Biochemie I
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -572,6 +611,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 16
   name: Molekularbiologie und Biochemie II
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -639,6 +681,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 17
   name: Molekularbiologie und Biochemie III
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -699,6 +744,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 18
   name: Genetik und Genomforschung
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -757,6 +805,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 19
   name: Medizinische Physiologie
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin/
@@ -828,6 +879,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 20
   name: Neurobiologie
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -883,6 +937,9 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Biologie/Chemie/Biochemie
 - page: 21
   name: Projektmanagement im Softwarebereich
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -940,3 +997,5 @@
   usability: |
     Bachelorstudiengang Bioinformatik
   differentiated: false
+  tags:
+    - Studienbereiche Allgemeine Berufsvorbereitung

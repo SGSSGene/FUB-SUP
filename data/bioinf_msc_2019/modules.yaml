@@ -59,6 +59,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Grundlagenstudium
 - page: 12
   name: Foundations in Mathematics and Statistics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -120,6 +122,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Grundlagenstudium
 - page: 13
   name: Foundations in Bio-Medicine
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -186,6 +190,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Grundlagenstudium
 - page: 14
   name: Introduction to Focus Areas
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -245,6 +251,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: false
+  tags:
+    - Grundlagenstudium
 - page: 15
   name: Complex Systems in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -319,6 +327,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
 - page: 16
   name: Complex Systems in Biomedical Applications
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -383,6 +393,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - V-Modul
 - page: 17
   name: Ethics and Policy Questions
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik und
@@ -435,6 +448,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
 - page: 18
   name: Research Internship
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -452,7 +467,7 @@
     Aktuelle Forschungsthemen aus dem Bereich der Bioinformatik.
   teachingunit:
     - type: Praktikum
-      swstime: 9
+      swstime: 270h
       attendance: required
       activity: |
         Praktikumsbericht und Abschlussvortrag, Betreuungsgespräch
@@ -471,6 +486,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
 - page: 20
   name: Advanced Network Analysis
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -530,6 +547,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - V-Modul
 - page: 24
   name: Computer-Aided Drug Design
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -583,6 +603,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - Praxismodul
 - page: 25
   name: Current topics in cell-physiology
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -634,6 +657,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - Praxismodul
 - page: 26
   name: Computational Systems Biology
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -676,6 +702,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+    - Praxismodul
 - page: 27
   name: Medical Bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -749,6 +778,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
 - page: 29
   name: Machine Learning in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik und
@@ -816,6 +847,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 30
   name: Big Data Analysis in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -874,6 +908,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 31
   name: Complex Data Analysis in Physiology
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -934,6 +971,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 32
   name: Methodology for clinical trials
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -989,6 +1029,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 33
   name: Advanced Biometrical Methods
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1045,6 +1088,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - V-Modul
 - page: 36
   name: Current topics in medical genomics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1093,6 +1139,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 37
   name: Applied Machine Learning in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -1140,6 +1189,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 38
   name: Advanced Algorithms for Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
@@ -1213,6 +1265,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Advanced Algorithms
 - page: 40
   name: Biodiversity and Evolution
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
@@ -1285,6 +1339,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
 - page: 41
   name: Structural Bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1354,6 +1410,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
 - page: 45
   name: Applied Sequence Analysis
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
@@ -1395,6 +1453,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 46
   name: Environmental metagenomics
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
@@ -1437,6 +1498,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 47
   name: Current topics in structural bioinformatics
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1480,6 +1544,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+    - Praxismodul
 - page: 5
   name: Current research topics in Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1523,6 +1590,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
 - page: 6
   name: Current research topics in Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1567,6 +1636,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
 - page: 7
   name: Current research topics in Bioinformatics C
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1611,6 +1682,8 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
 - page: 8
   name: Special aspects of Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1663,6 +1736,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 9
   name: Special aspects of Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1716,6 +1792,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 10
   name: Special aspects of Bioinformatics C
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1769,6 +1848,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 11
   name: Selected topics in Bioinformatics A
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1836,6 +1918,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 12
   name: Selected topics in Bioinformatics B
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik und
@@ -1903,6 +1988,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Wahlmodul
+    - V-Modul
 - page: 13
   name: Methods in Life Sciences
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie,
@@ -1956,6 +2044,9 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - V-Modul
+    - Profilstudium mit der Ausrichtung Advanced Algorithms
 - page: 14
   name: Human Evolution
   organizer: Freie Universität Berlin/FB Biologie, Chemie, Pharmazie/LE Biologie
@@ -2018,3 +2109,6 @@
   usability: |
     Masterstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - V-Modul
+    - Profilstudium mit der Ausrichtung Complex Systems

@@ -69,6 +69,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Synchronisierungsbereich
+    - Pflichtmodul
 - page: 12
   name: Einführung in die Molekülspektroskopie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
@@ -123,6 +126,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Chemie
 - page: 13
   name: Einführung in die Theoretische Chemie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
@@ -181,6 +187,9 @@
   usability: |
     Masterstudiengang Computational Science
   differentiated: true
+  tags:
+    - Fachliche Angebote
+    - Chemie
 - page: 14
   name: Quantenmechanische Beschreibung von Atomen und chemischer Bindung
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie
@@ -241,6 +250,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Chemie
 - page: 15
   name: Grundlagen der Fernerkundung und digitalen Bildverarbeitung
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -302,6 +314,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Geographische Wissenschaften
 - page: 16
   name: Grundlagen der Hydro- und Klimageographie
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -359,6 +374,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Geographische Wissenschaften
 - page: 17
   name: Grundlagen von geographischen Informationssystemen
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -425,6 +443,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Geographische Wissenschaften
 - page: 18
   name: Synchronisierung Erde
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -503,6 +524,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Geologische Wissenschaften
 - page: 19
   name: Complex Algorithms A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -595,6 +619,10 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Informatik
+    - Bereich Scientific Computing
 - page: 21
   name: Computer Science and Data Structures A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -672,6 +700,10 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Bereich Scientific Computing
+    - Informatik
 - page: 22
   name: Computer Science and Functional Programming A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -745,6 +777,10 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Bereich Scientific Computing
+    - Informatik
 - page: 23
   name: Computer Science and Object-Oriented Programming A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -818,6 +854,10 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Bereich Scientific Computing
+    - Informatik
 - page: 24
   name: Introduction to Numerical Mathematics A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -885,6 +925,11 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Mathematik
+    - Bereich Scientific Computing
+    - Numerik
 - page: 25
   name: Numerics of ODEs and numerical linear algebra A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -958,6 +1003,11 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Mathematik
+    - Bereich Scientific Computing
+    - Numerik
 - page: 26
   name: Numerics of partial differential equations A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1029,6 +1079,11 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Mathematik
+    - Bereich Scientific Computing
+    - Numerik
 - page: 27
   name: Synchronisierung Mathematik
   organizer: Freie Universität Berlin/Physik sowie Mathematik und Informatik
@@ -1102,6 +1157,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Mathematik
 - page: 28
   name: Dynamik der Atmosphäre
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -1158,6 +1216,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Meterologie
 - page: 29
   name: Einführung in die Dynamik der Atmosphäre
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -1200,6 +1261,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Fachliche Angebote
+    - Meterologie
 - page: 30
   name: Grundlagen der Synoptischen Meteorologie
   organizer: Freie Universität Berlin/Geowissenschaften
@@ -1254,6 +1318,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Fachliche Angebote
+    - Meterologie
 - page: 31
   name: Computational Statistical Physics I A
   organizer: Freie Universität Berlin/Physik
@@ -1322,6 +1389,11 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Physik
+    - Bereich Scientific Computing
+    - Statistik
 - page: 32
   name: Computational Statistical Physics II A
   organizer: Freie Universität Berlin/Physik
@@ -1395,6 +1467,11 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: false
+  tags:
+    - Fachliche Angebote
+    - Physik
+    - Bereich Scientific Computing
+    - Statistik
 - page: 33
   name: Einführung in die Quantenmechanik
   organizer: Freie Universität Berlin/Physik
@@ -1455,6 +1532,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Fachliche Angebote
+    - Physik
 - page: 34
   name: Complex Algorithms B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1625,6 +1705,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Informatik
 - page: 37
   name: Computer Science and Functional Programming B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1699,6 +1782,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Informatik
 - page: 38
   name: Computer Science and Object-oriented Programming B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1773,6 +1859,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Informatik
 - page: 39
   name: Introduction to Numerical Mathematics B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1841,6 +1930,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Numeric
 - page: 40
   name: Numerics of ODEs and numerical linear algebra B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1915,6 +2007,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Numeric
 - page: 41
   name: Numerics of partial differential equations B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1987,6 +2082,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Numeric
 - page: 42
   name: Computational Statistical Physics I B
   organizer: Freie Universität Berlin/Physik
@@ -2056,6 +2154,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Statistik
 - page: 43
   name: Computational Statistical Physics II B
   organizer: Freie Universität Berlin/Physik
@@ -2129,6 +2230,9 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Bereich Scientific Computing
+    - Statistik
 - page: 44
   name: Molecular simulation I
   organizer: Freie Universität Berlin/Mathematik und Informatik sowie Physik
@@ -2190,6 +2294,10 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Pflichtbereich
 - page: 45
   name: Forschungsprojekt A
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2231,6 +2339,11 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Geosciences
+    - Wahlpflichtteil
 - page: 46
   name: Forschungsprojekt E
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2272,6 +2385,10 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Wahlpflichtteil
 - page: 47
   name: Forschungsseminar computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2315,6 +2432,12 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Geosciences
+    - Atmospheric Sciences
+    - Wahlpflichtteil
 - page: 48
   name: Markov modeling
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2376,6 +2499,10 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Wahlpflichtteil
 - page: 49
   name: Molecular simulation II
   organizer: Freie Universität Berlin/Mathematik und Informatik sowie Physik
@@ -2438,6 +2565,10 @@
   usability: |
     Masterstudiengang Computational Sciences
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Wahlpflichtteil
 - page: 50
   name: Selected topics in theoretical computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2490,6 +2621,12 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Geosciences
+    - Atmospheric Sciences
+    - Wahlpflichtteil
 - page: 51
   name: Selected topics in applied computational sciences
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2544,6 +2681,88 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Molecular Sciences
+    - Wahlpflichtteil
+- page: 52
+  name: Physik der Erde I
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit:
+  workload:
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 6
+  duration: ""
+  repeat: ""
+  usability: ""
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Geosciences
+    - Pflichtteil
+- page: 52
+  name: Seismik II
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit: []
+  workload: []
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 6
+  duration: "TODO"
+  repeat: "TODO"
+  usability: "TODO"
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Geosciences
+    - Pflichtteil
+- page: 52
+  name: Dynamik der Erde
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit: []
+  workload: []
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 6
+  duration: "TODO"
+  repeat: "TODO"
+  usability: "TODO"
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Geosciences
+    - Wahlpflichtteil
 - page: 52
   name: Forschungsprojekt C
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2585,6 +2804,88 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Geosciences
+    - Wahlpflichtteil
+- page: 52
+  name: Physik der Erde II
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit: []
+  workload: []
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 6
+  duration: "TODO"
+  repeat: "TODO"
+  usability: "TODO"
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Geosciences
+    - Wahlpflichtteil
+- page: 52
+  name: Thermodynamik und kinetik von geologischen Prozessen
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit: []
+  workload: []
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 6
+  duration: "TODO"
+  repeat: "TODO"
+  usability: "TODO"
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Geosciences
+    - Wahlpflichtteil
+- page: 53
+  name: Wetter- und klimadiagnose
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit: []
+  workload: []
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 6
+  duration: "TODO"
+  repeat: "TODO"
+  usability: "TODO"
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Atmospheric Sciences
+    - Pflichtteil
 - page: 53
   name: Forschungsprojekt B
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2626,6 +2927,10 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Atmospheric Sciences
+    - Wahlpflichtteil
 - page: 54
   name: Forschungsprojekt D
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik
@@ -2667,3 +2972,59 @@
   usability: |
     Masterstudiengang Scientific Computing
   differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Atmospheric Sciences
+    - Wahlpflichtteil
+- page: 54
+  name: Klimavariabilität und -modelle
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit: []
+  workload: []
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 8
+  duration: "TODO"
+  repeat: "TODO"
+  usability: "TODO"
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Atmospheric Sciences
+    - Wahlpflichtteil
+- page: 54
+  name: Theoretische Meteorologie I
+  organizer: TODO
+  responsible: TODO
+  requirements: TODO
+  goals: TODO
+  content: |
+    Für dieses Modul wird auf die Studien- und Prüfungsordnung für den
+    Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin
+    verwiesen.
+
+    Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
+  teachingunit: []
+  workload: []
+  exam: TODO
+  language: TODO
+  total_work: 0
+  credit_points: 8
+  duration: "TODO"
+  repeat: "TODO"
+  usability: "TODO"
+  differentiated: true
+  tags:
+    - Spezialisierungsbereich
+    - Atmospheric Sciences
+    - Wahlpflichtteil
