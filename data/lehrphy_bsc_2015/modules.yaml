@@ -2,73 +2,77 @@
   name: Grundlagen der Experimentalphysik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: 'Die Studentinnen und Studenten können die grundlegenden physikalischen Größen
-    benennen und ihre Zusammenhänge im Rahmen der klassischen Physik beschreiben.
-    Sie sind in der Lage, aus einer gegebenen Situation ein physikalisches Modellsystem
-    abzuleiten und dieses zu analysieren: Sie können Systeme klassifizieren und daraus
-    Bewegungsgleichungen ableiten, die Lösungen wichtiger Bewegungsgleichungen interpretieren
-    und anwenden sowie Impuls-, Drehimpuls- und Energieerhaltung beurteilen und die
-    Erhaltungssätze anwenden. Sie können den Begriff Entropie interpretieren und die
-    thermodynamischen Hauptsätze anwenden. Sie können aus einfachen Ladungs- bzw.
-    Stromverteilungen mit verschiedenen Methoden elektrische bzw. magnetische Felder
-    bestimmen. Sie kennen die Felder wichtiger Ladungs- oder Stromgeometrien, können
-    die Maxwell-Gleichungen interpretieren und sie auf Systeme mit ruhenden, bewegten
-    und beschleunigten Ladungen anwenden. Die Studentinnen und Studenten sind in der
-    Lage, physikalische Zusammenhänge auf unterschiedlichem Abstraktionsniveau zu
-    erklären: Sie können Sachverhalte mit anschaulichen Modellvorstellungen erklären
-    und dazu Experimente beschreiben und erklären. Sie können abstrakte mathematische
-    Beschreibungen entwickeln und damit argumentieren und die notwendigen mathematischen
-    Methoden der Vektor-, Differenzial- und Integralrechnung sowie Komplexe Zahlen
-    anwenden. Sie können Eigenschaften und Phänomene der Umwelt und des Alltags auf
-    Erkenntnisse der klassischen Physik zurückführen und sind in der Lage, ausgewählte
-    Themen selbstständig zu vertiefen und diese erklärend vorzutragen.'
-  content: '– Vorlesung 1 und Übung 1: klassische Mechanik (Punktmassen, starrer Körper,
-    Fluide, Schwingungen, Wellen) und Thermodynamik (Gasgesetze, Entropie, Kreisprozesse),
-    Integrierte Veranstaltung 1 (Mathematische Ergänzungen): Vektoren, Komplexe Zahlen,
-    Grundzüge der Differenzial- und Integralrechnung von Funktionen einer Veränderlichen
-    (u. a. Produkt- und Kettenregel, Taylorpolynome und -reihen, Partielle Integration
-    und Substitution)
-
-    - Vorlesung 2 und Übung 2: Relativität (Lorentz-Transformation), Elektrodynamik
-    (Elektrostatik, Magnetostatik, Stromkreise, Induktion, Maxwell-Gleichungen, Dipolstrahlung,
-    Elektromagnetische Wellen) und Optik (Wellenoptik, Polarisation), Integrierte
-    Veranstaltung 2 (Mathematische Ergänzungen): Grundzüge der Differenzial- und Integralrechnung
-    von Funktionen mehrerer Veränderlicher (u. a. Gradient, Potenzial, Divergenz,
-    Rotation, Integralsätze von Gauß und Stokes) FU-Mitteilungen'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können die grundlegenden physikalischen
+    Größen benennen und ihre Zusammenhänge im Rahmen der klassischen Physik
+    beschreiben. Sie sind in der Lage, aus einer gegebenen Situation ein
+    physikalisches Modellsystem abzuleiten und dieses zu analysieren: Sie können
+    Systeme klassifizieren und daraus Bewegungsgleichungen ableiten, die
+    Lösungen wichtiger Bewegungsgleichungen interpretieren und anwenden sowie
+    Impuls-, Drehimpuls- und Energieerhaltung beurteilen und die Erhaltungssätze
+    anwenden. Sie können den Begriff Entropie interpretieren und die
+    thermodynamischen Hauptsätze anwenden. Sie können aus einfachen Ladungs-
+    bzw. Stromverteilungen mit verschiedenen Methoden elektrische bzw.
+    magnetische Felder bestimmen. Sie kennen die Felder wichtiger Ladungs- oder
+    Stromgeometrien, können die Maxwell-Gleichungen interpretieren und sie auf
+    Systeme mit ruhenden, bewegten und beschleunigten Ladungen anwenden. Die
+    Studentinnen und Studenten sind in der Lage, physikalische Zusammenhänge auf
+    unterschiedlichem Abstraktionsniveau zu erklären: Sie können Sachverhalte
+    mit anschaulichen Modellvorstellungen erklären und dazu Experimente
+    beschreiben und erklären. Sie können abstrakte mathematische Beschreibungen
+    entwickeln und damit argumentieren und die notwendigen mathematischen
+    Methoden der Vektor-, Differenzial- und Integralrechnung sowie Komplexe
+    Zahlen anwenden. Sie können Eigenschaften und Phänomene der Umwelt und des
+    Alltags auf Erkenntnisse der klassischen Physik zurückführen und sind in der
+    Lage, ausgewählte Themen selbstständig zu vertiefen und diese erklärend
+    vorzutragen.
+  content: |
+    - Vorlesung 1 und Übung 1: klassische Mechanik (Punktmassen, starrer Körper,
+      Fluide, Schwingungen, Wellen) und Thermodynamik (Gasgesetze, Entropie,
+      Kreisprozesse), Integrierte Veranstaltung 1 (Mathematische Ergänzungen):
+      Vektoren, Komplexe Zahlen, Grundzüge der Differenzial- und Integralrechnung
+      von Funktionen einer Veränderlichen (u. a. Produkt- und Kettenregel,
+      Taylorpolynome und -reihen, Partielle Integration und Substitution)
+    - Vorlesung 2 und Übung 2: Relativität (Lorentz-Transformation),
+      Elektrodynamik (Elektrostatik, Magnetostatik, Stromkreise, Induktion,
+      Maxwell-Gleichungen, Dipolstrahlung, Elektromagnetische Wellen) und Optik
+      (Wellenoptik, Polarisation), Integrierte Veranstaltung 2 (Mathematische
+      Ergänzungen): Grundzüge der Differenzial- und Integralrechnung von
+      Funktionen mehrerer Veränderlicher (u. a. Gradient, Potenzial, Divergenz,
+      Rotation, Integralsätze von Gauß und Stokes)
   teachingunit:
     - type: Vorlesung 1
       swstime: 4
-      attendance: 'TODO: Integrierte Veranstaltungen 1 und 2: ja:: Vorlesung 1: Ja'
-      activity: Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten
-        einer Projektaufgabe
+      attendance: recommended
+      activity: |
+        Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
     - type: Übung 1
       swstime: 2
-      attendance: 'TODO: Integrierte Veranstaltungen 1 und 2: ja:: Übung 1: Ja'
-      activity: Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten
-        einer Projektaufgabe
+      attendance: required
+      activity: |
+        Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
     - type: Integrierte Veranstaltung 1
       swstime: 2
-      attendance: 'TODO: Integrierte Veranstaltungen 1 und 2: ja:: Integrierte Veranstaltung
-        1: Ja'
-      activity: Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten
-        einer Projektaufgabe
+      attendance: required
+      activity: |
+        Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
     - type: Vorlesung 2
       swstime: 4
-      attendance: 'TODO: Integrierte Veranstaltungen 1 und 2: ja:: Vorlesung 2: Ja'
-      activity: Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten
-        einer Projektaufgabe
+      attendance: recommended
+      activity: |
+        Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
     - type: Übung 2
       swstime: 2
-      attendance: 'TODO: Integrierte Veranstaltungen 1 und 2: ja:: Übung 2: Ja'
-      activity: Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten
-        einer Projektaufgabe
+      attendance: required
+      activity: |
+        Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
     - type: Integrierte Veranstaltung 2
       swstime: 2
-      attendance: 'TODO: Integrierte Veranstaltungen 1 und 2: ja:: Integrierte Veranstaltung
-        2: Ja'
-      activity: Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten
-        einer Projektaufgabe
+      attendance: required
+      activity: |
+        Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
   workload:
     - type: Präsenzzeit V1
       time: 60
@@ -96,37 +100,42 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 100
-  exam: Klausur (90 Minuten)
+  exam: |
+    Klausur (90 Minuten)
   language: Deutsch
   total_work: 600
   credit_points: 20
   duration: Zwei Semester
   repeat: Einmal im Studienjahr, Beginn in jedem Wintersemester
-  usability: Physik, Bachelorstudiengang Meteorologie
+  usability: |
+    Physik, Bachelorstudiengang Meteorologie
   differentiated: true
 - page: 11
   name: Physikalische Grundkompetenzen
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten kennen grundlegende Inhalte und Methoden der
-    Physik und können diese auf naturwissenschaftliche Fragestellungen anwenden. Sie
-    kennen Sinn und Zweck des naturwissenschaftlichen Experimentierens und können
-    das Zusammenspiel von Theorie und Experiment erläutern. Insbesondere können sie
-    einfache Experimente zu den Grundlagen der Physik benennen, auswerten und erklären.
-    Die Studentinnen und Studenten können mithilfe physikalischer Modelle das Verhalten
-    von Systemen vorhersagen bzw. deuten und können die Grenzen des verwendeten Modells
-    abschätzen. Außerdem kennen sie zentrale in der Physik übliche Schreibweisen und
-    Konventionen und können diese anwenden.
-  content: Exemplarisch ausgewählte Themen z. B. der Mechanik, Thermodynamik, Elektrodynamik,
-    Optik und/oder Atomphysik
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten kennen grundlegende Inhalte und Methoden der
+    Physik und können diese auf naturwissenschaftliche Fragestellungen anwenden.
+    Sie kennen Sinn und Zweck des naturwissenschaftlichen Experimentierens und
+    können das Zusammenspiel von Theorie und Experiment erläutern. Insbesondere
+    können sie einfache Experimente zu den Grundlagen der Physik benennen,
+    auswerten und erklären. Die Studentinnen und Studenten können mithilfe
+    physikalischer Modelle das Verhalten von Systemen vorhersagen bzw. deuten
+    und können die Grenzen des verwendeten Modells abschätzen. Außerdem kennen
+    sie zentrale in der Physik übliche Schreibweisen und Konventionen und können
+    diese anwenden.
+  content: |
+    Exemplarisch ausgewählte Themen z. B. der Mechanik, Thermodynamik,
+    Elektrodynamik, Optik und/oder Atomphysik
   teachingunit:
     - type: Integrierte Veranstaltung
       swstime: 3
       attendance: required
-      activity: Bearbeiten von Übungsaufgaben, Diskussionsbeteiligung, Konzeption
-        und Durchführung von Experimenten, Präsentation der Ergebnisse, Halten eines
-        Vortrags
+      activity: |
+        Bearbeiten von Übungsaufgaben, Diskussionsbeteiligung, Konzeption und Durchführung von Experimenten, Präsentation der Ergebnisse, Halten eines Vortrags
   workload:
     - type: Präsenzzeit
       time: 45
@@ -134,65 +143,76 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 45
-  exam: Mündliche Prüfung (etwa 20 Minuten) oder Klausur (60 Minuten)
+  exam: |
+    Mündliche Prüfung (etwa 20 Minuten) oder Klausur (60 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Einmal im Studienjahr, Beginn in jedem Wintersemester
-  usability: Bachelorstudiengang Physik für das Lehramt
+  usability: |
+    Bachelorstudiengang Physik für das Lehramt
   differentiated: true
 - page: 12
   name: Einführung in die Struktur der Materie
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Erfolgreiche Absolvierung des Moduls „Grundlagen der Experimentalphysik“
-  goals: 'Die Studentinnen und Studenten können grundlegende Erkenntnisse und Besonderheiten
-    der Quantenmechanik benennen: Sie kennen die statistische Interpretation der Wellenfunktion
-    und ihren Zusammenhang mit der Schrödinger-Gleichung sowie die Eigenschaften des
-    quantenmechanischen Messprozesses. Sie können wichtige historisch bedeutende Experimente
-    für diese Erkenntnisse benennen und klassifizieren: Sie können diese Experimente
-    und ihre Fragestellung beschreiben und erklären und sie in den Erkenntniskontext
-    einordnen. Sie sind in der Lage, aus einer gegebenen Situation ein physikalisches
-    Modellsystem abzuleiten und dieses zu analysieren: Sie können die Notwendigkeit
-    einer quantenmechanischen Betrachtung beurteilen, für einfache Modellsysteme die
-    Schrödinger-Gleichung aufstellen und die Lösungen interpretieren. Sie können diese
-    Lösungen auf Bausteine der Materie anwenden, klassische und quantenmechanische
-    Phänomene und Methoden unterscheiden und vergleichen. Sie sind in der Lage, physikalische
-    Zusammenhänge auf unterschiedlichem Abstraktionsniveau zu erklären: Sie können
-    Sachverhalte mit anschaulichen Modellvorstellungen erklären und daraus abstrakte
-    quantenmechanische Beschreibungen ableiten und damit argumentieren sowie dazu
-    Experimente beschreiben und erklären. Sie können Eigenschaften und Phänomene der
-    Umwelt und der Materie auf Erkenntnisse der Quantenmechanik zurückführen und sind
-    in der Lage, ausgewählte Themen selbstständig zu vertiefen und diese erklärend
-    vorzutragen.'
-  content: '– Quantenmechanisches Weltbild (Vorlesung 1 und Übung 1): Historischer
-    Erkenntnisweg anhand ausgewählter Experimente (wie z. B. Schwarzer Körper, Fotoeffekt,
-    Franck-Hertz-Versuch, Doppelspaltversuch, H-Spektrum, Stern-Gerlach-Experiment),
-    Messprozess, stat. Interpretation, Unschärferelation, Schrödinger-Gleichung und
-    Materiewellen (Eigenschaften von Materiewellen, Energiequantisierung)
-
-    - Struktur der Materie (Vorlesung 2 und Übung 2): Grundlagen der Quantenmechanik
-    (Lösung der Schrödinger- Gleichung für ausgewählte Modellpotenziale); Anwendung
-    auf Kerne, Atome, Moleküle, Festkörper'
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Grundlagen der Experimentalphysik“
+  goals: |
+    Die Studentinnen und Studenten können grundlegende Erkenntnisse und
+    Besonderheiten der Quantenmechanik benennen: Sie kennen die statistische
+    Interpretation der Wellenfunktion und ihren Zusammenhang mit der
+    Schrödinger-Gleichung sowie die Eigenschaften des quantenmechanischen
+    Messprozesses. Sie können wichtige historisch bedeutende Experimente für
+    diese Erkenntnisse benennen und klassifizieren: Sie können diese Experimente
+    und ihre Fragestellung beschreiben und erklären und sie in den
+    Erkenntniskontext einordnen. Sie sind in der Lage, aus einer gegebenen
+    Situation ein physikalisches Modellsystem abzuleiten und dieses zu
+    analysieren: Sie können die Notwendigkeit einer quantenmechanischen
+    Betrachtung beurteilen, für einfache Modellsysteme die Schrödinger-Gleichung
+    aufstellen und die Lösungen interpretieren. Sie können diese Lösungen auf
+    Bausteine der Materie anwenden, klassische und quantenmechanische Phänomene
+    und Methoden unterscheiden und vergleichen. Sie sind in der Lage,
+    physikalische Zusammenhänge auf unterschiedlichem Abstraktionsniveau zu
+    erklären: Sie können Sachverhalte mit anschaulichen Modellvorstellungen
+    erklären und daraus abstrakte quantenmechanische Beschreibungen ableiten und
+    damit argumentieren sowie dazu Experimente beschreiben und erklären. Sie
+    können Eigenschaften und Phänomene der Umwelt und der Materie auf
+    Erkenntnisse der Quantenmechanik zurückführen und sind in der Lage,
+    ausgewählte Themen selbstständig zu vertiefen und diese erklärend
+    vorzutragen.
+  content: |
+    - Quantenmechanisches Weltbild (Vorlesung 1 und Übung 1): Historischer
+      Erkenntnisweg anhand ausgewählter Experimente (wie z. B. Schwarzer Körper,
+      Fotoeffekt, Franck-Hertz-Versuch, Doppelspaltversuch, H-Spektrum,
+      Stern-Gerlach-Experiment), Messprozess, stat. Interpretation,
+      Unschärferelation, Schrödinger-Gleichung und Materiewellen (Eigenschaften
+      von Materiewellen, Energiequantisierung)
+    - Struktur der Materie (Vorlesung 2 und Übung 2): Grundlagen der
+      Quantenmechanik (Lösung der Schrödinger- Gleichung für ausgewählte
+      Modellpotenziale); Anwendung auf Kerne, Atome, Moleküle, Festkörper
   teachingunit:
     - type: Integrierte Veranstaltung 1
       swstime: 2
-      attendance: 'TODO: Übung 2: Teilnahme wird empfohlen:: Integrierte Veranstaltung
-        1: Ja'
-      activity: Bearbeiten von Übungsaufgaben, Präsentationen
+      attendance: required
+      activity: |
+        Bearbeiten von Übungsaufgaben, Präsentationen
     - type: Übung 1
       swstime: 1
-      attendance: 'TODO: Übung 2: Teilnahme wird empfohlen:: Übung 1: Ja'
-      activity: Bearbeiten von Übungsaufgaben, Präsentationen
+      attendance: required
+      activity: |
+        Bearbeiten von Übungsaufgaben, Präsentationen
     - type: Vorlesung 2
       swstime: 2
-      attendance: 'TODO: Übung 2: Teilnahme wird empfohlen:: Vorlesung 2: Ja'
-      activity: Bearbeiten von Übungsaufgaben, Präsentationen
+      attendance: recommended
+      activity: |
+        Bearbeiten von Übungsaufgaben, Präsentationen
     - type: Übung 2
       swstime: 1
       attendance: recommended
-      activity: Bearbeiten von Übungsaufgaben, Präsentationen
+      activity: |
+        Bearbeiten von Übungsaufgaben, Präsentationen
   workload:
     - type: Präsenzzeit IV1
       time: 30
@@ -212,118 +232,135 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Mündliche Prüfung (etwa 30 Minuten)
+  exam: |
+    Mündliche Prüfung (etwa 30 Minuten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Zwei Semester
   repeat: Einmal im Studienjahr, Beginn in jedem Sommersemester
-  usability: Physik
+  usability: |
+    Physik
   differentiated: true
 - page: 13
   name: Physikalisches Grundpraktikum 1
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten besitzen physikalische Grundkenntnisse und
-    können diese auf konkrete naturwissenschaftliche Fragestellungen anwenden. Sie
-    können einfache experimentelle Aufgaben im Fach Physik unter Anwendung naturwissenschaftlicher
-    Arbeitsweisen lösen und beherrschen die Dokumentation und Auswertung von Experimenten.
-    Sie können Ergebnisse eines wissenschaftlichen Experiments bewerten und mit Messgeräten
-    sachgerecht umgehen.
-  content: Konzeption und Durchführung von Experimenten, Messmethodik, Messtechnik,
-    statistische Auswertemethoden (Fehlerrechnung), kritische Bewertung und Diskussion
-    der Ergebnisse, Dokumentation der Versuchsdurchführung, schriftliche Darstellung
-    von Thema, Auswertungen und Ergebnissen (Bericht). Themenbereiche vornehmlich
-    aus der Mechanik, Thermodynamik, Atom- und Kernphysik
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten besitzen physikalische Grundkenntnisse und
+    können diese auf konkrete naturwissenschaftliche Fragestellungen anwenden.
+    Sie können einfache experimentelle Aufgaben im Fach Physik unter Anwendung
+    naturwissenschaftlicher Arbeitsweisen lösen und beherrschen die
+    Dokumentation und Auswertung von Experimenten. Sie können Ergebnisse eines
+    wissenschaftlichen Experiments bewerten und mit Messgeräten sachgerecht
+    umgehen.
+  content: |
+    Konzeption und Durchführung von Experimenten, Messmethodik, Messtechnik,
+    statistische Auswertemethoden (Fehlerrechnung), kritische Bewertung und
+    Diskussion der Ergebnisse, Dokumentation der Versuchsdurchführung,
+    schriftliche Darstellung von Thema, Auswertungen und Ergebnissen (Bericht).
+    Themenbereiche vornehmlich aus der Mechanik, Thermodynamik, Atom- und
+    Kernphysik
   teachingunit:
     - type: Praktikum
       swstime: 3
       attendance: required
-      activity: Praktische Versuchsdurchführung und schriftliche Auswertung
+      activity: |
+        Praktische Versuchsdurchführung und schriftliche Auswertung
   workload:
     - type: Präsenzzeit P
       time: 45
     - type: Vor- und Nachbereitung P
       time: 105
-  exam: Keine
+  exam: |
+    Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Physik, Bachelorstudiengang Meteorologie
+  usability: |
+    Physik, Bachelorstudiengang Meteorologie
   differentiated: true
 - page: 14
   name: Physikalisches Grundpraktikum 2
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten besitzen erweiterte physikalische Grundkenntnisse
-    und können diese auf konkrete naturwissenschaftliche Fragestellungen anwenden.
-    Sie können einfache experimentelle Aufgaben im Fach Physik unter Anwendung naturwissenschaftlicher
-    Arbeitsweisen lösen und beherrschen Dokumentation und Auswertung von Experimenten.
-    Sie können Ergebnisse eines wissenschaftlichen Experiments bewerten und mit Messgeräten
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten besitzen erweiterte physikalische
+    Grundkenntnisse und können diese auf konkrete naturwissenschaftliche
+    Fragestellungen anwenden. Sie können einfache experimentelle Aufgaben im
+    Fach Physik unter Anwendung naturwissenschaftlicher Arbeitsweisen lösen und
+    beherrschen Dokumentation und Auswertung von Experimenten. Sie können
+    Ergebnisse eines wissenschaftlichen Experiments bewerten und mit Messgeräten
     sachgerecht verwenden.
-  content: Konzeption und Durchführung von Experimenten, Messmethodik, Messtechnik
-    unter Verwendung computergestützter Auswerteverfahren und statistischer Auswertemethoden
-    (Fehlerrechnung), kritische Bewertung und Diskussion der Ergebnisse. Dokumentation
-    der Versuchsdurchführung, schriftliche Darstellung von Thema, Auswertungen und
-    Ergebnissen (Bericht). Themenbereiche vornehmlich aus Elektrizitätslehre und Optik.
+  content: |
+    Konzeption und Durchführung von Experimenten, Messmethodik, Messtechnik
+    unter Verwendung computergestützter Auswerteverfahren und statistischer
+    Auswertemethoden (Fehlerrechnung), kritische Bewertung und Diskussion der
+    Ergebnisse. Dokumentation der Versuchsdurchführung, schriftliche Darstellung
+    von Thema, Auswertungen und Ergebnissen (Bericht). Themenbereiche
+    vornehmlich aus Elektrizitätslehre und Optik.
   teachingunit:
     - type: Praktikum
       swstime: 3
       attendance: required
-      activity: Praktische Versuchsdurchführung und schriftliche Auswertung
+      activity: |
+        Praktische Versuchsdurchführung und schriftliche Auswertung
   workload:
     - type: Präsenzzeit P
       time: 45
     - type: Vor- und Nachbereitung P
       time: 105
-  exam: Keine
+  exam: |
+    Keine
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Physik, Bachelorstudiengang Meteorologie
+  usability: |
+    Physik, Bachelorstudiengang Meteorologie
   differentiated: true
 - page: 15
   name: Demonstrationspraktikum 1
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: 'Erfolgreiche Absolvierung des Moduls „Grundlagen der Experimentalphysik“
-    sowie
-
-    des Moduls „Physikalisches Grundpraktikum 1“ oder des Moduls „Physikalisches Grundpraktikum
-    2“'
-  goals: Die Studentinnen und Studenten können die in den Grundpraktikumsmodulen erworbenen
-    Kompetenzen im Bereich der experimentellen Arbeitsmethoden der Physik anwenden.
-    Sie verfügen über erweiterte Kompetenzen bei der selbstständigen Auswahl, Planung
-    und Durchführung von Demonstrationsexperimenten. Sie können unter Verwendung von
-    aktueller Experimentalliteratur und dem Einsatz des Computers die dazu notwendigen
-    physikalischen Inhalte selbstständig erarbeiten, moderne experimentelle Methoden
-    im Experiment anwenden und im Seminar über ein begrenztes physikalisches Thema
-    unter Einsatz von Demonstrationsexperimenten sach- und fachbezogen vortragen und
-    diskutieren.
-  content: Der Schwerpunkt liegt in der selbstständigen Auswahl, Planung, Durchführung
-    und Präsentation von (Demonstrations-)Experimenten zu exemplarisch ausgewählten
-    Themen der Physik .
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Grundlagen der Experimentalphysik“ sowie
+    des Moduls „Physikalisches Grundpraktikum 1“ oder des Moduls „Physikalisches Grundpraktikum 2“
+  goals: |
+    Die Studentinnen und Studenten können die in den Grundpraktikumsmodulen
+    erworbenen Kompetenzen im Bereich der experimentellen Arbeitsmethoden der
+    Physik anwenden. Sie verfügen über erweiterte Kompetenzen bei der
+    selbstständigen Auswahl, Planung und Durchführung von
+    Demonstrationsexperimenten. Sie können unter Verwendung von aktueller
+    Experimentalliteratur und dem Einsatz des Computers die dazu notwendigen
+    physikalischen Inhalte selbstständig erarbeiten, moderne experimentelle
+    Methoden im Experiment anwenden und im Seminar über ein begrenztes
+    physikalisches Thema unter Einsatz von Demonstrationsexperimenten sach- und
+    fachbezogen vortragen und diskutieren.
+  content: |
+    Der Schwerpunkt liegt in der selbstständigen Auswahl, Planung, Durchführung
+    und Präsentation von (Demonstrations-)Experimenten zu exemplarisch
+    ausgewählten Themen der Physik .
   teachingunit:
     - type: Praktikum
       swstime: 4
       attendance: required
-      activity: 'praktische Versuchsdurchführung und Präsentation sowie schriftliche
-        Auswertung
-
-        Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation'
+      activity: |
+        praktische Versuchsdurchführung und Präsentation sowie schriftliche Auswertung
+        Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: 'praktische Versuchsdurchführung und Präsentation sowie schriftliche
-        Auswertung
-
-        Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation'
+      activity: |
+        praktische Versuchsdurchführung und Präsentation sowie schriftliche Auswertung
+        Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
   workload:
     - type: Präsenzzeit P
       time: 60
@@ -335,52 +372,64 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Präsentation (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)
+  exam: |
+    Präsentation (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)
   language: Deutsch
   total_work: 240
   credit_points: 8
   duration: Ein Semester
   repeat: Einmal im Studienjahr
-  usability: Physik
+  usability: |
+    Physik
   differentiated: true
 - page: 16
   name: Theoretische Physik 1
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können die Begriffe Statik, Kinematik, Bewegung,
-    Bewegungsgleichungen und Lösungen der Bewegungsgleichungen definieren und gegeneinander
-    abgrenzen. Sie kennen den Zusammenhang zwischen der mikroskopischen und der makroskopischen
-    Ebene und sind in der Lage, angemessen zwischen beiden zu wechseln und dies anhand
-    statistischer Betrachtung zu illustrieren. Sie kennen die Bedeutung von Bewegungsgleichungen
-    (gewöhnlichen Differenzialgleichungen) und statistischen Konzepten für die Entwicklung
-    der modernen Physik und können diese im historischen Kontext darstellen. Sie können
-    für einfache Experimente aus dem Bereich der Kinematik die dazu passenden Bewegungsgleichungen
-    aufstellen, klassifizieren und (soweit analytisch möglich) diese auch lösen. Hierbei
-    sind sie in der Lage, Methoden aus der Newtonschen und der analytischen Mechanik
-    miteinander zu vergleichen und situationsgerecht anzuwenden. Sie können auch noch
-    bei komplexen kinematischen Problemen (z. B. chaotischen Systemen oder bei Vielteilchenproblemen)
-    die Lösungswege erkennen und sachgerecht formulieren. Bei analytisch nicht zugänglichen
-    Lösungen sind sie in der Lage, alternative (z. B. numerische oder statistische)
-    Lösungsverfahren zu diskutieren und zu beurteilen. Sie kennen die grundlegenden
-    Konzepte der Energieerhaltung, der statistischen Physik und der thermodynamischen
-    Hauptsätze, der Transformation von Raum und Zeit und der Symmetrien in der Physik
-    und können diese an Beispielen anschaulich illustrieren.
-  content: 'Mechanik und Thermodynamik: Grundlegende Begriffe der Mechanik (Kraft,
-    Energie, Beschleunigung, u. a.) sowie der Thermodynamik und Statistik (Entropie,
-    Hauptsätze). Aufstellen von einfachen Bewegungsgleichungen nach Newton, Aufstellen
-    von komplexen Bewegungsgleichungen mit den Mitteln der analytischen Mechanik,
-    Lösen von Bewegungsgleichungen, Gekoppelte Schwingungen und Akustik, Planetenbewegungen,
-    Bewegung starrer Körper (im Gegensatz zu Punktmassen)'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können die Begriffe Statik, Kinematik,
+    Bewegung, Bewegungsgleichungen und Lösungen der Bewegungsgleichungen
+    definieren und gegeneinander abgrenzen. Sie kennen den Zusammenhang zwischen
+    der mikroskopischen und der makroskopischen Ebene und sind in der Lage,
+    angemessen zwischen beiden zu wechseln und dies anhand statistischer
+    Betrachtung zu illustrieren. Sie kennen die Bedeutung von
+    Bewegungsgleichungen (gewöhnlichen Differenzialgleichungen) und
+    statistischen Konzepten für die Entwicklung der modernen Physik und können
+    diese im historischen Kontext darstellen. Sie können für einfache
+    Experimente aus dem Bereich der Kinematik die dazu passenden
+    Bewegungsgleichungen aufstellen, klassifizieren und (soweit analytisch
+    möglich) diese auch lösen. Hierbei sind sie in der Lage, Methoden aus der
+    Newtonschen und der analytischen Mechanik miteinander zu vergleichen und
+    situationsgerecht anzuwenden. Sie können auch noch bei komplexen
+    kinematischen Problemen (z. B. chaotischen Systemen oder bei
+    Vielteilchenproblemen) die Lösungswege erkennen und sachgerecht formulieren.
+    Bei analytisch nicht zugänglichen Lösungen sind sie in der Lage, alternative
+    (z. B. numerische oder statistische) Lösungsverfahren zu diskutieren und zu
+    beurteilen. Sie kennen die grundlegenden Konzepte der Energieerhaltung, der
+    statistischen Physik und der thermodynamischen Hauptsätze, der
+    Transformation von Raum und Zeit und der Symmetrien in der Physik und können
+    diese an Beispielen anschaulich illustrieren.
+  content: |
+    Mechanik und Thermodynamik: Grundlegende Begriffe der Mechanik (Kraft,
+    Energie, Beschleunigung, u. a.) sowie der Thermodynamik und Statistik
+    (Entropie, Hauptsätze). Aufstellen von einfachen Bewegungsgleichungen nach
+    Newton, Aufstellen von komplexen Bewegungsgleichungen mit den Mitteln der
+    analytischen Mechanik, Lösen von Bewegungsgleichungen, Gekoppelte
+    Schwingungen und Akustik, Planetenbewegungen, Bewegung starrer Körper (im
+    Gegensatz zu Punktmassen)
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Bearbeiten und Vorrechnen von Übungsaufgaben
+      activity: |
+        Bearbeiten und Vorrechnen von Übungsaufgaben
     - type: Übung
       swstime: 2
-      attendance: 'TODO: Vorlesung: Teilnahme wird empfohlen; Übung: ja:: Übung: Ja'
-      activity: Bearbeiten und Vorrechnen von Übungsaufgaben
+      attendance: required
+      activity: |
+        Bearbeiten und Vorrechnen von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -392,50 +441,61 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten)
+  exam: |
+    Klausur (90 Minuten)
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Einmal im Studienjahr, im Wintersemester
-  usability: Physik, Bachelorstudiengang Meteorologie
+  usability: |
+    Physik, Bachelorstudiengang Meteorologie
   differentiated: true
 - page: 17
   name: Theoretische Physik 2
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten können die Begriffe aus dem Komplex elektromagnetischer
-    Felder und Potenziale definieren und gegeneinander abgrenzen. Sie kennen den Zusammenhang
-    zwischen elektrischen und magnetischen Feldern sowie zwischen ruhenden und bewegten
-    Ladungen und sind in der Lage, diesen anschaulich zu illustrieren. Sie können
-    aus einfachen Ladungs- und Stromverteilungen die zugehörigen Felder berechnen
-    und dabei das Konzept der Symmetrie angemessen benutzen. Sie kennen die Bedeutung
-    der Maxwell-Gleichungen und ihrer Vorhersagen für die Entwicklung der Physik und
-    können diese im historischen Kontext darstellen. Sie können die Maxwellgleichungen
-    als gekoppelte partielle Differenzialgleichungen klassifizieren und ihre Lösungsmethoden
-    im Vergleich zu denen von kinematischen Bewegungsgleichungen beurteilen und vergleichen.
-    Sie können einfache Typen von elektromagnetischen Wellen als Lösungen der Maxwell-Gleichungen
-    erkennen und rechnerisch nachvollziehen. Sie kennen die Zusammenhänge zwischen
-    elektromagnetischen Wellen und Optik. Sie kennen die Symmetrie von Raum und Zeit
-    und sind in der Lage, einfache Gedankenexperimente, die zum Konzept der Relativitätstheorie
-    führen, anschaulich zu referieren. Sie können verschiedenartige Transformationen
-    von Raum und Zeit (Galilei- versus Lorentz-Transformation) gegeneinander abgrenzen,
-    beurteilen und rechnerisch nachvollziehen.
-  content: 'Elektrodynamik und Relativitätstheorie: Elektrische und magnetische Felder
-    und Potenziale in statischen und dynamischen Situationen, Berechnung von Feldern
-    durch verschiedene Methoden (Integration, Gauß’scher Intergralsatz und Amperesches
-    Durchflutungsgesetz), Maxwell-Gleichungen. Elektromagnetische Wellen im Vakuum
-    und in Materie, Optik, Relativitätstheorie'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten können die Begriffe aus dem Komplex
+    elektromagnetischer Felder und Potenziale definieren und gegeneinander
+    abgrenzen. Sie kennen den Zusammenhang zwischen elektrischen und
+    magnetischen Feldern sowie zwischen ruhenden und bewegten Ladungen und sind
+    in der Lage, diesen anschaulich zu illustrieren. Sie können aus einfachen
+    Ladungs- und Stromverteilungen die zugehörigen Felder berechnen und dabei
+    das Konzept der Symmetrie angemessen benutzen. Sie kennen die Bedeutung der
+    Maxwell-Gleichungen und ihrer Vorhersagen für die Entwicklung der Physik und
+    können diese im historischen Kontext darstellen. Sie können die
+    Maxwellgleichungen als gekoppelte partielle Differenzialgleichungen
+    klassifizieren und ihre Lösungsmethoden im Vergleich zu denen von
+    kinematischen Bewegungsgleichungen beurteilen und vergleichen. Sie können
+    einfache Typen von elektromagnetischen Wellen als Lösungen der
+    Maxwell-Gleichungen erkennen und rechnerisch nachvollziehen. Sie kennen die
+    Zusammenhänge zwischen elektromagnetischen Wellen und Optik. Sie kennen die
+    Symmetrie von Raum und Zeit und sind in der Lage, einfache
+    Gedankenexperimente, die zum Konzept der Relativitätstheorie führen,
+    anschaulich zu referieren. Sie können verschiedenartige Transformationen von
+    Raum und Zeit (Galilei- versus Lorentz-Transformation) gegeneinander
+    abgrenzen, beurteilen und rechnerisch nachvollziehen.
+  content: |
+    Elektrodynamik und Relativitätstheorie: Elektrische und magnetische Felder
+    und Potenziale in statischen und dynamischen Situationen, Berechnung von
+    Feldern durch verschiedene Methoden (Integration, Gauß’scher Intergralsatz
+    und Amperesches Durchflutungsgesetz), Maxwell-Gleichungen.
+    Elektromagnetische Wellen im Vakuum und in Materie, Optik,
+    Relativitätstheorie
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: Bearbeiten und Vorrechnen von Übungsaufgaben
+      activity: |
+        Bearbeiten und Vorrechnen von Übungsaufgaben
     - type: Übung
       swstime: 2
-      attendance: 'TODO: Vorlesung: Teilnahme wird empfohlen; Übung: ja:: Übung: Ja'
-      activity: Bearbeiten und Vorrechnen von Übungsaufgaben
+      attendance: required
+      activity: |
+        Bearbeiten und Vorrechnen von Übungsaufgaben
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -447,33 +507,40 @@
       time: 45
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
-  exam: Klausur (90 Minuten)
+  exam: |
+    Klausur (90 Minuten)
   language: Deutsch
   total_work: 210
   credit_points: 7
   duration: Ein Semester
   repeat: Einmal im Studienjahr, im Sommersemester
-  usability: Physik
+  usability: |
+    Physik
   differentiated: true
 - page: 18
   name: Vertiefung Physik A
   organizer: Freie Universität Berlin/Physik/Institute für Experimentalphysik und
     Theoretische Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten sind befähigt, sich in ein gegebenes physikalisches
-    Thema einzuarbeiten und die Inhalte in Form einer Präsentation adressatengerecht
-    aufzubereiten. Sie wissen um die Merkmale einer guten Präsentation und können
-    diese in einen eigenen Vortrag einbeziehen.
-  content: 'Auswahl aus einem Themenkomplex mit physikalischem Bezug; grundlegende
-    Präsentationstechniken (Vortragsstil: Sprache, Gestik, Mimik; Vortragsgestaltung:
-    Bedeutung von Text, Tabellen und Bildern, geeignete Verwendung von Medien, Zeitmanagement;
-    Quellenangaben)'
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten sind befähigt, sich in ein gegebenes
+    physikalisches Thema einzuarbeiten und die Inhalte in Form einer
+    Präsentation adressatengerecht aufzubereiten. Sie wissen um die Merkmale
+    einer guten Präsentation und können diese in einen eigenen Vortrag
+    einbeziehen.
+  content: |
+    Auswahl aus einem Themenkomplex mit physikalischem Bezug; grundlegende
+    Präsentationstechniken (Vortragsstil: Sprache, Gestik, Mimik;
+    Vortragsgestaltung: Bedeutung von Text, Tabellen und Bildern, geeignete
+    Verwendung von Medien, Zeitmanagement; Quellenangaben)
   teachingunit:
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
+      activity: |
+        Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
   workload:
     - type: Präsenzzeit S
       time: 30
@@ -481,37 +548,44 @@
       time: 15
     - type: Prüfungsvorbereitung und Prüfung
       time: 105
-  exam: Vortrag (etwa 30 Minuten)
+  exam: |
+    Vortrag (etwa 30 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Bachelorstudiengang Physik für das Lehramt
+  usability: |
+    Bachelorstudiengang Physik für das Lehramt
   differentiated: true
 - page: 19
   name: Vertiefung Physik B
   organizer: Freie Universität Berlin/Physik/Institute für Experimentalphysik und
     Theoretische Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die zentralen
-    Konzepte zu ausgewählten Themen der Physik oder einem damit verwandten Gebiet
-    und können diese erläutern und interpretieren. Weiterhin können die Studentinnen
-    und Studenten ihre Kenntnisse auf konkrete Fragestellungen anwenden und die benötigten
-    Methoden sinnvoll einsetzen. Die Studentinnen und Studenten haben außerdem ausreichende
-    Kenntnisse der experimentellen Grundlagen erworben, um die Funktionsprinzipien
-    einfacher Versuche zu diesen Themen zu verstehen.
-  content: Ausgewählte Themen aus der Physik wie z. B. Astronomie, Astrophysik, Biophysik,
-    Atom- und Molekülphysik, Festkörperphysik, Quantenphysik, Computerphysik, Geschichte
-    der Physik oder aus affinen Studienbereichen wie z. B. Informatik für Physiker,
-    Chemie für Physiker (sofern diese Studienbereiche nicht im 60-LP-Modulangebot
-    gewählt wurden)
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die
+    zentralen Konzepte zu ausgewählten Themen der Physik oder einem damit
+    verwandten Gebiet und können diese erläutern und interpretieren. Weiterhin
+    können die Studentinnen und Studenten ihre Kenntnisse auf konkrete
+    Fragestellungen anwenden und die benötigten Methoden sinnvoll einsetzen. Die
+    Studentinnen und Studenten haben außerdem ausreichende Kenntnisse der
+    experimentellen Grundlagen erworben, um die Funktionsprinzipien einfacher
+    Versuche zu diesen Themen zu verstehen.
+  content: |
+    Ausgewählte Themen aus der Physik wie z. B. Astronomie, Astrophysik,
+    Biophysik, Atom- und Molekülphysik, Festkörperphysik, Quantenphysik,
+    Computerphysik, Geschichte der Physik oder aus affinen Studienbereichen wie
+    z. B. Informatik für Physiker, Chemie für Physiker (sofern diese
+    Studienbereiche nicht im 60-LP-Modulangebot gewählt wurden)
   teachingunit:
     - type: Vorlesung
       swstime: 4
       attendance: recommended
-      activity: ''
+      activity: |2+
+
   workload:
     - type: Präsenzzeit V
       time: 60
@@ -519,37 +593,44 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: Mündliche Prüfung (etwa 30 Minuten)
+  exam: |
+    Mündliche Prüfung (etwa 30 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Bachelorstudiengang Physik für das Lehramt
+  usability: |
+    Bachelorstudiengang Physik für das Lehramt
   differentiated: true
 - page: 20
   name: Vertiefung Physik C
   organizer: Freie Universität Berlin/Physik/Institute für Experimentalphysik und
     Theoretische Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die zentralen
-    Konzepte zu ausgewählten Themen der Physik oder einem damit verwandten Gebiet
-    und können diese erläutern und interpretieren. Weiterhin können die Studentinnen
-    und Studenten ihre Kenntnisse auf konkrete Fragestellungen anwenden und die benötigten
-    Methoden sinnvoll einsetzen. Die Studentinnen und Studenten haben außerdem ausreichende
-    Kenntnisse der experimentellen Grundlagen erworben, um die Funktionsprinzipien
-    einfacher Versuche zu diesen Themen zu verstehen.
-  content: Ausgewählte Themen aus der Physik wie z. B. Astronomie, Astrophysik, Biophysik,
-    Atom- und Molekülphysik, Festkörperphysik, Quantenphysik, Computerphysik, Geschichte
-    der Physik oder aus affinen Studienbereichen wie z. B. Informatik für Physiker,
-    Chemie für Physiker (sofern diese Studienbereiche nicht im 60-LP-Modulangebot
-    gewählt wurden)
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten kennen die wichtigsten Phänomene und die
+    zentralen Konzepte zu ausgewählten Themen der Physik oder einem damit
+    verwandten Gebiet und können diese erläutern und interpretieren. Weiterhin
+    können die Studentinnen und Studenten ihre Kenntnisse auf konkrete
+    Fragestellungen anwenden und die benötigten Methoden sinnvoll einsetzen. Die
+    Studentinnen und Studenten haben außerdem ausreichende Kenntnisse der
+    experimentellen Grundlagen erworben, um die Funktionsprinzipien einfacher
+    Versuche zu diesen Themen zu verstehen.
+  content: |
+    Ausgewählte Themen aus der Physik wie z. B. Astronomie, Astrophysik,
+    Biophysik, Atom- und Molekülphysik, Festkörperphysik, Quantenphysik,
+    Computerphysik, Geschichte der Physik oder aus affinen Studienbereichen wie
+    z. B. Informatik für Physiker, Chemie für Physiker (sofern diese
+    Studienbereiche nicht im 60-LP-Modulangebot gewählt wurden)
   teachingunit:
     - type: Seminar
       swstime: 2
       attendance: required
-      activity: Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
+      activity: |
+        Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
   workload:
     - type: Präsenzzeit S
       time: 30
@@ -557,32 +638,39 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 90
-  exam: Vortrag (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)
+  exam: |
+    Vortrag (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Jedes Semester
-  usability: Bachelorstudiengang Physik für das Lehramt
+  usability: |
+    Bachelorstudiengang Physik für das Lehramt
   differentiated: true
 - page: 21
   name: Moderne Physik
   organizer: Freie Universität Berlin/Physik/Institute für Experimentalphysik und
     Theoretische Physik
   responsible: Dozentinnen oder Dozenten des Moduls
-  requirements: Keine
-  goals: Die Studentinnen und Studenten erhalten anhand ausgewählter Teilgebiete einen
-    Einblick in die zentralen Konzepte, aktuellen Entwicklungen und Anwendungen der
-    modernen Physik und sind befähigt, sich in ein physikalisches Thema der modernen
-    Physik einzuarbeiten und die Inhalte in Form einer Präsentation angemessen aufzubereiten.
-    Dabei lernen sie auch fortgeschrittene experimentelle Methoden und die mit ihnen
-    gewonnenen Ergebnisse der neueren Physik kennen.
-  content: Ausgewählte Themen der modernen Physik
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten erhalten anhand ausgewählter Teilgebiete
+    einen Einblick in die zentralen Konzepte, aktuellen Entwicklungen und
+    Anwendungen der modernen Physik und sind befähigt, sich in ein
+    physikalisches Thema der modernen Physik einzuarbeiten und die Inhalte in
+    Form einer Präsentation angemessen aufzubereiten. Dabei lernen sie auch
+    fortgeschrittene experimentelle Methoden und die mit ihnen gewonnenen
+    Ergebnisse der neueren Physik kennen.
+  content: |
+    Ausgewählte Themen der modernen Physik
   teachingunit:
     - type: Projektseminar
       swstime: 2
       attendance: required
-      activity: Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
+      activity: |
+        Selbststudien (Lektüre), Diskussionsbeteiligung, Präsentation
   workload:
     - type: Präsenzzeit ProjS
       time: 30
@@ -590,11 +678,13 @@
       time: 30
     - type: Prüfungsvorbereitung und Prüfung
       time: 90
-  exam: Präsentation (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)
+  exam: |
+    Präsentation (etwa 30 Minuten) oder Hausarbeit (etwa 15 Seiten)
   language: Deutsch
   total_work: 150
   credit_points: 5
   duration: Ein Semester
   repeat: Mindestens einmal im Studienjahr
-  usability: Bachelorstudiengang Physik für das Lehramt
+  usability: |
+    Bachelorstudiengang Physik für das Lehramt
   differentiated: true
