@@ -529,13 +529,13 @@ nav:
       - inf_msc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik B.md
       - inf_msc_2014/modules/XML-Technologien.md
       - inf_msc_2014/modules/Übersetzerbau.md
-
   - Mathematik Bsc 2013:
     - math_bsc_2013/home.md
     - Studien- und Prüfungsordnung: math_bsc_2013/spo.md
     - Modulbeschreibung:
       - math_bsc_2013/module_explanations.md
       - math_bsc_2013/modules/Aktuelle Themen der Mathematik.md
+      - math_bsc_2013/modules/Algebra I.md
       - math_bsc_2013/modules/Algebra und Zahlentheorie.md
       - math_bsc_2013/modules/Analysis I.md
       - math_bsc_2013/modules/Analysis II.md
@@ -545,6 +545,8 @@ nav:
       - math_bsc_2013/modules/Computerorientierte Mathematik I.md
       - math_bsc_2013/modules/Computerorientierte Mathematik II.md
       - math_bsc_2013/modules/Datenstrukturen und Datenabstraktion mit Anwendung.md
+      - math_bsc_2013/modules/Differentialgeometrie I.md
+      - math_bsc_2013/modules/Diskrete Mathematik I.md
       - math_bsc_2013/modules/Einführung in die Visualisierung.md
       - math_bsc_2013/modules/Elementargeometrie.md
       - math_bsc_2013/modules/Funktionalanalysis.md
@@ -557,7 +559,9 @@ nav:
       - math_bsc_2013/modules/Lineare Algebra II.md
       - math_bsc_2013/modules/Mathematisches Projekt.md
       - math_bsc_2013/modules/Numerik I.md
+      - math_bsc_2013/modules/Numerik II.md
       - math_bsc_2013/modules/Panorama der Mathematik.md
+      - math_bsc_2013/modules/Partielle Differentialgleichungen I.md
       - math_bsc_2013/modules/Planung und Durchführung eines Tutoriums.md
       - math_bsc_2013/modules/Programmierung.md
       - math_bsc_2013/modules/Spezialthemen der Mathematik.md
@@ -566,6 +570,8 @@ nav:
       - math_bsc_2013/modules/Statistik-Software (CoSta).md
       - math_bsc_2013/modules/Stochastik I.md
       - math_bsc_2013/modules/Stochastik II.md
+      - math_bsc_2013/modules/Topologie I.md
+      - math_bsc_2013/modules/Visualisierung.md
       - math_bsc_2013/modules/Wissenschaftliches Arbeiten in der Mathematik.md
   - Mathematik Lehramt Bsc 2017:
     - lehrmath_bsc_2017/home.md

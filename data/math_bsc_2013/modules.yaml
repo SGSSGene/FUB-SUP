@@ -76,6 +76,8 @@
     Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für das
     Lehramt
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 7
   name: Analysis II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -136,6 +138,8 @@
     Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für das
     Lehramt, Lehramtsmasterstudiengang (120 LP – FW – 2)
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 8
   name: Analysis III
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -187,6 +191,8 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 9
   name: Lineare Algebra I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -252,6 +258,8 @@
     Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für das
     Lehramt
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 10
   name: Lineare Algebra II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -314,6 +322,8 @@
     Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für das
     Lehramt
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 11
   name: Computerorientierte Mathematik I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -371,6 +381,8 @@
     Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für das
     Lehramt, Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 12
   name: Computerorientierte Mathematik II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -423,6 +435,8 @@
     Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für das
     Lehramt, Bachelorstudiengang Bioinformatik
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 13
   name: Stochastik I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -497,6 +511,8 @@
     Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für das
     Lehramt
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 14
   name: Numerik I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -548,6 +564,8 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Grundlagenbereich
 - page: 15
   name: Wissenschaftliches Arbeiten in der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -588,6 +606,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: false
+  tags:
+    - Vertiefungsbereich
+    - Pflichtmodul
 - page: 16
   name: Algebra und Zahlentheorie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -645,6 +666,9 @@
     Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für das
     Lehramt
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 17
   name: Höhere Analysis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -706,6 +730,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 18
   name: Elementargeometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -767,6 +794,9 @@
     Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für das
     Lehramt
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 19
   name: Geometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -829,6 +859,9 @@
     Bachelorstudiengang Mathematik, Bachelorstudiengang Mathematik für das
     Lehramt
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 20
   name: Funktionalanalysis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -884,6 +917,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 21
   name: Funktionentheorie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -942,6 +978,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 22
   name: Stochastik II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1004,6 +1043,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 23
   name: Mathematisches Projekt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1042,6 +1084,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 24
   name: Datenstrukturen und Datenabstraktion mit Anwendung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
@@ -1117,6 +1162,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 25
   name: Aktuelle Themen der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1157,6 +1205,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 26
   name: Spezialthemen der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1206,6 +1257,9 @@
     Bachelorstudiengang Mathematik; Masterstudiengang Mathematik;
     Lehramtsmasterstudiengang
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 27
   name: Spezialthemen der reinen Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1254,6 +1308,9 @@
   usability: |
     Bachelorstudiengang Mathematik; Masterstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
 - page: 28
   name: Spezialthemen der angewandten Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1302,6 +1359,53 @@
   usability: |
     Bachelorstudiengang Mathematik; Masterstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil A
+- page: 29
+  name: Partielle Differentialgleichungen I
+  link: math_msc_2018
+  modification:
+    - Eigentlich verweist die SPO auf "Differentialgleichungen I" aber der existiert im 2018 master nicht, daher nehme ich an die "Partielle" variante ist gemeint.
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
+- page: 29
+  name: Diskrete Mathematik I
+  link: math_msc_2018
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
+- page: 29
+  name: Algebra I
+  link: math_msc_2018
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
+- page: 29
+  name: Numerik II
+  link: math_msc_2018
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
+- page: 29
+  name: Differentialgeometrie I
+  link: math_msc_2018
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
+- page: 29
+  name: Topologie I
+  link: math_msc_2018
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
+- page: 29
+  name: Visualisierung
+  link: math_msc_2018
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
 - page: 29
   name: Höhere Algorithmik mit Anwendung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
@@ -1359,6 +1463,9 @@
   usability: |
     Bachelorstudiengang Mathematik
   differentiated: true
+  tags:
+    - Vertiefungsbereich
+    - Wahlbereich - Teil B
 - page: 30
   name: Kommunikation über Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1404,6 +1511,8 @@
     Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
   differentiated: false
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 31
   name: Computeralgebra
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1453,6 +1562,8 @@
     Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
   differentiated: false
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 32
   name: Statistik-Software (CoSta)
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1504,6 +1615,8 @@
     Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
   differentiated: false
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 33
   name: Einführung in die Visualisierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1552,6 +1665,8 @@
     Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
   differentiated: false
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 34
   name: Panorama der Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1614,6 +1729,8 @@
     Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
   differentiated: false
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 35
   name: Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1663,6 +1780,8 @@
     Bachelorstudiengang Mathematik; Studienbereich ABV (Kompetenzbereich
     Fachnahe Zusatzqualifikationen)
   differentiated: false
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 36
   name: Planung und Durchführung eines Tutoriums
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1709,6 +1828,8 @@
     Bachelorstudiengang Mathematik; Bachelorstudiengang Informatik;
     Studienbereich ABV (Kompetenzbereich Fachnahe Zusatzqualifikationen)
   differentiated: true
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 37
   name: Berufspraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1764,3 +1885,5 @@
   usability: |
     Bachelorstudiengang Mathematik; Studienbereich ABV
   differentiated: true
+  tags:
+    - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
