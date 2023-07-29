@@ -32,390 +32,382 @@ markdown_extensions:
   - pymdownx.extra
 plugins:
   - search
-  - section-index
+#  - section-index
   - exclude-search
   - tags
 nav:
   - index.md
   - Rahmenstudien- und -prüfungsordnung: rspo_2013.md
   - Allgemeine Berufsvorbereitung 2018:
-    - abv_2018/home.md
+    - Übersicht: abv_2018/home.md
     - Studien- und Prüfungsordnung: abv_2018/spo.md
-    - Modulbeschreibungen:
-      - abv_2018/module_explanations.md
-      - abv_2018/modules/Advanced English 1a for academic professions.md
-      - abv_2018/modules/Advanced English 1b for academic professions.md
-      - abv_2018/modules/Advanced English 2 for academic professions.md
-      - abv_2018/modules/Arabisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Arabisch ABV Grundmodul 2.md
-      - abv_2018/modules/Arabisch ABV Grundmodul 3.md
-      - abv_2018/modules/Arabisch ABV Grundmodul 4.md
-      - abv_2018/modules/Arabisch ABV Grundmodul 5.md
-      - abv_2018/modules/Auslandspraktikum – A.md
-      - abv_2018/modules/Auslandspraktikum – B.md
-      - abv_2018/modules/Auslandspraktikum – C.md
-      - abv_2018/modules/Berufsbezogenes Praktikum – A.md
-      - abv_2018/modules/Berufsbezogenes Praktikum – B.md
-      - abv_2018/modules/Berufsbezogenes Praktikum – C.md
-      - abv_2018/modules/Betriebswirtschaftliche Grundlagen (ABV).md
-      - abv_2018/modules/Computergestütztes Projektmanagement.md
-      - abv_2018/modules/Deutsch als Fremdsprache Aufbaumodul.md
-      - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext.md
-      - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf.md
-      - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul C – Mit Texten arbeiten – an Texten arbeiten.md
-      - abv_2018/modules/Digitale Datenanalyse und statistische Methoden.md
-      - abv_2018/modules/Digitales Publizieren und Präsentieren.md
-      - abv_2018/modules/Diversity Management.md
-      - abv_2018/modules/E-Business (ABV).md
-      - abv_2018/modules/Erstellung eines Businessplans.md
-      - abv_2018/modules/Fallstudien im internationalen Lernnetzwerk.md
-      - abv_2018/modules/Französisch ABV Aufbaumodul 1.md
-      - abv_2018/modules/Französisch ABV Aufbaumodul 2.md
-      - abv_2018/modules/Französisch ABV Aufbaumodul 3.md
-      - abv_2018/modules/Französisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Französisch ABV Grundmodul 2.md
-      - abv_2018/modules/Französisch ABV Grundmodul 3.md
-      - abv_2018/modules/Französisch ABV Grundmodul 4.md
-      - abv_2018/modules/Gender and Diversity in the International Context.md
-      - abv_2018/modules/Gender, Diversity und Gender Mainstreaming.md
-      - abv_2018/modules/Gesprächsführung und Verhandlung.md
-      - abv_2018/modules/Grundlagen, Ideen und Business Modelle zur Unternehmensgründung.md
-      - abv_2018/modules/Gründung einer Studentenfirma – Funpreneur-Wettbewerb.md
-      - abv_2018/modules/Informationskompetenz.md
-      - abv_2018/modules/Italienisch ABV Aufbaumodul 1.md
-      - abv_2018/modules/Italienisch ABV Aufbaumodul 2.md
-      - abv_2018/modules/Italienisch ABV Aufbaumodul 3.md
-      - abv_2018/modules/Italienisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Italienisch ABV Grundmodul 2.md
-      - abv_2018/modules/Italienisch ABV Grundmodul 3.md
-      - abv_2018/modules/Italienisch ABV Grundmodul 4.md
-      - abv_2018/modules/Kooperative Projektarbeit.md
-      - abv_2018/modules/Layout und Design von Printmedien.md
-      - abv_2018/modules/Marketing Grundlagen (ABV).md
-      - abv_2018/modules/Nachhaltigkeit erforschen.md
-      - abv_2018/modules/Nachhaltigkeit kommunizieren.md
-      - abv_2018/modules/Nachhaltigkeit konkret gestalten.md
-      - abv_2018/modules/Nachhaltigkeit managen.md
-      - abv_2018/modules/Niederländisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Niederländisch ABV Grundmodul 2.md
-      - abv_2018/modules/Niederländisch ABV Grundmodul 3.md
-      - abv_2018/modules/Objektorientierte Programmierung.md
-      - abv_2018/modules/Online-Kommunikation und -Präsentation.md
-      - abv_2018/modules/Persönliche Lern- und Arbeitsprozesse aktiv gestalten.md
-      - abv_2018/modules/Polnisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Polnisch ABV Grundmodul 2.md
-      - abv_2018/modules/Polnisch ABV Grundmodul 3.md
-      - abv_2018/modules/Polnisch ABV Grundmodul 4.md
-      - abv_2018/modules/Portugiesisch ABV Aufbaumodul 1.md
-      - abv_2018/modules/Portugiesisch ABV Aufbaumodul 2.md
-      - abv_2018/modules/Portugiesisch ABV Aufbaumodul 3.md
-      - abv_2018/modules/Portugiesisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Portugiesisch ABV Grundmodul 2.md
-      - abv_2018/modules/Portugiesisch ABV Grundmodul 3.md
-      - abv_2018/modules/Portugiesisch ABV Grundmodul 4.md
-      - abv_2018/modules/Präsentieren, Diskutieren, Moderieren.md
-      - abv_2018/modules/Projekte und Kooperationen.md
-      - abv_2018/modules/Russisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Russisch ABV Grundmodul 2.md
-      - abv_2018/modules/Russisch ABV Grundmodul 3.md
-      - abv_2018/modules/Russisch ABV Grundmodul 4.md
-      - abv_2018/modules/Russisch ABV Grundmodul 5.md
-      - abv_2018/modules/Russisch Aufbaumodul I.md
-      - abv_2018/modules/Spanisch ABV Aufbaumodul 1.md
-      - abv_2018/modules/Spanisch ABV Aufbaumodul 2.md
-      - abv_2018/modules/Spanisch ABV Aufbaumodul 3.md
-      - abv_2018/modules/Spanisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Spanisch ABV Grundmodul 2.md
-      - abv_2018/modules/Spanisch ABV Grundmodul 3.md
-      - abv_2018/modules/Spanisch ABV Grundmodul 4.md
-      - abv_2018/modules/Türkisch ABV Einstiegsmodul.md
-      - abv_2018/modules/Türkisch ABV Grundmodul 2.md
-      - abv_2018/modules/Türkisch ABV Grundmodul 3.md
-      - abv_2018/modules/Türkisch ABV Grundmodul 4.md
-      - abv_2018/modules/Türkisch ABV Grundmodul 5.md
-      - abv_2018/modules/Upper intermediate English 1 for academic professions.md
-      - abv_2018/modules/Upper intermediate English 2 for academic professions.md
-      - abv_2018/modules/Wissenschaft und Gesellschaft.md
-      - abv_2018/modules/Zentrale soziale Kategorien im 21. Jahrhundert.md
+    - Modulbeschreibungen: abv_2018/module_explanations.md
+    - abv_2018/modules/Advanced English 1a for academic professions.md
+    - abv_2018/modules/Advanced English 1b for academic professions.md
+    - abv_2018/modules/Advanced English 2 for academic professions.md
+    - abv_2018/modules/Arabisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Arabisch ABV Grundmodul 2.md
+    - abv_2018/modules/Arabisch ABV Grundmodul 3.md
+    - abv_2018/modules/Arabisch ABV Grundmodul 4.md
+    - abv_2018/modules/Arabisch ABV Grundmodul 5.md
+    - abv_2018/modules/Auslandspraktikum – A.md
+    - abv_2018/modules/Auslandspraktikum – B.md
+    - abv_2018/modules/Auslandspraktikum – C.md
+    - abv_2018/modules/Berufsbezogenes Praktikum – A.md
+    - abv_2018/modules/Berufsbezogenes Praktikum – B.md
+    - abv_2018/modules/Berufsbezogenes Praktikum – C.md
+    - abv_2018/modules/Betriebswirtschaftliche Grundlagen (ABV).md
+    - abv_2018/modules/Computergestütztes Projektmanagement.md
+    - abv_2018/modules/Deutsch als Fremdsprache Aufbaumodul.md
+    - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext.md
+    - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf.md
+    - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul C – Mit Texten arbeiten – an Texten arbeiten.md
+    - abv_2018/modules/Digitale Datenanalyse und statistische Methoden.md
+    - abv_2018/modules/Digitales Publizieren und Präsentieren.md
+    - abv_2018/modules/Diversity Management.md
+    - abv_2018/modules/E-Business (ABV).md
+    - abv_2018/modules/Erstellung eines Businessplans.md
+    - abv_2018/modules/Fallstudien im internationalen Lernnetzwerk.md
+    - abv_2018/modules/Französisch ABV Aufbaumodul 1.md
+    - abv_2018/modules/Französisch ABV Aufbaumodul 2.md
+    - abv_2018/modules/Französisch ABV Aufbaumodul 3.md
+    - abv_2018/modules/Französisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Französisch ABV Grundmodul 2.md
+    - abv_2018/modules/Französisch ABV Grundmodul 3.md
+    - abv_2018/modules/Französisch ABV Grundmodul 4.md
+    - abv_2018/modules/Gender and Diversity in the International Context.md
+    - abv_2018/modules/Gender, Diversity und Gender Mainstreaming.md
+    - abv_2018/modules/Gesprächsführung und Verhandlung.md
+    - abv_2018/modules/Grundlagen, Ideen und Business Modelle zur Unternehmensgründung.md
+    - abv_2018/modules/Gründung einer Studentenfirma – Funpreneur-Wettbewerb.md
+    - abv_2018/modules/Informationskompetenz.md
+    - abv_2018/modules/Italienisch ABV Aufbaumodul 1.md
+    - abv_2018/modules/Italienisch ABV Aufbaumodul 2.md
+    - abv_2018/modules/Italienisch ABV Aufbaumodul 3.md
+    - abv_2018/modules/Italienisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Italienisch ABV Grundmodul 2.md
+    - abv_2018/modules/Italienisch ABV Grundmodul 3.md
+    - abv_2018/modules/Italienisch ABV Grundmodul 4.md
+    - abv_2018/modules/Kooperative Projektarbeit.md
+    - abv_2018/modules/Layout und Design von Printmedien.md
+    - abv_2018/modules/Marketing Grundlagen (ABV).md
+    - abv_2018/modules/Nachhaltigkeit erforschen.md
+    - abv_2018/modules/Nachhaltigkeit kommunizieren.md
+    - abv_2018/modules/Nachhaltigkeit konkret gestalten.md
+    - abv_2018/modules/Nachhaltigkeit managen.md
+    - abv_2018/modules/Niederländisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Niederländisch ABV Grundmodul 2.md
+    - abv_2018/modules/Niederländisch ABV Grundmodul 3.md
+    - abv_2018/modules/Objektorientierte Programmierung.md
+    - abv_2018/modules/Online-Kommunikation und -Präsentation.md
+    - abv_2018/modules/Persönliche Lern- und Arbeitsprozesse aktiv gestalten.md
+    - abv_2018/modules/Polnisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Polnisch ABV Grundmodul 2.md
+    - abv_2018/modules/Polnisch ABV Grundmodul 3.md
+    - abv_2018/modules/Polnisch ABV Grundmodul 4.md
+    - abv_2018/modules/Portugiesisch ABV Aufbaumodul 1.md
+    - abv_2018/modules/Portugiesisch ABV Aufbaumodul 2.md
+    - abv_2018/modules/Portugiesisch ABV Aufbaumodul 3.md
+    - abv_2018/modules/Portugiesisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Portugiesisch ABV Grundmodul 2.md
+    - abv_2018/modules/Portugiesisch ABV Grundmodul 3.md
+    - abv_2018/modules/Portugiesisch ABV Grundmodul 4.md
+    - abv_2018/modules/Präsentieren, Diskutieren, Moderieren.md
+    - abv_2018/modules/Projekte und Kooperationen.md
+    - abv_2018/modules/Russisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Russisch ABV Grundmodul 2.md
+    - abv_2018/modules/Russisch ABV Grundmodul 3.md
+    - abv_2018/modules/Russisch ABV Grundmodul 4.md
+    - abv_2018/modules/Russisch ABV Grundmodul 5.md
+    - abv_2018/modules/Russisch Aufbaumodul I.md
+    - abv_2018/modules/Spanisch ABV Aufbaumodul 1.md
+    - abv_2018/modules/Spanisch ABV Aufbaumodul 2.md
+    - abv_2018/modules/Spanisch ABV Aufbaumodul 3.md
+    - abv_2018/modules/Spanisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Spanisch ABV Grundmodul 2.md
+    - abv_2018/modules/Spanisch ABV Grundmodul 3.md
+    - abv_2018/modules/Spanisch ABV Grundmodul 4.md
+    - abv_2018/modules/Türkisch ABV Einstiegsmodul.md
+    - abv_2018/modules/Türkisch ABV Grundmodul 2.md
+    - abv_2018/modules/Türkisch ABV Grundmodul 3.md
+    - abv_2018/modules/Türkisch ABV Grundmodul 4.md
+    - abv_2018/modules/Türkisch ABV Grundmodul 5.md
+    - abv_2018/modules/Upper intermediate English 1 for academic professions.md
+    - abv_2018/modules/Upper intermediate English 2 for academic professions.md
+    - abv_2018/modules/Wissenschaft und Gesellschaft.md
+    - abv_2018/modules/Zentrale soziale Kategorien im 21. Jahrhundert.md
   - Bioinformatik Bsc 2012:
-    - bioinf_bsc_2012/home.md
+    - Übersicht: bioinf_bsc_2012/home.md
     - Studien- und Prüfungsordnung: bioinf_bsc_2012/spo.md
-    - Modulbeschreibungen:
-      - bioinf_bsc_2012/module_explanations.md
-      - bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen – Praktikum.md
-      - bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen.md
-      - bioinf_bsc_2012/modules/Algorithmische Bioinformatik.md
-      - bioinf_bsc_2012/modules/Allgemeine Biologie.md
-      - bioinf_bsc_2012/modules/Allgemeine Chemie.md
-      - bioinf_bsc_2012/modules/Genetik und Genomforschung.md
-      - bioinf_bsc_2012/modules/Informatik A.md
-      - bioinf_bsc_2012/modules/Informatik B.md
-      - bioinf_bsc_2012/modules/Mathematik für Bioinformatiker I.md
-      - bioinf_bsc_2012/modules/Mathematik für Bioinformatiker II.md
-      - bioinf_bsc_2012/modules/Medizinische Physiologie.md
-      - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie I.md
-      - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie II.md
-      - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie III.md
-      - bioinf_bsc_2012/modules/Neurobiologie.md
-      - bioinf_bsc_2012/modules/Projektmanagement im Softwarebereich.md
-      - bioinf_bsc_2012/modules/Statistik für Biowissenschaften I.md
-      - bioinf_bsc_2012/modules/Statistik für Biowissenschaften II.md
+    - Modulbeschreibungen: bioinf_bsc_2012/module_explanations.md
+    - bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen – Praktikum.md
+    - bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen.md
+    - bioinf_bsc_2012/modules/Algorithmische Bioinformatik.md
+    - bioinf_bsc_2012/modules/Allgemeine Biologie.md
+    - bioinf_bsc_2012/modules/Allgemeine Chemie.md
+    - bioinf_bsc_2012/modules/Genetik und Genomforschung.md
+    - bioinf_bsc_2012/modules/Informatik A.md
+    - bioinf_bsc_2012/modules/Informatik B.md
+    - bioinf_bsc_2012/modules/Mathematik für Bioinformatiker I.md
+    - bioinf_bsc_2012/modules/Mathematik für Bioinformatiker II.md
+    - bioinf_bsc_2012/modules/Medizinische Physiologie.md
+    - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie I.md
+    - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie II.md
+    - bioinf_bsc_2012/modules/Molekularbiologie und Biochemie III.md
+    - bioinf_bsc_2012/modules/Neurobiologie.md
+    - bioinf_bsc_2012/modules/Projektmanagement im Softwarebereich.md
+    - bioinf_bsc_2012/modules/Statistik für Biowissenschaften I.md
+    - bioinf_bsc_2012/modules/Statistik für Biowissenschaften II.md
   - Bioinformatik Msc 2019:
-    - bioinf_msc_2019/home.md
+    - Übersicht: bioinf_msc_2019/home.md
     - Studien- und Prüfungsordnung: bioinf_msc_2019/spo.md
-    - Modulbeschreibungen:
-      - bioinf_msc_2019/module_explanations.md
-      - bioinf_msc_2019/modules/Advanced Algorithms for Bioinformatics.md
-      - bioinf_msc_2019/modules/Advanced Biometrical Methods.md
-      - bioinf_msc_2019/modules/Advanced Network Analysis.md
-      - bioinf_msc_2019/modules/Applied Machine Learning in Bioinformatics.md
-      - bioinf_msc_2019/modules/Applied Sequence Analysis.md
-      - bioinf_msc_2019/modules/Big Data Analysis in Bioinformatics.md
-      - bioinf_msc_2019/modules/Biodiversity and Evolution.md
-      - bioinf_msc_2019/modules/Complex Data Analysis in Physiology.md
-      - bioinf_msc_2019/modules/Complex Systems in Bioinformatics.md
-      - bioinf_msc_2019/modules/Complex Systems in Biomedical Applications.md
-      - bioinf_msc_2019/modules/Computational Systems Biology.md
-      - bioinf_msc_2019/modules/Computer-Aided Drug Design.md
-      - bioinf_msc_2019/modules/Current research topics in Bioinformatics A.md
-      - bioinf_msc_2019/modules/Current research topics in Bioinformatics B.md
-      - bioinf_msc_2019/modules/Current research topics in Bioinformatics C.md
-      - bioinf_msc_2019/modules/Current topics in cell-physiology.md
-      - bioinf_msc_2019/modules/Current topics in medical genomics.md
-      - bioinf_msc_2019/modules/Current topics in structural bioinformatics.md
-      - bioinf_msc_2019/modules/Environmental metagenomics.md
-      - bioinf_msc_2019/modules/Ethics and Policy Questions.md
-      - bioinf_msc_2019/modules/Foundations in Bio-Medicine.md
-      - bioinf_msc_2019/modules/Foundations in Computer Science.md
-      - bioinf_msc_2019/modules/Foundations in Mathematics and Statistics.md
-      - bioinf_msc_2019/modules/Human Evolution.md
-      - bioinf_msc_2019/modules/Introduction to Focus Areas.md
-      - bioinf_msc_2019/modules/Machine Learning in Bioinformatics.md
-      - bioinf_msc_2019/modules/Medical Bioinformatics.md
-      - bioinf_msc_2019/modules/Methodology for clinical trials.md
-      - bioinf_msc_2019/modules/Methods in Life Sciences.md
-      - bioinf_msc_2019/modules/Research Internship.md
-      - bioinf_msc_2019/modules/Selected topics in Bioinformatics A.md
-      - bioinf_msc_2019/modules/Selected topics in Bioinformatics B.md
-      - bioinf_msc_2019/modules/Special aspects of Bioinformatics A.md
-      - bioinf_msc_2019/modules/Special aspects of Bioinformatics B.md
-      - bioinf_msc_2019/modules/Special aspects of Bioinformatics C.md
-      - bioinf_msc_2019/modules/Structural Bioinformatics.md
+    - Modulbeschreibungen: bioinf_msc_2019/module_explanations.md
+    - bioinf_msc_2019/modules/Advanced Algorithms for Bioinformatics.md
+    - bioinf_msc_2019/modules/Advanced Biometrical Methods.md
+    - bioinf_msc_2019/modules/Advanced Network Analysis.md
+    - bioinf_msc_2019/modules/Applied Machine Learning in Bioinformatics.md
+    - bioinf_msc_2019/modules/Applied Sequence Analysis.md
+    - bioinf_msc_2019/modules/Big Data Analysis in Bioinformatics.md
+    - bioinf_msc_2019/modules/Biodiversity and Evolution.md
+    - bioinf_msc_2019/modules/Complex Data Analysis in Physiology.md
+    - bioinf_msc_2019/modules/Complex Systems in Bioinformatics.md
+    - bioinf_msc_2019/modules/Complex Systems in Biomedical Applications.md
+    - bioinf_msc_2019/modules/Computational Systems Biology.md
+    - bioinf_msc_2019/modules/Computer-Aided Drug Design.md
+    - bioinf_msc_2019/modules/Current research topics in Bioinformatics A.md
+    - bioinf_msc_2019/modules/Current research topics in Bioinformatics B.md
+    - bioinf_msc_2019/modules/Current research topics in Bioinformatics C.md
+    - bioinf_msc_2019/modules/Current topics in cell-physiology.md
+    - bioinf_msc_2019/modules/Current topics in medical genomics.md
+    - bioinf_msc_2019/modules/Current topics in structural bioinformatics.md
+    - bioinf_msc_2019/modules/Environmental metagenomics.md
+    - bioinf_msc_2019/modules/Ethics and Policy Questions.md
+    - bioinf_msc_2019/modules/Foundations in Bio-Medicine.md
+    - bioinf_msc_2019/modules/Foundations in Computer Science.md
+    - bioinf_msc_2019/modules/Foundations in Mathematics and Statistics.md
+    - bioinf_msc_2019/modules/Human Evolution.md
+    - bioinf_msc_2019/modules/Introduction to Focus Areas.md
+    - bioinf_msc_2019/modules/Machine Learning in Bioinformatics.md
+    - bioinf_msc_2019/modules/Medical Bioinformatics.md
+    - bioinf_msc_2019/modules/Methodology for clinical trials.md
+    - bioinf_msc_2019/modules/Methods in Life Sciences.md
+    - bioinf_msc_2019/modules/Research Internship.md
+    - bioinf_msc_2019/modules/Selected topics in Bioinformatics A.md
+    - bioinf_msc_2019/modules/Selected topics in Bioinformatics B.md
+    - bioinf_msc_2019/modules/Special aspects of Bioinformatics A.md
+    - bioinf_msc_2019/modules/Special aspects of Bioinformatics B.md
+    - bioinf_msc_2019/modules/Special aspects of Bioinformatics C.md
+    - bioinf_msc_2019/modules/Structural Bioinformatics.md
   - Computational Sciences Msc 2016:
-    - compsci_msc_2016/home.md
+    - Übersicht: compsci_msc_2016/home.md
     - Studien- und Prüfungsordnung: compsci_msc_2016/spo.md
-    - Modulbeschreibungen:
-      - compsci_msc_2016/module_explanations.md
-      - compsci_msc_2016/modules/Complex Algorithms A.md
-      - compsci_msc_2016/modules/Complex Algorithms B.md
-      - compsci_msc_2016/modules/Computational Sciences.md
-      - compsci_msc_2016/modules/Computational Statistical Physics I A.md
-      - compsci_msc_2016/modules/Computational Statistical Physics I B.md
-      - compsci_msc_2016/modules/Computational Statistical Physics II A.md
-      - compsci_msc_2016/modules/Computational Statistical Physics II B.md
-      - compsci_msc_2016/modules/Computer Science and Data Structures A.md
-      - compsci_msc_2016/modules/Computer Science and Data Structures B.md
-      - compsci_msc_2016/modules/Computer Science and Functional Programming A.md
-      - compsci_msc_2016/modules/Computer Science and Functional Programming B.md
-      - compsci_msc_2016/modules/Computer Science and Object-Oriented Programming A.md
-      - compsci_msc_2016/modules/Computer Science and Object-oriented Programming B.md
-      - compsci_msc_2016/modules/Dynamik der Atmosphäre.md
-      - compsci_msc_2016/modules/Dynamik der Erde.md
-      - compsci_msc_2016/modules/Einführung in die Dynamik der Atmosphäre.md
-      - compsci_msc_2016/modules/Einführung in die Molekülspektroskopie.md
-      - compsci_msc_2016/modules/Einführung in die Quantenmechanik.md
-      - compsci_msc_2016/modules/Einführung in die Theoretische Chemie.md
-      - compsci_msc_2016/modules/Forschungsprojekt A.md
-      - compsci_msc_2016/modules/Forschungsprojekt B.md
-      - compsci_msc_2016/modules/Forschungsprojekt C.md
-      - compsci_msc_2016/modules/Forschungsprojekt D.md
-      - compsci_msc_2016/modules/Forschungsprojekt E.md
-      - compsci_msc_2016/modules/Forschungsseminar computational sciences.md
-      - compsci_msc_2016/modules/Grundlagen der Fernerkundung und digitalen Bildverarbeitung.md
-      - compsci_msc_2016/modules/Grundlagen der Hydro- und Klimageographie.md
-      - compsci_msc_2016/modules/Grundlagen der Synoptischen Meteorologie.md
-      - compsci_msc_2016/modules/Grundlagen von geographischen Informationssystemen.md
-      - compsci_msc_2016/modules/Introduction to Numerical Mathematics A.md
-      - compsci_msc_2016/modules/Introduction to Numerical Mathematics B.md
-      - compsci_msc_2016/modules/Klimavariabilität und -modelle.md
-      - compsci_msc_2016/modules/Markov modeling.md
-      - compsci_msc_2016/modules/Molecular simulation I.md
-      - compsci_msc_2016/modules/Molecular simulation II.md
-      - compsci_msc_2016/modules/Numerics of ODEs and numerical linear algebra A.md
-      - compsci_msc_2016/modules/Numerics of ODEs and numerical linear algebra B.md
-      - compsci_msc_2016/modules/Numerics of partial differential equations A.md
-      - compsci_msc_2016/modules/Numerics of partial differential equations B.md
-      - compsci_msc_2016/modules/Physik der Erde I.md
-      - compsci_msc_2016/modules/Physik der Erde II.md
-      - compsci_msc_2016/modules/Quantenmechanische Beschreibung von Atomen und chemischer Bindung.md
-      - compsci_msc_2016/modules/Seismik II.md
-      - compsci_msc_2016/modules/Selected topics in applied computational sciences.md
-      - compsci_msc_2016/modules/Selected topics in theoretical computational sciences.md
-      - compsci_msc_2016/modules/Synchronisierung Erde.md
-      - compsci_msc_2016/modules/Synchronisierung Mathematik.md
-      - compsci_msc_2016/modules/Theoretische Meteorologie I.md
-      - compsci_msc_2016/modules/Thermodynamik und kinetik von geologischen Prozessen.md
-      - compsci_msc_2016/modules/Wetter- und klimadiagnose.md
+    - Modulbeschreibungen: compsci_msc_2016/module_explanations.md
+    - compsci_msc_2016/modules/Complex Algorithms A.md
+    - compsci_msc_2016/modules/Complex Algorithms B.md
+    - compsci_msc_2016/modules/Computational Sciences.md
+    - compsci_msc_2016/modules/Computational Statistical Physics I A.md
+    - compsci_msc_2016/modules/Computational Statistical Physics I B.md
+    - compsci_msc_2016/modules/Computational Statistical Physics II A.md
+    - compsci_msc_2016/modules/Computational Statistical Physics II B.md
+    - compsci_msc_2016/modules/Computer Science and Data Structures A.md
+    - compsci_msc_2016/modules/Computer Science and Data Structures B.md
+    - compsci_msc_2016/modules/Computer Science and Functional Programming A.md
+    - compsci_msc_2016/modules/Computer Science and Functional Programming B.md
+    - compsci_msc_2016/modules/Computer Science and Object-Oriented Programming A.md
+    - compsci_msc_2016/modules/Computer Science and Object-oriented Programming B.md
+    - compsci_msc_2016/modules/Dynamik der Atmosphäre.md
+    - compsci_msc_2016/modules/Dynamik der Erde.md
+    - compsci_msc_2016/modules/Einführung in die Dynamik der Atmosphäre.md
+    - compsci_msc_2016/modules/Einführung in die Molekülspektroskopie.md
+    - compsci_msc_2016/modules/Einführung in die Quantenmechanik.md
+    - compsci_msc_2016/modules/Einführung in die Theoretische Chemie.md
+    - compsci_msc_2016/modules/Forschungsprojekt A.md
+    - compsci_msc_2016/modules/Forschungsprojekt B.md
+    - compsci_msc_2016/modules/Forschungsprojekt C.md
+    - compsci_msc_2016/modules/Forschungsprojekt D.md
+    - compsci_msc_2016/modules/Forschungsprojekt E.md
+    - compsci_msc_2016/modules/Forschungsseminar computational sciences.md
+    - compsci_msc_2016/modules/Grundlagen der Fernerkundung und digitalen Bildverarbeitung.md
+    - compsci_msc_2016/modules/Grundlagen der Hydro- und Klimageographie.md
+    - compsci_msc_2016/modules/Grundlagen der Synoptischen Meteorologie.md
+    - compsci_msc_2016/modules/Grundlagen von geographischen Informationssystemen.md
+    - compsci_msc_2016/modules/Introduction to Numerical Mathematics A.md
+    - compsci_msc_2016/modules/Introduction to Numerical Mathematics B.md
+    - compsci_msc_2016/modules/Klimavariabilität und -modelle.md
+    - compsci_msc_2016/modules/Markov modeling.md
+    - compsci_msc_2016/modules/Molecular simulation I.md
+    - compsci_msc_2016/modules/Molecular simulation II.md
+    - compsci_msc_2016/modules/Numerics of ODEs and numerical linear algebra A.md
+    - compsci_msc_2016/modules/Numerics of ODEs and numerical linear algebra B.md
+    - compsci_msc_2016/modules/Numerics of partial differential equations A.md
+    - compsci_msc_2016/modules/Numerics of partial differential equations B.md
+    - compsci_msc_2016/modules/Physik der Erde I.md
+    - compsci_msc_2016/modules/Physik der Erde II.md
+    - compsci_msc_2016/modules/Quantenmechanische Beschreibung von Atomen und chemischer Bindung.md
+    - compsci_msc_2016/modules/Seismik II.md
+    - compsci_msc_2016/modules/Selected topics in applied computational sciences.md
+    - compsci_msc_2016/modules/Selected topics in theoretical computational sciences.md
+    - compsci_msc_2016/modules/Synchronisierung Erde.md
+    - compsci_msc_2016/modules/Synchronisierung Mathematik.md
+    - compsci_msc_2016/modules/Theoretische Meteorologie I.md
+    - compsci_msc_2016/modules/Thermodynamik und kinetik von geologischen Prozessen.md
+    - compsci_msc_2016/modules/Wetter- und klimadiagnose.md
     - Zugangssatzung: compsci_msc_2016/zugangssatzung.md
   - Data Science Msc 2019:
-    - datasci_msc_2019/home.md
+    - Übersicht: datasci_msc_2019/home.md
     - Studien- und Prüfungsordnung: datasci_msc_2019/spo.md
-    - Modulbeschreibungen:
-      - datasci_msc_2019/module_explanations.md
-      - datasci_msc_2019/modules/Advanced Network Analysis.md
-      - datasci_msc_2019/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
-      - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in Life Sciences.md
-      - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in the Social Sciences.md
-      - datasci_msc_2019/modules/Ausgewählte Themen der Data Science Technologies.md
-      - datasci_msc_2019/modules/Big Data Analysis in Bioinformatics.md
-      - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science A.md
-      - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science B.md
-      - datasci_msc_2019/modules/Data Science in the Life Sciences.md
-      - datasci_msc_2019/modules/Data Science in the Social Sciences.md
-      - datasci_msc_2019/modules/Datenbanksysteme Data Science.md
-      - datasci_msc_2019/modules/Differentialpsychologische Ansätze in den Data Sciences.md
-      - datasci_msc_2019/modules/Einführung in die Psychoinformatik.md
-      - datasci_msc_2019/modules/Entwicklung von psychologischen Online-Interventionen.md
-      - datasci_msc_2019/modules/Ethical Foundations of Data Science.md
-      - datasci_msc_2019/modules/Forschungspraxis.md
-      - datasci_msc_2019/modules/Höhere Algorithmik.md
-      - datasci_msc_2019/modules/Introduction to Profile Areas.md
-      - datasci_msc_2019/modules/Künstliche Intelligenz.md
-      - datasci_msc_2019/modules/Machine Learning for Data Science.md
-      - datasci_msc_2019/modules/Machine Learning in Bioinformatics.md
-      - datasci_msc_2019/modules/Mobile Mental Health.md
-      - datasci_msc_2019/modules/Mobilkommunikation.md
-      - datasci_msc_2019/modules/Mustererkennung.md
-      - datasci_msc_2019/modules/Natural Language Processing.md
-      - datasci_msc_2019/modules/Netzbasierte Informationssysteme.md
-      - datasci_msc_2019/modules/Neurocognitive Methods and Programming for Data Science.md
-      - datasci_msc_2019/modules/Programming for Data Science.md
-      - datasci_msc_2019/modules/Rechnersicherheit.md
-      - datasci_msc_2019/modules/Softwareprojekt Data Science.md
-      - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in Life Sciences.md
-      - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in the Social Sciences.md
-      - datasci_msc_2019/modules/Spezielle Aspekte der Data Science Technologies.md
-      - datasci_msc_2019/modules/Spezielle Aspekte der Datenverwaltung.md
-      - datasci_msc_2019/modules/Statistics for Data Science.md
-      - datasci_msc_2019/modules/Telematik.md
-      - datasci_msc_2019/modules/Verteilte Systeme.md
+    - Modulbeschreibungen: datasci_msc_2019/module_explanations.md
+    - datasci_msc_2019/modules/Advanced Network Analysis.md
+    - datasci_msc_2019/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
+    - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in Life Sciences.md
+    - datasci_msc_2019/modules/Ausgewählte Themen der Data Science in the Social Sciences.md
+    - datasci_msc_2019/modules/Ausgewählte Themen der Data Science Technologies.md
+    - datasci_msc_2019/modules/Big Data Analysis in Bioinformatics.md
+    - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science A.md
+    - datasci_msc_2019/modules/Cognitive Neuroscience for Data Science B.md
+    - datasci_msc_2019/modules/Data Science in the Life Sciences.md
+    - datasci_msc_2019/modules/Data Science in the Social Sciences.md
+    - datasci_msc_2019/modules/Datenbanksysteme Data Science.md
+    - datasci_msc_2019/modules/Differentialpsychologische Ansätze in den Data Sciences.md
+    - datasci_msc_2019/modules/Einführung in die Psychoinformatik.md
+    - datasci_msc_2019/modules/Entwicklung von psychologischen Online-Interventionen.md
+    - datasci_msc_2019/modules/Ethical Foundations of Data Science.md
+    - datasci_msc_2019/modules/Forschungspraxis.md
+    - datasci_msc_2019/modules/Höhere Algorithmik.md
+    - datasci_msc_2019/modules/Introduction to Profile Areas.md
+    - datasci_msc_2019/modules/Künstliche Intelligenz.md
+    - datasci_msc_2019/modules/Machine Learning for Data Science.md
+    - datasci_msc_2019/modules/Machine Learning in Bioinformatics.md
+    - datasci_msc_2019/modules/Mobile Mental Health.md
+    - datasci_msc_2019/modules/Mobilkommunikation.md
+    - datasci_msc_2019/modules/Mustererkennung.md
+    - datasci_msc_2019/modules/Natural Language Processing.md
+    - datasci_msc_2019/modules/Netzbasierte Informationssysteme.md
+    - datasci_msc_2019/modules/Neurocognitive Methods and Programming for Data Science.md
+    - datasci_msc_2019/modules/Programming for Data Science.md
+    - datasci_msc_2019/modules/Rechnersicherheit.md
+    - datasci_msc_2019/modules/Softwareprojekt Data Science.md
+    - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in Life Sciences.md
+    - datasci_msc_2019/modules/Spezielle Aspekte der Data Science in the Social Sciences.md
+    - datasci_msc_2019/modules/Spezielle Aspekte der Data Science Technologies.md
+    - datasci_msc_2019/modules/Spezielle Aspekte der Datenverwaltung.md
+    - datasci_msc_2019/modules/Statistics for Data Science.md
+    - datasci_msc_2019/modules/Telematik.md
+    - datasci_msc_2019/modules/Verteilte Systeme.md
   - Data Science Msc 2021:
-    - datasci_msc_2021/home.md
+    - Übersicht: datasci_msc_2021/home.md
     - Studien- und Prüfungsordnung: datasci_msc_2021/spo.md
-    - Modulbeschreibungen:
-      - datasci_msc_2021/module_explanations.md
-      - datasci_msc_2021/modules/Aktuelle Forschungsthemen der Data Science in Life Sciences.md
-      - datasci_msc_2021/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
-      - datasci_msc_2021/modules/Applied Machine Learning in Bioinformatics.md
-      - datasci_msc_2021/modules/Ausgewählte Themen der Data Science in Life Sciences.md
-      - datasci_msc_2021/modules/Ausgewählte Themen der Data Science Technologies A.md
-      - datasci_msc_2021/modules/Ausgewählte Themen der Data Science Technologies B.md
-      - datasci_msc_2021/modules/Big Data Analysis in Bioinformatics.md
-      - datasci_msc_2021/modules/Data Science in Life Sciences.md
-      - datasci_msc_2021/modules/Datenbanksysteme Data Science.md
-      - datasci_msc_2021/modules/Ethical Foundations of Data Science.md
-      - datasci_msc_2021/modules/Forschungspraxis.md
-      - datasci_msc_2021/modules/Höhere Algorithmik.md
-      - datasci_msc_2021/modules/Interdisziplinäre Zugänge im Rahmen von Data Science A.md
-      - datasci_msc_2021/modules/Interdisziplinäre Zugänge im Rahmen von Data Science B.md
-      - datasci_msc_2021/modules/Introduction to Profile Areas.md
-      - datasci_msc_2021/modules/Künstliche Intelligenz.md
-      - datasci_msc_2021/modules/Machine Learning for Data Science.md
-      - datasci_msc_2021/modules/Machine Learning in Bioinformatics.md
-      - datasci_msc_2021/modules/Masterseminar Data Science in Life Sciences.md
-      - datasci_msc_2021/modules/Masterseminar der Data Science Technologies.md
-      - datasci_msc_2021/modules/Mobilkommunikation.md
-      - datasci_msc_2021/modules/Mustererkennung.md
-      - datasci_msc_2021/modules/Netzbasierte Informationssysteme.md
-      - datasci_msc_2021/modules/Programming for Data Science.md
-      - datasci_msc_2021/modules/Rechnersicherheit.md
-      - datasci_msc_2021/modules/Softwareprojekt Data Science A.md
-      - datasci_msc_2021/modules/Softwareprojekt Data Science B.md
-      - datasci_msc_2021/modules/Spezielle Aspekte der Data Science in Life Sciences.md
-      - datasci_msc_2021/modules/Spezielle Aspekte der Data Science Technologies.md
-      - datasci_msc_2021/modules/Spezielle Aspekte der Datenverwaltung.md
-      - datasci_msc_2021/modules/Statistics for Data Science.md
-      - datasci_msc_2021/modules/Telematik.md
-      - datasci_msc_2021/modules/Verteilte Systeme.md
+    - Modulbeschreibungen: datasci_msc_2021/module_explanations.md
+    - datasci_msc_2021/modules/Aktuelle Forschungsthemen der Data Science in Life Sciences.md
+    - datasci_msc_2021/modules/Aktuelle Forschungsthemen der Data Science Technologies.md
+    - datasci_msc_2021/modules/Applied Machine Learning in Bioinformatics.md
+    - datasci_msc_2021/modules/Ausgewählte Themen der Data Science in Life Sciences.md
+    - datasci_msc_2021/modules/Ausgewählte Themen der Data Science Technologies A.md
+    - datasci_msc_2021/modules/Ausgewählte Themen der Data Science Technologies B.md
+    - datasci_msc_2021/modules/Big Data Analysis in Bioinformatics.md
+    - datasci_msc_2021/modules/Data Science in Life Sciences.md
+    - datasci_msc_2021/modules/Datenbanksysteme Data Science.md
+    - datasci_msc_2021/modules/Ethical Foundations of Data Science.md
+    - datasci_msc_2021/modules/Forschungspraxis.md
+    - datasci_msc_2021/modules/Höhere Algorithmik.md
+    - datasci_msc_2021/modules/Interdisziplinäre Zugänge im Rahmen von Data Science A.md
+    - datasci_msc_2021/modules/Interdisziplinäre Zugänge im Rahmen von Data Science B.md
+    - datasci_msc_2021/modules/Introduction to Profile Areas.md
+    - datasci_msc_2021/modules/Künstliche Intelligenz.md
+    - datasci_msc_2021/modules/Machine Learning for Data Science.md
+    - datasci_msc_2021/modules/Machine Learning in Bioinformatics.md
+    - datasci_msc_2021/modules/Masterseminar Data Science in Life Sciences.md
+    - datasci_msc_2021/modules/Masterseminar der Data Science Technologies.md
+    - datasci_msc_2021/modules/Mobilkommunikation.md
+    - datasci_msc_2021/modules/Mustererkennung.md
+    - datasci_msc_2021/modules/Netzbasierte Informationssysteme.md
+    - datasci_msc_2021/modules/Programming for Data Science.md
+    - datasci_msc_2021/modules/Rechnersicherheit.md
+    - datasci_msc_2021/modules/Softwareprojekt Data Science A.md
+    - datasci_msc_2021/modules/Softwareprojekt Data Science B.md
+    - datasci_msc_2021/modules/Spezielle Aspekte der Data Science in Life Sciences.md
+    - datasci_msc_2021/modules/Spezielle Aspekte der Data Science Technologies.md
+    - datasci_msc_2021/modules/Spezielle Aspekte der Datenverwaltung.md
+    - datasci_msc_2021/modules/Statistics for Data Science.md
+    - datasci_msc_2021/modules/Telematik.md
+    - datasci_msc_2021/modules/Verteilte Systeme.md
   - Informatik Bsc 2014:
-    - inf_bsc_2014/home.md
+    - Übersicht: inf_bsc_2014/home.md
     - Studien- und Prüfungsordnung: inf_bsc_2014/spo.md
-    - Modulbeschreibungen:
-      - inf_bsc_2014/module_explanations.md
-      - inf_bsc_2014/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
-      - inf_bsc_2014/modules/Analysis für Informatik.md
-      - inf_bsc_2014/modules/Arbeits- und Lebensmethodik.md
-      - inf_bsc_2014/modules/Auswirkungen der Informatik.md
-      - inf_bsc_2014/modules/Basisdidaktik Informatik.md
-      - inf_bsc_2014/modules/Berufsbezogenes Praktikum Informatik.md
-      - inf_bsc_2014/modules/Datenbanksysteme.md
-      - inf_bsc_2014/modules/Existenzgründung in der IT-Industrie.md
-      - inf_bsc_2014/modules/Forschungspraktikum.md
-      - inf_bsc_2014/modules/Funktionale Programmierung.md
-      - inf_bsc_2014/modules/Gesellschaftliche Aspekte der Informatik.md
-      - inf_bsc_2014/modules/Grundlagen der Technischen Informatik.md
-      - inf_bsc_2014/modules/Grundlagen der Theoretischen Informatik.md
-      - inf_bsc_2014/modules/Grundlagen des Managements von IT-Projekten.md
-      - inf_bsc_2014/modules/Lineare Algebra für Informatik.md
-      - inf_bsc_2014/modules/Logik und Diskrete Mathematik.md
-      - inf_bsc_2014/modules/Nichtsequentielle und verteilte Programmierung.md
-      - inf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md
-      - inf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse.md
-      - inf_bsc_2014/modules/Planung, Durchführung und Analyse eines Tutoriums in der Informatik.md
-      - inf_bsc_2014/modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md
-      - inf_bsc_2014/modules/Rechtliche Aspekte der Informatik.md
-      - inf_bsc_2014/modules/Softwareprojekt A.md
-      - inf_bsc_2014/modules/Softwareprojekt B.md
-      - inf_bsc_2014/modules/Softwaretechnik.md
-      - inf_bsc_2014/modules/Systemverwaltung.md
-      - inf_bsc_2014/modules/Wissenschaftliches Arbeiten Praktische Informatik.md
-      - inf_bsc_2014/modules/Wissenschaftliches Arbeiten Technische Informatik.md
-      - inf_bsc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik.md
-      - inf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md
+    - Modulbeschreibungen: inf_bsc_2014/module_explanations.md
+    - inf_bsc_2014/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
+    - inf_bsc_2014/modules/Analysis für Informatik.md
+    - inf_bsc_2014/modules/Arbeits- und Lebensmethodik.md
+    - inf_bsc_2014/modules/Auswirkungen der Informatik.md
+    - inf_bsc_2014/modules/Basisdidaktik Informatik.md
+    - inf_bsc_2014/modules/Berufsbezogenes Praktikum Informatik.md
+    - inf_bsc_2014/modules/Datenbanksysteme.md
+    - inf_bsc_2014/modules/Existenzgründung in der IT-Industrie.md
+    - inf_bsc_2014/modules/Forschungspraktikum.md
+    - inf_bsc_2014/modules/Funktionale Programmierung.md
+    - inf_bsc_2014/modules/Gesellschaftliche Aspekte der Informatik.md
+    - inf_bsc_2014/modules/Grundlagen der Technischen Informatik.md
+    - inf_bsc_2014/modules/Grundlagen der Theoretischen Informatik.md
+    - inf_bsc_2014/modules/Grundlagen des Managements von IT-Projekten.md
+    - inf_bsc_2014/modules/Lineare Algebra für Informatik.md
+    - inf_bsc_2014/modules/Logik und Diskrete Mathematik.md
+    - inf_bsc_2014/modules/Nichtsequentielle und verteilte Programmierung.md
+    - inf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md
+    - inf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse.md
+    - inf_bsc_2014/modules/Planung, Durchführung und Analyse eines Tutoriums in der Informatik.md
+    - inf_bsc_2014/modules/Rechnerarchitektur, Betriebs- und Kommunikationssysteme.md
+    - inf_bsc_2014/modules/Rechtliche Aspekte der Informatik.md
+    - inf_bsc_2014/modules/Softwareprojekt A.md
+    - inf_bsc_2014/modules/Softwareprojekt B.md
+    - inf_bsc_2014/modules/Softwaretechnik.md
+    - inf_bsc_2014/modules/Systemverwaltung.md
+    - inf_bsc_2014/modules/Wissenschaftliches Arbeiten Praktische Informatik.md
+    - inf_bsc_2014/modules/Wissenschaftliches Arbeiten Technische Informatik.md
+    - inf_bsc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik.md
+    - inf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md
   - Informatik Bsc 2023:
-    - inf_bsc_2023/home.md
+    - Übersicht: inf_bsc_2023/home.md
     - Studien- und Prüfungsordnung: inf_bsc_2023/spo.md
-    - Modulbeschreibungen:
-      - inf_bsc_2023/module_explanations.md
-      - inf_bsc_2023/modules/Aktuelle Themen in der Informatik.md
-      - inf_bsc_2023/modules/Algorithmen und Datenstrukturen.md
-      - inf_bsc_2023/modules/Analysis für Informatik.md
-      - inf_bsc_2023/modules/Angewandte Biometrie.md
-      - inf_bsc_2023/modules/Arbeits- und Lebensmethodik.md
-      - inf_bsc_2023/modules/Architektur eingebetteter Systeme.md
-      - inf_bsc_2023/modules/Auswirkungen der Informatik.md
-      - inf_bsc_2023/modules/Berufsbezogenes Praktikum Informatik.md
-      - inf_bsc_2023/modules/Betriebs- und Kommunikationssysteme.md
-      - inf_bsc_2023/modules/Datenbanksysteme.md
-      - inf_bsc_2023/modules/Datenvisualisierung.md
-      - inf_bsc_2023/modules/Diskrete Strukturen für Informatik.md
-      - inf_bsc_2023/modules/Forschungspraktikum.md
-      - inf_bsc_2023/modules/Funktionale Programmierung.md
-      - inf_bsc_2023/modules/Gender and Diversity.md
-      - inf_bsc_2023/modules/Grundlagen der Theoretischen Informatik.md
-      - inf_bsc_2023/modules/Grundlagen des Datenschutzrechts.md
-      - inf_bsc_2023/modules/Informationssicherheit.md
-      - inf_bsc_2023/modules/Informationstheorie.md
-      - inf_bsc_2023/modules/Konzepte der Programmierung.md
-      - inf_bsc_2023/modules/Lineare Algebra für Informatik.md
-      - inf_bsc_2023/modules/Maschinelles Lernen.md
-      - inf_bsc_2023/modules/Mensch-Computer Interaktion.md
-      - inf_bsc_2023/modules/Nebenläufige, parallele und verteilte Programmierung.md
-      - inf_bsc_2023/modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md
-      - inf_bsc_2023/modules/Praktiken professioneller Softwareentwicklung.md
-      - inf_bsc_2023/modules/Programmierpraktikum.md
-      - inf_bsc_2023/modules/Projektmanagement in agilen Umgebungen.md
-      - inf_bsc_2023/modules/Rechnerarchitektur.md
-      - inf_bsc_2023/modules/Softwareprojekt.md
-      - inf_bsc_2023/modules/Softwaretechnik.md
-      - inf_bsc_2023/modules/Statistik für Informatik.md
-      - inf_bsc_2023/modules/Systemverwaltung.md
-      - inf_bsc_2023/modules/Vertiefte Aspekte der Informatik.md
-      - inf_bsc_2023/modules/Vertiefung Theoretische Informatik.md
-      - inf_bsc_2023/modules/Wissenschaftliches Arbeiten in der Informatik.md
+    - Modulbeschreibungen: inf_bsc_2023/module_explanations.md
+    - inf_bsc_2023/modules/Aktuelle Themen in der Informatik.md
+    - inf_bsc_2023/modules/Algorithmen und Datenstrukturen.md
+    - inf_bsc_2023/modules/Analysis für Informatik.md
+    - inf_bsc_2023/modules/Angewandte Biometrie.md
+    - inf_bsc_2023/modules/Arbeits- und Lebensmethodik.md
+    - inf_bsc_2023/modules/Architektur eingebetteter Systeme.md
+    - inf_bsc_2023/modules/Auswirkungen der Informatik.md
+    - inf_bsc_2023/modules/Berufsbezogenes Praktikum Informatik.md
+    - inf_bsc_2023/modules/Betriebs- und Kommunikationssysteme.md
+    - inf_bsc_2023/modules/Datenbanksysteme.md
+    - inf_bsc_2023/modules/Datenvisualisierung.md
+    - inf_bsc_2023/modules/Diskrete Strukturen für Informatik.md
+    - inf_bsc_2023/modules/Forschungspraktikum.md
+    - inf_bsc_2023/modules/Funktionale Programmierung.md
+    - inf_bsc_2023/modules/Gender and Diversity.md
+    - inf_bsc_2023/modules/Grundlagen der Theoretischen Informatik.md
+    - inf_bsc_2023/modules/Grundlagen des Datenschutzrechts.md
+    - inf_bsc_2023/modules/Informationssicherheit.md
+    - inf_bsc_2023/modules/Informationstheorie.md
+    - inf_bsc_2023/modules/Konzepte der Programmierung.md
+    - inf_bsc_2023/modules/Lineare Algebra für Informatik.md
+    - inf_bsc_2023/modules/Maschinelles Lernen.md
+    - inf_bsc_2023/modules/Mensch-Computer Interaktion.md
+    - inf_bsc_2023/modules/Nebenläufige, parallele und verteilte Programmierung.md
+    - inf_bsc_2023/modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md
+    - inf_bsc_2023/modules/Praktiken professioneller Softwareentwicklung.md
+    - inf_bsc_2023/modules/Programmierpraktikum.md
+    - inf_bsc_2023/modules/Projektmanagement in agilen Umgebungen.md
+    - inf_bsc_2023/modules/Rechnerarchitektur.md
+    - inf_bsc_2023/modules/Softwareprojekt.md
+    - inf_bsc_2023/modules/Softwaretechnik.md
+    - inf_bsc_2023/modules/Statistik für Informatik.md
+    - inf_bsc_2023/modules/Systemverwaltung.md
+    - inf_bsc_2023/modules/Vertiefte Aspekte der Informatik.md
+    - inf_bsc_2023/modules/Vertiefung Theoretische Informatik.md
+    - inf_bsc_2023/modules/Wissenschaftliches Arbeiten in der Informatik.md
     - Exemplarischer Studienverlaufsplan: inf_bsc_2023/anlage2.md
   - Informatik Lehramt Bsc 2014:
-    - lehrinf_bsc_2014/home.md
+    - Übersicht: lehrinf_bsc_2014/home.md
     - Studien- und Prüfungsordnung: lehrinf_bsc_2014/spo.md
     - Modulebeschreibungen:
       - lehrinf_bsc_2014/module_explanations.md
@@ -437,283 +429,274 @@ nav:
       - lehrinf_bsc_2014/modules/Systemverwaltung.md
       - lehrinf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md
   - Informatik Lehramt Bsc 2015:
-    - lehrinf_bsc_2015/home.md
+    - Übersicht: lehrinf_bsc_2015/home.md
     - Studien- und Prüfungsordnung: lehrinf_bsc_2015/spo.md
-    - Modulebeschreibungen:
-      - lehrinf_bsc_2015/module_explanations.md
-      - lehrinf_bsc_2015/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
-      - lehrinf_bsc_2015/modules/Auswirkung der Informatik.md
-      - lehrinf_bsc_2015/modules/Betriebs- und Kommunikationssysteme.md
-      - lehrinf_bsc_2015/modules/Datenbanksysteme.md
-      - lehrinf_bsc_2015/modules/Forschungspraktikum.md
-      - lehrinf_bsc_2015/modules/Funktionale Programmierung.md
-      - lehrinf_bsc_2015/modules/Gesellschaftliche Aspekte der Informatik.md
-      - lehrinf_bsc_2015/modules/Grundlagen der Technischen Informatik.md
-      - lehrinf_bsc_2015/modules/Grundlagen der Theoretischen Informatik.md
-      - lehrinf_bsc_2015/modules/Logik und Diskrete Mathematik für Lehramt.md
-      - lehrinf_bsc_2015/modules/Nichtsequentielle und verteilte Programmierung für Lehramt.md
-      - lehrinf_bsc_2015/modules/Objektorientierte Programmierung.md
-      - lehrinf_bsc_2015/modules/Rechnerarchitektur.md
-      - lehrinf_bsc_2015/modules/Softwareprojekt B.md
-      - lehrinf_bsc_2015/modules/Softwaretechnik.md
-      - lehrinf_bsc_2015/modules/Systemverwaltung.md
-      - lehrinf_bsc_2015/modules/Wissenschaftliches Arbeiten in der Informatik.md
+    - Modulebeschreibungen: lehrinf_bsc_2015/module_explanations.md
+    - lehrinf_bsc_2015/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md
+    - lehrinf_bsc_2015/modules/Auswirkung der Informatik.md
+    - lehrinf_bsc_2015/modules/Betriebs- und Kommunikationssysteme.md
+    - lehrinf_bsc_2015/modules/Datenbanksysteme.md
+    - lehrinf_bsc_2015/modules/Forschungspraktikum.md
+    - lehrinf_bsc_2015/modules/Funktionale Programmierung.md
+    - lehrinf_bsc_2015/modules/Gesellschaftliche Aspekte der Informatik.md
+    - lehrinf_bsc_2015/modules/Grundlagen der Technischen Informatik.md
+    - lehrinf_bsc_2015/modules/Grundlagen der Theoretischen Informatik.md
+    - lehrinf_bsc_2015/modules/Logik und Diskrete Mathematik für Lehramt.md
+    - lehrinf_bsc_2015/modules/Nichtsequentielle und verteilte Programmierung für Lehramt.md
+    - lehrinf_bsc_2015/modules/Objektorientierte Programmierung.md
+    - lehrinf_bsc_2015/modules/Rechnerarchitektur.md
+    - lehrinf_bsc_2015/modules/Softwareprojekt B.md
+    - lehrinf_bsc_2015/modules/Softwaretechnik.md
+    - lehrinf_bsc_2015/modules/Systemverwaltung.md
+    - lehrinf_bsc_2015/modules/Wissenschaftliches Arbeiten in der Informatik.md
   - Informatik 30LP Bsc 2017:
-    - inf_30lp_bsc_2017/home.md
+    - Übersicht: inf_30lp_bsc_2017/home.md
     - Studien- und Prüfungsordnung: inf_30lp_bsc_2017/spo.md
-    - Modulebeschreibungen:
-      - inf_30lp_bsc_2017/module_explanations.md
-      - inf_30lp_bsc_2017/modules/Auswirkungen der Informatik.md
-      - inf_30lp_bsc_2017/modules/Datenbanksysteme für Nebenfach.md
-      - inf_30lp_bsc_2017/modules/Grundlagen der theoretischen Informatik für Nebenfach.md
-      - inf_30lp_bsc_2017/modules/Informatik A.md
-      - inf_30lp_bsc_2017/modules/Informatik B.md
-      - inf_30lp_bsc_2017/modules/Nichtsequentielle Programmierung.md
-      - inf_30lp_bsc_2017/modules/Verteilte Programmierung.md
+    - Modulebeschreibungen: inf_30lp_bsc_2017/module_explanations.md
+    - inf_30lp_bsc_2017/modules/Auswirkungen der Informatik.md
+    - inf_30lp_bsc_2017/modules/Datenbanksysteme für Nebenfach.md
+    - inf_30lp_bsc_2017/modules/Grundlagen der theoretischen Informatik für Nebenfach.md
+    - inf_30lp_bsc_2017/modules/Informatik A.md
+    - inf_30lp_bsc_2017/modules/Informatik B.md
+    - inf_30lp_bsc_2017/modules/Nichtsequentielle Programmierung.md
+    - inf_30lp_bsc_2017/modules/Verteilte Programmierung.md
   - Informatik Msc 2014:
-    - inf_msc_2014/home.md
+    - Übersicht: inf_msc_2014/home.md
     - Studien- und Prüfungsordnung: inf_msc_2014/spo.md
-    - Modulebeschreibungen:
-      - inf_msc_2014/module_explanations.md
-      - inf_msc_2014/modules/Aktuelle Forschungsthemen der Praktischen Informatik.md
-      - inf_msc_2014/modules/Aktuelle Forschungsthemen der Technischen Informatik.md
-      - inf_msc_2014/modules/Aktuelle Forschungsthemen der Theoretischen Informatik.md
-      - inf_msc_2014/modules/Algorithmische Geometrie.md
-      - inf_msc_2014/modules/Ausgewählte Themen der Praktischen Informatik.md
-      - inf_msc_2014/modules/Ausgewählte Themen der Technischen Informatik.md
-      - inf_msc_2014/modules/Ausgewählte Themen der Theoretischen Informatik.md
-      - inf_msc_2014/modules/Betriebssysteme.md
-      - inf_msc_2014/modules/Bildverarbeitung.md
-      - inf_msc_2014/modules/Computer-Vision.md
-      - inf_msc_2014/modules/Computergrafik.md
-      - inf_msc_2014/modules/Datenbanktechnologie.md
-      - inf_msc_2014/modules/Empirische Bewertung in der Informatik.md
-      - inf_msc_2014/modules/Fortgeschrittene Themen der Theoretischen Informatik.md
-      - inf_msc_2014/modules/Grundlagen des Softwaretestens.md
-      - inf_msc_2014/modules/Höhere Algorithmik.md
-      - inf_msc_2014/modules/Kryptographie und Sicherheit in Verteilten Systemen.md
-      - inf_msc_2014/modules/Künstliche Intelligenz.md
-      - inf_msc_2014/modules/Medizinische Bildverarbeitung.md
-      - inf_msc_2014/modules/Mikroprozessor-Praktikum.md
-      - inf_msc_2014/modules/Mobilkommunikation.md
-      - inf_msc_2014/modules/Modelchecking.md
-      - inf_msc_2014/modules/Modellgetriebene Softwareentwicklung.md
-      - inf_msc_2014/modules/Mustererkennung.md
-      - inf_msc_2014/modules/Netzbasierte Informationssysteme.md
-      - inf_msc_2014/modules/Praktiken professioneller Softwareentwicklung.md
-      - inf_msc_2014/modules/Projektmanagement – Vertiefung.md
-      - inf_msc_2014/modules/Projektmanagement.md
-      - inf_msc_2014/modules/Rechnersicherheit.md
-      - inf_msc_2014/modules/Robotik.md
-      - inf_msc_2014/modules/Semantik von Programmiersprachen.md
-      - inf_msc_2014/modules/Semantisches Geschäftsprozessmanagement.md
-      - inf_msc_2014/modules/Softwareprojekt – Praktische Informatik A.md
-      - inf_msc_2014/modules/Softwareprojekt – Praktische Informatik B.md
-      - inf_msc_2014/modules/Softwareprojekt – Technische Informatik A.md
-      - inf_msc_2014/modules/Softwareprojekt – Technische Informatik B.md
-      - inf_msc_2014/modules/Softwareprojekt – Theoretische Informatik A.md
-      - inf_msc_2014/modules/Softwareprojekt – Theoretische Informatik B.md
-      - inf_msc_2014/modules/Softwareprozesse.md
-      - inf_msc_2014/modules/Spezielle Aspekte der Datenverwaltung.md
-      - inf_msc_2014/modules/Spezielle Aspekte der Praktischen Informatik.md
-      - inf_msc_2014/modules/Spezielle Aspekte der Softwareentwicklung.md
-      - inf_msc_2014/modules/Spezielle Aspekte der Technischen Informatik.md
-      - inf_msc_2014/modules/Spezielle Aspekte der Theoretischen Informatik.md
-      - inf_msc_2014/modules/Telematik.md
-      - inf_msc_2014/modules/Verteilte Systeme.md
-      - inf_msc_2014/modules/Wissenschaftliches Arbeiten Praktische Informatik A.md
-      - inf_msc_2014/modules/Wissenschaftliches Arbeiten Praktische Informatik B.md
-      - inf_msc_2014/modules/Wissenschaftliches Arbeiten Technische Informatik A.md
-      - inf_msc_2014/modules/Wissenschaftliches Arbeiten Technische Informatik B.md
-      - inf_msc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik A.md
-      - inf_msc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik B.md
-      - inf_msc_2014/modules/XML-Technologien.md
-      - inf_msc_2014/modules/Übersetzerbau.md
+    - Modulebeschreibungen: inf_msc_2014/module_explanations.md
+    - inf_msc_2014/modules/Aktuelle Forschungsthemen der Praktischen Informatik.md
+    - inf_msc_2014/modules/Aktuelle Forschungsthemen der Technischen Informatik.md
+    - inf_msc_2014/modules/Aktuelle Forschungsthemen der Theoretischen Informatik.md
+    - inf_msc_2014/modules/Algorithmische Geometrie.md
+    - inf_msc_2014/modules/Ausgewählte Themen der Praktischen Informatik.md
+    - inf_msc_2014/modules/Ausgewählte Themen der Technischen Informatik.md
+    - inf_msc_2014/modules/Ausgewählte Themen der Theoretischen Informatik.md
+    - inf_msc_2014/modules/Betriebssysteme.md
+    - inf_msc_2014/modules/Bildverarbeitung.md
+    - inf_msc_2014/modules/Computer-Vision.md
+    - inf_msc_2014/modules/Computergrafik.md
+    - inf_msc_2014/modules/Datenbanktechnologie.md
+    - inf_msc_2014/modules/Empirische Bewertung in der Informatik.md
+    - inf_msc_2014/modules/Fortgeschrittene Themen der Theoretischen Informatik.md
+    - inf_msc_2014/modules/Grundlagen des Softwaretestens.md
+    - inf_msc_2014/modules/Höhere Algorithmik.md
+    - inf_msc_2014/modules/Kryptographie und Sicherheit in Verteilten Systemen.md
+    - inf_msc_2014/modules/Künstliche Intelligenz.md
+    - inf_msc_2014/modules/Medizinische Bildverarbeitung.md
+    - inf_msc_2014/modules/Mikroprozessor-Praktikum.md
+    - inf_msc_2014/modules/Mobilkommunikation.md
+    - inf_msc_2014/modules/Modelchecking.md
+    - inf_msc_2014/modules/Modellgetriebene Softwareentwicklung.md
+    - inf_msc_2014/modules/Mustererkennung.md
+    - inf_msc_2014/modules/Netzbasierte Informationssysteme.md
+    - inf_msc_2014/modules/Praktiken professioneller Softwareentwicklung.md
+    - inf_msc_2014/modules/Projektmanagement – Vertiefung.md
+    - inf_msc_2014/modules/Projektmanagement.md
+    - inf_msc_2014/modules/Rechnersicherheit.md
+    - inf_msc_2014/modules/Robotik.md
+    - inf_msc_2014/modules/Semantik von Programmiersprachen.md
+    - inf_msc_2014/modules/Semantisches Geschäftsprozessmanagement.md
+    - inf_msc_2014/modules/Softwareprojekt – Praktische Informatik A.md
+    - inf_msc_2014/modules/Softwareprojekt – Praktische Informatik B.md
+    - inf_msc_2014/modules/Softwareprojekt – Technische Informatik A.md
+    - inf_msc_2014/modules/Softwareprojekt – Technische Informatik B.md
+    - inf_msc_2014/modules/Softwareprojekt – Theoretische Informatik A.md
+    - inf_msc_2014/modules/Softwareprojekt – Theoretische Informatik B.md
+    - inf_msc_2014/modules/Softwareprozesse.md
+    - inf_msc_2014/modules/Spezielle Aspekte der Datenverwaltung.md
+    - inf_msc_2014/modules/Spezielle Aspekte der Praktischen Informatik.md
+    - inf_msc_2014/modules/Spezielle Aspekte der Softwareentwicklung.md
+    - inf_msc_2014/modules/Spezielle Aspekte der Technischen Informatik.md
+    - inf_msc_2014/modules/Spezielle Aspekte der Theoretischen Informatik.md
+    - inf_msc_2014/modules/Telematik.md
+    - inf_msc_2014/modules/Verteilte Systeme.md
+    - inf_msc_2014/modules/Wissenschaftliches Arbeiten Praktische Informatik A.md
+    - inf_msc_2014/modules/Wissenschaftliches Arbeiten Praktische Informatik B.md
+    - inf_msc_2014/modules/Wissenschaftliches Arbeiten Technische Informatik A.md
+    - inf_msc_2014/modules/Wissenschaftliches Arbeiten Technische Informatik B.md
+    - inf_msc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik A.md
+    - inf_msc_2014/modules/Wissenschaftliches Arbeiten Theoretische Informatik B.md
+    - inf_msc_2014/modules/XML-Technologien.md
+    - inf_msc_2014/modules/Übersetzerbau.md
   - Mathematik Bsc 2013:
-    - math_bsc_2013/home.md
+    - Übersicht: math_bsc_2013/home.md
     - Studien- und Prüfungsordnung: math_bsc_2013/spo.md
-    - Modulbeschreibung:
-      - math_bsc_2013/module_explanations.md
-      - math_bsc_2013/modules/Aktuelle Themen der Mathematik.md
-      - math_bsc_2013/modules/Algebra I.md
-      - math_bsc_2013/modules/Algebra und Zahlentheorie.md
-      - math_bsc_2013/modules/Analysis I.md
-      - math_bsc_2013/modules/Analysis II.md
-      - math_bsc_2013/modules/Analysis III.md
-      - math_bsc_2013/modules/Berufspraktikum.md
-      - math_bsc_2013/modules/Computeralgebra.md
-      - math_bsc_2013/modules/Computerorientierte Mathematik I.md
-      - math_bsc_2013/modules/Computerorientierte Mathematik II.md
-      - math_bsc_2013/modules/Datenstrukturen und Datenabstraktion mit Anwendung.md
-      - math_bsc_2013/modules/Differentialgeometrie I.md
-      - math_bsc_2013/modules/Diskrete Mathematik I.md
-      - math_bsc_2013/modules/Einführung in die Visualisierung.md
-      - math_bsc_2013/modules/Elementargeometrie.md
-      - math_bsc_2013/modules/Funktionalanalysis.md
-      - math_bsc_2013/modules/Funktionentheorie.md
-      - math_bsc_2013/modules/Geometrie.md
-      - math_bsc_2013/modules/Höhere Algorithmik mit Anwendung.md
-      - math_bsc_2013/modules/Höhere Analysis.md
-      - math_bsc_2013/modules/Kommunikation über Mathematik.md
-      - math_bsc_2013/modules/Lineare Algebra I.md
-      - math_bsc_2013/modules/Lineare Algebra II.md
-      - math_bsc_2013/modules/Mathematisches Projekt.md
-      - math_bsc_2013/modules/Numerik I.md
-      - math_bsc_2013/modules/Numerik II.md
-      - math_bsc_2013/modules/Panorama der Mathematik.md
-      - math_bsc_2013/modules/Partielle Differentialgleichungen I.md
-      - math_bsc_2013/modules/Planung und Durchführung eines Tutoriums.md
-      - math_bsc_2013/modules/Programmierung.md
-      - math_bsc_2013/modules/Spezialthemen der Mathematik.md
-      - math_bsc_2013/modules/Spezialthemen der angewandten Mathematik.md
-      - math_bsc_2013/modules/Spezialthemen der reinen Mathematik.md
-      - math_bsc_2013/modules/Statistik-Software (CoSta).md
-      - math_bsc_2013/modules/Stochastik I.md
-      - math_bsc_2013/modules/Stochastik II.md
-      - math_bsc_2013/modules/Topologie I.md
-      - math_bsc_2013/modules/Visualisierung.md
-      - math_bsc_2013/modules/Wissenschaftliches Arbeiten in der Mathematik.md
+    - Modulbeschreibungen: math_bsc_2013/module_explanations.md
+    - math_bsc_2013/modules/Aktuelle Themen der Mathematik.md
+    - math_bsc_2013/modules/Algebra I.md
+    - math_bsc_2013/modules/Algebra und Zahlentheorie.md
+    - math_bsc_2013/modules/Analysis I.md
+    - math_bsc_2013/modules/Analysis II.md
+    - math_bsc_2013/modules/Analysis III.md
+    - math_bsc_2013/modules/Berufspraktikum.md
+    - math_bsc_2013/modules/Computeralgebra.md
+    - math_bsc_2013/modules/Computerorientierte Mathematik I.md
+    - math_bsc_2013/modules/Computerorientierte Mathematik II.md
+    - math_bsc_2013/modules/Datenstrukturen und Datenabstraktion mit Anwendung.md
+    - math_bsc_2013/modules/Differentialgeometrie I.md
+    - math_bsc_2013/modules/Diskrete Mathematik I.md
+    - math_bsc_2013/modules/Einführung in die Visualisierung.md
+    - math_bsc_2013/modules/Elementargeometrie.md
+    - math_bsc_2013/modules/Funktionalanalysis.md
+    - math_bsc_2013/modules/Funktionentheorie.md
+    - math_bsc_2013/modules/Geometrie.md
+    - math_bsc_2013/modules/Höhere Algorithmik mit Anwendung.md
+    - math_bsc_2013/modules/Höhere Analysis.md
+    - math_bsc_2013/modules/Kommunikation über Mathematik.md
+    - math_bsc_2013/modules/Lineare Algebra I.md
+    - math_bsc_2013/modules/Lineare Algebra II.md
+    - math_bsc_2013/modules/Mathematisches Projekt.md
+    - math_bsc_2013/modules/Numerik I.md
+    - math_bsc_2013/modules/Numerik II.md
+    - math_bsc_2013/modules/Panorama der Mathematik.md
+    - math_bsc_2013/modules/Partielle Differentialgleichungen I.md
+    - math_bsc_2013/modules/Planung und Durchführung eines Tutoriums.md
+    - math_bsc_2013/modules/Programmierung.md
+    - math_bsc_2013/modules/Spezialthemen der Mathematik.md
+    - math_bsc_2013/modules/Spezialthemen der angewandten Mathematik.md
+    - math_bsc_2013/modules/Spezialthemen der reinen Mathematik.md
+    - math_bsc_2013/modules/Statistik-Software (CoSta).md
+    - math_bsc_2013/modules/Stochastik I.md
+    - math_bsc_2013/modules/Stochastik II.md
+    - math_bsc_2013/modules/Topologie I.md
+    - math_bsc_2013/modules/Visualisierung.md
+    - math_bsc_2013/modules/Wissenschaftliches Arbeiten in der Mathematik.md
   - Mathematik Lehramt Bsc 2017:
-    - lehrmath_bsc_2017/home.md
+    - Übersicht: lehrmath_bsc_2017/home.md
     - Studien- und Prüfungsordnung: lehrmath_bsc_2017/spo.md
-    - Modulebeschreibungen:
-      - lehrmath_bsc_2017/module_explanations.md
-      - lehrmath_bsc_2017/modules/Mathematik entdecken I.md
-      - lehrmath_bsc_2017/modules/Mathematik entdecken II.md
-      - lehrmath_bsc_2017/modules/Mathematisches Panorama.md
-      - lehrmath_bsc_2017/modules/Proseminar Mathematik – Lehramt.md
-      - lehrmath_bsc_2017/modules/Wahrscheinlichkeit und Statistik.md
-      - lehrmath_bsc_2017/modules/Zahlen, Gleichungen, algebraische Strukturen.md
+    - Modulbeschreibungen: lehrmath_bsc_2017/module_explanations.md
+    - lehrmath_bsc_2017/modules/Mathematik entdecken I.md
+    - lehrmath_bsc_2017/modules/Mathematik entdecken II.md
+    - lehrmath_bsc_2017/modules/Mathematisches Panorama.md
+    - lehrmath_bsc_2017/modules/Proseminar Mathematik – Lehramt.md
+    - lehrmath_bsc_2017/modules/Wahrscheinlichkeit und Statistik.md
+    - lehrmath_bsc_2017/modules/Zahlen, Gleichungen, algebraische Strukturen.md
   - Mathematik Msc 2018:
-    - math_msc_2018/home.md
+    - Übersicht: math_msc_2018/home.md
     - Studien- und Prüfungsordnung: math_msc_2018/spo.md
-    - Modulbeschreibung:
-      - math_msc_2018/module_explanations.md
-      - math_msc_2018/modules/Aktuelle Forschungsthemen A.md
-      - math_msc_2018/modules/Aktuelle Forschungsthemen B.md
-      - math_msc_2018/modules/Aktuelle Forschungsthemen C.md
-      - math_msc_2018/modules/Algebra I.md
-      - math_msc_2018/modules/Algebra II.md
-      - math_msc_2018/modules/Algebra III.md
-      - math_msc_2018/modules/Ausgewählte Themen A.md
-      - math_msc_2018/modules/Ausgewählte Themen B.md
-      - math_msc_2018/modules/Ausgewählte Themen C.md
-      - math_msc_2018/modules/BMS – Fridays.md
-      - math_msc_2018/modules/Differentialgeometrie I.md
-      - math_msc_2018/modules/Differentialgeometrie II.md
-      - math_msc_2018/modules/Differentialgeometrie III.md
-      - math_msc_2018/modules/Diskrete Geometrie I.md
-      - math_msc_2018/modules/Diskrete Geometrie II.md
-      - math_msc_2018/modules/Diskrete Geometrie III.md
-      - math_msc_2018/modules/Diskrete Mathematik I.md
-      - math_msc_2018/modules/Diskrete Mathematik II.md
-      - math_msc_2018/modules/Diskrete Mathematik III.md
-      - math_msc_2018/modules/Dynamische Systeme I.md
-      - math_msc_2018/modules/Dynamische Systeme II.md
-      - math_msc_2018/modules/Dynamische Systeme III.md
-      - math_msc_2018/modules/Forschungsprojekt.md
-      - math_msc_2018/modules/Masterseminar Algebra.md
-      - math_msc_2018/modules/Masterseminar Differentialgeometrie.md
-      - math_msc_2018/modules/Masterseminar Diskrete Geometrie.md
-      - math_msc_2018/modules/Masterseminar Diskrete Mathematik.md
-      - math_msc_2018/modules/Masterseminar Dynamische Systeme.md
-      - math_msc_2018/modules/Masterseminar Numerik.md
-      - math_msc_2018/modules/Masterseminar Partielle Differentialgleichungen.md
-      - math_msc_2018/modules/Masterseminar Stochastik.md
-      - math_msc_2018/modules/Masterseminar Topologie.md
-      - math_msc_2018/modules/Masterseminar Zahlentheorie.md
-      - math_msc_2018/modules/Numerik II.md
-      - math_msc_2018/modules/Numerik III.md
-      - math_msc_2018/modules/Numerik IV.md
-      - math_msc_2018/modules/Partielle Differentialgleichungen I.md
-      - math_msc_2018/modules/Partielle Differentialgleichungen II.md
-      - math_msc_2018/modules/Partielle Differentialgleichungen III.md
-      - math_msc_2018/modules/Spezielle Aspekte A.md
-      - math_msc_2018/modules/Spezielle Aspekte B.md
-      - math_msc_2018/modules/Spezielle Aspekte C.md
-      - math_msc_2018/modules/Spezielle Forschungsaspekte.md
-      - math_msc_2018/modules/Stochastik II.md
-      - math_msc_2018/modules/Stochastik III.md
-      - math_msc_2018/modules/Stochastik IV.md
-      - math_msc_2018/modules/Topologie I.md
-      - math_msc_2018/modules/Topologie II.md
-      - math_msc_2018/modules/Topologie III.md
-      - math_msc_2018/modules/What is ....md
-      - math_msc_2018/modules/Zahlentheorie II.md
-      - math_msc_2018/modules/Zahlentheorie III.md
+    - Modulbeschreibungen: math_msc_2018/module_explanations.md
+    - math_msc_2018/modules/Aktuelle Forschungsthemen A.md
+    - math_msc_2018/modules/Aktuelle Forschungsthemen B.md
+    - math_msc_2018/modules/Aktuelle Forschungsthemen C.md
+    - math_msc_2018/modules/Algebra I.md
+    - math_msc_2018/modules/Algebra II.md
+    - math_msc_2018/modules/Algebra III.md
+    - math_msc_2018/modules/Ausgewählte Themen A.md
+    - math_msc_2018/modules/Ausgewählte Themen B.md
+    - math_msc_2018/modules/Ausgewählte Themen C.md
+    - math_msc_2018/modules/BMS – Fridays.md
+    - math_msc_2018/modules/Differentialgeometrie I.md
+    - math_msc_2018/modules/Differentialgeometrie II.md
+    - math_msc_2018/modules/Differentialgeometrie III.md
+    - math_msc_2018/modules/Diskrete Geometrie I.md
+    - math_msc_2018/modules/Diskrete Geometrie II.md
+    - math_msc_2018/modules/Diskrete Geometrie III.md
+    - math_msc_2018/modules/Diskrete Mathematik I.md
+    - math_msc_2018/modules/Diskrete Mathematik II.md
+    - math_msc_2018/modules/Diskrete Mathematik III.md
+    - math_msc_2018/modules/Dynamische Systeme I.md
+    - math_msc_2018/modules/Dynamische Systeme II.md
+    - math_msc_2018/modules/Dynamische Systeme III.md
+    - math_msc_2018/modules/Forschungsprojekt.md
+    - math_msc_2018/modules/Masterseminar Algebra.md
+    - math_msc_2018/modules/Masterseminar Differentialgeometrie.md
+    - math_msc_2018/modules/Masterseminar Diskrete Geometrie.md
+    - math_msc_2018/modules/Masterseminar Diskrete Mathematik.md
+    - math_msc_2018/modules/Masterseminar Dynamische Systeme.md
+    - math_msc_2018/modules/Masterseminar Numerik.md
+    - math_msc_2018/modules/Masterseminar Partielle Differentialgleichungen.md
+    - math_msc_2018/modules/Masterseminar Stochastik.md
+    - math_msc_2018/modules/Masterseminar Topologie.md
+    - math_msc_2018/modules/Masterseminar Zahlentheorie.md
+    - math_msc_2018/modules/Numerik II.md
+    - math_msc_2018/modules/Numerik III.md
+    - math_msc_2018/modules/Numerik IV.md
+    - math_msc_2018/modules/Partielle Differentialgleichungen I.md
+    - math_msc_2018/modules/Partielle Differentialgleichungen II.md
+    - math_msc_2018/modules/Partielle Differentialgleichungen III.md
+    - math_msc_2018/modules/Spezielle Aspekte A.md
+    - math_msc_2018/modules/Spezielle Aspekte B.md
+    - math_msc_2018/modules/Spezielle Aspekte C.md
+    - math_msc_2018/modules/Spezielle Forschungsaspekte.md
+    - math_msc_2018/modules/Stochastik II.md
+    - math_msc_2018/modules/Stochastik III.md
+    - math_msc_2018/modules/Stochastik IV.md
+    - math_msc_2018/modules/Topologie I.md
+    - math_msc_2018/modules/Topologie II.md
+    - math_msc_2018/modules/Topologie III.md
+    - math_msc_2018/modules/What is ....md
+    - math_msc_2018/modules/Zahlentheorie II.md
+    - math_msc_2018/modules/Zahlentheorie III.md
   - Physik Bsc 2012:
-    - phy_bsc_2012/home.md
+    - Übersicht: phy_bsc_2012/home.md
     - Studien- und Prüfungsordnung: phy_bsc_2012/spo.md
-    - Modulbeschreibung:
-      - phy_bsc_2012/module_explanations.md
-      - phy_bsc_2012/modules/Analysis.md
-      - phy_bsc_2012/modules/Analytische Mechanik.md
-      - phy_bsc_2012/modules/Astronomie und Astrophysik.md
-      - phy_bsc_2012/modules/Berufspraktikum Physik – A.md
-      - phy_bsc_2012/modules/Berufspraktikum Physik – B.md
-      - phy_bsc_2012/modules/Berufspraktikum Physik – C.md
-      - phy_bsc_2012/modules/Biophysik.md
-      - phy_bsc_2012/modules/Computerphysik.md
-      - phy_bsc_2012/modules/Einführung in die Physik.md
-      - phy_bsc_2012/modules/Elektrodynamik und Optik.md
-      - phy_bsc_2012/modules/Grundlagen der Mess- und Labortechnik.md
-      - phy_bsc_2012/modules/Kern- und Elementarteilchenphysik.md
-      - phy_bsc_2012/modules/Lineare Algebra.md
-      - phy_bsc_2012/modules/Projektpraktikum.md
-      - phy_bsc_2012/modules/Präsentationstechniken.md
-      - phy_bsc_2012/modules/Quantenmechanik.md
-      - phy_bsc_2012/modules/Struktur der Materie.md
-      - phy_bsc_2012/modules/Theoretische Elektrodynamik.md
+    - Modulbeschreibungen: phy_bsc_2012/module_explanations.md
+    - phy_bsc_2012/modules/Analysis.md
+    - phy_bsc_2012/modules/Analytische Mechanik.md
+    - phy_bsc_2012/modules/Astronomie und Astrophysik.md
+    - phy_bsc_2012/modules/Berufspraktikum Physik – A.md
+    - phy_bsc_2012/modules/Berufspraktikum Physik – B.md
+    - phy_bsc_2012/modules/Berufspraktikum Physik – C.md
+    - phy_bsc_2012/modules/Biophysik.md
+    - phy_bsc_2012/modules/Computerphysik.md
+    - phy_bsc_2012/modules/Einführung in die Physik.md
+    - phy_bsc_2012/modules/Elektrodynamik und Optik.md
+    - phy_bsc_2012/modules/Grundlagen der Mess- und Labortechnik.md
+    - phy_bsc_2012/modules/Kern- und Elementarteilchenphysik.md
+    - phy_bsc_2012/modules/Lineare Algebra.md
+    - phy_bsc_2012/modules/Projektpraktikum.md
+    - phy_bsc_2012/modules/Präsentationstechniken.md
+    - phy_bsc_2012/modules/Quantenmechanik.md
+    - phy_bsc_2012/modules/Struktur der Materie.md
+    - phy_bsc_2012/modules/Theoretische Elektrodynamik.md
   - Physik Lehramt Bsc 2015:
-    - lehrphy_bsc_2015/home.md
+    - Übersicht: lehrphy_bsc_2015/home.md
     - Studien- und Prüfungsordnung: lehrphy_bsc_2015/spo.md
-    - Modulebeschreibungen:
-      - lehrphy_bsc_2015/module_explanations.md
-      - lehrphy_bsc_2015/modules/Demonstrationspraktikum 1.md
-      - lehrphy_bsc_2015/modules/Einführung in die Struktur der Materie.md
-      - lehrphy_bsc_2015/modules/Grundlagen der Experimentalphysik.md
-      - lehrphy_bsc_2015/modules/Moderne Physik.md
-      - lehrphy_bsc_2015/modules/Physikalische Grundkompetenzen.md
-      - lehrphy_bsc_2015/modules/Physikalisches Grundpraktikum 1.md
-      - lehrphy_bsc_2015/modules/Physikalisches Grundpraktikum 2.md
-      - lehrphy_bsc_2015/modules/Theoretische Physik 1.md
-      - lehrphy_bsc_2015/modules/Theoretische Physik 2.md
-      - lehrphy_bsc_2015/modules/Vertiefung Physik A.md
-      - lehrphy_bsc_2015/modules/Vertiefung Physik B.md
-      - lehrphy_bsc_2015/modules/Vertiefung Physik C.md
+    - Modulebeschreibungen: lehrphy_bsc_2015/module_explanations.md
+    - lehrphy_bsc_2015/modules/Demonstrationspraktikum 1.md
+    - lehrphy_bsc_2015/modules/Einführung in die Struktur der Materie.md
+    - lehrphy_bsc_2015/modules/Grundlagen der Experimentalphysik.md
+    - lehrphy_bsc_2015/modules/Moderne Physik.md
+    - lehrphy_bsc_2015/modules/Physikalische Grundkompetenzen.md
+    - lehrphy_bsc_2015/modules/Physikalisches Grundpraktikum 1.md
+    - lehrphy_bsc_2015/modules/Physikalisches Grundpraktikum 2.md
+    - lehrphy_bsc_2015/modules/Theoretische Physik 1.md
+    - lehrphy_bsc_2015/modules/Theoretische Physik 2.md
+    - lehrphy_bsc_2015/modules/Vertiefung Physik A.md
+    - lehrphy_bsc_2015/modules/Vertiefung Physik B.md
+    - lehrphy_bsc_2015/modules/Vertiefung Physik C.md
   - Physik Msc 2020:
-    - phy_msc_2020/home.md
+    - Übersicht: phy_msc_2020/home.md
     - Studien- und Prüfungsordnung: phy_msc_2020/spo.md
-    - Modulbeschreibung:
-      - phy_msc_2020/module_explanations.md
-      - phy_msc_2020/modules/Advanced Astronomy and Astrophysics.md
-      - phy_msc_2020/modules/Advanced Atomic and Molecular Physics.md
-      - phy_msc_2020/modules/Advanced Biophysics.md
-      - phy_msc_2020/modules/Advanced Laboratory Course for Master Students.md
-      - phy_msc_2020/modules/Advanced Quantum Mechanics.md
-      - phy_msc_2020/modules/Advanced Solid State Physics.md
-      - phy_msc_2020/modules/Advanced Statistical Physics.md
-      - phy_msc_2020/modules/Advanced Theoretical Biophysics.md
-      - phy_msc_2020/modules/Advanced Topics in Theoretical Condensed Matter Physics.md
-      - phy_msc_2020/modules/General Relativity.md
-      - phy_msc_2020/modules/History of Physics.md
-      - phy_msc_2020/modules/Methodology and Project Planning.md
-      - phy_msc_2020/modules/Modern Methods in Experimental Physics A.md
-      - phy_msc_2020/modules/Modern Methods in Experimental Physics B.md
-      - phy_msc_2020/modules/Modern Methods in Experimental Physics C.md
-      - phy_msc_2020/modules/Modern Methods in Theoretical Physics A.md
-      - phy_msc_2020/modules/Modern Methods in Theoretical Physics B.md
-      - phy_msc_2020/modules/Modern Methods in Theoretical Physics C.md
-      - phy_msc_2020/modules/Nanophysics.md
-      - phy_msc_2020/modules/Photobiophysics and Photosynthesis.md
-      - phy_msc_2020/modules/Quantum Field Theory and Many-Body Physics.md
-      - phy_msc_2020/modules/Scientific Specialization.md
-      - phy_msc_2020/modules/Selected Topics in Physics.md
-      - phy_msc_2020/modules/Semiconductor Physics.md
-      - phy_msc_2020/modules/Special Topics in Magnetism.md
-      - phy_msc_2020/modules/Special Topics in Molecular Biophysics.md
-      - phy_msc_2020/modules/Special Topics in Molecular Physics.md
-      - phy_msc_2020/modules/Spectroscopy with Synchrotron Radiation.md
-      - phy_msc_2020/modules/Statistical Physics and Thermodynamics.md
-      - phy_msc_2020/modules/Theoretical Solid State Physics.md
-      - phy_msc_2020/modules/Ultrafast Spectroscopy and Nonlinear Optics.md
+    - Modulbeschreibungen: phy_msc_2020/module_explanations.md
+    - phy_msc_2020/modules/Advanced Astronomy and Astrophysics.md
+    - phy_msc_2020/modules/Advanced Atomic and Molecular Physics.md
+    - phy_msc_2020/modules/Advanced Biophysics.md
+    - phy_msc_2020/modules/Advanced Laboratory Course for Master Students.md
+    - phy_msc_2020/modules/Advanced Quantum Mechanics.md
+    - phy_msc_2020/modules/Advanced Solid State Physics.md
+    - phy_msc_2020/modules/Advanced Statistical Physics.md
+    - phy_msc_2020/modules/Advanced Theoretical Biophysics.md
+    - phy_msc_2020/modules/Advanced Topics in Theoretical Condensed Matter Physics.md
+    - phy_msc_2020/modules/General Relativity.md
+    - phy_msc_2020/modules/History of Physics.md
+    - phy_msc_2020/modules/Methodology and Project Planning.md
+    - phy_msc_2020/modules/Modern Methods in Experimental Physics A.md
+    - phy_msc_2020/modules/Modern Methods in Experimental Physics B.md
+    - phy_msc_2020/modules/Modern Methods in Experimental Physics C.md
+    - phy_msc_2020/modules/Modern Methods in Theoretical Physics A.md
+    - phy_msc_2020/modules/Modern Methods in Theoretical Physics B.md
+    - phy_msc_2020/modules/Modern Methods in Theoretical Physics C.md
+    - phy_msc_2020/modules/Nanophysics.md
+    - phy_msc_2020/modules/Photobiophysics and Photosynthesis.md
+    - phy_msc_2020/modules/Quantum Field Theory and Many-Body Physics.md
+    - phy_msc_2020/modules/Scientific Specialization.md
+    - phy_msc_2020/modules/Selected Topics in Physics.md
+    - phy_msc_2020/modules/Semiconductor Physics.md
+    - phy_msc_2020/modules/Special Topics in Magnetism.md
+    - phy_msc_2020/modules/Special Topics in Molecular Biophysics.md
+    - phy_msc_2020/modules/Special Topics in Molecular Physics.md
+    - phy_msc_2020/modules/Spectroscopy with Synchrotron Radiation.md
+    - phy_msc_2020/modules/Statistical Physics and Thermodynamics.md
+    - phy_msc_2020/modules/Theoretical Solid State Physics.md
+    - phy_msc_2020/modules/Ultrafast Spectroscopy and Nonlinear Optics.md
