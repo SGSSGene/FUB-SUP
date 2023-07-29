@@ -410,7 +410,7 @@
       swstime: 2
       attendance: required
       activity: |
-        Bearbeitung von Ünugaufgaben; Teilnahme an der Diskussion.
+        Bearbeitung von Übungsaufgaben; Teilnahme an der Diskussion.
   workload:
     - type: Präsenzzeit V
       time: 30
