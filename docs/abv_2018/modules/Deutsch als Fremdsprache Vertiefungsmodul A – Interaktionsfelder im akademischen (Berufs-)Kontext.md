@@ -1,26 +1,95 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext"&body=There seems to be an error in module "Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | beauftragte Lehrkraft an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | DSH 2 oder gleichwertige Kenntnisse |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen Grundfertigkeiten auf der Niveaustufe C 1 GER. Sie können sprachlich:<br>- auf der Basis auch widersprüchlicher Quellen Sachverhalte treffend aufbereiten, darstellen und angemessen präsentieren<br>- schnell und sicher auch umfangreiches, heterogenes Textmaterial in Bezug auf vorgegebene Problemstellungen sichten<br>- Sachverhalte, Erklärungen und Gesichtspunkte effektiv und konstruktiv vermitteln<br>- durch Einsatz redundanter sprachlicher Mittel abwechslungsreich darstellen. Sie verfügen über die strategische Kompetenz, effektiv und konstruktiv Sachverhalte, Erklärungen und Gesichtspunkte zu kommunizieren. Sie verfügen über eine hinreichende interkulturelle Kompetenz, effektiv und konstruktiv Sachverhalte, Erklärungen und Gesichtspunkte zu kommunizieren. |
-|**Inhalte**                         | Erarbeitung von Interaktionsfeldern im akademischen (Berufs-)Kontext:<br>- komplexere Texte rezipieren und produzieren<br>- kritische Beschäftigung mit verschiedenen Textsorten<br>- gezielter Einsatz von Rezeptionshaltungen und -strategien in Abhängigkeit von Ausgangslage, Fragestellung und Zielsetzung<br>- Arbeitstechniken zum Planen und Verfassen verschiedener strukturierter Texte und Redebeiträge unter Berücksichtigung von Adressaten und Kontext<br>- Festigung auch komplexerer grammatischer Strukturen, systematische Erweiterung auch des abstrakten Wortschatzes. |
-|**Modulprüfung**                    | Schriftliche Ausarbeitung (ca. 10 Seiten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV<br>(Kompetenzbereich Fremdsprachen) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung | 4                         | recommended                        | Portfolio als Grundlage des Lerner-/Lehrerfeedbacks |
+[« Deutsch als Fremdsprache Aufbaumodul](Deutsch als Fremdsprache Aufbaumodul.md){class=prev}
+[Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf »](Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ                          | 60    |
-| Vor- und Nachbereitung spÜ               | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+DSH 2 oder gleichwertige Kenntnisse
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen Grundfertigkeiten auf der
+Niveaustufe C 1 GER. Sie können sprachlich:
+
+- auf der Basis auch widersprüchlicher Quellen Sachverhalte treffend
+  aufbereiten, darstellen und angemessen präsentieren
+- schnell und sicher auch umfangreiches, heterogenes Textmaterial in Bezug
+  auf vorgegebene Problemstellungen sichten
+- Sachverhalte, Erklärungen und Gesichtspunkte effektiv und konstruktiv
+  vermitteln
+- durch Einsatz redundanter sprachlicher Mittel abwechslungsreich
+  darstellen. Sie verfügen über die strategische Kompetenz, effektiv und
+  konstruktiv Sachverhalte, Erklärungen und Gesichtspunkte zu kommunizieren.
+  Sie verfügen über eine hinreichende interkulturelle Kompetenz, effektiv
+  und konstruktiv Sachverhalte, Erklärungen und Gesichtspunkte zu
+  kommunizieren.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Erarbeitung von Interaktionsfeldern im akademischen (Berufs-)Kontext:
+
+- komplexere Texte rezipieren und produzieren
+- kritische Beschäftigung mit verschiedenen Textsorten
+- gezielter Einsatz von Rezeptionshaltungen und -strategien in Abhängigkeit
+  von Ausgangslage, Fragestellung und Zielsetzung
+- Arbeitstechniken zum Planen und Verfassen verschiedener strukturierter
+  Texte und Redebeiträge unter Berücksichtigung von Adressaten und Kontext
+- Festigung auch komplexerer grammatischer Strukturen, systematische
+  Erweiterung auch des abstrakten Wortschatzes.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Portfolio als Grundlage des Lerner-/Lehrerfeedbacks
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Schriftliche Ausarbeitung (ca. 10 Seiten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen)
+
+
+</td></tr>
+
+</table>

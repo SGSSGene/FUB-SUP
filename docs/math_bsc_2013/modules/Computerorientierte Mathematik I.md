@@ -1,31 +1,98 @@
+---
+tags:
+  - math_bsc_2013
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Computerorientierte Mathematik I"&body=There seems to be an error in module "Computerorientierte Mathematik I".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Computerorientierte Mathematik I
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Computerorientierte Mathematik I |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können Problemstellungen aus Analysis, linearer Algebra oder diskreter Mathematik daraufhin untersuchen, ob sie mit Methoden des numerischen Rechnens zu lösen sind. Sie beachten dabei grundlegende Sachverhalte wie Kondition und Komplexität von Problemen oder Stabilität und Effizienz von Algorithmen. Sie verfügen über elementare Rechner- und Programmierkenntnisse und können einfache numerische Verfahren experimentell einsetzen. |
-|**Inhalte**                         | Computer spielen heute in (fast) allen Lebenslagen eine wichtige Rolle. Das Modul vermittelt grundlegende Kenntnisse im Umgang mit Rechnern zur Lösung mathematischer Probleme und eine Einführung in das algorithmische Denken. Insbesondere geht es um fundamentale Begriffe wie Zahlendarstellung, Rundungsfehler, Kondition, Stabilität und Effizienz. Gleichzeitig werden grundlegende Programmierkenntnisse vermittelt. Die nötige Motivation für die betrachteten Fragestellungen liefern einfache Anwendungsbeispiele. |
-|**Modulprüfung**                    | Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für
-das Lehramt, Bachelorstudiengang Bioinformatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
-| Übung                | 2                         | required                           | Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
+[« Computeralgebra](Computeralgebra.md){class=prev}
+[Computerorientierte Mathematik II »](Computerorientierte Mathematik II.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit Vorlesung                    | 30    |
-| Vor- und Nachbereitung Vorlesung         | 30    |
-| Präsenzzeit Übung                        | 30    |
-| Vor- und Nachbereitung Übung             | 15    |
-| Schriftliche Übungsaufgaben              | 15    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Computerorientierte Mathematik I </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Grundlagenbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können Problemstellungen aus Analysis,
+linearer Algebra oder diskreter Mathematik daraufhin untersuchen, ob sie mit
+Methoden des numerischen Rechnens zu lösen sind. Sie beachten dabei
+grundlegende Sachverhalte wie Kondition und Komplexität von Problemen oder
+Stabilität und Effizienz von Algorithmen. Sie verfügen über elementare
+Rechner- und Programmierkenntnisse und können einfache numerische Verfahren
+experimentell einsetzen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Computer spielen heute in (fast) allen Lebenslagen eine wichtige Rolle. Das
+Modul vermittelt grundlegende Kenntnisse im Umgang mit Rechnern zur Lösung
+mathematischer Probleme und eine Einführung in das algorithmische Denken.
+Insbesondere geht es um fundamentale Begriffe wie Zahlendarstellung,
+Rundungsfehler, Kondition, Stabilität und Effizienz. Gleichzeitig werden
+grundlegende Programmierkenntnisse vermittelt. Die nötige Motivation für die
+betrachteten Fragestellungen liefern einfache Anwendungsbeispiele.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit Vorlesung</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Vorlesung</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Übung</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Übung</td><td>15 Stunden</td></tr>
+<tr><td>Schriftliche Übungsaufgaben</td><td>15 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für das
+Lehramt, Bachelorstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

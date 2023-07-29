@@ -1,29 +1,112 @@
+---
+tags:
+  - inf_bsc_2023
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Mensch-Computer Interaktion"&body=There seems to be an error in module "Mensch-Computer Interaktion".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Mensch-Computer Interaktion
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Mensch-Computer Interaktion |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden beschreiben den Prozess des Human-Centered Designs und wenden diesen zur Entwicklung von grafischen Bedienoberflächen an. Sie erheben (z. B. mit Hilfe von Interviews) und analysieren (z. B. mit Affinitätsdiagrammen) Anforderungen von Nutzenden und überführen die erfassten Anforderungen in konzeptionelle Modelle (z. B. Persona). Sie setzen grafische Bedienoberflächen innerhalb von Low- und High Fidelity Prototypen auf Basis der Anforderungen um. Sie übertragen Erkenntnisse aus der Wahrnehmungs- und Kognitionspsychologie auf die Gestaltung von grafischen Bedienoberflächen und beurteilen grafische Bedienoberflächen auf Basis von Evaluationsmethoden (z. B. Usability Studien). |
-|**Inhalte**                         | Studierende erlernen den Prozess des Human-Centered Designs und die Anwendung in der Softwareentwicklung. Sie erarbeiten die Grundlagen der visuellen Wahrnehmung und Kognition (z. B. Aufmerksamkeit, Gedächtnis) und deren Anwendung auf die Gestaltung von Bedienoberflächen sowie den Einsatz von Interaktionsparadigmen (z. B. Direct Manipulation, Conversational Agent, Mixed Reality). Die Studierenden üben Methoden zur Erhebung von Anforderungen (z. B. Interviews, Befragung, Beobachtung) und erlernen konzeptionelle Modelle (z. B. Nutzenden, Kontext- und Aufgabenmodelle) zur Strukturierung und Auswertung der Anforderungen. Die Studierenden üben das Erstellen von Low- und High-Fi-Prototypen und deren Evaluation sowie das Anwenden von Evaluationstechniken (z. B. Heuristische Evaluation, (Remote) Usability Studien, Experiment, Feldstudie) und diskutieren deren Vorund Nachteile. Die Studierenden erarbeiten ethische Aspekte in der Gestaltung von Bedienoberflächen (z. B. Dark Pattern). |
-|**Modulprüfung**                    | Klausur (120 Minuten); die auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden kann. |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 180 |
-|**Leistungspunkte (LP)**            | 6 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Sommersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | -                        |
-| Übung                | 2                         | required                           | Bearbeitung von Übungsaufgaben. Beteiligung an Diskussionen. |
+[« Maschinelles Lernen](Maschinelles Lernen.md){class=prev}
+[Nebenläufige, parallele und verteilte Programmierung »](Nebenläufige, parallele und verteilte Programmierung.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 30    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Mensch-Computer Interaktion </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Wahlpflichtbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden beschreiben den Prozess des Human-Centered Designs und
+wenden diesen zur Entwicklung von grafischen Bedienoberflächen an. Sie
+erheben (z. B. mit Hilfe von Interviews) und analysieren (z. B. mit
+Affinitätsdiagrammen) Anforderungen von Nutzenden und überführen die
+erfassten Anforderungen in konzeptionelle Modelle (z. B. Persona). Sie
+setzen grafische Bedienoberflächen innerhalb von Low- und High Fidelity
+Prototypen auf Basis der Anforderungen um. Sie übertragen Erkenntnisse aus
+der Wahrnehmungs- und Kognitionspsychologie auf die Gestaltung von
+grafischen Bedienoberflächen und beurteilen grafische Bedienoberflächen auf
+Basis von Evaluationsmethoden (z. B. Usability Studien).
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Studierende erlernen den Prozess des Human-Centered Designs und die
+Anwendung in der Softwareentwicklung. Sie erarbeiten die Grundlagen der
+visuellen Wahrnehmung und Kognition (z. B. Aufmerksamkeit, Gedächtnis) und
+deren Anwendung auf die Gestaltung von Bedienoberflächen sowie den Einsatz
+von Interaktionsparadigmen (z. B. Direct Manipulation, Conversational Agent,
+Mixed Reality). Die Studierenden üben Methoden zur Erhebung von
+Anforderungen (z. B. Interviews, Befragung, Beobachtung) und erlernen
+konzeptionelle Modelle (z. B. Nutzenden, Kontext- und Aufgabenmodelle) zur
+Strukturierung und Auswertung der Anforderungen. Die Studierenden üben das
+Erstellen von Low- und High-Fi-Prototypen und deren Evaluation sowie das
+Anwenden von Evaluationstechniken (z. B. Heuristische Evaluation, (Remote)
+Usability Studien, Experiment, Feldstudie) und diskutieren deren Vorund
+Nachteile. Die Studierenden erarbeiten ethische Aspekte in der Gestaltung
+von Bedienoberflächen (z. B. Dark Pattern).
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+-
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeitung von Übungsaufgaben. Beteiligung an Diskussionen.
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (120 Minuten); die auch in Form einer elektronischen
+Prüfungsleistung (120 Minuten) durchgeführt werden kann.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>180</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>6</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+Lehramt, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer
+Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer
+Studiengänge, Masterstudiengang für das Lehramt an Integrierten
+Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
+Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
+
+
+</td></tr>
+
+</table>

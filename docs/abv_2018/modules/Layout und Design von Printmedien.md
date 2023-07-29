@@ -1,26 +1,91 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Layout und Design von Printmedien"&body=There seems to be an error in module "Layout und Design von Printmedien".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Layout und Design von Printmedien
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Layout und Design von Printmedien |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung |
-|**Modulverantwortung**              | Verantwortliche/r des Kompetenzbereichs Informations- und Medienkompetenz |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können selbstständig zielführend digitale Informations- und Medientechnologien situationsbezogen einsetzen. Sie sind in der Lage, Druckerzeugnisse fachgerecht computergestützt zu konzipieren und in interdisziplinären Projektgruppen herzustellen. Dabei können sie eigene Ergebnisse für die Lern- und Arbeitsprozesse definieren, bewerten und eigenständig gestalten. Die Studentinnen und Studenten sind in der Lage, zu entscheiden, welche Softwareprodukte entsprechend situationsbezogener Einsatzszenarien anzuwenden sind und ihre Wahl inhaltlich zu begründen. Sie können Publikationen fachgerecht visuell gestalten, effizient erstellen und für den professionellen Druck aufbereiten. Sie kennen alle im professionellen Bereich genutzten Funktionen von Desktop-Publishing-, Grafik- und Bildbearbeitungsprogrammen und können einschätzen, welche Funktionen im Sinne des Arbeitsauftrages optimal eingesetzt werden können. Die Studentinnen und Studenten können darüber hinaus die erarbeiteten Ergebnisse professionell präsentieren und kommunizieren. |
-|**Inhalte**                         | Konzeption und Umsetzung von hochwertigen Druckerzeugnissen anhand von eigenständig gewählten Projektarbeiten. Bearbeitung von Druckerzeugnissen, die vertiefte Kenntnisse in der Handhabung und dem Einsatz von Desktop-Publishing-, Bild- und Grafikprogrammen erfordern. Planung und Durchführung von eigenständig gewählten IT-Projekten. |
-|**Modulprüfung**                    | Schriftliche Ausarbeitung (ca. 5 Seiten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations- und Medienkompetenz) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminar am PC        | 3                         | recommended                        | Diskutieren, Gruppenarbeit, Projektskizzen, Blended Learning |
+[« Kooperative Projektarbeit](Kooperative Projektarbeit.md){class=prev}
+[Marketing Grundlagen (ABV) »](Marketing Grundlagen (ABV).md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit S-PC                         | 45    |
-| Vor- und Nachbereitung S-PC              | 75    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Layout und Design von Printmedien </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können selbstständig zielführend digitale
+Informations- und Medientechnologien situationsbezogen einsetzen. Sie sind
+in der Lage, Druckerzeugnisse fachgerecht computergestützt zu konzipieren
+und in interdisziplinären Projektgruppen herzustellen. Dabei können sie
+eigene Ergebnisse für die Lern- und Arbeitsprozesse definieren, bewerten und
+eigenständig gestalten. Die Studentinnen und Studenten sind in der Lage, zu
+entscheiden, welche Softwareprodukte entsprechend situationsbezogener
+Einsatzszenarien anzuwenden sind und ihre Wahl inhaltlich zu begründen. Sie
+können Publikationen fachgerecht visuell gestalten, effizient erstellen und
+für den professionellen Druck aufbereiten. Sie kennen alle im
+professionellen Bereich genutzten Funktionen von Desktop-Publishing-,
+Grafik- und Bildbearbeitungsprogrammen und können einschätzen, welche
+Funktionen im Sinne des Arbeitsauftrages optimal eingesetzt werden können.
+Die Studentinnen und Studenten können darüber hinaus die erarbeiteten
+Ergebnisse professionell präsentieren und kommunizieren.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Konzeption und Umsetzung von hochwertigen Druckerzeugnissen anhand von
+eigenständig gewählten Projektarbeiten. Bearbeitung von Druckerzeugnissen,
+die vertiefte Kenntnisse in der Handhabung und dem Einsatz von
+Desktop-Publishing-, Bild- und Grafikprogrammen erfordern. Planung und
+Durchführung von eigenständig gewählten IT-Projekten.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Seminar am PC** <br>3 SWS <br> Teilnahme empfohlen</td><td>
+
+Diskutieren, Gruppenarbeit, Projektskizzen, Blended Learning
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit S-PC</td><td>45 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S-PC</td><td>75 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Schriftliche Ausarbeitung (ca. 5 Seiten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations- und
+Medienkompetenz)
+
+
+</td></tr>
+
+</table>

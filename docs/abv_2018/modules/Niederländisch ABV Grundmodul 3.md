@@ -1,26 +1,109 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Niederländisch ABV Grundmodul 3"&body=There seems to be an error in module "Niederländisch ABV Grundmodul 3".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Niederländisch ABV Grundmodul 3
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Niederländisch ABV Grundmodul 3 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | Studienkoordinator/in an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Erfolgreiche Absolvierung des Moduls „Niederländisch ABV Einstiegsmodul“ oder<br>des Moduls „Niederländisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse |
-|**Qualifikationsziele**             | Beherrschung der Grundfertigkeiten auf der Niveaustufe B 2.1 GER 1. Lesen: Die Studentinnen und Studenten können authentische, zum Teil auch längere Texte in ihrer Hauptaussage, Argumentation und Schlussfolgerung verstehen und Details nach wiederholtem Lesen entnehmen. Sie können Informationen aus verschiedenen Texten oder Textteilen zusammentragen, um eine bestimmte Aufgabe zu lösen. 2. Hören: Die Studentinnen und Studenten können bei längeren Gesprächen zu Themen des eigenen Interessengebiets oder Fachs den Hauptpunkten folgen und Einzelinformationen verstehen. Sie sind auch in der Lage, die Hauptaussagen eines Vortrags zu verstehen, wenn in deutlich artikulierter Standardsprache gesprochen wird. 3. Sprechen: Die Studentinnen und Studenten sind in der Lage, bei Gesprächen und Diskussionen über vertraute Themen den eigenen Standpunkt zu äußern und kurz zu den Standpunkten anderer Stellung nehmen. Sie sind weiterhin imstande, eine unkomplizierte Präsentation zu einem vertrauten Thema so klar vorzutragen, dass man ihr meist mühelos folgen kann. 4. Schreiben: Die Studentinnen und Studenten sind in der Lage, Texte zusammenzufassen, Informationen und Argumentationen aus verschiedenen Quellen zusammenzuführen, ihren Standpunkt zu einem Sachverhalt zu erklären und Vor- und Nachteile verschiedener Optionen zu erläutern. 5. Strategien: Die Studentinnen und Studenten können Hilfsmittel gezielt einsetzen und im mündlichen und schriftlichen Bereich Selbstkorrekturen vornehmen. Sie können unbekannte Wörter aus dem Kontext sicher erschlie- ßen, Lesestil und -tempo an Leseabsichten und Texte anpassen. Sie können geeignete Strategien einsetzen, um das Hörverstehen zu überprüfen. Sie können spezifische kulturell geprägte Elemente der Kommunikation anwenden. |
-|**Inhalte**                         | – Konsolidierung und Ausbau des Wortschatzes<br>- Konsolidierung und Ausbau der Grammatik<br>- Entwicklung von Hör- und Leseverständnisstrategien<br>- Entwicklung der Sprechfertigkeit für die Teilnahme an Gesprächen und das zusammenhängende Sprechen<br>- Entwicklung des schriftlichen Ausdrucks<br>- Anleitung zur Selbstkorrektur und zum effektiven Arbeiten mit Hilfsmitteln |
-|**Modulprüfung**                    | Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche Prüfung (ca. 10 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Niederländisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich<br>Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit |
+[« Niederländisch ABV Grundmodul 2](Niederländisch ABV Grundmodul 2.md){class=prev}
+[Objektorientierte Programmierung »](Objektorientierte Programmierung.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ                          | 60    |
-| Vor- und Nachbereitung spÜ               | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Niederländisch ABV Grundmodul 3 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Niederländisch ABV Einstiegsmodul“ oder
+des Moduls „Niederländisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Beherrschung der Grundfertigkeiten auf der Niveaustufe B 2.1 GER
+
+1. __Lesen__: Die Studentinnen und Studenten können authentische, zum Teil
+   auch längere Texte in ihrer Hauptaussage, Argumentation und
+   Schlussfolgerung verstehen und Details nach wiederholtem Lesen entnehmen.
+   Sie können Informationen aus verschiedenen Texten oder Textteilen
+   zusammentragen, um eine bestimmte Aufgabe zu lösen.
+2. __Hören__: Die Studentinnen und Studenten können bei längeren Gesprächen
+   zu Themen des eigenen Interessengebiets oder Fachs den Hauptpunkten
+   folgen und Einzelinformationen verstehen. Sie sind auch in der Lage, die
+   Hauptaussagen eines Vortrags zu verstehen, wenn in deutlich artikulierter
+   Standardsprache gesprochen wird.
+3. __Sprechen__: Die Studentinnen und Studenten sind in der Lage, bei
+   Gesprächen und Diskussionen über vertraute Themen den eigenen Standpunkt
+   zu äußern und kurz zu den Standpunkten anderer Stellung nehmen. Sie sind
+   weiterhin imstande, eine unkomplizierte Präsentation zu einem vertrauten
+   Thema so klar vorzutragen, dass man ihr meist mühelos folgen kann.
+4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, Texte
+   zusammenzufassen, Informationen und Argumentationen aus verschiedenen
+   Quellen zusammenzuführen, ihren Standpunkt zu einem Sachverhalt zu
+   erklären und Vor- und Nachteile verschiedener Optionen zu erläutern.
+5. __Strategien__: Die Studentinnen und Studenten können Hilfsmittel gezielt
+   einsetzen und im mündlichen und schriftlichen Bereich Selbstkorrekturen
+   vornehmen. Sie können unbekannte Wörter aus dem Kontext sicher erschlie-
+   ßen, Lesestil und -tempo an Leseabsichten und Texte anpassen. Sie können
+   geeignete Strategien einsetzen, um das Hörverstehen zu überprüfen. Sie
+   können spezifische kulturell geprägte Elemente der Kommunikation
+   anwenden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Konsolidierung und Ausbau des Wortschatzes
+- Konsolidierung und Ausbau der Grammatik
+- Entwicklung von Hör- und Leseverständnisstrategien
+- Entwicklung der Sprechfertigkeit für die Teilnahme an Gesprächen und das
+  zusammenhängende Sprechen
+- Entwicklung des schriftlichen Ausdrucks
+- Anleitung zur Selbstkorrektur und zum effektiven Arbeiten mit Hilfsmitteln
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) sowie Präsentation (ca. 10 Minuten) oder mündliche
+Prüfung (ca. 10 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Niederländisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
+LBW (Kompetenzbereich Fremdsprache)
+
+
+</td></tr>
+
+</table>

@@ -1,28 +1,95 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Berufsbezogenes Praktikum – C"&body=There seems to be an error in module "Berufsbezogenes Praktikum – C".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Berufsbezogenes Praktikum – C
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Berufsbezogenes Praktikum – C |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Career Service |
-|**Modulverantwortung**              | Career Service |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten besitzen umfangreiche Einblicke in die betrieblichen Abläufe innerhalb einer Organisation oder eines Unternehmens. Sie kennen die berufspraktischen Anforderungen eines für sie relevanten Berufsfeldes. Sie sind in der Lage, Arbeitsaufträge selbstständig zu planen, durchzuführen und unter Anleitung auszuwerten. Sie können ihr im Studium erworbenes Fachwissen auf die Praxis des Arbeitsmarktes transferieren und anwenden. Sie sind in der Lage, ihre eigenen Stärken und Schwächen zu erkennen und zu reflektieren und verknüpfen ihre Erfahrungen im Unternehmen oder der Organisation mit ihrem Berufswunsch, um diesen weiterzuentwickeln oder zu korrigieren. Die Studentinnen und Studenten erkennen, welche überfachlichen Kenntnisse, Fähigkeiten und Fertigkeiten für den Einstieg in den Beruf relevant sind und sind in der Lage, diese zu reflektieren und auszubauen. Sie kennen Strategien für die erfolgreiche Praktikumssuche und Bewerbung. |
-|**Inhalte**                         | Das Modul vermittelt Strategien zur erfolgreichen Praktikumssuche und Gestaltung und ermöglicht Reflektion fachspezifischer und überfachlicher Kenntnisse, Fähigkeiten und Fertigkeiten sowie von Erfahrungen aus der Arbeitswelt, die für die Findung und Ausübung qualifikationsadäquater beruflicher Tätigkeiten auf europäischen und internationalen Arbeitsmärkten und für die Aufgabe des lebenslangen Lernens relevant sind. |
-|**Modulprüfung**                    | Keine |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 450 |
-|**Leistungspunkte (LP)**            | 15 |
-|**Dauer des Moduls**                | Zwei Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Berufspraktikum) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Praktikum            | 360                       | required                           | Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge, Praktikumsbericht |
-| Kolloquium           | 10                        | recommended                        | Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge, Praktikumsbericht |
+[« Berufsbezogenes Praktikum – B](Berufsbezogenes Praktikum – B.md){class=prev}
+[Betriebswirtschaftliche Grundlagen (ABV) »](Betriebswirtschaftliche Grundlagen (ABV).md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit P                            | 360   |
-| Vor- und Nachbereitung P                 | 70    |
-| Präsenzzeit Ko                           | 10    |
-| Vor- und Nachbereitung Ko                | 10    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Berufsbezogenes Praktikum – C </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Career Service</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten besitzen umfangreiche Einblicke in die
+betrieblichen Abläufe innerhalb einer Organisation oder eines Unternehmens.
+Sie kennen die berufspraktischen Anforderungen eines für sie relevanten
+Berufsfeldes. Sie sind in der Lage, Arbeitsaufträge selbstständig zu planen,
+durchzuführen und unter Anleitung auszuwerten. Sie können ihr im Studium
+erworbenes Fachwissen auf die Praxis des Arbeitsmarktes transferieren und
+anwenden. Sie sind in der Lage, ihre eigenen Stärken und Schwächen zu
+erkennen und zu reflektieren und verknüpfen ihre Erfahrungen im Unternehmen
+oder der Organisation mit ihrem Berufswunsch, um diesen weiterzuentwickeln
+oder zu korrigieren. Die Studentinnen und Studenten erkennen, welche
+überfachlichen Kenntnisse, Fähigkeiten und Fertigkeiten für den Einstieg in
+den Beruf relevant sind und sind in der Lage, diese zu reflektieren und
+auszubauen. Sie kennen Strategien für die erfolgreiche Praktikumssuche und
+Bewerbung.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Das Modul vermittelt Strategien zur erfolgreichen Praktikumssuche und
+Gestaltung und ermöglicht Reflektion fachspezifischer und überfachlicher
+Kenntnisse, Fähigkeiten und Fertigkeiten sowie von Erfahrungen aus der
+Arbeitswelt, die für die Findung und Ausübung qualifikationsadäquater
+beruflicher Tätigkeiten auf europäischen und internationalen Arbeitsmärkten
+und für die Aufgabe des lebenslangen Lernens relevant sind.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Praktikum** <br>360 Stunden <br> verpflichtete Teilnahme</td><td>
+
+Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge, Praktikumsbericht
+</td></tr>
+<tr markdown><td> **Kolloquium** <br>10 SWS <br> Teilnahme empfohlen</td><td>
+
+Praktikumsbezogene Tätigkeiten und Aufgaben, Diskussionsbeiträge, Praktikumsbericht
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit P</td><td>360 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung P</td><td>70 Stunden</td></tr>
+<tr><td>Präsenzzeit Ko</td><td>10 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ko</td><td>10 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>450</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>15</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Zwei Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
+
+
+</td></tr>
+
+</table>

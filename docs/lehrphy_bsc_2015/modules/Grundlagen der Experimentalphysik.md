@@ -1,41 +1,136 @@
+---
+tags:
+  - lehrphy_bsc_2015
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Grundlagen der Experimentalphysik"&body=There seems to be an error in module "Grundlagen der Experimentalphysik".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Grundlagen der Experimentalphysik
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Grundlagen der Experimentalphysik |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Physik/Institut für Experimentalphysik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können die grundlegenden physikalischen Größen benennen und ihre Zusammenhänge im Rahmen der klassischen Physik beschreiben. Sie sind in der Lage, aus einer gegebenen Situation ein physikalisches Modellsystem abzuleiten und dieses zu analysieren: Sie können Systeme klassifizieren und daraus Bewegungsgleichungen ableiten, die Lösungen wichtiger Bewegungsgleichungen interpretieren und anwenden sowie Impuls-, Drehimpuls- und Energieerhaltung beurteilen und die Erhaltungssätze anwenden. Sie können den Begriff Entropie interpretieren und die thermodynamischen Hauptsätze anwenden. Sie können aus einfachen Ladungs- bzw. Stromverteilungen mit verschiedenen Methoden elektrische bzw. magnetische Felder bestimmen. Sie kennen die Felder wichtiger Ladungs- oder Stromgeometrien, können die Maxwell-Gleichungen interpretieren und sie auf Systeme mit ruhenden, bewegten und beschleunigten Ladungen anwenden. Die Studentinnen und Studenten sind in der Lage, physikalische Zusammenhänge auf unterschiedlichem Abstraktionsniveau zu erklären: Sie können Sachverhalte mit anschaulichen Modellvorstellungen erklären und dazu Experimente beschreiben und erklären. Sie können abstrakte mathematische Beschreibungen entwickeln und damit argumentieren und die notwendigen mathematischen Methoden der Vektor-, Differenzial- und Integralrechnung sowie Komplexe Zahlen anwenden. Sie können Eigenschaften und Phänomene der Umwelt und des Alltags auf Erkenntnisse der klassischen Physik zurückführen und sind in der Lage, ausgewählte Themen selbstständig zu vertiefen und diese erklärend vorzutragen. |
-|**Inhalte**                         | – Vorlesung 1 und Übung 1: klassische Mechanik (Punktmassen, starrer Körper, Fluide, Schwingungen, Wellen) und Thermodynamik (Gasgesetze, Entropie, Kreisprozesse), Integrierte Veranstaltung 1 (Mathematische Ergänzungen): Vektoren, Komplexe Zahlen, Grundzüge der Differenzial- und Integralrechnung von Funktionen einer Veränderlichen (u. a. Produkt- und Kettenregel, Taylorpolynome und -reihen, Partielle Integration und Substitution)<br>- Vorlesung 2 und Übung 2: Relativität (Lorentz-Transformation), Elektrodynamik (Elektrostatik, Magnetostatik, Stromkreise, Induktion, Maxwell-Gleichungen, Dipolstrahlung, Elektromagnetische Wellen) und Optik (Wellenoptik, Polarisation), Integrierte Veranstaltung 2 (Mathematische Ergänzungen): Grundzüge der Differenzial- und Integralrechnung von Funktionen mehrerer Veränderlicher (u. a. Gradient, Potenzial, Divergenz, Rotation, Integralsätze von Gauß und Stokes) FU-Mitteilungen |
-|**Modulprüfung**                    | Klausur (90 Minuten) |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 600 |
-|**Leistungspunkte (LP)**            | 20 |
-|**Dauer des Moduls**                | Zwei Semester |
-|**Häufigkeit des Angebots**         | Einmal im Studienjahr, Beginn in jedem Wintersemester |
-|**Verwendbarkeit**                  | Physik, Bachelorstudiengang Meteorologie |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung 1          | 4                         | TODO: Integrierte Veranstaltungen 1 und 2: ja:: Vorlesung 1: Ja | Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe |
-| Übung 1              | 2                         | TODO: Integrierte Veranstaltungen 1 und 2: ja:: Übung 1: Ja | Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe |
-| Integrierte Veranstaltung 1 | 2                         | TODO: Integrierte Veranstaltungen 1 und 2: ja:: Integrierte Veranstaltung 1: Ja | Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe |
-| Vorlesung 2          | 4                         | TODO: Integrierte Veranstaltungen 1 und 2: ja:: Vorlesung 2: Ja | Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe |
-| Übung 2              | 2                         | TODO: Integrierte Veranstaltungen 1 und 2: ja:: Übung 2: Ja | Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe |
-| Integrierte Veranstaltung 2 | 2                         | TODO: Integrierte Veranstaltungen 1 und 2: ja:: Integrierte Veranstaltung 2: Ja | Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe |
+[« Einführung in die Struktur der Materie](Einführung in die Struktur der Materie.md){class=prev}
+[Moderne Physik »](Moderne Physik.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V1                           | 60    |
-| Vor- und Nachbereitung V1                | 40    |
-| Präsenzzeit Ü1                           | 30    |
-| Vor- und Nachbereitung Ü1                | 60    |
-| Präsenzzeit IV1                          | 30    |
-| Vor- und Nachbereitung IV1               | 30    |
-| Präsenzzeit V2                           | 60    |
-| Vor- und Nachbereitung V2                | 40    |
-| Präsenzzeit Ü2                           | 30    |
-| Vor- und Nachbereitung Ü2                | 60    |
-| Präsenzzeit IV2                          | 30    |
-| Vor- und Nachbereitung IV2               | 30    |
-| Prüfungsvorbereitung und Prüfung         | 100   |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Grundlagen der Experimentalphysik </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Physik/Institut für Experimentalphysik</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können die grundlegenden physikalischen
+Größen benennen und ihre Zusammenhänge im Rahmen der klassischen Physik
+beschreiben. Sie sind in der Lage, aus einer gegebenen Situation ein
+physikalisches Modellsystem abzuleiten und dieses zu analysieren: Sie können
+Systeme klassifizieren und daraus Bewegungsgleichungen ableiten, die
+Lösungen wichtiger Bewegungsgleichungen interpretieren und anwenden sowie
+Impuls-, Drehimpuls- und Energieerhaltung beurteilen und die Erhaltungssätze
+anwenden. Sie können den Begriff Entropie interpretieren und die
+thermodynamischen Hauptsätze anwenden. Sie können aus einfachen Ladungs-
+bzw. Stromverteilungen mit verschiedenen Methoden elektrische bzw.
+magnetische Felder bestimmen. Sie kennen die Felder wichtiger Ladungs- oder
+Stromgeometrien, können die Maxwell-Gleichungen interpretieren und sie auf
+Systeme mit ruhenden, bewegten und beschleunigten Ladungen anwenden. Die
+Studentinnen und Studenten sind in der Lage, physikalische Zusammenhänge auf
+unterschiedlichem Abstraktionsniveau zu erklären: Sie können Sachverhalte
+mit anschaulichen Modellvorstellungen erklären und dazu Experimente
+beschreiben und erklären. Sie können abstrakte mathematische Beschreibungen
+entwickeln und damit argumentieren und die notwendigen mathematischen
+Methoden der Vektor-, Differenzial- und Integralrechnung sowie Komplexe
+Zahlen anwenden. Sie können Eigenschaften und Phänomene der Umwelt und des
+Alltags auf Erkenntnisse der klassischen Physik zurückführen und sind in der
+Lage, ausgewählte Themen selbstständig zu vertiefen und diese erklärend
+vorzutragen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+- Vorlesung 1 und Übung 1: klassische Mechanik (Punktmassen, starrer Körper,
+  Fluide, Schwingungen, Wellen) und Thermodynamik (Gasgesetze, Entropie,
+  Kreisprozesse), Integrierte Veranstaltung 1 (Mathematische Ergänzungen):
+  Vektoren, Komplexe Zahlen, Grundzüge der Differenzial- und Integralrechnung
+  von Funktionen einer Veränderlichen (u. a. Produkt- und Kettenregel,
+  Taylorpolynome und -reihen, Partielle Integration und Substitution)
+- Vorlesung 2 und Übung 2: Relativität (Lorentz-Transformation),
+  Elektrodynamik (Elektrostatik, Magnetostatik, Stromkreise, Induktion,
+  Maxwell-Gleichungen, Dipolstrahlung, Elektromagnetische Wellen) und Optik
+  (Wellenoptik, Polarisation), Integrierte Veranstaltung 2 (Mathematische
+  Ergänzungen): Grundzüge der Differenzial- und Integralrechnung von
+  Funktionen mehrerer Veränderlicher (u. a. Gradient, Potenzial, Divergenz,
+  Rotation, Integralsätze von Gauß und Stokes)
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung 1** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
+</td></tr>
+<tr markdown><td> **Übung 1** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
+</td></tr>
+<tr markdown><td> **Integrierte Veranstaltung 1** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
+</td></tr>
+<tr markdown><td> **Vorlesung 2** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
+</td></tr>
+<tr markdown><td> **Übung 2** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
+</td></tr>
+<tr markdown><td> **Integrierte Veranstaltung 2** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeiten einer Übungsklausur, Bearbeiten von Übungsaufgaben, Bearbeiten einer Projektaufgabe
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V1</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V1</td><td>40 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü1</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü1</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit IV1</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung IV1</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit V2</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V2</td><td>40 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü2</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü2</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit IV2</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung IV2</td><td>30 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>100 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>600</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>20</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Zwei Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Einmal im Studienjahr, Beginn in jedem Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Physik, Bachelorstudiengang Meteorologie
+
+
+</td></tr>
+
+</table>

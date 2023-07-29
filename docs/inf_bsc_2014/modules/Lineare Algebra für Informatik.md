@@ -1,30 +1,101 @@
+---
+tags:
+  - inf_bsc_2014
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Lineare Algebra für Informatik"&body=There seems to be an error in module "Lineare Algebra für Informatik".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Lineare Algebra für Informatik
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Lineare Algebra für Informatik |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten kennen am Ende des Moduls die grundlegenden Begriffe und Methoden der Linearen Algebra. Sie sind in der Lage, Anwendungsfelder (z. B. aus Computergraphik, Robotik oder statistischer Datenanalyse) zu bestimmen, die man mit Methoden der Linearen Algebra bearbeiten kann. Sie können solche Probleme mathematisch modellieren, geeignete Lösungsverfahren auswählen und anwenden. Sie können Phänomene der Codierungstheorie mit Hilfsmitteln der Linearen Algebra (über endlichen Körpern) erklären, entsprechende Problemstellungen klassifizieren und Lösungsansätze entwickeln. |
-|**Inhalte**                         | Lineare Algebra: Gruppe, Ringe, Körper; Polynomringe; Vektorraum, Basis und Dimension; Lineare Abbildung, Matrix und Rang; Gauss-Elimination und lineare Gleichungssysteme; Determinanten, Eigenwerte und Eigenvektoren; Euklidische Vektorräume und Orthonormalisierung; Hauptachsentransformation Anwendungen der Linearen Algebra in der affinen Geometrie, Statistische Datenanalyse und Codierungstheorie (lineare Codes). |
-|**Modulprüfung**                    | Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen Prüfungsleistung (120 Minuten) durchgeführt werden. |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Sommersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | -                        |
-| Übung                | 2                         | required                           | Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen |
+[« Grundlagen des Managements von IT-Projekten](Grundlagen des Managements von IT-Projekten.md){class=prev}
+[Logik und Diskrete Mathematik »](Logik und Diskrete Mathematik.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor und Nachbereitung Ü                  | 45    |
-| Schriftliche Übungsaufgaben              | 45    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Lineare Algebra für Informatik </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Pflichtbereich
+- Themengebiet Mathematik für Informatikerinnen und Informatiker
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten kennen am Ende des Moduls die grundlegenden
+Begriffe und Methoden der Linearen Algebra. Sie sind in der Lage,
+Anwendungsfelder (z. B. aus Computergraphik, Robotik oder statistischer
+Datenanalyse) zu bestimmen, die man mit Methoden der Linearen Algebra
+bearbeiten kann. Sie können solche Probleme mathematisch modellieren,
+geeignete Lösungsverfahren auswählen und anwenden. Sie können Phänomene der
+Codierungstheorie mit Hilfsmitteln der Linearen Algebra (über endlichen
+Körpern) erklären, entsprechende Problemstellungen klassifizieren und
+Lösungsansätze entwickeln.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Lineare Algebra: Gruppe, Ringe, Körper; Polynomringe; Vektorraum, Basis und
+Dimension; Lineare Abbildung, Matrix und Rang; Gauss-Elimination und lineare
+Gleichungssysteme; Determinanten, Eigenwerte und Eigenvektoren; Euklidische
+Vektorräume und Orthonormalisierung; Hauptachsentransformation
+
+Anwendungen der Linearen Algebra in der affinen Geometrie, Statistische Datenanalyse und
+Codierungstheorie (lineare Codes).
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+-
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Schriftliche Bearbeitung der Übungsblätter; Mündliche Präsentation der Lösungen von Übungsaufgaben in den Übungen
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor und Nachbereitung Ü</td><td>45 Stunden</td></tr>
+<tr><td>Schriftliche Übungsaufgaben</td><td>45 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (120 Minuten); die Klausur kann auch in Form einer elektronischen
+Prüfungsleistung (120 Minuten) durchgeführt werden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Informatik
+
+
+</td></tr>
+
+</table>

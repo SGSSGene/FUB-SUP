@@ -1,29 +1,108 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Niederländisch ABV Einstiegsmodul"&body=There seems to be an error in module "Niederländisch ABV Einstiegsmodul".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Niederländisch ABV Einstiegsmodul
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Niederländisch ABV Einstiegsmodul |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | Studienkoordinator/in an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Beherrschung der Grundfertigkeiten auf der Niveaustufe B 1 GER 1. Lesen: Die Studentinnen und Studenten können Zeitungstexte und unkomplizierte Sachtexte zu Themen des eigenen Fach- und Interessengebiets verstehen. Sie können die Bedeutung unbekannter Wörter aus dem Kontext erschließen. 2. Hören: Die Studentinnen und Studenten können Alltagssituationen bewältigen, vorausgesetzt es wird deutlich und langsam gesprochen. Sie können die Hauptpunkte einer einfachen Präsentation zu einem vertrauten Thema verstehen. 3. Sprechen: Die Studentinnen und Studenten können relativ flüssig zusammenhängende Beschreibungen oder Berichte zu weniger komplexen Themen aus ihren Interessen- oder Fachgebieten geben. Sie können eine Argumentation gut genug ausführen, um die meiste Zeit ohne Schwierigkeit verstanden zu werden. 4. Schreiben: Die Studentinnen und Studenten sind in der Lage, mit einfachen Mitteln Alltagssituationen zu beschreiben, über ein vertrautes Thema oder ein Erlebnis zu berichten, persönliche Briefe zu schreiben. Sie können in einer Vorlesung eine Liste der zentralen Punkte machen, sofern das Thema vertraut ist. 5. Strategien: Die Studentinnen und Studenten können Kommunikationsstrategien sowie Lese- und Hörverständnisstrategien anwenden. Sie können spezifische kulturell geprägte Elemente der Kommunikation erkennen. |
-|**Inhalte**                         | – Aufbau des Grundwortschatzes<br>- Aufbau der Basisgrammatik<br>- Hör- und Leseverständnisübungen<br>- Entwicklung der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen<br>- Arbeit mit verschiedenen Textsorten<br>- Arbeit mit Wörterbüchern |
-|**Modulprüfung**                    | Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Niederländisch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Zwei Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV<br>(Kompetenzbereich Fremdsprachen) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung 1 | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit |
-| Sprachpraktische Übung 2 | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit |
+[« Nachhaltigkeit managen](Nachhaltigkeit managen.md){class=prev}
+[Niederländisch ABV Grundmodul 2 »](Niederländisch ABV Grundmodul 2.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ1                         | 60    |
-| Vor- und Nachbereitung spÜ1              | 90    |
-| Präsenzzeit spÜ2                         | 60    |
-| Vor- und Nachbereitung spÜ2              | 75    |
-| Prüfungsvorbereitung und Prüfung         | 15    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Niederländisch ABV Einstiegsmodul </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Beherrschung der Grundfertigkeiten auf der Niveaustufe B 1 GER
+
+1. __Lesen__: Die Studentinnen und Studenten können Zeitungstexte und
+   unkomplizierte Sachtexte zu Themen des eigenen Fach- und
+   Interessengebiets verstehen. Sie können die Bedeutung unbekannter Wörter
+   aus dem Kontext erschließen.
+2. __Hören__: Die Studentinnen und Studenten können Alltagssituationen
+   bewältigen, vorausgesetzt es wird deutlich und langsam gesprochen. Sie
+   können die Hauptpunkte einer einfachen Präsentation zu einem vertrauten
+   Thema verstehen.
+3. __Sprechen__: Die Studentinnen und Studenten können relativ flüssig
+   zusammenhängende Beschreibungen oder Berichte zu weniger komplexen Themen
+   aus ihren Interessen- oder Fachgebieten geben. Sie können eine
+   Argumentation gut genug ausführen, um die meiste Zeit ohne Schwierigkeit
+   verstanden zu werden.
+4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, mit
+   einfachen Mitteln Alltagssituationen zu beschreiben, über ein vertrautes
+   Thema oder ein Erlebnis zu berichten, persönliche Briefe zu schreiben.
+   Sie können in einer Vorlesung eine Liste der zentralen Punkte machen,
+   sofern das Thema vertraut ist.
+5. __Strategien__: Die Studentinnen und Studenten können
+   Kommunikationsstrategien sowie Lese- und Hörverständnisstrategien
+   anwenden. Sie können spezifische kulturell geprägte Elemente der
+   Kommunikation erkennen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Aufbau des Grundwortschatzes
+- Aufbau der Basisgrammatik
+- Hör- und Leseverständnisübungen
+- Entwicklung der Sprechfertigkeit für die Ausführung kommunikativer
+  Grundfunktionen
+- Arbeit mit verschiedenen Textsorten
+- Arbeit mit Wörterbüchern
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung 1** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit
+</td></tr>
+<tr markdown><td> **Sprachpraktische Übung 2** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ1</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ1</td><td>90 Stunden</td></tr>
+<tr><td>Präsenzzeit spÜ2</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ2</td><td>75 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>15 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Niederländisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Zwei Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen)
+
+
+</td></tr>
+
+</table>

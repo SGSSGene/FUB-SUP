@@ -1,32 +1,102 @@
+---
+tags:
+  - phy_msc_2020
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Advanced Astronomy and Astrophysics"&body=There seems to be an error in module "Advanced Astronomy and Astrophysics".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Advanced Astronomy and Astrophysics
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Advanced Astronomy and Astrophysics |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Physik/Physik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Das Modul vermittelt im Rahmen von wechselnden, weiterführenden Vorlesungen vertiefte Kenntnisse auf modernen Teilgebieten der Astronomie und Astrophysik. In dem Praktikum werden dazu ergänzend praktische Fertigkeiten bzgl. astronomischer Beobachtungsmethoden bzw. numerische Methoden zu astrophysikalischen Fragestellungen vermittelt. |
-|**Inhalte**                         | – wechselnde Vorlesungen zu unterschiedlichen Spezialthemen aus der Astronomie und Astrophysik (z. B. Relativistische Astrophysik, Kosmologie, Physik der Sternatmosphären, kosmische Elektrodynamik, ISM, Beobachtungsmethoden der Astronomie, Planetenphysik, Sternaufbau und Sternentwicklung)<br>- praktische Aufgaben aus der Astronomie (z. B. Astrometrie, Sternspektroskopie, Entfernungsbestimmung, galaktische Rotation, Beobachtungen mit den zentrumseigenen Teleskopen)<br>- numerische Methoden astrophysikalischer Fragestellungen |
-|**Modulprüfung**                    | Mündliche Prüfung (ca. 30 Minuten) |
-|**Modulsprache**                    | Englisch (ggf. Deutsch) |
-|**Arbeitsaufwand (Stunden)**        | 360 |
-|**Leistungspunkte (LP)**            | 12 |
-|**Dauer des Moduls**                | Ein oder zwei Semester |
-|**Häufigkeit des Angebots**         | Mindestens jedes zweite Semester |
-|**Verwendbarkeit**                  | Masterstudiengang Physik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung 1          | 2                         | TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Vorlesung 1: Ja | Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung |
-| Vorlesung 2          | 2                         | TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Vorlesung 2: Ja | Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung |
-| Laborpraktikum       | 4                         | TODO: Praktikum: Ja; Vorlesung: Teilnahme wird empfohlen:: Laborpraktikum: Ja | Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung |
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V1                           | 30    |
-| Vor- und Nachbereitung V1                | 45    |
-| Präsenzzeit V2                           | 30    |
-| Vor- und Nachbereitung V2                | 45    |
-| Präsenzzeit P                            | 60    |
-| Vor- und Nachbearbeitung P               | 120   |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+[Advanced Atomic and Molecular Physics »](Advanced Atomic and Molecular Physics.md){class=next}
+{class=prev-next-nav}
+
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Advanced Astronomy and Astrophysics </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Physik/Physik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Wahlbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Das Modul vermittelt im Rahmen von wechselnden, weiterführenden Vorlesungen
+vertiefte Kenntnisse auf modernen Teilgebieten der Astronomie und
+Astrophysik. In dem Praktikum werden dazu ergänzend praktische Fertigkeiten
+bzgl. astronomischer Beobachtungsmethoden bzw. numerische Methoden zu
+astrophysikalischen Fragestellungen vermittelt.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+- wechselnde Vorlesungen zu unterschiedlichen Spezialthemen aus der
+  Astronomie und Astrophysik (z. B. Relativistische Astrophysik, Kosmologie,
+  Physik der Sternatmosphären, kosmische Elektrodynamik, ISM,
+  Beobachtungsmethoden der Astronomie, Planetenphysik, Sternaufbau und
+  Sternentwicklung)
+- praktische Aufgaben aus der Astronomie (z. B. Astrometrie,
+  Sternspektroskopie, Entfernungsbestimmung, galaktische Rotation,
+  Beobachtungen mit den zentrumseigenen Teleskopen)
+- numerische Methoden astrophysikalischer Fragestellungen
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung 1** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
+</td></tr>
+<tr markdown><td> **Vorlesung 2** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
+</td></tr>
+<tr markdown><td> **Laborpraktikum** <br>4 SWS <br> verpflichtete Teilnahme</td><td>
+
+Praktische Versuchsdurchführung mit schriftlicher Ausarbeitung
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V1</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V1</td><td>45 Stunden</td></tr>
+<tr><td>Präsenzzeit V2</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V2</td><td>45 Stunden</td></tr>
+<tr><td>Präsenzzeit P</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbearbeitung P</td><td>120 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Mündliche Prüfung (ca. 30 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch (ggf. Deutsch)</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>360</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>12</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein oder zwei Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Mindestens jedes zweite Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Physik
+
+
+</td></tr>
+
+</table>

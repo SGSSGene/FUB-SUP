@@ -1,29 +1,100 @@
+---
+tags:
+  - bioinf_bsc_2012
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Genetik und Genomforschung"&body=There seems to be an error in module "Genetik und Genomforschung".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Genetik und Genomforschung
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Genetik und Genomforschung |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut für Biologie |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Erfolgreiche Absolvierung des Moduls „Molekularbiologie und Biochemie II“ |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten haben ein Verständnis der Grundlagen von Genetik und Genomforschung als wichtige Tätigkeitsfelder der Bioinformatik. |
-|**Inhalte**                         | - Chromosomen und Chromosomenaberrationen<br>- Monogene Krankheiten und Stammbäume<br>- Populationsgenetik<br>- Multifaktorielle Krankheiten<br>- Genkartierung monogener und komplexer Krankheiten<br>- Identifikation von Krankheitsgenen und genetischen Risikofaktoren<br>- Pathomechanismen erblicher Erkrankungen<br>- Tiermodelle<br>- Genomorganisation<br>- Genomevolution<br>- Tumorgenetik<br>- Genepressionsanalysen<br>- Modellorganismen<br>- Genomprojekte von Mensch und Modellorganismen |
-|**Modulprüfung**                    | Klausur (90 Minuten) |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Sommersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Bioinformatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen |
-| Übung                | 1                         | required                           | Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen |
+[« Allgemeine Chemie](Allgemeine Chemie.md){class=prev}
+[Informatik A »](Informatik A.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit Vorlesung                    | 30    |
-| Vor- und Nachbereitung Vorlesung         | 30    |
-| Präsenzzeit Übung                        | 15    |
-| Vor- und Nachbereitung Übung             | 45    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Genetik und Genomforschung </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut für Biologie</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereiche im Pflichtbereich des Kernfaches
+- Studienbereich Biologie/Chemie/Biochemie
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Molekularbiologie und Biochemie II“
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten haben ein Verständnis der Grundlagen von
+Genetik und Genomforschung als wichtige Tätigkeitsfelder der Bioinformatik.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Chromosomen und Chromosomenaberrationen
+- Monogene Krankheiten und Stammbäume
+- Populationsgenetik
+- Multifaktorielle Krankheiten
+- Genkartierung monogener und komplexer Krankheiten
+- Identifikation von Krankheitsgenen und genetischen Risikofaktoren
+- Pathomechanismen erblicher Erkrankungen
+- Tiermodelle
+- Genomorganisation
+- Genomevolution
+- Tumorgenetik
+- Genepressionsanalysen
+- Modellorganismen
+- Genomprojekte von Mensch und Modellorganismen
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+</td></tr>
+<tr markdown><td> **Übung** <br>1 SWS <br> verpflichtete Teilnahme</td><td>
+
+Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit Vorlesung</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Vorlesung</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Übung</td><td>15 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Übung</td><td>45 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

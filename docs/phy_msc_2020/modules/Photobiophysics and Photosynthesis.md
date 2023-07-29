@@ -1,29 +1,96 @@
+---
+tags:
+  - phy_msc_2020
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Photobiophysics and Photosynthesis"&body=There seems to be an error in module "Photobiophysics and Photosynthesis".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Photobiophysics and Photosynthesis
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Photobiophysics and Photosynthesis |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Physik/Physik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden kennen aufgrund ausgewählter Beispiele aktuelle Fragestellungen aus der biophysikalischen Forschung im Bereich der Photobiophysik und der Photosynthese sowie neue Methoden und deren Möglichkeiten. Sie sind befähigt, Ergebnisse hinsichtlich des aktuellen Kenntnisstands zu interpretieren und kritisch zu beurteilen. |
-|**Inhalte**                         | Die Umwandlung und Nutzung von Licht in biologischen Systemen ist von grundlegender Bedeutung für das Leben auf der Erde. Themen sind: Überblick über Photosynthese und photosynthetische Organismen; photophysikalische Grundlagen von Lichtabsorption, Fluoreszenzemission und Energietransfer in photosynthetischen Antennensystemen, lichtgetriebene Prozesse in Kofaktor-Protein-Komplexen, ausgewählte Methoden der Photobiophysik, Photosensoren, Signaltransduktion, Protonen- und Elektronentransfer in biologischen Systemen, zeitaufgelöste Spektroskopie. |
-|**Modulprüfung**                    | Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit (ca. 15 Seiten) |
-|**Modulsprache**                    | Englisch (ggf. Deutsch) |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Unregelmäßig* |
-|**Verwendbarkeit**                  | Masterstudiengang Physik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Laborversuche, Protokollierung und parallele Diskussion |
-| Übung                | 1                         | recommended                        | Laborversuche, Protokollierung und parallele Diskussion |
+[« Nanophysics](Nanophysics.md){class=prev}
+[Quantum Field Theory and Many-Body Physics »](Quantum Field Theory and Many-Body Physics.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 30    |
-| Präsenzzeit Ü                            | 15    |
-| Vor- und Nachbereitung Ü                 | 15    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Photobiophysics and Photosynthesis </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Physik/Physik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Wahlbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden kennen aufgrund ausgewählter Beispiele aktuelle
+Fragestellungen aus der biophysikalischen Forschung im Bereich der
+Photobiophysik und der Photosynthese sowie neue Methoden und deren
+Möglichkeiten. Sie sind befähigt, Ergebnisse hinsichtlich des aktuellen
+Kenntnisstands zu interpretieren und kritisch zu beurteilen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Die Umwandlung und Nutzung von Licht in biologischen Systemen ist von
+grundlegender Bedeutung für das Leben auf der Erde. Themen sind: Überblick
+über Photosynthese und photosynthetische Organismen; photophysikalische
+Grundlagen von Lichtabsorption, Fluoreszenzemission und Energietransfer in
+photosynthetischen Antennensystemen, lichtgetriebene Prozesse in
+Kofaktor-Protein-Komplexen, ausgewählte Methoden der Photobiophysik,
+Photosensoren, Signaltransduktion, Protonen- und Elektronentransfer in
+biologischen Systemen, zeitaufgelöste Spektroskopie.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Laborversuche, Protokollierung und parallele Diskussion
+</td></tr>
+<tr markdown><td> **Übung** <br>1 SWS <br> Teilnahme empfohlen</td><td>
+
+Laborversuche, Protokollierung und parallele Diskussion
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>15 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>15 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder mündliche Prüfung (ca. 30 Minuten) oder Hausarbeit
+(ca. 15 Seiten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch (ggf. Deutsch)</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Unregelmäßig*</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Physik
+
+
+</td></tr>
+
+</table>

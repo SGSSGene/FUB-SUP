@@ -1,26 +1,105 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Italienisch ABV Grundmodul 2"&body=There seems to be an error in module "Italienisch ABV Grundmodul 2".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Italienisch ABV Grundmodul 2
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Italienisch ABV Grundmodul 2 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | Sprachbereichskoordinator/in Italienisch an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Grundkenntnisse des Italienischen (Einstufungstest der ZE Sprachenzentrum oder<br>gleichwertiger Nachweis) |
-|**Qualifikationsziele**             | Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2 GER 1. Lesen: Die Studentinnen und Studenten können kurze, einfache Texte verstehen, die einen gewissen Anteil international bekannter Wörter enthalten. Sie können aus einfachen schriftlichen Materialien spezifische Informationen heraussuchen. Die Studentinnen und Studenten sind imstande, kurze einfache Texte zu verstehen, sofern sie sich auf konkrete und bekannte Situationen beziehen. Darüber hinaus können sie Texten, die bildgestützt sind, die Hauptinformationen entnehmen. 2. Hören: Die Studentinnen und Studenten können kurze beschreibende Texte zu vertrauten Themen verstehen, vorausgesetzt, es wird langsam und deutlich in Standardsprache gesprochen. 3. Sprechen: Die Studentinnen und Studenten sind in der Lage, ihren täglichen Tagesablauf zu schildern, über ihre beruflichen und Freizeitinteressen zu berichten, ihre Gesprächspartner nach diesen Themen zu befragen und auf solche Fragen kurz zu reagieren. 4. Schreiben: Die Studentinnen und Studenten sind imstande, kurze Notizen und Mitteilungen zu verfassen, persönliche Dankes- und Entschuldigungsschreiben zu formulieren, einen tabellarischen Lebenslauf zu schreiben und Pläne und Vereinbarungen schriftlich festzuhalten. 5. Strategien: Die Studentinnen und Studenten entwickeln folgende Strategien weiter: Kooperationsstrategien, globale und lokale Verständnisstrategien (verbaler und nicht verbaler Kommunikation), allgemeine Lesestrategien. Sie können Sprachstrukturen anhand bereits erworbener Kenntnisse anderer Fremdsprachen erkennen; außerdem können sie verschiedene Textstrukturen erfassen. Sie nehmen eine erste Selbstkorrektur ihrer Texte vor. |
-|**Inhalte**                         | – Elemente des Grundwortschatzes<br>- Elemente der Basisgrammatik<br>- Erste Elemente der Textgrammatik<br>- Elemente der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen |
-|**Modulprüfung**                    | Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Italienisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich<br>Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit |
+[« Italienisch ABV Einstiegsmodul](Italienisch ABV Einstiegsmodul.md){class=prev}
+[Italienisch ABV Grundmodul 3 »](Italienisch ABV Grundmodul 3.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ                          | 60    |
-| Vor- und Nachbereitung spÜ               | 75    |
-| Prüfungsvorbereitung und Prüfung         | 15    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Italienisch ABV Grundmodul 2 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Grundkenntnisse des Italienischen (Einstufungstest der ZE Sprachenzentrum oder
+gleichwertiger Nachweis)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2 GER
+
+1. __Lesen__: Die Studentinnen und Studenten können kurze, einfache Texte
+   verstehen, die einen gewissen Anteil international bekannter Wörter
+   enthalten. Sie können aus einfachen schriftlichen Materialien spezifische
+   Informationen heraussuchen. Die Studentinnen und Studenten sind imstande,
+   kurze einfache Texte zu verstehen, sofern sie sich auf konkrete und
+   bekannte Situationen beziehen. Darüber hinaus können sie Texten, die
+   bildgestützt sind, die Hauptinformationen entnehmen.
+2. __Hören__: Die Studentinnen und Studenten können kurze beschreibende
+   Texte zu vertrauten Themen verstehen, vorausgesetzt, es wird langsam und
+   deutlich in Standardsprache gesprochen.
+3. __Sprechen__: Die Studentinnen und Studenten sind in der Lage, ihren
+   täglichen Tagesablauf zu schildern, über ihre beruflichen und
+   Freizeitinteressen zu berichten, ihre Gesprächspartner nach diesen Themen
+   zu befragen und auf solche Fragen kurz zu reagieren.
+4. __Schreiben__: Die Studentinnen und Studenten sind imstande, kurze
+   Notizen und Mitteilungen zu verfassen, persönliche Dankes- und
+   Entschuldigungsschreiben zu formulieren, einen tabellarischen Lebenslauf
+   zu schreiben und Pläne und Vereinbarungen schriftlich festzuhalten.
+5. __Strategien__: Die Studentinnen und Studenten entwickeln folgende
+   Strategien weiter: Kooperationsstrategien, globale und lokale
+   Verständnisstrategien (verbaler und nicht verbaler Kommunikation),
+   allgemeine Lesestrategien. Sie können Sprachstrukturen anhand bereits
+   erworbener Kenntnisse anderer Fremdsprachen erkennen; außerdem können sie
+   verschiedene Textstrukturen erfassen. Sie nehmen eine erste
+   Selbstkorrektur ihrer Texte vor.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Elemente des Grundwortschatzes
+- Elemente der Basisgrammatik
+- Erste Elemente der Textgrammatik
+- Elemente der Sprechfertigkeit für die Ausführung kommunikativer
+  Grundfunktionen
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstudienzeit
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ</td><td>75 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>15 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Italienisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
+LBW (Kompetenzbereich Fremdsprache)
+
+
+</td></tr>
+
+</table>

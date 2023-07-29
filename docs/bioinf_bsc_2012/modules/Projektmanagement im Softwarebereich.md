@@ -1,29 +1,98 @@
+---
+tags:
+  - bioinf_bsc_2012
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Projektmanagement im Softwarebereich"&body=There seems to be an error in module "Projektmanagement im Softwarebereich".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Projektmanagement im Softwarebereich
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Projektmanagement im Softwarebereich |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut für Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten haben allgemeine Kenntnisse über die Anwendung von Software im beruflichen Alltag mit größeren Nutzergruppen, insbesondere praktische Erfahrungen mit typischen Problemen mit Software aus dem weiteren Umfeld der Bioinformatik und mit Lösungsansätzen zu deren Überwindung |
-|**Inhalte**                         | - Verwendung von für den zu erwartenden Berufsalltag typischer Software für ein typisches Projekt<br>- Auswahl passender Software aus einer vorgegebenen Kollektion bzw. Anpassung oder Entwicklung fehlender Softwaremodule<br>- Erarbeitung von Lösungsstrategien im Team<br>- Versuch einer Lösungsumsetzung mittels der zusammengestellten Software und Dokumentation der Ergebnisse<br>- Vortrag zur Darstellung der Projektergebnisse |
-|**Modulprüfung**                    | Referat mit Diskussion (ca. 40 Minuten); die Modulprüfung wird nicht differenziert bewertet |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester (als Blockveranstaltung zu Beginn des Semesters) |
-|**Häufigkeit des Angebots**         | Jedes Sommersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Bioinformatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Praxisseminar        | 4                         | required                           | Praktische Übungen mit Software, Vorlage einer schriftlichen Dokumentation<br>Diskussionsbeiträge |
-| Seminar              | 1                         | required                           | Praktische Übungen mit Software, Vorlage einer schriftlichen Dokumentation<br>Diskussionsbeiträge |
+[« Neurobiologie](Neurobiologie.md){class=prev}
+[Statistik für Biowissenschaften I »](Statistik für Biowissenschaften I.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit Praxisseminar                | 60    |
-| Vor-und Nachbereitung Praxisseminar      | 150   |
-| Präsenzzeit Seminar                      | 15    |
-| Vor- und Nachbereitung Seminar           | 45    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Projektmanagement im Softwarebereich </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut für Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereiche Allgemeine Berufsvorbereitung
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten haben allgemeine Kenntnisse über die
+Anwendung von Software im beruflichen Alltag mit größeren Nutzergruppen,
+insbesondere praktische Erfahrungen mit typischen Problemen mit Software aus
+dem weiteren Umfeld der Bioinformatik und mit Lösungsansätzen zu deren
+Überwindung
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Verwendung von für den zu erwartenden Berufsalltag typischer Software für
+  ein typisches Projekt
+- Auswahl passender Software aus einer vorgegebenen Kollektion bzw.
+  Anpassung oder Entwicklung fehlender Softwaremodule
+- Erarbeitung von Lösungsstrategien im Team
+- Versuch einer Lösungsumsetzung mittels der zusammengestellten Software und
+  Dokumentation der Ergebnisse
+- Vortrag zur Darstellung der Projektergebnisse
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Praxisseminar** <br>4 SWS <br> verpflichtete Teilnahme</td><td>
+
+Praktische Übungen mit Software, Vorlage einer schriftlichen Dokumentation
+Diskussionsbeiträge
+</td></tr>
+<tr markdown><td> **Seminar** <br>1 SWS <br> verpflichtete Teilnahme</td><td>
+
+Praktische Übungen mit Software, Vorlage einer schriftlichen Dokumentation
+Diskussionsbeiträge
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit Praxisseminar</td><td>60 Stunden</td></tr>
+<tr><td>Vor-und Nachbereitung Praxisseminar</td><td>150 Stunden</td></tr>
+<tr><td>Präsenzzeit Seminar</td><td>15 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Seminar</td><td>45 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Referat mit Diskussion (ca. 40 Minuten);
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester (als Blockveranstaltung zu Beginn des Semesters)</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

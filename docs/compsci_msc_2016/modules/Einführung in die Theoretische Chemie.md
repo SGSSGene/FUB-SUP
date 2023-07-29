@@ -1,31 +1,105 @@
+---
+tags:
+  - compsci_msc_2016
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Einführung in die Theoretische Chemie"&body=There seems to be an error in module "Einführung in die Theoretische Chemie".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Einführung in die Theoretische Chemie
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Einführung in die Theoretische Chemie |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Biologie, Chemie, Pharmazie |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten kennen grundlegende analytische und numerische Konzepte und Methoden der Theoretischen Chemie. Sie können zeitunabhängige und zeitabhängige quantenmechanische Methoden für ausgewählte Modellsysteme der Chemie anwenden und verfügen über die numerischen Fähigkeiten entsprechende Computersimulationen durchzuführen. Dadurch erlangen sie ein vertieftes Verständnis für Eigenschaften von Molekülen und chemischen Reaktionen. |
-|**Inhalte**                         | Vertiefende mathematische Darstellung der zeitunabhängigen und zeitabhängigen Quantenmechanik, Lösen von quantenmechanischen Ein-Teilchen-Problemen (freies Teilchen, harmonischer Oszillator, Wasserstoffatom), Kerndynamik (Schwingung und Rotation), Kernschwingungen mehratomiger Moleküle, zeitabhängige und zeitunabhängige Störungsrechnung, ausgewählte numerische Lösungsverfahren zur Berechnung von zeitabhängigen quantenmechanischen Modellsystemen. |
-|**Modulprüfung**                    | ziert bewertet. |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Computational Science |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse |
-| Übung                | 1                         | recommended                        | Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse |
+[« Einführung in die Quantenmechanik](Einführung in die Quantenmechanik.md){class=prev}
+[Forschungsprojekt A »](Forschungsprojekt A.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 30    |
-| Präsenzzeit Ü                            | 15    |
-| betreute Computerübung                   | 15    |
-| Selbststudium am                         | 0     |
-| Vor- und Nachbereitung Ü                 | 30    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Einführung in die Theoretische Chemie </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Biologie, Chemie, Pharmazie</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Fachliche Angebote
+- Chemie
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten kennen grundlegende analytische und
+numerische Konzepte und Methoden der Theoretischen Chemie. Sie können
+zeitunabhängige und zeitabhängige quantenmechanische Methoden für
+ausgewählte Modellsysteme der Chemie anwenden und verfügen über die
+numerischen Fähigkeiten entsprechende Computersimulationen durchzuführen.
+Dadurch erlangen sie ein vertieftes Verständnis für Eigenschaften von
+Molekülen und chemischen Reaktionen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Vertiefende mathematische Darstellung der zeitunabhängigen und
+zeitabhängigen Quantenmechanik, Lösen von quantenmechanischen
+Ein-Teilchen-Problemen (freies Teilchen, harmonischer Oszillator,
+Wasserstoffatom), Kerndynamik (Schwingung und Rotation), Kernschwingungen
+mehratomiger Moleküle, zeitabhängige und zeitunabhängige Störungsrechnung,
+ausgewählte numerische Lösungsverfahren zur Berechnung von zeitabhängigen
+quantenmechanischen Modellsystemen.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse
+</td></tr>
+<tr markdown><td> **Übung** <br>1 SWS <br> Teilnahme empfohlen</td><td>
+
+Diskussionsbeteiligung, Präsentation ausgewählter Simulationsergebnisse
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>15 Stunden</td></tr>
+<tr><td>betreute Computerübung</td><td>15 Stunden</td></tr>
+<tr><td>Selbststudium am PC</td><td>0 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>30 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>ziert bewertet.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Computational Science
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Es felht der geschätzte Arbeitsaufwand für Selbststudium am Rechner
+
+</td></tr>
+
+</table>

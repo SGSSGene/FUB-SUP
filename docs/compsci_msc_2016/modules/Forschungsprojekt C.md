@@ -1,34 +1,87 @@
+---
+tags:
+  - compsci_msc_2016
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Forschungsprojekt C"&body=There seems to be an error in module "Forschungsprojekt C".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Forschungsprojekt C
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Forschungsprojekt C |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik und Informatik/Physik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und Fertigkeiten im wissenschaftlichen Rechnen in einem aktuellen, nach Möglichkeit industriebezogenen Forschungsprojekt einsetzen. Sie können im Team arbeiten und über ihre Arbeit geeignet kommunizieren. Sie sind dazu bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise Kritik üben. |
-|**Inhalte**                         | In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln des wissenschaftlichen Rechnens bearbeitet. |
-|**Modulprüfung**                    | Projektbeitrags (ca. 5 Seiten) |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 210 |
-|**Leistungspunkte (LP)**            | 7 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Mindestens einmal im Studienjahr |
-|**Verwendbarkeit**                  | Für die Beschreibung des Moduls „Forschungsseminar computational sciences“ (5 LP) siehe oben unter III. Spezialisierungsbereich, 1. Molecular Sciences, Buchst. b) Wahlpflichtteil.
-Für die Beschreibung des Moduls „Forschungsprojekt A“ siehe oben unter III. Spezialisierungsbereich, 1. Molecular
-Sciences, Buchst. b) Wahlpflichtteil.
-Für das Modul „Physik der Erde II“ (6 LP) wird auf die Studien- und Prüfungsordnung für den Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien Universität Berlin verwiesen.
-Für die Beschreibung der Module „Selected topics in theoretical computational sciences“ (5 LP) und „Selected topics
-in applied computational sciences“ (5 LP) siehe oben unter III. Spezialisierungsbereich, 1. Molecular Sciences,
-Buchst. b) Wahlpflichtteil.
-Für das Modul „Thermodynamik und Kinetik von geologischen Prozessen“ (6 LP) wird auf die Studien- und Prüfungsordnung für den Masterstudiengang Geologische Wissenschaften des Fachbereichs Geowissenschaften der Freien
-Universität Berlin verwiesen. Verwendbarkeit: Masterstudiengang Scientific Computing |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Projektseminar       | 2                         | recommended                        | Regelmäßige Diskussionsbeiträge |
+[« Forschungsprojekt B](Forschungsprojekt B.md){class=prev}
+[Forschungsprojekt D »](Forschungsprojekt D.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit PS                           | 30    |
-| Vor- und Nachbereitung PS                | 120   |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Forschungsprojekt C </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Biologie, Chemie, Pharmazie/Geowissenschaften/Mathematik und Informatik/Physik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Spezialisierungsbereich
+- Geosciences
+- Wahlpflichtteil
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können ihre Kenntnisse, Fähigkeiten und
+Fertigkeiten im wissenschaftlichen Rechnen in einem aktuellen, nach
+Möglichkeit industriebezogenen Forschungsprojekt einsetzen. Sie können im
+Team arbeiten und über ihre Arbeit geeignet kommunizieren. Sie sind dazu
+bereit, im Team bei Bedarf Hilfestellungen anzubieten, sie können
+einzusetzende Hilfsmittel auswählen und beurteilen und in sachlicher Weise
+Kritik üben.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+In diesem Modul werden anwendungsorientierte Probleme mit Hilfsmitteln des
+wissenschaftlichen Rechnens bearbeitet.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Projektseminar** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Regelmäßige Diskussionsbeiträge
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit PS</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung PS</td><td>120 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Projektbeitrags (ca. 5 Seiten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>210</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>7</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Mindestens einmal im Studienjahr</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Scientific Computing
+
+
+</td></tr>
+
+</table>

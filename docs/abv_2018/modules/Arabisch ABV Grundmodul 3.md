@@ -1,26 +1,99 @@
+---
+tags:
+  - abv_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Arabisch ABV Grundmodul 3"&body=There seems to be an error in module "Arabisch ABV Grundmodul 3".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Arabisch ABV Grundmodul 3
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Arabisch ABV Grundmodul 3 |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum |
-|**Modulverantwortung**              | beauftragte Arabischlehrkraft an der ZE Sprachenzentrum |
-|**Zugangsvoraussetzungen**          | Erfolgreiche Absolvierung des Moduls „Arabisch ABV Einstiegsmodul“ oder des Moduls „Arabisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse (nachzuweisen durch einen Einstufungstest an<br>der ZE Sprachenzentrum oder gleichwertiger Nachweis) |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten beherrschen die mündlichen Grundfertigkeiten auf der Niveaustufe A 2.1 GER und die schriftlichen Grundfertigkeiten auf der Niveaustufe A 2.2 GER 1. Lesen: Die Studentinnen und Studenten können anhand der Struktur eines einfacheren Textes, der Konjunktionen und Nebensätze enthält, seine Aussage erfassen. 2. Hören: Sie können zu ihnen vertrauten Themen mit Anleitung Hörtexte verstehen, wenn langsam und deutlich gesprochen wird. 3. Sprechen: Sie können an kurzen Gesprächen teilnehmen. Sie können mithilfe vertrauter Strukturen und vertrautem Wortschatz ihre eigenen Ideen ausdrücken. 4. Schreiben: Sie können zu ihnen vertrauten Themen einfachere Texte nach Modelltexten anfertigen. Mit Hilfe vertrauter Strukturen und vertrautem Wortschatz können sie in Ansätzen ihre eigenen Ideen ausdrücken. 5. Interkulturelle Kompetenz: Sie können für die interkulturelle Kommunikation in Ansätzen wichtige soziale und kulturelle Elemente berücksichtigen. |
-|**Inhalte**                         | – Ausbau der Basisgrammatik<br>- Weiterentwicklung der Lese- und Hörverständnisstrategien<br>- Einführung von authentischen Materialien<br>- Anleitung zur Selbstkorrektur<br>- Schreibübungen<br>- Weitere Elemente der Sprechfertigkeit und des Hörverstehens für die Ausübung kommunikativer Grundfunktionen. |
-|**Modulprüfung**                    | Klausur (90 Minuten) – Modulprüfung wird nicht differenziert bewertet – |
-|**Modulsprache**                    | Arabisch und Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Semester |
-|**Verwendbarkeit**                  | Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich<br>Fremdsprachen) und LBW (Kompetenzbereich Fremdsprache) |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Sprachpraktische Übung | 4                         | recommended                        | Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden |
+[« Arabisch ABV Grundmodul 2](Arabisch ABV Grundmodul 2.md){class=prev}
+[Arabisch ABV Grundmodul 4 »](Arabisch ABV Grundmodul 4.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit spÜ                          | 60    |
-| Vor- und Nachbereitung spÜ               | 75    |
-| Prüfungsvorbereitung und Prüfung         | 15    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Arabisch ABV Grundmodul 3 </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum</td></tr>
+
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Arabisch ABV Einstiegsmodul“ oder des Moduls „Arabisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse (nachzuweisen durch einen Einstufungstest an
+der ZE Sprachenzentrum oder gleichwertiger Nachweis)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten beherrschen die mündlichen Grundfertigkeiten
+auf der Niveaustufe A 2.1 GER und die schriftlichen Grundfertigkeiten auf
+der Niveaustufe A 2.2 GER
+
+1. __Lesen__: Die Studentinnen und Studenten können anhand der Struktur
+   eines einfacheren Textes, der Konjunktionen und Nebensätze enthält, seine
+   Aussage erfassen.
+2. __Hören__: Sie können zu ihnen vertrauten Themen mit Anleitung Hörtexte
+   verstehen, wenn langsam und deutlich gesprochen wird.
+3. __Sprechen__: Sie können an kurzen Gesprächen teilnehmen. Sie können
+   mithilfe vertrauter Strukturen und vertrautem Wortschatz ihre eigenen
+   Ideen ausdrücken.
+4. __Schreiben__: Sie können zu ihnen vertrauten Themen einfachere Texte
+   nach Modelltexten anfertigen. Mit Hilfe vertrauter Strukturen und
+   vertrautem Wortschatz können sie in Ansätzen ihre eigenen Ideen
+   ausdrücken.
+5. __Interkulturelle Kompetenz__: Sie können für die interkulturelle
+   Kommunikation in Ansätzen wichtige soziale und kulturelle Elemente
+   berücksichtigen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+
+- Ausbau der Basisgrammatik
+- Weiterentwicklung der Lese- und Hörverständnisstrategien
+- Einführung von authentischen Materialien
+- Anleitung zur Selbstkorrektur
+- Schreibübungen
+- Weitere Elemente der Sprechfertigkeit und des Hörverstehens für die
+  Ausübung kommunikativer Grundfunktionen.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb der Präsenzstunden
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit spÜ</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung spÜ</td><td>75 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>15 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Arabisch und Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Semester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
+LBW (Kompetenzbereich Fremdsprache)
+
+
+</td></tr>
+
+</table>

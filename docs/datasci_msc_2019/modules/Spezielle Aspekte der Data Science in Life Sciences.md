@@ -1,29 +1,91 @@
+---
+tags:
+  - datasci_msc_2019
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Spezielle%20Aspekte%20der%20Data%20Science%20in%20Life%20Sciences%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Spezielle%20Aspekte%20der%20Data%20Science%20in%20Life%20Sciences%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Spezielle Aspekte der Data Science in Life Sciences
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Spezielle Aspekte der Data Science in Life Sciences |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Mathematik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten können wesentliche Begriffe und Ergebnisse eines ausgewählten Gebietes der Data Sciences in den Life Sciences anwenden. |
-|**Inhalte**                         | Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Data Science in den Life Sciences, beispielsweise in Programmiermethoden für große Datenmengen aus dem Bereich der Biomedizin. Zusätzlich werden Forschungsfragen und Anwendungsbereiche berührt. |
-|**Modulprüfung**                    | Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann oder Mündliche Prüfung (ca. 20 Minuten) |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Unregelmäßig |
-|**Verwendbarkeit**                  | Masterstudiengang Data Science |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeitung von Übungsaufgaben |
-| Übung                | 2                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeitung von Übungsaufgaben |
+[« Spezielle Aspekte der Data Science Technologies](Spezielle Aspekte der Data Science Technologies.md){class=prev}
+[Spezielle Aspekte der Data Science in the Social Sciences »](Spezielle Aspekte der Data Science in the Social Sciences.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 30    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 30    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Spezielle Aspekte der Data Science in Life Sciences </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Mathematik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Profilbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten können wesentliche Begriffe und Ergebnisse
+eines ausgewählten Gebietes der Data Sciences in den Life Sciences anwenden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Das Modul gibt einen Einblick in ein ausgewähltes Gebiet der Data Science in
+den Life Sciences, beispielsweise in Programmiermethoden für große
+Datenmengen aus dem Bereich der Biomedizin. Zusätzlich werden
+Forschungsfragen und Anwendungsbereiche berührt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Bearbeitung von Übungsaufgaben
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Bearbeitung von Übungsaufgaben
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>30 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des
+Antwort-Wahl-Verfahrens und auch in Form einer elektronischen
+Prüfungsleistung durchgeführt werden kann oder Mündliche Prüfung (ca. 20
+Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Unregelmäßig</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Data Science
+
+
+</td></tr>
+
+</table>

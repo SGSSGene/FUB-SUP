@@ -1,28 +1,106 @@
+---
+tags:
+  - inf_bsc_2023
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Auswirkungen der Informatik"&body=There seems to be an error in module "Auswirkungen der Informatik".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Auswirkungen der Informatik
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Auswirkungen der Informatik |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozent\*in des Moduls gemäß der Zuordnungsliste bei dem\*der Studiengangsverantwortlichen |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden verstehen den Unterschied zwischen Verfügungswissen und Orientierungswissen und unterscheiden beim Nachdenken über Informatiksysteme zwischen technischen Fragestellungen, Technikfolgenabschätzung und Technikfolgenbewertung. Sie nehmen6 die Verantwortungsaspekte der Ingenieurtätigkeit an und gestalten Technik und ihren Wandel verantwortungsbewusst mit5. Sie verstehen einige Aspekte der Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B. Sicherheit, Schutz der Privatsphäre, Künstliche Intelligenz und können Bezüge zum gesellschaftlichen Wandel herstellen und anhand ihrer persönlichen Haltungen bewerten. Dies Studierenden kennen einige Gender- und Diversity-Aspekte von Entwicklung und Einsatz von Informatiksystemen und verstehen Konzepte und Lösungsansätze von Benutzbarkeit und Barrierefreiheit. |
-|**Inhalte**                         | Studierende erarbeiten, welche Auswirkungen die Informatik hat und lernen die Konzepte Auswirkung, sozio-technisches System, Verfügungswissen, Gestaltungswissen, Verantwortung, Techniksoziologie sowie Entscheiden und Handeln. Dabei diskutieren sie Beispiele für Technikfolgen in ausgewählten informatiklastigen Gebieten hoher Relevanz, z. B. Sicherheit softwareintensiver technischer Systeme, Schutz der Privatsphäre, Computerisierung des Alltagslebens, Computerisierung der Arbeitswelt. |
-|**Modulprüfung**                    | Keine |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 180 |
-|**Leistungspunkte (LP)**            | 6 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das Lehramt, Einführungs- und Orientierungsstudium, 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | -                        |
-| Übung                | 2                         | required                           | Bearbeitung von Ünugaufgaben; Teilnahme an der Diskussion. |
+[« Architektur eingebetteter Systeme](Architektur eingebetteter Systeme.md){class=prev}
+[Berufsbezogenes Praktikum Informatik »](Berufsbezogenes Praktikum Informatik.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 30    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 90    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Auswirkungen der Informatik </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Pflichtbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden verstehen den Unterschied zwischen Verfügungswissen und
+Orientierungswissen und unterscheiden beim Nachdenken über Informatiksysteme
+zwischen technischen Fragestellungen, Technikfolgenabschätzung und
+Technikfolgenbewertung. Sie nehmen6 die Verantwortungsaspekte der
+Ingenieurtätigkeit an und gestalten Technik und ihren Wandel
+verantwortungsbewusst mit5. Sie verstehen einige Aspekte der
+Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B.
+Sicherheit, Schutz der Privatsphäre, Künstliche Intelligenz und können
+Bezüge zum gesellschaftlichen Wandel herstellen und anhand ihrer
+persönlichen Haltungen bewerten. Dies Studierenden kennen einige Gender- und
+Diversity-Aspekte von Entwicklung und Einsatz von Informatiksystemen und
+verstehen Konzepte und Lösungsansätze von Benutzbarkeit und
+Barrierefreiheit.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Studierende erarbeiten, welche Auswirkungen die Informatik hat und lernen
+die Konzepte Auswirkung, sozio-technisches System, Verfügungswissen,
+Gestaltungswissen, Verantwortung, Techniksoziologie sowie Entscheiden und
+Handeln. Dabei diskutieren sie Beispiele für Technikfolgen in ausgewählten
+informatiklastigen Gebieten hoher Relevanz, z. B. Sicherheit
+softwareintensiver technischer Systeme, Schutz der Privatsphäre,
+Computerisierung des Alltagslebens, Computerisierung der Arbeitswelt.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+-
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeitung von Übungsaufgaben; Teilnahme an der Diskussion.
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>90 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>180</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>6</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
+Lehramt, Einführungs- und Orientierungsstudium,
+30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge,
+Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und
+Gymnasien mit dem Profil Quereinstieg
+
+
+</td></tr>
+
+</table>

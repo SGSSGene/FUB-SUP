@@ -1,30 +1,99 @@
+---
+tags:
+  - math_bsc_2013
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Höhere Algorithmik mit Anwendung"&body=There seems to be an error in module "Höhere Algorithmik mit Anwendung".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Höhere Algorithmik mit Anwendung
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Höhere Algorithmik mit Anwendung |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik |
-|**Modulverantwortung**              | Dozentinnen oder Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten haben umfassende Kenntnisse im Bereich der mathematischen Grundlagen der Algorithmen. Sie kennen neuere wissenschaftliche Ergebnisse im Bereich der Algorithmik und können diese auf typische Problemstellungen anwenden. Sie können eine typische Anwendung selbstständig bearbeiten. An ausgewählten Beispielen sollen die Beziehungen zu anderen Wissenschaften deutlich gemacht und thematisch geeignete anwendungsorientierte Problemstellungen behandelt werden. |
-|**Inhalte**                         | Folgende Themen werden behandelt:<br>- Flussprobleme in Graphen;<br>- Zahlentheoretische Algorithmen (einschließlich RSA-Kryptosystem);<br>- String Matching;<br>- Approximationsalgorithmen für schwere Probleme;<br>- arithmetische Algorithmen und Schaltkreise sowie<br>- schnelle Fourier-Transformation |
-|**Modulprüfung**                    | Klausur (120 Minuten) |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Bachelorstudiengang Mathematik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten Aufgabe einschließlich einer lauffähigen Implementierung |
-| Übung                | 2                         | required                           | Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten Aufgabe einschließlich einer lauffähigen Implementierung |
+[« Geometrie](Geometrie.md){class=prev}
+[Höhere Analysis »](Höhere Analysis.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit Vorlesung                    | 60    |
-| Vor- und Nachbereitung Vorlesung         | 60    |
-| Präsenzzeit Übung                        | 30    |
-| Vor- und Nachbereitung Übung             | 60    |
-| Bearbeitung Anwendung                    | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Höhere Algorithmik mit Anwendung </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Vertiefungsbereich
+- Wahlbereich - Teil B
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten haben umfassende Kenntnisse im Bereich der
+mathematischen Grundlagen der Algorithmen. Sie kennen neuere
+wissenschaftliche Ergebnisse im Bereich der Algorithmik und können diese auf
+typische Problemstellungen anwenden. Sie können eine typische Anwendung
+selbstständig bearbeiten. An ausgewählten Beispielen sollen die Beziehungen
+zu anderen Wissenschaften deutlich gemacht und thematisch geeignete
+anwendungsorientierte Problemstellungen behandelt werden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Folgende Themen werden behandelt:
+
+- Flussprobleme in Graphen;
+- Zahlentheoretische Algorithmen (einschließlich RSA-Kryptosystem);
+- String Matching;
+- Approximationsalgorithmen für schwere Probleme;
+- arithmetische Algorithmen und Schaltkreise sowie
+- schnelle Fourier-Transformation
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten Aufgabe einschließlich einer lauffähigen Implementierung
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Bearbeitung der Übungsblätter, zwei mündliche Präsentationen der Lösung jeweils einer Übungsaufgabe in der Übung, Bearbeitung einer anwendungsorientierten Aufgabe einschließlich einer lauffähigen Implementierung
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit Vorlesung</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Vorlesung</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Übung</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Übung</td><td>60 Stunden</td></tr>
+<tr><td>Bearbeitung Anwendung</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (120 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Mathematik
+
+
+</td></tr>
+
+</table>

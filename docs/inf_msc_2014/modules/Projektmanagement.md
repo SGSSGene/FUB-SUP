@@ -1,27 +1,112 @@
+---
+tags:
+  - inf_msc_2014
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Projektmanagement"&body=There seems to be an error in module "Projektmanagement".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Projektmanagement
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Projektmanagement |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozentin oder Dozent des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten verstehen grundlegende und fortgeschrittene Techniken des Projektmanagements und können sie anwenden. Sie können einen Projektplan erstellen und auf geeignetes Personal und eine Organisationsstruktur abbilden. Sie können in der Leitung eines Projektes mitarbeiten und Verantwortung für jeden Bereich des Projektmanagements einschließlich der Führung von Personal übernehmen. Sie können ein kleines Projekts eigenverantwortlich leiten. Die Studentinnen und Studenten können die Funktionen eines Projektmanagement-Softwarewerkzeugs (z. B. MS Project) in geeigneter Form einsetzen. |
-|**Inhalte**                         | Prinzipien, Methoden und Verfahrensweisen im Projektmanagement anhand einer anerkannten Methodik (z. B. „Projekt Management Body of Knowledge“ (PMBoK)). Die Veranstaltung deckt alle Themenbereiche des Projektmanagements ab.<br>- Projektentstehung, -definition und Planung des Projektumfangs<br>- Projektplanung<br>- Projektablaufsteuerung und -kontrolle<br>- Projektstatusermittlung und -reporting<br>- Untervergabe<br>- Projektorganisation<br>- Einbettung eines Projekts in die ausführende Organisation, Führen ohne formale Macht<br>- Projektkommunikation<br>- Führung eines Projektteams<br>- Qualitätsmanagement<br>- Projektabschluss<br>- Professional Responsibility<br>- Nutzung von MS Project Damit umfasst dieses Modul alle möglichen Tätigkeitsfelder eines Assistenten der Projektleitung und bietet das nötige Wissen für die Führung kleinerer Projekte. |
-|**Modulprüfung**                    | Klausur (60 Minuten), die Klausur kann auch in Form einer elektromündliche Prüfung (ca. 20 Minuten); die Modulprüfung wird nicht differenziert bewertet. |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Zwei Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Informatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Seminaristischer Unterricht | 2                         | required                           | Regelmäßige Diskussionsbeiträge, ein Vortrag, Bearbeitung von Übungsaufgaben |
-| Seminaristischer Unterricht | 2                         | required                           | Regelmäßige Diskussionsbeiträge, ein Vortrag, Bearbeitung von Übungsaufgaben |
+[« Praktiken professioneller Softwareentwicklung](Praktiken professioneller Softwareentwicklung.md){class=prev}
+[Projektmanagement – Vertiefung »](Projektmanagement – Vertiefung.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit                              | 60    |
-| Vor- und Nachbereitung                   | 60    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Projektmanagement </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Studienbereich Praktische Informatik
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten verstehen grundlegende und fortgeschrittene
+Techniken des Projektmanagements und können sie anwenden. Sie können einen
+Projektplan erstellen und auf geeignetes Personal und eine
+Organisationsstruktur abbilden. Sie können in der Leitung eines Projektes
+mitarbeiten und Verantwortung für jeden Bereich des Projektmanagements
+einschließlich der Führung von Personal übernehmen. Sie können ein kleines
+Projekts eigenverantwortlich leiten. Die Studentinnen und Studenten können
+die Funktionen eines Projektmanagement-Softwarewerkzeugs (z. B. MS Project)
+in geeigneter Form einsetzen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Prinzipien, Methoden und Verfahrensweisen im Projektmanagement anhand einer
+anerkannten Methodik (z. B. „Projekt Management Body of Knowledge“ (PMBoK)).
+Die Veranstaltung deckt alle Themenbereiche des Projektmanagements ab.
+
+- Projektentstehung, -definition und Planung des Projektumfangs
+- Projektplanung
+- Projektablaufsteuerung und -kontrolle
+- Projektstatusermittlung und -reporting
+- Untervergabe
+- Projektorganisation
+- Einbettung eines Projekts in die ausführende Organisation, Führen ohne
+  formale Macht
+- Projektkommunikation
+- Führung eines Projektteams
+- Qualitätsmanagement
+- Projektabschluss
+- Professional Responsibility
+- Nutzung von MS Project
+
+Damit umfasst dieses Modul alle möglichen
+Tätigkeitsfelder eines Assistenten der Projektleitung und bietet das
+nötige Wissen für die Führung kleinerer Projekte.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Seminaristischer Unterricht** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Regelmäßige Diskussionsbeiträge, ein Vortrag, Bearbeitung von Übungsaufgaben
+</td></tr>
+<tr markdown><td> **Seminaristischer Unterricht** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Regelmäßige Diskussionsbeiträge, ein Vortrag, Bearbeitung von Übungsaufgaben
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (60 Minuten), die Klausur kann auch in Form einer elektromündliche
+Prüfung (ca. 20 Minuten);
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Zwei Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Informatik
+
+
+</td></tr>
+
+</table>

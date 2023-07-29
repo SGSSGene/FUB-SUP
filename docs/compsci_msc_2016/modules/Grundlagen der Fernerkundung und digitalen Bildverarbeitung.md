@@ -1,29 +1,104 @@
+---
+tags:
+  - compsci_msc_2016
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Grundlagen der Fernerkundung und digitalen Bildverarbeitung"&body=There seems to be an error in module "Grundlagen der Fernerkundung und digitalen Bildverarbeitung".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Grundlagen der Fernerkundung und digitalen Bildverarbeitung
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Grundlagen der Fernerkundung und digitalen Bildverarbeitung |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Geowissenschaften |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten verfügen über grundlegende Fähigkeiten und Fertigkeiten der digitalen geowissenschaftlichen Fernerkundung und digitalen Bildverarbeitung. Sie können eigenständig und in Gruppen Fragenstellungen zur Fernerkundung und Bildverarbeitung mit ausgewählten numerischen Methoden bearbeiten, diese didaktisch aufbereiten und Gender- und Diversity-spezifisch präsentieren. |
-|**Inhalte**                         | Es wird eine theoretische Einführung in die Thematik gegeben und ausgewählte Aspekte an praktischen Beispielen mithilfe gängiger Softwarepakete vertieft und geübt. Gegenstand sind die Grundlagen von:<br>- Einführung in die Strahlungsphysik<br>- Grundlagen der Photogrammetrie<br>- digitale und analoge passive Aufnahmesysteme<br>- Visualisierung multispektraler Daten<br>- Grundlagen Bildverarbeitung<br>- spezielle Informationsextraktion (z. B. Indizes, PCA)<br>- Interpretation von Fernerkundungsdaten<br>- Zeitreihenanalyse mit Rasterdaten (Change Detection)<br>- multispektrale Klassifizierungsverfahren<br>- Einführung in aktive Fernerkundungssysteme |
-|**Modulprüfung**                    | Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet. |
-|**Modulsprache**                    | Deutsch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Mindestens einmal im Studienjahr, jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Computational Sciences |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Übungsaufgaben           |
-| Seminar              | 2                         | recommended                        | Übungsaufgaben           |
+[« Forschungsseminar computational sciences](Forschungsseminar computational sciences.md){class=prev}
+[Grundlagen der Hydro- und Klimageographie »](Grundlagen der Hydro- und Klimageographie.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 20    |
-| Präsenzzeit S                            | 30    |
-| Vor- und Nachbereitung S                 | 25    |
-| Prüfungsvorbereitung und Prüfung         | 45    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Grundlagen der Fernerkundung und digitalen Bildverarbeitung </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Geowissenschaften</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Fachliche Angebote
+- Geographische Wissenschaften
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten verfügen über grundlegende Fähigkeiten und
+Fertigkeiten der digitalen geowissenschaftlichen Fernerkundung und digitalen
+Bildverarbeitung. Sie können eigenständig und in Gruppen Fragenstellungen
+zur Fernerkundung und Bildverarbeitung mit ausgewählten numerischen Methoden
+bearbeiten, diese didaktisch aufbereiten und Gender- und
+Diversity-spezifisch präsentieren.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es wird eine theoretische Einführung in die Thematik gegeben und ausgewählte
+Aspekte an praktischen Beispielen mithilfe gängiger Softwarepakete vertieft
+und geübt. Gegenstand sind die Grundlagen von:
+
+- Einführung in die Strahlungsphysik
+- Grundlagen der Photogrammetrie
+- digitale und analoge passive Aufnahmesysteme
+- Visualisierung multispektraler Daten
+- Grundlagen Bildverarbeitung
+- spezielle Informationsextraktion (z. B. Indizes, PCA)
+- Interpretation von Fernerkundungsdaten
+- Zeitreihenanalyse mit Rasterdaten (Change Detection)
+- multispektrale Klassifizierungsverfahren
+- Einführung in aktive Fernerkundungssysteme
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Übungsaufgaben
+</td></tr>
+<tr markdown><td> **Seminar** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Übungsaufgaben
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>20 Stunden</td></tr>
+<tr><td>Präsenzzeit S</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S</td><td>25 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>45 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+Hausarbeit (ca. 15 Seiten);
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Mindestens einmal im Studienjahr, jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Computational Sciences
+
+
+</td></tr>
+
+</table>

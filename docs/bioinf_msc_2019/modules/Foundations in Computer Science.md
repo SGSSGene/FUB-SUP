@@ -1,29 +1,103 @@
+---
+tags:
+  - bioinf_msc_2019
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Foundations in Computer Science"&body=There seems to be an error in module "Foundations in Computer Science".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Foundations in Computer Science
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Foundations in Computer Science |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden besitzen ein grundlegendes Verständnis für mathematische Konzepte und Methoden in der fortgeschrittenen Algorithmik vor dem Hintergrund aktueller Forschungsrichtungen der Bioinformatik. Sie kennen weiterführende Werkzeuge zur Entwicklung und Analyse von deterministischen und randomisierten Algorithmen. Sie kennen Konzepte und Methoden Daten entsprechend ihrer Entropie zu komprimieren und zugreifbar zu machen. Sie kennen Konzepte für parallele und vektorisierte Algorithmen sowie Paradigmen für verteiltes Rechnen. Sie können die Konzepte selbstständig erkennen und die Analysemethoden selbst auf verwandte Probleme anwenden. |
-|**Inhalte**                         | Es werden Themen aus folgenden Gebieten behandelt:<br>- Einführung in verschiedene Arten von Algorithmen und Analysemethoden<br>- Grundlagen kompakter Datenstrukturen<br>- Graphentheorie und fortgeschrittene Graph-Algorithmen<br>- Analyse von randomisierten Datenstrukturen und Algorithmen<br>- Grundlagen und Modelle für paralleles und vektorisiertes Rechnen<br>- Konzepte, Paradigmen und Frameworks für verteiltes Rechnen |
-|**Modulprüfung**                    | Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten) |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 180 |
-|**Leistungspunkte (LP)**            | 6 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Bioinformatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeiten der Übungsaufgaben |
-| Übung                | 2                         | required                           | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeiten der Übungsaufgaben |
+[« Foundations in Bio-Medicine](Foundations in Bio-Medicine.md){class=prev}
+[Foundations in Mathematics and Statistics »](Foundations in Mathematics and Statistics.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 40    |
-| Prüfungsvorbereitung und Prüfung         | 20    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Foundations in Computer Science </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Grundlagenstudium
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden besitzen ein grundlegendes Verständnis für mathematische
+Konzepte und Methoden in der fortgeschrittenen Algorithmik vor dem
+Hintergrund aktueller Forschungsrichtungen der Bioinformatik. Sie kennen
+weiterführende Werkzeuge zur Entwicklung und Analyse von deterministischen
+und randomisierten Algorithmen. Sie kennen Konzepte und Methoden Daten
+entsprechend ihrer Entropie zu komprimieren und zugreifbar zu machen. Sie
+kennen Konzepte für parallele und vektorisierte Algorithmen sowie Paradigmen
+für verteiltes Rechnen. Sie können die Konzepte selbstständig erkennen und
+die Analysemethoden selbst auf verwandte Probleme anwenden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es werden Themen aus folgenden Gebieten behandelt:
+
+- Einführung in verschiedene Arten von Algorithmen und Analysemethoden
+- Grundlagen kompakter Datenstrukturen
+- Graphentheorie und fortgeschrittene Graph-Algorithmen
+- Analyse von randomisierten Datenstrukturen und Algorithmen
+- Grundlagen und Modelle für paralleles und vektorisiertes Rechnen
+- Konzepte, Paradigmen und Frameworks für verteiltes Rechnen
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Bearbeiten der Übungsaufgaben
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Bearbeiten der Übungsaufgaben
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>40 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>20 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>180</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>6</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

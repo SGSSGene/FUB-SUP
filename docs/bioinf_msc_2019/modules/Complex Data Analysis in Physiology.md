@@ -1,29 +1,103 @@
+---
+tags:
+  - bioinf_msc_2019
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Complex Data Analysis in Physiology"&body=There seems to be an error in module "Complex Data Analysis in Physiology".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Complex Data Analysis in Physiology
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Complex Data Analysis in Physiology |
-|**Hochschule/Fachbereich/Institut** | Fakultät der Charité – Universitätsmedizin Berlin |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der Datenverarbeitung, insbesondere im Bereich der Bildgebung und Elektrophysiologie anhand ausgewählter Beispiele. |
-|**Inhalte**                         | Theoretische und praktische Aspekte der Daten-Akquise, real-time Daten-Verarbeitung und automatisierte Mustererkennung in der Biomedizin. Es werden vertieft Themen aus folgenden Gebieten behandelt:<br>- Datenerfassung und Prozessierung von Bilddateien in Forschung und Klinik (z. B. Live Cell Imaging, Super- Resolution-Mikroskopie, bildgebende Verfahren in der Medizin)<br>- Elektrophysiologische Verfahren (z. B. Impedanzspektroskopie, Microarrays, EEG, EKG)<br>- Verfahren und Anwendung automatisierter Mustererkennung (z. B. automatisierte Tumorerkennung, real-time Analyse biologischer Signale im Brain-Computer Interface oder in Retinaimplantaten, Vorhersage von individuellen Arrhythmierisiken) |
-|**Modulprüfung**                    | Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20 Minuten) |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 150 |
-|**Leistungspunkte (LP)**            | 5 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Sommersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Bioinformatik |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 2                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeitung der Übungsaufgaben |
-| Übung                | 2                         | required                           | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Bearbeitung der Übungsaufgaben |
+[« Biodiversity and Evolution](Biodiversity and Evolution.md){class=prev}
+[Complex Systems in Bioinformatics »](Complex Systems in Bioinformatics.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 30    |
-| Vor- und Nachbereitung V                 | 30    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 30    |
-| Prüfungsvorbereitung und Prüfung         | 30    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Complex Data Analysis in Physiology </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Fakultät der Charité – Universitätsmedizin Berlin</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Profilstudium mit der Ausrichtung Data Science
+- V-Modul
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden kennen aktuelle Entwicklungen auf dem Gebiet der
+Datenverarbeitung, insbesondere im Bereich der Bildgebung und
+Elektrophysiologie anhand ausgewählter Beispiele.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Theoretische und praktische Aspekte der Daten-Akquise, real-time
+Daten-Verarbeitung und automatisierte Mustererkennung in der Biomedizin. Es
+werden vertieft Themen aus folgenden Gebieten behandelt:
+
+- Datenerfassung und Prozessierung von Bilddateien in Forschung und Klinik
+  (z. B. Live Cell Imaging, Super- Resolution-Mikroskopie, bildgebende
+  Verfahren in der Medizin)
+- Elektrophysiologische Verfahren (z. B. Impedanzspektroskopie, Microarrays,
+  EEG, EKG)
+- Verfahren und Anwendung automatisierter Mustererkennung (z. B.
+  automatisierte Tumorerkennung, real-time Analyse biologischer Signale im
+  Brain-Computer Interface oder in Retinaimplantaten, Vorhersage von
+  individuellen Arrhythmierisiken)
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Bearbeitung der Übungsaufgaben
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Bearbeitung der Übungsaufgaben
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>30 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>30 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>30 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die Klausur kann auch in Form einer elektronischen
+Prüfungsleistung durchgeführt werden, oder mündliche Prüfung (ca. 20
+Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>150</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>5</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

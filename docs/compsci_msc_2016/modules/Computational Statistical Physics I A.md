@@ -1,33 +1,109 @@
+---
+tags:
+  - compsci_msc_2016
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Computational Statistical Physics I A"&body=There seems to be an error in module "Computational Statistical Physics I A".
+
+<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Computational Statistical Physics I A
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Computational Statistical Physics I A |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Physik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten sind in der Lage, die grundlegenden Konzepte und Sätze der statistischen Physik sowie Thermodynamik zu benennen und zu beschreiben. Weiterhin sind sie in der Lage, die erworbenen Methodenkenntnisse auf gegebene Probleme zu übertragen und diese zu lösen. Die Studentinnen und Studenten haben außerdem die für den Umgang mit der statistischen Physik und Thermodynamik notwendigen Rechenmethoden erlernt und sind in der Lage, diese anzuwenden. Die Studentinnen und Studenten können ihre Methodenkenntnisse und Rechenmethoden im Bereich der statistischen Physik auf komplexe Fragestellungen anwenden. |
-|**Inhalte**                         | Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles, Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik, thermodynamische Potenziale, thermodynamische Prozesse, Phasenübergänge, ideale Quantengase, wechselwirkende Systeme. |
-|**Modulprüfung**                    | Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder Hausarbeit (ca. 15 Seiten); die Modulprüfung wird nicht differenziert bewertet. |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 450 |
-|**Leistungspunkte (LP)**            | 15 |
-|**Dauer des Moduls**                | Ein oder zwei Semester |
-|**Häufigkeit des Angebots**         | Mindestens einmal im Studienjahr |
-|**Verwendbarkeit**                  | Masterstudiengang Computational Sciences |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | Erfolgreiches Bearbeiten von Übungsaufgaben<br>Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts |
-| Übung                | 2                         | recommended                        | Erfolgreiches Bearbeiten von Übungsaufgaben<br>Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts |
-| Seminar              | 2                         | recommended                        | Erfolgreiches Bearbeiten von Übungsaufgaben<br>Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts |
+[« Computational Sciences](Computational Sciences.md){class=prev}
+[Computational Statistical Physics I B »](Computational Statistical Physics I B.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 80    |
-| Präsenzzeit S                            | 30    |
-| Vor- und Nachbereitung S                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 60    |
-| Schriftliche Übungsaufgaben              | 60    |
-| Prüfungsvorbereitung und Prüfung         | 70    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Computational Statistical Physics I A </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Physik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Fachliche Angebote
+- Physik
+- Bereich Scientific Computing
+- Statistik
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten sind in der Lage, die grundlegenden Konzepte
+und Sätze der statistischen Physik sowie Thermodynamik zu benennen und zu
+beschreiben. Weiterhin sind sie in der Lage, die erworbenen
+Methodenkenntnisse auf gegebene Probleme zu übertragen und diese zu lösen.
+Die Studentinnen und Studenten haben außerdem die für den Umgang mit der
+statistischen Physik und Thermodynamik notwendigen Rechenmethoden erlernt
+und sind in der Lage, diese anzuwenden. Die Studentinnen und Studenten
+können ihre Methodenkenntnisse und Rechenmethoden im Bereich der
+statistischen Physik auf komplexe Fragestellungen anwenden.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Elementare Statistik und Gesetz großer Zahlen, Gleichgewichts-Ensembles,
+Prinzip der maximalen Entropie, Hauptsätze der Thermodynamik,
+thermodynamische Potenziale, thermodynamische Prozesse, Phasenübergänge,
+ideale Quantengase, wechselwirkende Systeme.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Erfolgreiches Bearbeiten von Übungsaufgaben
+Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Erfolgreiches Bearbeiten von Übungsaufgaben
+Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
+</td></tr>
+<tr markdown><td> **Seminar** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Erfolgreiches Bearbeiten von Übungsaufgaben
+Ausarbeitung und Präsentation eines Forschungsthemas oder Programmierprojekts
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>80 Stunden</td></tr>
+<tr><td>Präsenzzeit S</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung S</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>60 Stunden</td></tr>
+<tr><td>Schriftliche Übungsaufgaben</td><td>60 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>70 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die auch in Form einer elektronischen Prüfungsleisoder
+Hausarbeit (ca. 15 Seiten);
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>450</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>15</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein oder zwei Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Mindestens einmal im Studienjahr</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Computational Sciences
+
+
+</td></tr>
+
+</table>

@@ -1,29 +1,97 @@
+---
+tags:
+  - datasci_msc_2019
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Machine%20Learning%20for%20Data%20Science%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Machine%20Learning%20for%20Data%20Science%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Machine Learning for Data Science
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Machine Learning for Data Science |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik/Informatik |
-|**Modulverantwortung**              | Dozenten und Dozentinnen des Moduls |
-|**Zugangsvoraussetzungen**          | Keine |
-|**Qualifikationsziele**             | Die Studentinnen und Studenten haben Verständnis für grundlegende Anwendungen, Konzepte und Analysetechniken im Bereich des maschinellen Lernens für die Data Sciences. Sie sind in der Lage, zu komplexen Fragestellungen passende Experimente zu entwerfen, Daten zu erheben, zu erschließen, speichern, verarbeiten und analysieren. Sie wissen, welche Ergebnisse aus den jeweiligen Daten abgeleitet werden können und können computergestützte Verfahren im Anwendungsfeld und im jeweiligen wissenschaftlichen Kontext angemessen durchführen und beurteilen. |
-|**Inhalte**                         | Es werden Themen aus folgenden Gebieten behandelt: l Experiment Design l Sampling Techniques l Data cleansing l Storage of large data sets l Data visualization and graphs l Probabilistic data analysis l Prediction methods l Knowledge discovery l Neural networks l Support vector machines l Reinforcement learning and agent models. |
-|**Modulprüfung**                    | Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des Antwort-Wahl-Verfahrens und auch in Form einer elektronischen Prüfungsleistung durchgeführt werden kann. |
-|**Modulsprache**                    | Englisch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Data Science |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Übungsaufgaben |
-| Übung                | 2                         | required                           | Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur<br>Übungsaufgaben |
+[« Künstliche Intelligenz](Künstliche Intelligenz.md){class=prev}
+[Machine Learning in Bioinformatics »](Machine Learning in Bioinformatics.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 90    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Machine Learning for Data Science </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Grundlagenbereich
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Keine
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studentinnen und Studenten haben Verständnis für grundlegende
+Anwendungen, Konzepte und Analysetechniken im Bereich des maschinellen
+Lernens für die Data Sciences. Sie sind in der Lage, zu komplexen
+Fragestellungen passende Experimente zu entwerfen, Daten zu erheben, zu
+erschließen, speichern, verarbeiten und analysieren. Sie wissen, welche
+Ergebnisse aus den jeweiligen Daten abgeleitet werden können und können
+computergestützte Verfahren im Anwendungsfeld und im jeweiligen
+wissenschaftlichen Kontext angemessen durchführen und beurteilen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es werden Themen aus folgenden Gebieten behandelt: l Experiment Design l
+Sampling Techniques l Data cleansing l Storage of large data sets l Data
+visualization and graphs l Probabilistic data analysis l Prediction methods
+l Knowledge discovery l Neural networks l Support vector machines l
+Reinforcement learning and agent models.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Übungsaufgaben
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Nachbearbeitung der VL Inhalte und selbstständiges Erarbeiten von ergänzender Literatur
+Übungsaufgaben
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>90 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten), die ggf. ganz oder teilweise in der Form des
+Antwort-Wahl-Verfahrens und auch in Form einer elektronischen
+Prüfungsleistung durchgeführt werden kann.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Data Science
+
+
+</td></tr>
+
+</table>

@@ -1,29 +1,92 @@
+---
+tags:
+  - math_msc_2018
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Diskrete%20Mathematik%20II%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Diskrete%20Mathematik%20II%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
 # Diskrete Mathematik II
-|                                    |   |
-|------------------------------------|---|
-|**Modul**                           | Diskrete Mathematik II |
-|**Hochschule/Fachbereich/Institut** | Freie Universität Berlin/Mathematik und Informatik |
-|**Modulverantwortung**              | Dozentinnen und Dozenten des Moduls |
-|**Zugangsvoraussetzungen**          | Erfolgreiche Absolvierung des Moduls „Diskrete Mathematik I“ oder gleichwertige<br>Leistung |
-|**Qualifikationsziele**             | Verständnis grundlegender Ergebnisse der extremalen Kombinatorik und ihrer Anwendungen in Kombinatorik, Geometrie, Informatik und Algorithmik; Fähigkeit zur Anwendung verschiedener mathematischer Methodenbereiche in der Kombinatorik; Beherrschung der linearen Optimierung und ihren Anwendungen. |
-|**Inhalte**                         | Es wird eine Auswahl aus folgenden Themen behandelt: Extremale Kombinatorik (Hypergraphen, Färbungen, verbotene Teilstrukturen, Regularitätslemma und Anwendungen, Matchingtheorie, Ramseytheorie, Anwendungen), Methoden in der Kombinatorik (probabilistische, algebraische, topologische), Lineare Optimierung (Polytope, Simplexalgorithmus, Dualität, ganzzahlige lineare Optimierung und LP-Relaxation, Anwendungen) und Algorithmen (diskrete, randomisierte, asymptotische Laufzeit, Komplexität). |
-|**Modulprüfung**                    | Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten) |
-|**Modulsprache**                    | Deutsch oder Englisch |
-|**Arbeitsaufwand (Stunden)**        | 300 |
-|**Leistungspunkte (LP)**            | 10 |
-|**Dauer des Moduls**                | Ein Semester |
-|**Häufigkeit des Angebots**         | Jedes Wintersemester |
-|**Verwendbarkeit**                  | Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot |
 
-| Lehr- und Lernformen | Präsenzstudium <br> (SWS) | Pflicht zur regelmäßiger Teilnahme | Formen aktiver Teilnahme |
-| ---------------------|---------------------------|------------------------------------|------------------------- |
-| Vorlesung            | 4                         | recommended                        | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
-| Übung                | 2                         | required                           | regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion |
+[« Diskrete Mathematik I](Diskrete Mathematik I.md){class=prev}
+[Diskrete Mathematik III »](Diskrete Mathematik III.md){class=next}
+{class=prev-next-nav}
 
-|   | Aufwand in Stunden |
-| - |--------------------|
-| Präsenzzeit V                            | 60    |
-| Vor- und Nachbereitung V                 | 60    |
-| Präsenzzeit Ü                            | 30    |
-| Vor- und Nachbereitung Ü                 | 90    |
-| Prüfungsvorbereitung und Prüfung         | 60    |
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Diskrete Mathematik II </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Basismodul
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Diskrete Mathematik I“ oder gleichwertige
+Leistung
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Verständnis grundlegender Ergebnisse der extremalen Kombinatorik und ihrer
+Anwendungen in Kombinatorik, Geometrie, Informatik und Algorithmik;
+Fähigkeit zur Anwendung verschiedener mathematischer Methodenbereiche in der
+Kombinatorik; Beherrschung der linearen Optimierung und ihren Anwendungen.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es wird eine Auswahl aus folgenden Themen behandelt: Extremale Kombinatorik
+(Hypergraphen, Färbungen, verbotene Teilstrukturen, Regularitätslemma und
+Anwendungen, Matchingtheorie, Ramseytheorie, Anwendungen), Methoden in der
+Kombinatorik (probabilistische, algebraische, topologische), Lineare
+Optimierung (Polytope, Simplexalgorithmus, Dualität, ganzzahlige lineare
+Optimierung und LP-Relaxation, Anwendungen) und Algorithmen (diskrete,
+randomisierte, asymptotische Laufzeit, Komplexität).
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben sowie aktive Beteiligung an der Diskussion
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>60 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>60 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>90 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>60 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder mündliche Prüfung (etwa 20 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch oder Englisch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>300</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>10</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Wintersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
+
+
+</td></tr>
+
+</table>
