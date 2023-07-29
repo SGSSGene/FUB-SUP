@@ -53,6 +53,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Pflichtbereich
 - page: 11
   name: Selected Topics in Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -94,6 +96,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Pflichtbereich
 - page: 12
   name: Advanced Quantum Mechanics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -144,6 +148,9 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+    - Module aus dem Bereich der theoretischen Physik
 - page: 13
   name: Statistical Physics and Thermodynamics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -195,6 +202,9 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+    - Module aus dem Bereich der theoretischen Physik
 - page: 14
   name: Advanced Statistical Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -253,6 +263,9 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+    - Module aus dem Bereich der theoretischen Physik
 - page: 15
   name: Quantum Field Theory and Many-Body Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -300,6 +313,9 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+    - Module aus dem Bereich der theoretischen Physik
 - page: 16
   name: Advanced Solid State Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -350,6 +366,9 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+    - Module aus dem Bereich der experimentellen Physik
 - page: 17
   name: Advanced Atomic and Molecular Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -400,6 +419,9 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+    - Module aus dem Bereich der experimentellen Physik
 - page: 18
   name: Advanced Biophysics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -455,6 +477,9 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+    - Module aus dem Bereich der experimentellen Physik
 - page: 19
   name: Theoretical Solid State Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -507,6 +532,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 20
   name: Advanced Theoretical Biophysics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -559,6 +586,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 21
   name: Nanophysics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -608,6 +637,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 22
   name: Ultrafast Spectroscopy and Nonlinear Optics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -658,6 +689,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 23
   name: Spectroscopy with Synchrotron Radiation
   organizer: Freie Universität Berlin/Physik/Physik
@@ -709,6 +742,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 24
   name: Photobiophysics and Photosynthesis
   organizer: Freie Universität Berlin/Physik/Physik
@@ -763,6 +798,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 25
   name: Semiconductor Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -812,6 +849,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 26
   name: General Relativity
   organizer: Freie Universität Berlin/Physik/Physik
@@ -859,6 +898,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 27
   name: History of Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -920,6 +961,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 28
   name: Advanced Topics in Theoretical Condensed Matter Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -966,6 +1009,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 29
   name: Special Topics in Magnetism
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1017,6 +1062,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 30
   name: Special Topics in Molecular Physics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1066,6 +1113,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 31
   name: Special Topics in Molecular Biophysics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1118,6 +1167,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 32
   name: Advanced Astronomy and Astrophysics
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1181,6 +1232,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 33
   name: Modern Methods in Theoretical Physics A
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1227,6 +1280,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 34
   name: Modern Methods in Theoretical Physics B
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1276,6 +1331,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 35
   name: Modern Methods in Theoretical Physics C
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1326,6 +1383,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 36
   name: Modern Methods in Experimental Physics A
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1374,6 +1433,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 37
   name: Modern Methods in Experimental Physics B
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1425,6 +1486,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 38
   name: Modern Methods in Experimental Physics C
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1477,6 +1540,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 39
   name: Scientific Specialization
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1538,6 +1603,8 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
 - page: 40
   name: Methodology and Project Planning
   organizer: Freie Universität Berlin/Physik/Physik
@@ -1594,3 +1661,5 @@
   usability: |
     Masterstudiengang Physik
   differentiated: true
+  tags:
+    - Wahlbereich
