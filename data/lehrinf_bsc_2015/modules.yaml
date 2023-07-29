@@ -64,6 +64,8 @@
   usability: |
     Bachelorstudiengang Informatik für das Lehramt
   differentiated: true
+  tags:
+    - Pflichtbereich
 - page: 12
   name: Logik und Diskrete Mathematik für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -126,6 +128,8 @@
   usability: |
     60-LP-Modulangebot Informatik
   differentiated: true
+  tags:
+    - Pflichtbereich
 - page: 13
   name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -177,6 +181,11 @@
   usability: |
     60-LP-Modulangebot Informatik
   differentiated: true
+  modification:
+    - Dies ist in der Modulbeschreibung als "Pflichtmodul" aber in Paragarph 19 als "Wahlpflichtmodul" gelistet.
+      Ich gehe davon aus das es ein Wahlpflichtmodul ist
+  tags:
+    - Wahlpflichtbereich
 - page: 14
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -238,6 +247,36 @@
     Mathematik und Informatik der Freien Universität Berlin verwiesen.
     Verwendbarkeit: 60-LP-Modulangebot Informatik
   differentiated: true
+  modification:
+    - Dies ist in der Modulbeschreibung als "Pflichtmodul" aber in Paragarph 19 als "Wahlpflichtmodul" gelistet.
+      Ich gehe davon aus das es ein Wahlpflichtmodul ist
+  tags:
+    - Wahlpflichtbereich
+- page: 14
+  name: Funktionale Programmierung
+  link: inf_bsc_2014
+  tags:
+    - Pflichtbereich
+- page: 14
+  name: Funktionale Programmierung
+  link: inf_bsc_2014
+  tags:
+   - Pflichtbereich
+- page: 14
+  name: Datenbanksysteme
+  link: inf_bsc_2014
+  tags:
+   - Pflichtbereich
+- page: 14
+  name: Grundlagen der Theoretischen Informatik
+  link: inf_bsc_2014
+  tags:
+   - Pflichtbereich
+- page: 14
+  name: Algorithmen, Datenstrukturen und Datenabstraktion
+  link: inf_bsc_2014
+  tags:
+   - Pflichtbereich
 - page: 15
   name: Nichtsequentielle und verteilte Programmierung für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -332,4 +371,46 @@
     Bachelorstudiengang Informatik für das Lehramt
     60-LP-Modulangebot Informatik
   differentiated: true
+  tags:
+    - Wahlpflichtbereich
+- page: 15
+  name: Softwaretechnik
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
+- page: 15
+  name: Systemverwaltung
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
+- page: 15
+  name: Softwareprojekt B
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
+- page: 15
+  name: Auswirkung der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
+- page: 15
+  name: Gesellschaftliche Aspekte der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
+- page: 15
+  name: Grundlagen der Technischen Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
+- page: 15
+  name: Forschungspraktikum
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
 
+- page: 15
+  name: Wissenschaftliches Arbeiten in der Informatik
+  link: inf_bsc_2014
+  tags:
+    - Wahlpflichtbereich
