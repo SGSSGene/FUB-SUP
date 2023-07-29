@@ -2699,8 +2699,8 @@
     verwiesen.
 
     Da diese nicht maschinlesbar vorliegt, ist keine Verlinkung möglich.
-  teachingunit:
-  workload:
+  teachingunit: []
+  workload: []
   exam: TODO
   language: TODO
   total_work: 0
