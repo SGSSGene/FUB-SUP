@@ -55,6 +55,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 7
   name: Elektrodynamik und Optik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -105,6 +108,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 8
   name: Grundlagen der Mess- und Labortechnik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -161,6 +167,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 9
   name: Struktur der Materie
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -248,6 +257,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 10
   name: Analytische Mechanik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -299,6 +311,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 11
   name: Quantenmechanik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -357,6 +372,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 12
   name: Theoretische Elektrodynamik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -407,6 +425,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 13
   name: Lineare Algebra
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -457,6 +478,9 @@
   usability: |
     Bachelorstudiengang Physik, Bachelorstudiengang Meteorologie
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 14
   name: Analysis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -522,6 +546,9 @@
   usability: |
     Bachelorstudiengang Physik, Bachelorstudiengang Meteorologie
   differentiated: true
+  tags:
+    - Kernfach
+    - Pflichtbereich
 - page: 15
   name: Biophysik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -573,6 +600,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Wahlbereich
 - page: 16
   name: Astronomie und Astrophysik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -625,6 +655,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Wahlbereich
 - page: 17
   name: Kern- und Elementarteilchenphysik
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -675,6 +708,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Wahlbereich
 - page: 18
   name: Computerphysik
   organizer: Freie Universität Berlin/Physik/Institut für Theoretische Physik
@@ -726,6 +762,9 @@
   usability: |
     Bachelorstudiengang Physik
   differentiated: true
+  tags:
+    - Kernfach
+    - Wahlbereich
 - page: 19
   name: Projektpraktikum
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -774,6 +813,9 @@
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Kompetenzbereich Fachnahe Zusatzqualifikationen)
   differentiated: true
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+    - Kompetenzbereich Fachnahe Zusatzqualifikationen
 - page: 20
   name: Präsentationstechniken
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -816,6 +858,9 @@
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Kompetenzbereich Fachnahe Zusatzqualifikationen)
   differentiated: true
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+    - Kompetenzbereich Fachnahe Zusatzqualifikationen
 - page: 21
   name: Berufspraktikum Physik – A
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -871,6 +916,9 @@
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
   differentiated: true
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+    - Berufspraktikum
 - page: 22
   name: Berufspraktikum Physik – B
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -926,6 +974,9 @@
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
   differentiated: true
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+    - Berufspraktikum
 - page: 23
   name: Berufspraktikum Physik – C
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik und Theoretische
@@ -981,3 +1032,6 @@
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
   differentiated: true
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+    - Berufspraktikum
