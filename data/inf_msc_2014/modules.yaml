@@ -51,6 +51,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 108
   name: Computergrafik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -102,6 +104,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 109
   name: Computer-Vision
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -152,6 +156,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 110
   name: Datenbanktechnologie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -208,6 +214,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 111
   name: Empirische Bewertung in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -268,6 +276,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 112
   name: Grundlagen des Softwaretestens
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -340,6 +350,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 113
   name: Künstliche Intelligenz
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -392,6 +404,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 114
   name: Medizinische Bildverarbeitung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -451,6 +465,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 115
   name: Modellgetriebene Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -521,6 +537,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 116
   name: Mustererkennung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -573,6 +591,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 117
   name: Netzbasierte Informationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -643,6 +663,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 118
   name: Projektmanagement
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -711,6 +733,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 119
   name: Projektmanagement – Vertiefung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -773,6 +797,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 120
   name: Rechnersicherheit
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -859,6 +885,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 121
   name: Semantisches Geschäftsprozessmanagement
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -925,6 +953,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 122
   name: Softwareprozesse
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -979,6 +1009,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 123
   name: Übersetzerbau
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1038,6 +1070,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 124
   name: Verteilte Systeme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1117,6 +1151,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 125
   name: XML-Technologien
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1190,6 +1226,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 126
   name: Praktiken professioneller Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1244,6 +1282,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 127
   name: Softwareprojekt – Praktische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1310,6 +1350,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 128
   name: Softwareprojekt – Praktische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1374,6 +1416,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 129
   name: Wissenschaftliches Arbeiten Praktische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1423,6 +1467,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 130
   name: Wissenschaftliches Arbeiten Praktische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1472,6 +1518,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 131
   name: Aktuelle Forschungsthemen der Praktischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1522,6 +1570,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 132
   name: Spezielle Aspekte der Praktischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1571,6 +1621,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 133
   name: Spezielle Aspekte der Datenverwaltung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1623,6 +1675,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 134
   name: Spezielle Aspekte der Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1674,6 +1728,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 135
   name: Ausgewählte Themen der Praktischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1728,6 +1784,8 @@
       und Nachbereitung Zeit Ü {--60--}{++60++} Stunden`
     - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Prüfungsvorbereitung
       und Prüfung {--30--}{++60++} Stunden`
+  tags:
+    - Studienbereich Praktische Informatik
 - page: 136
   name: Höhere Algorithmik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1791,6 +1849,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 137
   name: Modelchecking
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1864,6 +1924,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 138
   name: Aktuelle Forschungsthemen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1914,6 +1976,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 139
   name: Algorithmische Geometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1966,6 +2030,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 140
   name: Ausgewählte Themen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2016,6 +2082,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 141
   name: Fortgeschrittene Themen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2068,6 +2136,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 142
   name: Spezielle Aspekte der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2119,6 +2189,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 143
   name: Kryptographie und Sicherheit in Verteilten Systemen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2172,6 +2244,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 144
   name: Semantik von Programmiersprachen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2233,6 +2307,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 145
   name: Softwareprojekt – Theoretische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2298,6 +2374,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 146
   name: Softwareprojekt – Theoretische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2365,6 +2443,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 147
   name: Wissenschaftliches Arbeiten Theoretische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2413,6 +2493,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 148
   name: Wissenschaftliches Arbeiten Theoretische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2461,6 +2543,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Theoretische Informatik
 - page: 149
   name: Betriebssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2531,6 +2615,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 150
   name: Mikroprozessor-Praktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2582,6 +2668,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 151
   name: Mobilkommunikation
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2639,6 +2727,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 152
   name: Robotik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2687,6 +2777,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 153
   name: Telematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2749,6 +2841,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 154
   name: Softwareprojekt – Technische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2809,6 +2903,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 155
   name: Softwareprojekt – Technische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2868,6 +2964,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Technische Informatik
 - page: 156
   name: Wissenschaftliches Arbeiten Technische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2915,6 +3013,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Technische Informatik
 - page: 157
   name: Wissenschaftliches Arbeiten Technische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2962,6 +3062,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: false
+  tags:
+    - Studienbereich Technische Informatik
 - page: 158
   name: Aktuelle Forschungsthemen der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -3012,6 +3114,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 159
   name: Spezielle Aspekte der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -3063,6 +3167,8 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
 - page: 160
   name: Ausgewählte Themen der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -3112,3 +3218,5 @@
   usability: |
     Masterstudiengang Informatik
   differentiated: true
+  tags:
+    - Studienbereich Technische Informatik
