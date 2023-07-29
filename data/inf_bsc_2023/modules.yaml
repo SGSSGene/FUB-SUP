@@ -1,4 +1,5 @@
-- name: Aktuelle Themen in der Informatik
+- page: 37
+  name: Aktuelle Themen in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -51,7 +52,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Algorithmen und Datenstrukturen
+  tags:
+    - Wahlpflichtbereich
+- page: 13
+  name: Algorithmen und Datenstrukturen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -118,7 +122,10 @@
     Sekundarschulen und Gymnasien mit dem Profil Quereinstieg, Masterstudiengang
     Wirtschaftsinformatik, Masterstudiengang Computational Sciences
   differentiated: true
-- name: Analysis für Informatik
+  tags:
+    - Pflichtbereich
+- page: 18
+  name: Analysis für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -186,7 +193,10 @@
   usability: |
     Bachelorstudiengang Informatik, Bachelorstudiengang Bioinformatik
   differentiated: true
-- name: Angewandte Biometrie
+  tags:
+    - Pflichtbereich
+- page: 26
+  name: Angewandte Biometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -254,7 +264,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Arbeits- und Lebensmethodik
+  tags:
+    - Wahlpflichtbereich
+- page: 40
+  name: Arbeits- und Lebensmethodik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -300,7 +313,10 @@
     Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
     (Fachnahe Zusatzqualifikationen)
   differentiated: true
-- name: Architektur eingebetteter Systeme
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+- page: 27
+  name: Architektur eingebetteter Systeme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -373,7 +389,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Auswirkungen der Informatik
+  tags:
+    - Wahlpflichtbereich
+- page: 12
+  name: Auswirkungen der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -435,7 +454,10 @@
     Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und
     Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Berufsbezogenes Praktikum Informatik
+  tags:
+    - Pflichtbereich
+- page: 45
+  name: Berufsbezogenes Praktikum Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: der*die Praktikumsbeauftragte
   requirements: |
@@ -486,7 +508,10 @@
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikation)
   differentiated: true
-- name: Betriebs- und Kommunikationssysteme
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+- page: 19
+  name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -558,7 +583,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Datenbanksysteme
+  tags:
+    - Pflichtbereich
+- page: 20
+  name: Datenbanksysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -631,7 +659,10 @@
     Sekundarschulen und Gymnasien mit dem Profil Quereinstieg, Masterstudiengang
     Wirtschaftsinformatik
   differentiated: true
-- name: Datenvisualisierung
+  tags:
+    - Pflichtbereich
+- page: 28
+  name: Datenvisualisierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -697,7 +728,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Diskrete Strukturen für Informatik
+  tags:
+    - Wahlpflichtbereich
+- page: 11
+  name: Diskrete Strukturen für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -769,7 +803,10 @@
     anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten
     Sekundarschulen und Gymnasien mit dem Profil Quereinstieg,
   differentiated: true
-- name: Forschungspraktikum
+  tags:
+    - Pflichtbereich
+- page: 29
+  name: Forschungspraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -823,7 +860,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Funktionale Programmierung
+  tags:
+    - Wahlpflichtbereich
+- page: 30
+  name: Funktionale Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -883,7 +923,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Gender and Diversity
+  tags:
+    - Wahlpflichtbereich
+- page: 41
+  name: Gender and Diversity
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -937,7 +980,10 @@
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikation)
   differentiated: false
-- name: Grundlagen der Theoretischen Informatik
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+- page: 16
+  name: Grundlagen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1003,7 +1049,10 @@
     Studiengänge, Masterstudiengang für das Lehramt an Integrierten
     Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Grundlagen des Datenschutzrechts
+  tags:
+    - Pflichtbereich
+- page: 35
+  name: Grundlagen des Datenschutzrechts
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1074,7 +1123,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Informationssicherheit
+  tags:
+    - Wahlpflichtbereich
+- page: 23
+  name: Informationssicherheit
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1141,7 +1193,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Informationstheorie
+  tags:
+    - Pflichtbereich
+- page: 31
+  name: Informationstheorie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1208,7 +1263,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Konzepte der Programmierung
+  tags:
+    - Wahlpflichtbereich
+- page: 10
+  name: Konzepte der Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1274,7 +1332,10 @@
     Masterstudiengang Wirtschaftsinformatik, Masterstudiengang Computational
     Sciences
   differentiated: true
-- name: Lineare Algebra für Informatik
+  tags:
+    - Pflichtbereich
+- page: 14
+  name: Lineare Algebra für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1343,7 +1404,10 @@
     Bachelorstudiengang Informatik, Bachelorstudiengang Bioinformatik,
     Einführungs- und Orientierungsstudium
   differentiated: true
-- name: Maschinelles Lernen
+  tags:
+    - Pflichtbereich
+- page: 32
+  name: Maschinelles Lernen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1411,7 +1475,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Mensch-Computer Interaktion
+  tags:
+    - Wahlpflichtbereich
+- page: 33
+  name: Mensch-Computer Interaktion
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1480,7 +1547,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Nebenläufige, parallele und verteilte Programmierung
+  tags:
+    - Wahlpflichtbereich
+- page: 17
+  name: Nebenläufige, parallele und verteilte Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1555,7 +1625,10 @@
     und Gymnasien, Masterstudiengang für das Lehramt an Integrierten
     Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Planung, Durchführung und Evaluation eines Tutoriums in der Informatik
+  tags:
+    - Pflichtbereich
+- page: 42
+  name: Planung, Durchführung und Evaluation eines Tutoriums in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1612,7 +1685,10 @@
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikation)
   differentiated: true
-- name: Praktiken professioneller Softwareentwicklung
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+- page: 34
+  name: Praktiken professioneller Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1670,7 +1746,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Programmierpraktikum
+  tags:
+    - Wahlpflichtbereich
+- page: 21
+  name: Programmierpraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1713,7 +1792,10 @@
   usability: |
     Bachelorstudiengang Informatik
   differentiated: true
-- name: Projektmanagement in agilen Umgebungen
+  tags:
+    - Pflichtbereich
+- page: 43
+  name: Projektmanagement in agilen Umgebungen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1770,7 +1852,10 @@
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikation)
   differentiated: false
-- name: Rechnerarchitektur
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+- page: 15
+  name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1840,7 +1925,10 @@
     Gymnasien, Masterstudiengang für das Lehramt an Integrierten Sekundarschulen
     und Gymnasien mit dem Profil Quereinstieg 6 LP
   differentiated: true
-- name: Softwareprojekt
+  tags:
+    - Pflichtbereich
+- page: 39
+  name: Softwareprojekt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1891,7 +1979,10 @@
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikationen)
   differentiated: true
-- name: Softwaretechnik
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+- page: 24
+  name: Softwaretechnik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -1959,7 +2050,10 @@
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg,
     Masterstudiengang Wirtschaftsinformatik
   differentiated: true
-- name: Statistik für Informatik
+  tags:
+    - Pflichtbereich
+- page: 22
+  name: Statistik für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -2029,7 +2123,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Systemverwaltung
+  tags:
+    - Pflichtbereich
+- page: 44
+  name: Systemverwaltung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -2096,7 +2193,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: false
-- name: Vertiefte Aspekte der Informatik
+  tags:
+    - Studienbereich Allgemeine Berufsvorbereitung
+- page: 38
+  name: Vertiefte Aspekte der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -2150,7 +2250,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Vertiefung Theoretische Informatik
+  tags:
+    - Wahlpflichtbereich
+- page: 36
+  name: Vertiefung Theoretische Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -2209,7 +2312,10 @@
     Sekundarschulen und Gymnasien, Masterstudiengang für das Lehramt an
     Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
   differentiated: true
-- name: Wissenschaftliches Arbeiten in der Informatik
+  tags:
+    - Wahlpflichtbereich
+- page: 25
+  name: Wissenschaftliches Arbeiten in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
   responsible: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen
   requirements: |
@@ -2275,3 +2381,5 @@
     Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt
   differentiated: true
+  tags:
+    - Pflichtbereich
