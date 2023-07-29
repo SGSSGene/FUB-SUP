@@ -2,9 +2,7 @@
 tags:
   - abv_2018
 ---
-[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf"&body=There seems to be an error in module "Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf".
-
-<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Deutsch%20als%20Fremdsprache%20Vertiefungsmodul%20B%20%E2%80%93%20Diskursformen%20in%20Hochschule%20und%20Beruf%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Deutsch%20als%20Fremdsprache%20Vertiefungsmodul%20B%20%E2%80%93%20Diskursformen%20in%20Hochschule%20und%20Beruf%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
 { class=open-github-issue data-search-exclude}
 
 # Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf

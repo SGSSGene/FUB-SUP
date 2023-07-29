@@ -2,9 +2,7 @@
 tags:
   - compsci_msc_2016
 ---
-[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error in "Klimavariabilität und -modelle"&body=There seems to be an error in module "Klimavariabilität und -modelle".
-
-<Describe here a slightly more detailed description of what is wrong>&labels=bug)
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Klimavariabilit%C3%A4t%20und%20-modelle%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Klimavariabilit%C3%A4t%20und%20-modelle%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
 { class=open-github-issue data-search-exclude}
 
 # Klimavariabilität und -modelle
