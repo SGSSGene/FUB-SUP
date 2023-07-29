@@ -1,18 +1,15 @@
 # Startpage
+Dieses Projekt ist eine inoffizielle Aufarbeitung der Studien- und Prüfungsordnung von Studiengänge
+am Fachbereich Mathematik und Informatik der Freien Universität Berlin.
 
-Diese Website enthält inoffizielle der Studien- und Prüfungsordnung von Studiengänge
-die in der Fachbereich Mathematik und Informatik Angeboten werden. Zusätzlich gibt es im github repository die Module
-im YAML Format hinterlegt um coole neue Tools darauf aufzubauen.
+Alle Modulbeschreibungen sind als YAML Dateien im git-Repository abgelegt.
+Diese Webseite zeigt eine Möglichkeit was man mit diesen Daten machen kann.
 
 
 ## Support
-There are many Studien- and Prüfungsordnung.
-Currently, the main focus is on degrees provided by the
-Informatik und Mathematik department.
+Aktuell sind folgende Studien- und Prüfungsordnungen umgesetzt:
 
-Main Focus is:
-
-| Degree                                         | Status  |
+| Studiengang                                         | Status  |
 |------------------------------------------------|---------|
 |Rahmenstudien- und -prüfungsordnung             | rspo: ✔, anhänge: ✘ |
 |ABV Module                                      | sop: ✔, modules: ✔, anhänge: ✘, änderungsordnungen: ✘ |
@@ -41,9 +38,8 @@ Main Focus is:
 |Physik Master 2020                              | sop: ✔, modules: ✔, anhänge: ✘ |
 
 
+Nicht umgesetzt werden (zu viel Arbeit):
 
-
-Not available:
   - Bioinformatik Bachelor und Master 2007 und älter
   - Informatik Bsc 2006 und älter
   - Informatik Msc 2010 und älter
@@ -52,6 +48,5 @@ Not available:
   - Physik Bsc 2006 und älter
   - Physik Msc 2009 und älter
 
-## Fixes
-If you find any mistakes or deviation from the original Studien- und Prüfungsordnung, please
-report it on github.
+## Verbesserungen
+Sollten Fehler irgendwo sein, bitte melde diese über Github.
