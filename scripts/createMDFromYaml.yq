@@ -32,6 +32,7 @@ def cleanup:
 | (env.YQ_MODULE_IDX | tonumber) as $idx
 | . as $data
 | .[$idx]
+| .modification = (if has("modification") then .modification else [] end)
 | (if has("link") then
     .
     | .link as $link
@@ -39,6 +40,8 @@ def cleanup:
     | . as $original
     | $all[$all[-1][$link]] | .[] | select(.name == $name)
     | .tags = $original.tags
+    | .modification = (if has("modification") then .modification else [] end)
+    | .modification |= . + $original.modification
     | .origin = $link
     else . end)
 | .name |= cleanup
@@ -85,6 +88,14 @@ def cleanup:
     "<tr markdown><td colspan=\"2\">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in " + .origin + "](../../../" + .origin + "/modules/" + .name + ")</td></tr>"
     else ""
     end) as $linktext
+| (if (.modification | length) > 0 then
+    (["<tr markdown><td colspan=\"2\">**Abänderung in der Modulbeschreibung**<br>\n\n"
+    , ([.modification[] | "- " + .])
+    , "\n</td></tr>"
+    ] | flatten | join("\n") + "\n")
+    else ""
+    end) as $modtext
+
 | [   "---"
     , "tags:"
     , ("  - " + env.YQ_TAG)
@@ -114,6 +125,7 @@ def cleanup:
     , "<tr markdown><td colspan=\"2\">**Dauer des Moduls**         <br>" + .duration      + "</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Häufigkeit des Angebots**  <br>" + .repeat        + "</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Verwendbarkeit**           <br>\n\n" + .usability     + "\n\n</td></tr>"
+    , $modtext
     , "</table>"
   ] | flatten
 | .[]
