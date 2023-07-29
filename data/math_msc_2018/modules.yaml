@@ -2493,7 +2493,7 @@
     - Ergänzungsmodul
     - gemäß § 7 Abs. 7
 - page: 60
-  name: What is …?
+  name: What is ...
   organizer: Freie Universität Berlin/Mathematik und Informatik
   responsible: Dozentinnen und Dozenten des Moduls
   requirements: |
@@ -2532,6 +2532,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  modification:
+    - The name of this module is actually 'What is …?'...but this breaks currently so many things
   tags:
     - Ergänzungsmodul
     - gemäß § 7 Abs. 7

@@ -59,8 +59,8 @@ def cleanup:
     title: ("Error in \"" + .name + "\"" | myUri),
     body:  ("There seems to be an error in module \"" + .name + "\".\n\n<Describe here a slightly more detailed description of what is wrong>") | myUri,
     }
-| .prev = if $idx > 0 then "[« " + ($data[$idx - 1].name) + "](../" + ($data[$idx - 1].name | myUri) + "){class=prev}" else "" end
-| .next = if $idx < ($data | length-1) then "[" + ($data[$idx + 1].name) + " »](../" + ($data[$idx + 1].name | myUri) + "){class=next}" else "" end
+| .prev = if $idx > 0 then "[« " + ($data[$idx - 1].name) + "](" + ($data[$idx - 1].name) + ".md){class=prev}" else "" end
+| .next = if $idx < ($data | length-1) then "[" + ($data[$idx + 1].name) + " »](" + ($data[$idx + 1].name) + ".md){class=next}" else "" end
 | ([ ""
     , "<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>"
     , ([.teachingunit[] | "<tr markdown><td> **" + .type + "** <br>"
@@ -85,7 +85,7 @@ def cleanup:
     else ""
     end) as $tagstext
 | (if has("origin") then
-    "<tr markdown><td colspan=\"2\">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in " + .origin + "](../../../" + .origin + "/modules/" + .name + ")</td></tr>"
+    "<tr markdown><td colspan=\"2\">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in " + .origin + "](../../" + .origin + "/modules/" + .name + ".md)</td></tr>"
     else ""
     end) as $linktext
 | (if (.modification | length) > 0 then

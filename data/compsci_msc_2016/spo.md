@@ -11,7 +11,7 @@ und des Fachbereichs Physik der Freien Universität Berlin erlassen: [^1]
     am 9. Februar 2016 bestätigt worden.
 
 ## Anlagen
-- [Anlage 1: Modulbeschreibungen](../module_explanations/)
+- [Anlage 1: Modulbeschreibungen](module_explanations.md)
 - Anlage 2: Exemplarischer Studienverlaufsplan (!TODO missing)
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
 - Anlage 4: Urkunde (Muster) (!TODO missing)

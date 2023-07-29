@@ -20,7 +20,7 @@ für den Bachelorstudiengang Bioinformatik erlassen: [^1]
 
 ### Anlagen
 
-- Anlage 1: [Modulbeschreibungen](../bioinf_bsc_2012/module_explanations/)
+- Anlage 1: [Modulbeschreibungen](module_explanations.md)
 - Anlage 2: Exemplarischer Studienverlaufsplan (!TODO missing)
 
 
