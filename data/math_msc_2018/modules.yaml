@@ -46,6 +46,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 10
   name: Algebra II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -94,6 +96,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 11
   name: Differentialgeometrie I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -140,6 +144,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 12
   name: Differentialgeometrie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -191,6 +197,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 13
   name: Diskrete Geometrie I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -249,6 +257,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 14
   name: Diskrete Geometrie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -302,6 +312,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 15
   name: Diskrete Mathematik I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -351,6 +363,8 @@
   usability: |
     Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 16
   name: Diskrete Mathematik II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -403,6 +417,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 17
   name: Dynamische Systeme I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -452,6 +468,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 18
   name: Dynamische Systeme II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -502,6 +520,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 19
   name: Numerik II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -555,6 +575,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 20
   name: Numerik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -605,6 +627,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 21
   name: Partielle Differentialgleichungen I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -653,6 +677,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 22
   name: Partielle Differentialgleichungen II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -703,6 +729,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 23
   name: Stochastik II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -750,6 +778,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 24
   name: Stochastik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -797,6 +827,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 25
   name: Topologie I
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -844,6 +876,8 @@
   usability: |
     Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 26
   name: Topologie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -892,6 +926,8 @@
   usability: |
     Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 27
   name: Zahlentheorie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -939,6 +975,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Basismodul
 - page: 28
   name: Algebra III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -987,6 +1025,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 29
   name: Differentialgeometrie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1037,6 +1077,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 30
   name: Diskrete Geometrie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1086,6 +1128,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 31
   name: Diskrete Mathematik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1136,6 +1180,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 32
   name: Dynamische Systeme III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1189,6 +1235,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 33
   name: Numerik IV
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1240,6 +1288,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 34
   name: Partielle Differentialgleichungen III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1291,6 +1341,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 35
   name: Stochastik IV
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1342,6 +1394,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 36
   name: Topologie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1393,6 +1447,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 37
   name: Zahlentheorie III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1439,6 +1495,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Aufbaumodul
 - page: 38
   name: Masterseminar Algebra
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1482,6 +1540,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 39
   name: Masterseminar Differentialgeometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1526,6 +1586,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 40
   name: Masterseminar Diskrete Geometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1570,6 +1632,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 41
   name: Masterseminar Diskrete Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1614,6 +1678,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 42
   name: Masterseminar Dynamische Systeme
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1658,6 +1724,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 43
   name: Masterseminar Numerik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1701,6 +1769,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 44
   name: Masterseminar Partielle Differentialgleichungen
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1745,6 +1815,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 45
   name: Masterseminar Stochastik
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1788,6 +1860,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 46
   name: Masterseminar Topologie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1831,6 +1905,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 47
   name: Masterseminar Zahlentheorie
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1874,6 +1950,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Vertiefungsmodul
 - page: 48
   name: Ausgewählte Themen A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1920,6 +1998,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 49
   name: Ausgewählte Themen B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -1966,6 +2046,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 50
   name: Ausgewählte Themen C
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2012,6 +2094,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 51
   name: Spezielle Aspekte A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2057,6 +2141,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 52
   name: Spezielle Aspekte B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2102,6 +2188,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 53
   name: Spezielle Aspekte C
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2147,6 +2235,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 54
   name: Aktuelle Forschungsthemen A
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2189,6 +2279,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 55
   name: Aktuelle Forschungsthemen B
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2231,6 +2323,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 56
   name: Aktuelle Forschungsthemen C
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2273,6 +2367,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 57
   name: Spezielle Forschungsaspekte
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2310,6 +2406,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 58
   name: Forschungsprojekt
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2349,6 +2447,8 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
+  tags:
+    - Ergänzungsmodul
 - page: 59
   name: BMS – Fridays
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2389,6 +2489,9 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Ergänzungsmodul
+    - gemäß § 7 Abs. 7
 - page: 60
   name: What is …?
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -2429,3 +2532,6 @@
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: true
+  tags:
+    - Ergänzungsmodul
+    - gemäß § 7 Abs. 7
