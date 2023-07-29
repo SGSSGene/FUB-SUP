@@ -1,6 +1,8 @@
-site_name: Inoffizielle Studien- und Prüfungsordnung der FU-Berlin
+site_name: FUB-SUP
 theme:
   name: material
+  logo: logo.png
+  favicon: logo.png
   features:
     - search.suggest
     - search.highlight
