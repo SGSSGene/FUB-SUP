@@ -1481,6 +1481,7 @@
   differentiated: false
   tags:
     - Studienbereich Praktische Informatik
+    - Wissenschaftliches Arbeiten
 - page: 130
   name: Wissenschaftliches Arbeiten Praktische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1532,6 +1533,7 @@
   differentiated: false
   tags:
     - Studienbereich Praktische Informatik
+    - Wissenschaftliches Arbeiten
 - page: 131
   name: Aktuelle Forschungsthemen der Praktischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2507,6 +2509,7 @@
   differentiated: false
   tags:
     - Studienbereich Theoretische Informatik
+    - Wissenschaftliches Arbeiten
 - page: 148
   name: Wissenschaftliches Arbeiten Theoretische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2557,6 +2560,7 @@
   differentiated: false
   tags:
     - Studienbereich Theoretische Informatik
+    - Wissenschaftliches Arbeiten
 - page: 149
   name: Betriebssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -3027,6 +3031,7 @@
   differentiated: false
   tags:
     - Studienbereich Technische Informatik
+    - Wissenschaftliches Arbeiten
 - page: 157
   name: Wissenschaftliches Arbeiten Technische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -3076,6 +3081,7 @@
   differentiated: false
   tags:
     - Studienbereich Technische Informatik
+    - Wissenschaftliches Arbeiten
 - page: 158
   name: Aktuelle Forschungsthemen der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
