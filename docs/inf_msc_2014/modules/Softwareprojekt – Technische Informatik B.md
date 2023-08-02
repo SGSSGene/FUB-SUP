@@ -19,6 +19,7 @@ tags:
 
 
 - Studienbereich Technische Informatik
+- Softwareprojekt
 
 </td></tr>
 

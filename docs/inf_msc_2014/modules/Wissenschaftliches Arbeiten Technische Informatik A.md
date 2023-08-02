@@ -19,6 +19,7 @@ tags:
 
 
 - Studienbereich Technische Informatik
+- Wissenschaftliches Arbeiten
 
 </td></tr>
 

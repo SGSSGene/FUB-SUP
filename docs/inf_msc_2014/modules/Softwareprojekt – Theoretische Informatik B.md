@@ -19,6 +19,7 @@ tags:
 
 
 - Studienbereich Theoretische Informatik
+- Softwareprojekt
 
 </td></tr>
 

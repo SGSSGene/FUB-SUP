@@ -19,6 +19,7 @@ tags:
 
 
 - Studienbereich Praktische Informatik
+- Wissenschaftliches Arbeiten
 
 </td></tr>
 

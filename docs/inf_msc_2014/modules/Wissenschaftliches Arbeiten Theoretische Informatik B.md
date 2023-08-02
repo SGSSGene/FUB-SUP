@@ -19,6 +19,7 @@ tags:
 
 
 - Studienbereich Theoretische Informatik
+- Wissenschaftliches Arbeiten
 
 </td></tr>
 

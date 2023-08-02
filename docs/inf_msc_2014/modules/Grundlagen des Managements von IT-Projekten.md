@@ -101,5 +101,11 @@ Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
+
+</td></tr>
 
 </table>
