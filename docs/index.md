@@ -12,7 +12,7 @@ Aktuell sind folgende Studien- und Prüfungsordnungen umgesetzt:
 | Studiengang                                         | Status  |
 |------------------------------------------------|---------|
 |Rahmenstudien- und -prüfungsordnung             | rspo: ✔, anhänge: ✘ |
-|ABV Module                                      | sop: ✔, modules: ✔, anhänge: ✘, änderungsordnungen: ✘ |
+|ABV Module (inkl. 1., 2., 3. Änderungsordnung)  | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Bachelor 2014                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Bachelor 2023                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Lehramt Bachelor 2014                | sop: ✔, modules: ✔, anhänge: ✘ |
