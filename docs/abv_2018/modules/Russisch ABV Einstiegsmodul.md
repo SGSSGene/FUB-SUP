@@ -24,7 +24,7 @@ Keine
 </td></tr>
 <tr markdown><td colspan="2">**Qualifikationsziele**    <br>
 
-Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2.1 GER
+Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2 GER
 
 1. __Lesen__: Die Studentinnen und Studenten können einfache Texte zu
    vertrauten Themen verstehen.

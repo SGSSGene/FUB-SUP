@@ -7,7 +7,7 @@ tags:
 
 # Digitales Publizieren und Präsentieren
 
-[« Digitale Datenanalyse und statistische Methoden](Digitale Datenanalyse und statistische Methoden.md){class=prev}
+[« Digitales Projektmanagement](Digitales Projektmanagement.md){class=prev}
 [Diversity Management »](Diversity Management.md){class=next}
 {class=prev-next-nav}
 

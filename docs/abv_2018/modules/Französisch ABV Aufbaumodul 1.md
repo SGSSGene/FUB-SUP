@@ -7,7 +7,7 @@ tags:
 
 # Französisch ABV Aufbaumodul 1
 
-[« Fallstudien im internationalen Lernnetzwerk](Fallstudien im internationalen Lernnetzwerk.md){class=prev}
+[« Forschungsarbeit B](Forschungsarbeit B.md){class=prev}
 [Französisch ABV Aufbaumodul 2 »](Französisch ABV Aufbaumodul 2.md){class=next}
 {class=prev-next-nav}
 
@@ -74,8 +74,7 @@ Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb
 </table>
 
 </td></tr>
-<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
 
 
 </td></tr>

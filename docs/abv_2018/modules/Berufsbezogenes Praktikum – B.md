@@ -15,6 +15,12 @@ tags:
 <tr markdown class="moduledesc_head"><th colspan="2">Berufsbezogenes Praktikum – B </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Career Service</td></tr>
 
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Berufspraktikum
+
+</td></tr>
 
 <tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
 

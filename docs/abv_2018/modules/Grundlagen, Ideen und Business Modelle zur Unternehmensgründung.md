@@ -8,7 +8,7 @@ tags:
 # Grundlagen, Ideen und Business Modelle zur Unternehmensgründung
 
 [« Gesprächsführung und Verhandlung](Gesprächsführung und Verhandlung.md){class=prev}
-[Gründung einer Studentenfirma – Funpreneur-Wettbewerb »](Gründung einer Studentenfirma – Funpreneur-Wettbewerb.md){class=next}
+[Gruppenleitung in Lehr-Lern-Kontexten »](Gruppenleitung in Lehr-Lern-Kontexten.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

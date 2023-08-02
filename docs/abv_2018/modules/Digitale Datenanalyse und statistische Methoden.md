@@ -8,7 +8,7 @@ tags:
 # Digitale Datenanalyse und statistische Methoden
 
 [« Deutsch als Fremdsprache Vertiefungsmodul C – Mit Texten arbeiten – an Texten arbeiten](Deutsch als Fremdsprache Vertiefungsmodul C – Mit Texten arbeiten – an Texten arbeiten.md){class=prev}
-[Digitales Publizieren und Präsentieren »](Digitales Publizieren und Präsentieren.md){class=next}
+[Digitales Projektmanagement »](Digitales Projektmanagement.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

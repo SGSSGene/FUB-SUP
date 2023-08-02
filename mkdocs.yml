@@ -44,6 +44,8 @@ nav:
     - Übersicht: abv_2018/home.md
     - Studien- und Prüfungsordnung: abv_2018/spo.md
     - Modulbeschreibungen: abv_2018/module_explanations.md
+    - abv_2018/modules/ABV Grundmodul Arabische Dialekte I.md
+    - abv_2018/modules/ABV Grundmodul Arabische Dialekte II.md
     - abv_2018/modules/Advanced English 1a for academic professions.md
     - abv_2018/modules/Advanced English 1b for academic professions.md
     - abv_2018/modules/Advanced English 2 for academic professions.md
@@ -59,17 +61,20 @@ nav:
     - abv_2018/modules/Berufsbezogenes Praktikum – B.md
     - abv_2018/modules/Berufsbezogenes Praktikum – C.md
     - abv_2018/modules/Betriebswirtschaftliche Grundlagen (ABV).md
-    - abv_2018/modules/Computergestütztes Projektmanagement.md
     - abv_2018/modules/Deutsch als Fremdsprache Aufbaumodul.md
+    - abv_2018/modules/Deutsch als Fremdsprache Fundierungsmodul.md
     - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext.md
     - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf.md
     - abv_2018/modules/Deutsch als Fremdsprache Vertiefungsmodul C – Mit Texten arbeiten – an Texten arbeiten.md
     - abv_2018/modules/Digitale Datenanalyse und statistische Methoden.md
+    - abv_2018/modules/Digitales Projektmanagement.md
     - abv_2018/modules/Digitales Publizieren und Präsentieren.md
     - abv_2018/modules/Diversity Management.md
     - abv_2018/modules/E-Business (ABV).md
     - abv_2018/modules/Erstellung eines Businessplans.md
     - abv_2018/modules/Fallstudien im internationalen Lernnetzwerk.md
+    - abv_2018/modules/Forschungsarbeit A.md
+    - abv_2018/modules/Forschungsarbeit B.md
     - abv_2018/modules/Französisch ABV Aufbaumodul 1.md
     - abv_2018/modules/Französisch ABV Aufbaumodul 2.md
     - abv_2018/modules/Französisch ABV Aufbaumodul 3.md
@@ -81,6 +86,7 @@ nav:
     - abv_2018/modules/Gender, Diversity und Gender Mainstreaming.md
     - abv_2018/modules/Gesprächsführung und Verhandlung.md
     - abv_2018/modules/Grundlagen, Ideen und Business Modelle zur Unternehmensgründung.md
+    - abv_2018/modules/Gruppenleitung in Lehr-Lern-Kontexten.md
     - abv_2018/modules/Gründung einer Studentenfirma – Funpreneur-Wettbewerb.md
     - abv_2018/modules/Informationskompetenz.md
     - abv_2018/modules/Italienisch ABV Aufbaumodul 1.md
@@ -93,6 +99,8 @@ nav:
     - abv_2018/modules/Kooperative Projektarbeit.md
     - abv_2018/modules/Layout und Design von Printmedien.md
     - abv_2018/modules/Marketing Grundlagen (ABV).md
+    - abv_2018/modules/Medienpraxis.md
+    - abv_2018/modules/Multimediaproduktion.md
     - abv_2018/modules/Nachhaltigkeit erforschen.md
     - abv_2018/modules/Nachhaltigkeit kommunizieren.md
     - abv_2018/modules/Nachhaltigkeit konkret gestalten.md
@@ -114,8 +122,8 @@ nav:
     - abv_2018/modules/Portugiesisch ABV Grundmodul 2.md
     - abv_2018/modules/Portugiesisch ABV Grundmodul 3.md
     - abv_2018/modules/Portugiesisch ABV Grundmodul 4.md
-    - abv_2018/modules/Präsentieren, Diskutieren, Moderieren.md
     - abv_2018/modules/Projekte und Kooperationen.md
+    - abv_2018/modules/Präsentieren, Diskutieren, Moderieren.md
     - abv_2018/modules/Russisch ABV Einstiegsmodul.md
     - abv_2018/modules/Russisch ABV Grundmodul 2.md
     - abv_2018/modules/Russisch ABV Grundmodul 3.md

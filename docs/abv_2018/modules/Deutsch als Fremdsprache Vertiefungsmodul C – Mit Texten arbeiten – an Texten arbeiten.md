@@ -66,7 +66,7 @@ Fragestellungen erforderlich sind:
 <tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
 <tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
 
-Portfolio und themengebundene Präsentation als Gegenstand des Lerner-/Lehrer- und Lerner-/Lernerfeedbacks
+Portfolio und themengebundene Präsentation als Gegenstand des Lerner-/Lehrer- und Lerner-/Lernerfeedbacks, schriftliche Ausarbeitung (zu mindestens vier Themen)
 </td></tr>
 <tr markdown><td colspan="2">**Aufwand**                <br>
 <table class="aufwand_table">
@@ -76,7 +76,7 @@ Portfolio und themengebundene Präsentation als Gegenstand des Lerner-/Lehrer- u
 </table>
 
 </td></tr>
-<tr markdown><td colspan="2">**Modulprüfung**             <br>Schriftliche Ausarbeitung (ca. 10 Seiten)
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
 
 
 </td></tr>

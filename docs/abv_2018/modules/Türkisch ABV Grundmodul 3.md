@@ -26,23 +26,22 @@ Erfolgreicher Abschluss des Moduls „Türkisch ABV Einstiegsmodul“ oder des M
 <tr markdown><td colspan="2">**Qualifikationsziele**    <br>
 
 Die Studentinnen und Studenten beherrschen die schriftlichen
-Grundfertigkeiten auf der Niveaustufe A 2.1 GER und die mündlichen
-Grundfertigkeiten auf der Niveaustufe A 2.2 GER
+Grundfertigkeiten auf der Niveaustufe A2.2 GER und die mündlichen
+Grundfertigkeiten auf der Niveaustufe A2.1 GER
 
-1. __Lesen__: Sie können einfache Texte mittlerer Länge zu vertrauten Themen
-   mit Anleitung verstehen sowie in einfachen Alltagstexten konkrete
-   Informationen herausarbeiten. Sie können die Bedeutung einzelner
-   unbekannter Wörter aus dem Kontext erschließen.
-2. __Hören__: Siekönnen zu ihnen vertrauten Themen mit Anleitung komplexere
-   Hörtexte auch im Detail verstehen, wenn langsam und deutlich gesprochen
-   wird.
+1. __Lesen__: Sie können Texte mittlerer Länge zu vertrauten Themen
+   verstehen sowie in einfachen Alltagstexten ko Informationen
+   herausarbeiten. Sie können die Bedeutung einzelner unbekannter Wörter aus
+   dem Kontext erschließen.
+2. __Hören__: Sie können zu ihnen vertrauten Themen komplexere Hörtexte auch
+   im Detail verstehen, wenn langsam und deutlich gesprochen wird.
 3. __Sprechen__: Sie können die Handlung einer Geschichte in einer einfachen
    Form erzählen, einfache Erklärungen abgeben sowie Gewohnheiten und
    Alltagsbeschäftigungen beschreiben.
-4. __Schreiben__: Sie können zu ihnen vertrauten Themen einfachere Texte
-   nach Modelltexten anfertigen. Mit Hilfe vertrauter Strukturen und
-   vertrautem Wortschatz können sie in Ansätzen ihre eigenen Ideen
-   ausdrücken.
+4. __Schreiben__: Sie können zu ihnen vertrauten Themen Texte mittlerer
+   Länge anfertigen und Gehörtes oder Gelesenes schriftlich zusammenfassen.
+   Mithilfe vertrauter Strukturen und vertrautem Wortschatz können sie in
+   Ansätzen ihre eigenen Ideen ausdrücken.
 5. __Interkulturelle Kompetenz__: Sie können für die interkulturelle
    Kommunikation in Ansätzen wichtige soziale und kulturelle Elemente
    berücksichtigen.
@@ -51,13 +50,11 @@ Grundfertigkeiten auf der Niveaustufe A 2.2 GER
 </td></tr>
 <tr markdown><td colspan="2">**Inhalte**                <br>
 
-
 - Weitere Elemente der Textgrammatik
 - Anleitung zur Selbstkorrektur
 - Ausbau der Basisgrammatik
 - Ausbau des Grundwortschatzes
-- Ausbau der Sprechfertigkeit für die Ausführung kommunikativer
-  Grundfunktionen
+- Ausbau der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen
 - Komplexere Hörverständnisübungen
 
 
@@ -92,7 +89,7 @@ Prüfung (ca. 15 Minuten)
 <tr markdown><td colspan="2">**Verwendbarkeit**           <br>
 
 Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
-LBW (Kompetenzbereich Fremdsprache)
+LBW-GS (Ergänzungsbereich)
 
 
 </td></tr>

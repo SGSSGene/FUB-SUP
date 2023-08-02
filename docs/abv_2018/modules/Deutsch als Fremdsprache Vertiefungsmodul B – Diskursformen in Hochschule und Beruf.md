@@ -70,7 +70,7 @@ Bereich Kultur und Gesellschaft:
 <tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
 <tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
 
-Portfolio als Grundlage des Lerner-/Lehrerfeedbacks
+Portfolio als Grundlage des Lerner-/Lehrerfeedbacks, schriftliche Ausarbeitung (zu mindestens vier Themen) und Präsentation
 </td></tr>
 <tr markdown><td colspan="2">**Aufwand**                <br>
 <table class="aufwand_table">
@@ -80,8 +80,7 @@ Portfolio als Grundlage des Lerner-/Lehrerfeedbacks
 </table>
 
 </td></tr>
-<tr markdown><td colspan="2">**Modulprüfung**             <br>Schriftliche Ausarbeitung (ca. 8 Seiten) mit mündlicher Präsentation (ca. 15
-Minuten)
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
 
 
 </td></tr>

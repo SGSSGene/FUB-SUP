@@ -7,8 +7,8 @@ tags:
 
 # Deutsch als Fremdsprache Aufbaumodul
 
-[« Computergestütztes Projektmanagement](Computergestütztes Projektmanagement.md){class=prev}
-[Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext »](Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext.md){class=next}
+[« Betriebswirtschaftliche Grundlagen (ABV)](Betriebswirtschaftliche Grundlagen (ABV).md){class=prev}
+[Deutsch als Fremdsprache Fundierungsmodul »](Deutsch als Fremdsprache Fundierungsmodul.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

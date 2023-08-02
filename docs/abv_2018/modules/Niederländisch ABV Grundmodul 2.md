@@ -25,41 +25,43 @@ oder gleichwertiger Nachweis)
 </td></tr>
 <tr markdown><td colspan="2">**Qualifikationsziele**    <br>
 
-Beherrschung der Grundfertigkeiten auf der Niveaustufe B 1 GER
+Beherrschung der Grundfertigkeiten auf der Niveaustufe A2 GER
 
-1. __Lesen__: Die Studentinnen und Studenten können Zeitungstexte und
-   unkomplizierte Sachtexte zu Themen des eigenen Fach- und
-   Interessengebiets verstehen. Sie können die Bedeutung unbekannter Wörter
-   aus dem Kontext erschließen.
-2. __Hören__: Die Studentinnen und Studenten können Alltagssituationen
-   bewältigen, vorausgesetzt es wird deutlich und langsam gesprochen. Sie
-   können die Hauptpunkte einer einfachen Präsentation zu einem vertrauten
-   Thema verstehen.
-3. __Sprechen__: Die Studentinnen und Studenten können relativ flüssig
-   zusammenhängende Beschreibungen oder Berichte zu weniger komplexen Themen
-   aus ihren Interessen- oder Fachgebieten geben. Sie können eine
-   Argumentation gut genug ausführen, um die meiste Zeit ohne Schwierigkeit
-   verstanden zu werden.
-4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, mit
-   einfachen Mitteln Alltagssituationen zu beschreiben, über ein vertrautes
-   Thema oder ein Erlebnis zu berichten, persönliche Briefe zu schreiben.
-   Sie können in einer Vorlesung eine Liste der zentralen Punkte machen,
-   sofern das Thema vertraut ist.
-5. __Strategien__: Die Studentinnen und Studenten können
-   Kommunikationsstrategien sowie Lese- und Hörverständnisstrategien
-   anwenden. Sie können spezifische kulturell geprägte Elemente der
-   Kommunikation erkennen.
+1. __Lesen__: Die Studentinnen und Studenten können kurze, einfache Texte
+   verstehen, die einen gewissen Anteil international bekannter Wörter
+   enthalten. Sie können aus einfachen schriftlichen Materialien spezifische
+   Informationen heraussuchen. Sie sind imstande, kurze einfache Texte zu
+   verstehen, sofern sie sich auf konkrete und bekannte Situationen
+   beziehen. Darüber hinaus können sie Texten, die bildgestützt sind, die
+   Hauptinformationen entnehmen.
+2. __Hören__: Die Studentinnen und Studenten können kurze beschreibende
+   Texte zu vertrauten Themen verstehen, vorausgesetzt, es wird langsam und
+   deutlich in Standardsprache gesprochen.
+3. __Sprechen__: Die Studentinnen und Studenten sind in der Lage, ihren
+   täglichen Tagesablauf zu schildern, über ihre beruflichen und
+   Freizeitinteressen zu berichten, ihre Gesprächspartner nach diesen Themen
+   zu befragen und auf solche Fragen kurz zu reagieren.
+4. __Schreiben__: Die Studentinnen und Studenten sind imstande, kurze
+   Notizen und Mitteilungen zu verfassen, persönliche Dankes- und
+   Entschuldigungsschreiben zu formulieren, einen tabellarischen Lebenslauf
+   zu schreiben und Pläne und Vereinbarungen schriftlich festzuhalten.
+5. __Strategien__: Die Studentinnen und Studenten entwickeln folgende
+   Strategien weiter: Kooperationsstrategien, globale und lokale
+   Verständnisstrategien (verbaler und nicht verbaler Kommunikation),
+   allgemeine Lesestrategien. Sie können Sprachstrukturen anhand bereits
+   erworbener Kenntnisse anderer Fremdsprachen erkennen; außerdem können sie
+   verschiedene Textstrukturen erfassen. Sie nehmen eine erste
+   Selbstkorrektur ihrer Texte vor.
 
 
 </td></tr>
 <tr markdown><td colspan="2">**Inhalte**                <br>
 
-
-- Vervollständigung des Grundwortschatzes
-- Vervollständigung der Basisgrammatik
+- Elemente des Grundwortschatzes
+- Elemente der Basisgrammatik
+- Elemente der Textgrammatik
 - Hör- und Leseverständnisübungen
-- Weiterentwicklung der Sprechfertigkeit für die Ausführung kommunikativer
-  Grundfunktionen
+- Entwicklung der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen
 - Arbeit mit verschiedenen Textsorten
 - Arbeit mit Wörterbüchern
 

@@ -7,7 +7,7 @@ tags:
 
 # Gründung einer Studentenfirma – Funpreneur-Wettbewerb
 
-[« Grundlagen, Ideen und Business Modelle zur Unternehmensgründung](Grundlagen, Ideen und Business Modelle zur Unternehmensgründung.md){class=prev}
+[« Gruppenleitung in Lehr-Lern-Kontexten](Gruppenleitung in Lehr-Lern-Kontexten.md){class=prev}
 [Informationskompetenz »](Informationskompetenz.md){class=next}
 {class=prev-next-nav}
 

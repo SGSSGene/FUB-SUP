@@ -77,8 +77,7 @@ Vielfältige eigenständige und kooperative Spracharbeit während und außerhalb
 </table>
 
 </td></tr>
-<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
-Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
 
 
 </td></tr>

@@ -24,11 +24,12 @@ Erfolgreicher Abschluss des Moduls „Türkisch ABV Grundmodul 4“ oder gleichw
 </td></tr>
 <tr markdown><td colspan="2">**Qualifikationsziele**    <br>
 
-Die Studentinnen und Studenten beherrschen die Grundfertigkeiten der
-türkischen Sprache auf der Niveaustufe B 1 GER
+Die Studentinnen und Studenten beherrschen die schriftlichen
+Grundfertigkeiten auf der Niveaustufe B1.2 GER und die mündlichen
+Grundfertigkeiten auf der Niveaustufe B1.1 GER
 
 1. __Lesen__: Sie können Texte verschiedener Textgattungen mit
-   kulturhistorischem, politischem und sozialwissenschaftlichen Inhalt
+   kulturhistorischem, politischem und sozialwissenschaftlichem Inhalt
    größeren Umfangs sowie authentische Texte längeren Umfangs in ihrer
    Hauptaussage, Argumentation und Schlussfolgerung verstehen und Details
    nach wiederholtem Lesen entnehmen.
@@ -37,9 +38,9 @@ türkischen Sprache auf der Niveaustufe B 1 GER
    Hauptaussagen und Einzelinformationen erkennen. Sie sind auch in der
    Lage, die Hauptaussagen eines Vortrags zu verstehen, wenn in deutlich
    artikulierter Standardsprache gesprochen wird.
-3. __Sprechen__: Sie können zu einem ihnen vertrauten Thema sich relativ
+3. __Sprechen__: Sie können sich zu einem ihnen vertrauten Thema relativ
    frei ausdrücken, vorausgesetzt die Gesprächspartnerin/der
-   Gesprächspartner spricht langsam und deutlich. Sie können unkomplizierte
+   Gesprächspartner spricht langsam und deutlich. Sie können unkomplizierte,
    aber zusammenhängende Beschreibungen abgeben sowie eine vorbereitete,
    unkomplizierte Präsentation zu einem vertrauten Thema vortragen.
 4. __Schreiben__: Sie können längere zusammenhängende Texte zu vertrauten
@@ -47,22 +48,18 @@ türkischen Sprache auf der Niveaustufe B 1 GER
    Interesse schreiben und ihre eigene Meinung vertreten. Sie sind in der
    Lage, auch Texte zu kulturellen, wirtschaftlichen und politisch einfachen
    Themen zu verfassen.
-5. __Interkulturelle Kompetenz__: Sie können die für die interkulturelle
-   Kommunikation wichtigsten sozialen und kulturellen Elemente bei ihrem
-   Spracherwerb bewusst miteinbeziehen.
+5. __Interkulturelle Kompetenz__: Sie können die für die interkulturelle Ko
 
 
 </td></tr>
 <tr markdown><td colspan="2">**Inhalte**                <br>
-
 
 - Vertiefung der Textgrammatik
 - Ausbau der Selbstkorrektur
 - Ausbau und Vertiefung der Aufbaugrammatik
 - Verfestigung und Erweiterung der Sprachkenntnisse
 - Vertiefung der Lexik
-- Erweiterung des Hör- und Leseverstehens sowie der mündlichen und
-  schriftlichen Ausdrucksfähigkeit
+- Erweiterung des Hör- und Leseverstehens sowie der mündlichen und schriftlichen Ausdrucksfähigkeit
 - Weiterführende Übungen mit unterschiedlichen audiovisuellen Materialien
 
 

@@ -8,7 +8,7 @@ tags:
 # Betriebswirtschaftliche Grundlagen (ABV)
 
 [« Berufsbezogenes Praktikum – C](Berufsbezogenes Praktikum – C.md){class=prev}
-[Computergestütztes Projektmanagement »](Computergestütztes Projektmanagement.md){class=next}
+[Deutsch als Fremdsprache Aufbaumodul »](Deutsch als Fremdsprache Aufbaumodul.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

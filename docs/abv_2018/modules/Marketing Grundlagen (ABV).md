@@ -8,7 +8,7 @@ tags:
 # Marketing Grundlagen (ABV)
 
 [« Layout und Design von Printmedien](Layout und Design von Printmedien.md){class=prev}
-[Nachhaltigkeit erforschen »](Nachhaltigkeit erforschen.md){class=next}
+[Medienpraxis »](Medienpraxis.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

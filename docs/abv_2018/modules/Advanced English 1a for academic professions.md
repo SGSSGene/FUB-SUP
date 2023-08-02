@@ -7,7 +7,7 @@ tags:
 
 # Advanced English 1a for academic professions
 
-
+[« ABV Grundmodul Arabische Dialekte II](ABV Grundmodul Arabische Dialekte II.md){class=prev}
 [Advanced English 1b for academic professions »](Advanced English 1b for academic professions.md){class=next}
 {class=prev-next-nav}
 

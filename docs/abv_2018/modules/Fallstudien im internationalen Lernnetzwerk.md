@@ -8,7 +8,7 @@ tags:
 # Fallstudien im internationalen Lernnetzwerk
 
 [« Erstellung eines Businessplans](Erstellung eines Businessplans.md){class=prev}
-[Französisch ABV Aufbaumodul 1 »](Französisch ABV Aufbaumodul 1.md){class=next}
+[Forschungsarbeit A »](Forschungsarbeit A.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

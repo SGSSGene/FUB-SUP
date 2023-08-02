@@ -7,7 +7,7 @@ tags:
 
 # Deutsch als Fremdsprache Vertiefungsmodul A – Interaktionsfelder im akademischen (Berufs-)Kontext
 
-[« Deutsch als Fremdsprache Aufbaumodul](Deutsch als Fremdsprache Aufbaumodul.md){class=prev}
+[« Deutsch als Fremdsprache Fundierungsmodul](Deutsch als Fremdsprache Fundierungsmodul.md){class=prev}
 [Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf »](Deutsch als Fremdsprache Vertiefungsmodul B – Diskursformen in Hochschule und Beruf.md){class=next}
 {class=prev-next-nav}
 
@@ -61,7 +61,7 @@ Erarbeitung von Interaktionsfeldern im akademischen (Berufs-)Kontext:
 <tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
 <tr markdown><td> **Sprachpraktische Übung** <br>4 SWS <br> Teilnahme empfohlen</td><td>
 
-Portfolio als Grundlage des Lerner-/Lehrerfeedbacks
+Portfolio als Grundlage des Lerner-/Lehrerfeedbacks, schriftliche Ausarbeitung (zu mindestens vier Themen)
 </td></tr>
 <tr markdown><td colspan="2">**Aufwand**                <br>
 <table class="aufwand_table">
@@ -71,7 +71,7 @@ Portfolio als Grundlage des Lerner-/Lehrerfeedbacks
 </table>
 
 </td></tr>
-<tr markdown><td colspan="2">**Modulprüfung**             <br>Schriftliche Ausarbeitung (ca. 10 Seiten)
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
 
 
 </td></tr>

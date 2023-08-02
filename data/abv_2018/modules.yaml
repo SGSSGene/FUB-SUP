@@ -307,6 +307,140 @@
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
     LBW (Kompetenzbereich Fremdsprache)
   differentiated: false
+- page: 5
+  name: ABV Grundmodul Arabische Dialekte I
+  organizer: Freie Universität Berlin/ZE Sprachenzentrum
+  responsible: Beauftragte Arabischlehrkraft an der ZE Sprachenzentrum
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Arabisch ABV Einstiegsmodul“ oder „Arabisch
+    ABV Grundmodul 2“ oder des Moduls „Arabisch I“ des Bachelorstudiengangs Geschichte und Kultur des Vorderen
+    Orients des Fachbereichs Geschichts- und Kulturwissenschaften der Freien Universität Berlin oder gleichwertige
+    Kenntnisse
+  goals: |
+    Die Studierenden beherrschen die mündlichen Grundfertigkeiten auf der
+    Niveaustufe A2.1 GER. Die Studierenden können in dem angebotenen Dialekt:
+
+    - die gebräuchlichsten Wörter sowie einfache Sätze und kurze Mitteilungen
+      mündlicher Kommunikation verstehen,
+    - sich mit einfachen sprachlichen Mitteln in Alltagssituationen
+      verständigen,
+    - praxisbezogene Kontaktgespräche führen,
+    - einfache mündliche Texte und Gesprächsinhalte erschließen,
+    - Strategien zum autonomen Sprachenlernen anwenden und den eigenen
+      Sprachlernstand reflektieren,
+    - sich kooperative Feedbacks zu Kurzvorträgen und Präsentationen geben,
+    - kontextspezifische Kommunikation und Varietäten innerhalb des angebotenen
+      Dialekts reflektieren und einsetzen, einschließlich Gender- und
+      Diversity-spezifischer Aspekte des Sprachgebrauchs.
+  content: |
+    Die Studierenden wenden die im Alltag gesprochene arabische Sprache im
+    angebotenen Dialekt an, unter Berücksichtigung der erlernten Basisgrammatik
+    des Dialekts (z. B. Verbkonjugation im Perfekt und Imperfekt sowie die
+    Tempora Perfekt, Imperfekt und Futur I, der Gebrauch von Partizipien) und
+    des Grundwortschatzes (z. B. zum Begrüßen, sich gegenseitig vorstellen und
+    kennenlernen, gebräuchliche Floskeln und Vokabular für verschiedene
+    Alltagssituationen, etwa zur Kommunikation auf dem Markt, dem Flughafen, im
+    Restaurant, dem Universitätscampus, beim Arzt, bei Behördengängen sowie für
+    Wegbeschreibungen). Sie üben sich im Sprechen durch das Halten von
+    Kurzvorträgen und Präsentationen im Rahmen des eigenen Interessengebiets und
+    im Rahmen von für den Alltag relevanten Themen. Sie trainieren mit
+    Hörverständnis- und Sprechfertigkeitsübungen ihre rezeptiven und produktiven
+    Fertigkeiten und bereiten sich hiermit auf studien- und berufsbezogene
+    Kommunikationssituationen im Alltag vor, bei gleichzeitiger Sensibilisierung
+    für kontextspezifische Kommunikation und Varietäten innerhalb des
+    angebotenen Dialekts. FU-Mitteilungen
+  teachingunit:
+    - type: Sprachpraktische Übung
+      swstime: 4
+      attendance: recommended
+      activity: |
+        Eigenständige und kooperative Spracharbeit während und außerhalb der
+        Präsenzstunden, z. B. mündliche Interaktionen, Kurzvorträge, Rollenspiele
+        und Präsentationen
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 75
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 15
+  exam: |
+    Präsentation (ca. 15 Minuten) oder mündliche Prüfung (ca. 15 Minuten), kann
+    ggf. in Form einer mündlichen Gruppenprüfung durchgeführt werden.
+  language: Arabisch und Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Nach Verfügbarkeit
+  usability: |
+    Studienbereich Allgemeine Berufsvorbereitung (Kompetenzbereich
+    Fremdsprachen)
+  differentiated: false
+- page: 7
+  name: ABV Grundmodul Arabische Dialekte II
+  organizer: Freie Universität Berlin/ZE Sprachenzentrum
+  responsible: Beauftragte Arabischlehrkraft an der ZE Sprachenzentrum
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „ABV Grundmodul Arabische Dialekte I“ oder
+    gleichwertige Kenntnisse
+  goals: |
+    Die Studierenden beherrschen die mündlichen Grundfertigkeiten auf der
+    Niveaustufe A2.2 GER. Die Studierenden können in dem angebotenen Dialekt:
+
+    - gebräuchliche Redewendungen und differenziertere Aussagen in der
+      Alltagskommunikation verstehen,
+    - an kurzen Gesprächen aktiv teilnehmen und sich dabei zu ihnen vertrauten
+      Themen im Dialekt mit einfacheren sprachlichen Mitteln äußern,
+    - kürzere und authentische mündliche Texte und Gesprächsinhalte erschließen,
+    - Strategien anwenden, um kürzere mündliche Beiträge oder Vorträge im
+      Dialekt besser erschließen zu können,
+    - für die interkulturelle Kommunikation wichtige soziale und kulturelle
+      Elemente anwenden,
+    - sprachliche Varietäten erkennen, analysieren und entscheiden, welche
+      Varietäten des Arabischen (Hochsprache, Dialekt, Umgangssprache, Mischform
+      etc.) kontextspezifisch Verwendung findet.
+  content: |
+    Die Studierenden erweitern ihre rezeptiven und produktiven Fertigkeiten in
+    dem angebotenen Dialekt, indem sie sich einführend mit authentischen
+    audio-visuellen Medien beschäftigen (z. B. Podcasts, Ausschnitte aus Serien,
+    Beiträge aus den sozialen Medien oder Debattenformate, Lieder) und sich
+    damit auch im Verständnis komplexerer Hörtexte üben und Strategien zum
+    Verständnis dieser anwenden. Hierdurch erweitern sie auch ihren
+    Grundwortschatz der Alltagskommunikation in unterschiedlichen Varietäten und
+    bauen ihre Kenntnisse der Basisgrammatik aus (z. B. die Anwendung von
+    Konnektoren, Temporalsätze, Bedingungssätze, weitere Zeitformen wie das
+    Plusquamperfekt und Futur II). Sie erweitern ihre rezeptiven und produktiven
+    Fertigkeiten in dem angebotenen Dialekt zudem, indem sie für
+    Alltagssituationen relevante Rollenspiele vorbereiten und durchführen.
+  teachingunit:
+    - type: Sprachpraktische Übung
+      swstime: 4
+      attendance: recommended
+      activity: |
+        Eigenständige und kooperative Spracharbeit während und außerhalb der
+        Präsenzstunden, z. B. mündliche Interaktionen, Kurzvorträge,
+        Rollenspiele und Präsentationen
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 75
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 15
+  exam: |
+    Präsentation (ca. 15 Minuten) oder mündliche Prüfung (ca. 15 Minuten),
+    kann ggf. in Form einer mündlichen Gruppenprüfung durchgeführt werden.
+  language: Arabisch und Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Nach Verfügbarkeit
+  usability: |
+    Artikel II Diese Ordnung tritt am Tage nach ihrer Veröffentlichung in den
+    FU-Mitteilungen (Amtsblatt der Freien Universität Berlin) in Kraft.
+    Verwendbarkeit: Studienbereich Allgemeine Berufsvorbereitung
+    (Kompetenzbereich Fremdsprachen)
+  differentiated: false
 - page: 3
   name: Deutsch als Fremdsprache Fundierungsmodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum

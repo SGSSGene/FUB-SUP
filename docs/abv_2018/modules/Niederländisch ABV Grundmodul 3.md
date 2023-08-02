@@ -25,47 +25,42 @@ des Moduls „Niederländisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse
 </td></tr>
 <tr markdown><td colspan="2">**Qualifikationsziele**    <br>
 
-Beherrschung der Grundfertigkeiten auf der Niveaustufe B 2.1 GER
+Beherrschung der Grundfertigkeiten auf der Niveaustufe B1 GER
 
-1. __Lesen__: Die Studentinnen und Studenten können authentische, zum Teil
-   auch längere Texte in ihrer Hauptaussage, Argumentation und
-   Schlussfolgerung verstehen und Details nach wiederholtem Lesen entnehmen.
-   Sie können Informationen aus verschiedenen Texten oder Textteilen
-   zusammentragen, um eine bestimmte Aufgabe zu lösen.
-2. __Hören__: Die Studentinnen und Studenten können bei längeren Gesprächen
-   zu Themen des eigenen Interessengebiets oder Fachs den Hauptpunkten
-   folgen und Einzelinformationen verstehen. Sie sind auch in der Lage, die
-   Hauptaussagen eines Vortrags zu verstehen, wenn in deutlich artikulierter
-   Standardsprache gesprochen wird.
-3. __Sprechen__: Die Studentinnen und Studenten sind in der Lage, bei
-   Gesprächen und Diskussionen über vertraute Themen den eigenen Standpunkt
-   zu äußern und kurz zu den Standpunkten anderer Stellung nehmen. Sie sind
-   weiterhin imstande, eine unkomplizierte Präsentation zu einem vertrauten
-   Thema so klar vorzutragen, dass man ihr meist mühelos folgen kann.
-4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, Texte
-   zusammenzufassen, Informationen und Argumentationen aus verschiedenen
-   Quellen zusammenzuführen, ihren Standpunkt zu einem Sachverhalt zu
-   erklären und Vor- und Nachteile verschiedener Optionen zu erläutern.
-5. __Strategien__: Die Studentinnen und Studenten können Hilfsmittel gezielt
-   einsetzen und im mündlichen und schriftlichen Bereich Selbstkorrekturen
-   vornehmen. Sie können unbekannte Wörter aus dem Kontext sicher erschlie-
-   ßen, Lesestil und -tempo an Leseabsichten und Texte anpassen. Sie können
-   geeignete Strategien einsetzen, um das Hörverstehen zu überprüfen. Sie
-   können spezifische kulturell geprägte Elemente der Kommunikation
-   anwenden.
+1. __Lesen__: Die Studentinnen und Studenten können Zeitungstexte und
+   unkomplizierte Sachtexte zu Themen des eigenen Fach- und
+   Interessengebiets verstehen. Sie können die Bedeutung unbekannter Wörter
+   aus dem Kontext erschließen.
+2. __Hören__: Die Studentinnen und Studenten können Alltagssituationen
+   bewältigen, vorausgesetzt es wird deutlich und langsam gesprochen. Sie
+   können die Hauptpunkte einer einfachen Präsentation zu einem vertrauten
+   Thema verstehen.
+3. __Sprechen__: Die Studentinnen und Studenten können relativ flüssig
+   zusammenhängende Beschreibungen oder Berichte zu weniger komplexen Themen
+   aus ihren Interessen- oder Fachgebieten geben. Sie können eine
+   Argumentation gut genug ausführen, um die meiste Zeit ohne Schwierigkeit
+   verstanden zu werden.
+4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, mit
+   einfachen Mitteln Alltagssituationen zu beschreiben, über ein vertrautes
+   Thema oder ein Erlebnis zu berichten, persönliche Briefe zu schreiben.
+   Sie können in einer Vorlesung eine Liste der zentralen Punkte machen,
+   sofern das Thema vertraut ist.
+5. __Strategien__: Die Studentinnen und Studenten können
+   Kommunikationsstrategien sowie Lese- und Hörverständnisstrategien
+   anwenden. Sie können spezifische kulturell geprägte Elemente der
+   Kommunikation erkennen.
 
 
 </td></tr>
 <tr markdown><td colspan="2">**Inhalte**                <br>
 
-
-- Konsolidierung und Ausbau des Wortschatzes
-- Konsolidierung und Ausbau der Grammatik
-- Entwicklung von Hör- und Leseverständnisstrategien
-- Entwicklung der Sprechfertigkeit für die Teilnahme an Gesprächen und das
-  zusammenhängende Sprechen
-- Entwicklung des schriftlichen Ausdrucks
-- Anleitung zur Selbstkorrektur und zum effektiven Arbeiten mit Hilfsmitteln
+- Ausbau des Grundwortschatzes
+- Vervollständigung der Basisgrammatik
+- Ausbau der Textgrammatik
+- Hör- und Leseverständnisübungen
+- Weiterentwicklung der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen
+- Arbeit mit verschiedenen Textsorten
+- Arbeit mit Wörterbüchern
 
 
 </td></tr>
