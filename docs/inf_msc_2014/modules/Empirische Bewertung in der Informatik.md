@@ -8,7 +8,7 @@ tags:
 # Empirische Bewertung in der Informatik
 
 [« Datenbanktechnologie](Datenbanktechnologie.md){class=prev}
-[Fortgeschrittene Themen der Theoretischen Informatik »](Fortgeschrittene Themen der Theoretischen Informatik.md){class=next}
+[Existenzgründung in der IT-Industrie »](Existenzgründung in der IT-Industrie.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

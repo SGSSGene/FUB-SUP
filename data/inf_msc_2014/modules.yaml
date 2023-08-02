@@ -278,6 +278,12 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+- name: Existenzgründung in der IT-Industrie
+  link: inf_bsc_2014
+  tags:
+    - Studienbereich Praktische Informatik
+  modification:
+    - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
 - page: 112
   name: Grundlagen des Softwaretestens
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -352,6 +358,12 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+- name: Grundlagen des Managements von IT-Projekten
+  link: inf_bsc_2014
+  tags:
+    - Studienbereich Praktische Informatik
+  modification:
+    - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
 - page: 113
   name: Künstliche Intelligenz
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik

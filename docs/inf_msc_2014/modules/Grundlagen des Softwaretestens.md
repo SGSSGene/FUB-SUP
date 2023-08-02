@@ -7,7 +7,7 @@ tags:
 
 # Grundlagen des Softwaretestens
 
-[« Fortgeschrittene Themen der Theoretischen Informatik](Fortgeschrittene Themen der Theoretischen Informatik.md){class=prev}
+[« Grundlagen des Managements von IT-Projekten](Grundlagen des Managements von IT-Projekten.md){class=prev}
 [Höhere Algorithmik »](Höhere Algorithmik.md){class=next}
 {class=prev-next-nav}
 

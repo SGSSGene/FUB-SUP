@@ -7,8 +7,8 @@ tags:
 
 # Fortgeschrittene Themen der Theoretischen Informatik
 
-[« Empirische Bewertung in der Informatik](Empirische Bewertung in der Informatik.md){class=prev}
-[Grundlagen des Softwaretestens »](Grundlagen des Softwaretestens.md){class=next}
+[« Existenzgründung in der IT-Industrie](Existenzgründung in der IT-Industrie.md){class=prev}
+[Grundlagen des Managements von IT-Projekten »](Grundlagen des Managements von IT-Projekten.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">
