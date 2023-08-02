@@ -1364,6 +1364,7 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+    - Softwareprojekt
 - page: 128
   name: Softwareprojekt – Praktische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1430,6 +1431,7 @@
   differentiated: false
   tags:
     - Studienbereich Praktische Informatik
+    - Softwareprojekt
 - page: 129
   name: Wissenschaftliches Arbeiten Praktische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2390,6 +2392,7 @@
   differentiated: true
   tags:
     - Studienbereich Theoretische Informatik
+    - Softwareprojekt
 - page: 146
   name: Softwareprojekt – Theoretische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2459,6 +2462,7 @@
   differentiated: false
   tags:
     - Studienbereich Theoretische Informatik
+    - Softwareprojekt
 - page: 147
   name: Wissenschaftliches Arbeiten Theoretische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2921,6 +2925,7 @@
   differentiated: true
   tags:
     - Studienbereich Technische Informatik
+    - Softwareprojekt
 - page: 155
   name: Softwareprojekt – Technische Informatik B
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2982,6 +2987,7 @@
   differentiated: false
   tags:
     - Studienbereich Technische Informatik
+    - Softwareprojekt
 - page: 156
   name: Wissenschaftliches Arbeiten Technische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
