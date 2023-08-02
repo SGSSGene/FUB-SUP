@@ -179,18 +179,22 @@ def extractTeachingUnit:
         credit_points: (.[10] | removeTitle | split(" ")[-2] | tonumber),
         duration: (.[11] | removeTitle),
         repeat: (.[12] | removeTitle),
-        usability: (.[13] | removeTitle)
+        usability: (.[13] | removeTitle),
+        differentiated: "unknown !TODO"
     }
     | .teachingunit[] |= (
                             .type as $type
                             | .attendance |= $attendance
                             | .attendance |= if $attendance == "Ja" then "required"
                                            elif $attendance == "Teilnahme wird empfohlen" then "recommended"
+                                           elif $attendance == "Teilnahme wird dringend empfohlen" then "recommended"
                                            elif ($attendance | test($type + ": Ja")) then "required"
                                            elif ($attendance | test($type + " und [a-zA-Z]*: Ja")) then "required"
                                            elif ($attendance | test($type + ": Teilnahme wird empfohlen")) then "recommended"
+
                                            else
                                               "TODO: " + $attendance + ":: " + $type + ": Ja"
                                            end
                         )
+    | .
 ]

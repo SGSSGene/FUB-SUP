@@ -1,4 +1,4 @@
-#!/usr/bin/env -S yq -z -Y -w 80 -f
+#!/usr/bin/env -S yq -z -y -w 80 -f
 def format:
     .
     | gsub("\n(?<c1>[^-\n][\n]*)\n-"; "\(.c1)\n\n-")

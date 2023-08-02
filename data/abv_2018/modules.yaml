@@ -307,6 +307,67 @@
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
     LBW (Kompetenzbereich Fremdsprache)
   differentiated: false
+- page: 3
+  name: Deutsch als Fremdsprache Fundierungsmodul
+  organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
+  responsible: Beauftragte DaF-Lehrkraft an der ZE Sprachenzentrum
+  requirements: |
+    Kenntnisse der deutschen Sprache auf dem Niveau B2.2 GER (Einstufungstest an
+    der ZE Sprachenzentrum oder gleichwertiger Nachweis)
+  goals: |
+    Die Studierenden besitzen vertiefte Kenntnisse und Kompetenzen auf der
+    Niveaustufe C1.1 GER. Der Fokus liegt dabei auf
+
+    - der Entwicklung der schriftlichen Darstellungsfähigkeit, um am
+      akademischen Leben effektiv teilnehmen zu können und die Sprache im
+      Studium wirksam zu gebrauchen
+    - der Festigung und Vertiefung der Lesekompetenz, um komplexere Sachtexte
+      relativ detailliert verstehen zu können
+    - der anwendungsorientierten Festigung und Vertiefung des Strukturwissens
+      Die Studierenden
+    - können auf der Basis unterschiedlicher Quellen Sachverhalte zielgerichtet
+      aufbereiten und darstellen, Argumente abwägen und gewichten sowie
+      Gesichtspunkte vermitteln.
+    - verfügen über strategische Kompetenzen, um effektiv und konstruktiv
+      Sachverhalte, Erklärungen und Gesichtspunkte zu kommunizieren.
+    - verfügen über eine ausreichende interkulturelle Sensibilisierung, um
+      Sachverhalte, Erklärungen und Gesichtspunkte effektiv und konstruktiv zu
+      kommunizieren und dabei auch mögliche Differenzen bzgl. deren Rezeption zu
+      hinterfragen.
+  content: |
+    Auseinandersetzung mit und Aneignung von hochschulrelevanten
+    Kommunikationsformen sowie Strategien zur Erschließung und Sicherung des
+    Textverständnisses auf Basis von argumentativen Sachtexten:
+
+    - Argumentative Sachtexte auf allgemein wissenschaftlichem Hintergrund
+      rezipieren und produzieren
+    - Arbeitstechniken zum Planen und Verfassen strukturierter Texte sowie deren
+      (Selbst-)Korrektur gezielt anwenden
+    - Festigung auch komplexerer grammatischer Strukturen systematische
+      Erweiterung von abstraktem, akademisch relevantem Wortschatz
+  teachingunit:
+    - type: Sprachpraktische Übung
+      swstime: 4
+      attendance: recommended
+      activity: |
+        Portfolio als Grundlage des Lerner-/Lehrerfeedbacks, schriftliche Ausarbeitung (zu mindestens vier Themen)
+  workload:
+    - type: Präsenzzeit
+      time: 60
+    - type: Vor- und Nachbereitung
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Mindestens Jedes Sommersemester
+  usability: |
+    Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Fremdsprachen)
+  differentiated: false
 - page: 14
   name: Deutsch als Fremdsprache Aufbaumodul
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
@@ -411,7 +472,7 @@
       swstime: 4
       attendance: recommended
       activity: |
-        Portfolio als Grundlage des Lerner-/Lehrerfeedbacks
+        Portfolio als Grundlage des Lerner-/Lehrerfeedbacks, schriftliche Ausarbeitung (zu mindestens vier Themen)
   workload:
     - type: Präsenzzeit spÜ
       time: 60
@@ -420,7 +481,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Schriftliche Ausarbeitung (ca. 10 Seiten)
+    Klausur (90 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -477,7 +538,7 @@
       swstime: 4
       attendance: recommended
       activity: |
-        Portfolio als Grundlage des Lerner-/Lehrerfeedbacks
+        Portfolio als Grundlage des Lerner-/Lehrerfeedbacks, schriftliche Ausarbeitung (zu mindestens vier Themen) und Präsentation
   workload:
     - type: Präsenzzeit spÜ
       time: 60
@@ -486,8 +547,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Schriftliche Ausarbeitung (ca. 8 Seiten) mit mündlicher Präsentation (ca. 15
-    Minuten)
+    Klausur (90 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -541,7 +601,7 @@
       swstime: 4
       attendance: recommended
       activity: |
-        Portfolio und themengebundene Präsentation als Gegenstand des Lerner-/Lehrer- und Lerner-/Lernerfeedbacks
+        Portfolio und themengebundene Präsentation als Gegenstand des Lerner-/Lehrer- und Lerner-/Lernerfeedbacks, schriftliche Ausarbeitung (zu mindestens vier Themen)
   workload:
     - type: Präsenzzeit spÜ
       time: 60
@@ -550,7 +610,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Schriftliche Ausarbeitung (ca. 10 Seiten)
+    Klausur (90 Minuten)
   language: Deutsch
   total_work: 150
   credit_points: 5
@@ -2671,7 +2731,7 @@
   requirements: |
     Keine
   goals: |
-    Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2.1 GER
+    Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2 GER
 
     1. __Lesen__: Die Studentinnen und Studenten können einfache Texte zu
        vertrauten Themen verstehen.
@@ -2739,7 +2799,7 @@
     Grundkenntnisse des Russischen (Einstufungstest der ZE Sprachenzentrum oder
     gleichwertiger Nachweis)
   goals: |
-    Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2.1 GER
+    Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2 GER
 
     1. __Lesen__: Die Studentinnen und Studenten können einfache Texte zu
        vertrauten Themen verstehen.
@@ -2798,7 +2858,7 @@
     Erfolgreiche Absolvierung des Moduls „Russisch ABV Einstiegsmodul“ oder des
     Moduls „Russisch ABV Grundmodul 2“
   goals: |
-    Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2 GER
+    Beherrschung der Grundfertigkeiten auf der Niveaustufe A 2-B 1.1 GER
 
     1. __Lesen__: Die Studentinnen und Studenten können einfache Texte zu
        vertrauten Themen verstehen sowie in einfachen Alltagstexten konkrete
@@ -3863,7 +3923,7 @@
     Medienkompetenz)
   differentiated: false
 - page: 70
-  name: Computergestütztes Projektmanagement
+  name: Digitales Projektmanagement
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
   responsible: Verantwortliche/r des Kompetenzbereichs Informations- und Medienkompetenz
   requirements: |
@@ -4174,6 +4234,118 @@
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations- und
     Medienkompetenz)
   differentiated: false
+- page: 5
+  name: Multimediaproduktion
+  organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
+  responsible: Verantwortliche/r des Kompetenzbereichs Informations- und Medienkompetenz
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können selbstständig und situationsbezogen mit aktuellen
+    Informations- und Medientechnologien umgehen. Sie sind in der Lage,
+    Multimediaproduktionen fachgerecht zu konzipieren und in interdisziplinären
+    Projektgruppen zu entwickeln. Dabei können sie eigene Ergebnisse für die
+    Lern- und Arbeitsprozesse definieren, nach fachlich begründeten Kriterien
+    bewerten und eigenständig gestalten. Die Studierenden können entscheiden,
+    welche Video- und Audio-Softwareprodukte entsprechend praxisrelevanter
+    Einsatzszenarien anzuwenden sind und sind in der Lage ihre Wahl inhaltlich
+    zu begründen. Die Studierenden können darüber hinaus die erarbeiteten
+    Ergebnisse professionell präsentieren und online veröffentlichen.
+  content: |
+    Das Modul vermittelt Methoden zur Konzeption und Umsetzung von hochwertigen
+    Video- bzw. Audioproduktionen anhand von eigenständig gewählten Projekten.
+    Es beinhaltet die Bearbeitung von Video- und Sound-Dateien, die vertiefte
+    Kenntnisse in der Handhabung und dem Einsatz von Video- und Audio-Programmen
+    erfordern sowie Planung und Durchführung von eigenständig gewählten
+    IT-Projekten.
+  teachingunit:
+    - type: Seminar am PC
+      swstime: 3
+      attendance: recommended
+      activity: |
+        Diskutieren, Gruppenarbeit, Projektskizzen, Blended Learning, Projektarbeit
+  workload:
+    - type: Präsenzzeit S-PC
+      time: 45
+    - type: Vor- und Nachbereitung S-PC
+      time: 75
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Schriftliche Ausarbeitung (ca. 5 Seiten)
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: |
+    Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Informations- und
+    Medienkompetenz)
+  differentiated: false
+- page: 6
+  name: Gruppenleitung in Lehr-Lern-Kontexten
+  organizer: Freie Universität Berlin/ Career Service Berlin
+  responsible: Career Service
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden sind in der Lage, studentische Lerngruppen (z. B. in
+    Mentorien oder Tutorien) anzuleiten. Sie verfügen über Grundlagenkenntnisse
+    zu ausgewählten psychologisch-pädagogischen Modellen des Lehrens und Lernens
+    und können diese in die Gestaltung eigener Lehr-Lern-Kontexte einbringen, um
+    eine positive Lernumgebung zu schaffen. Sie kennen aktivierende Methoden für
+    die unterschiedlichen Sozialformen sowie Grundlagen gender- und
+    diversitätsbewusster Didaktik und können diese auf heterogene Lerngruppen
+    übertragen und anwenden. Sie sind in der Lage, komplexe Sachverhalte
+    verständlich und anschaulich zu vermitteln und können eigene Arbeitsprozesse
+    im Rahmen der Leitung von Lerngruppen effizient planen, organisieren und
+    gestalten. Sie können ihr eigenes Verhalten und Auftreten in der Lehrpraxis
+    kritisch bewerten, kennen die Phasen von Gruppenprozessen und können mit
+    typischen Konflikten und Störungen innerhalb einer Gruppe konstruktiv
+    umgehen.
+  content: |
+    Das Modul vermittelt in fachübergreifenden Gruppen lerntheoretische und
+    anwendungsbezogene Grundkenntnisse der Anleitung studentischer Lern- und
+    Arbeitsgruppen. Aspekte der Didaktik und Methodik inklusive genderund
+    diversitätsbewusster Didaktik werden exemplarisch vor dem Hintergrund
+    ausgewählter psychologisch-pädagogischer Modelle des Lehrens und Lernens
+    vorgestellt und in der Gruppe diskutiert. Dabei übernehmen die Studierenden
+    unter Anleitung kleinere Moderationsaufgaben und beraten sich kollegial. In
+    einem begleitenden Workbook und im Austausch mit anderen Teilnehmenden
+    reflektieren die Studierenden ihre eigene Rolle, ihre Art Wissen zu
+    vermitteln und Gruppen anzuleiten sowie Lernstoff zu strukturieren und
+    lerntypendifferenziert aufzubereiten. Einzelne Gelingensaspekte der
+    adressatenorientierten studentisch angeleiteten Lehre werden unter dem
+    Gesichtspunkt fachspezifischer Anforderungen gemeinsam erarbeitet und
+    diskutiert. Unterschiedliche Lern- und Arbeitstechniken, die das
+    selbstgesteuerte Lernen fördern, werden in praktischen Übungen verfestigt.
+    Anhand von Beispielen werden Methoden zum Umgang mit typischen (auch
+    herausfordernden) Kommunikations- und Konfliktsituationen gesammelt. Bei der
+    Vermittlung der Inhalte wird Wert daraufgelegt, unterschiedliche
+    Sozialformen und Gruppendynamiken im Blick zu haben und immer auch auf der
+    Metaebene zu besprechen und zu analysieren.
+  teachingunit:
+    - type: Projektseminar
+      swstime: '2'
+      attendance: recommended
+      activity: |
+        Beteiligung an Diskussionen, Moderationen, Präsentationen von Planungen und Arbeitsfortschritten sowie Einzelund Gruppenarbeiten, Planung einer Lerneinheit unter Berücksichtigung fachspezifischer Anforderungen
+  workload:
+    - type: Selbststudium
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 120
+  exam: |
+    Keine
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: |
+    Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Kommunikative
+    Kompetenzen)
+  differentiated: true
 - page: 76
   name: Zentrale soziale Kategorien im 21. Jahrhundert
   organizer: Freie Universität Berlin/Zentraleinrichtung zur Förderung von Frauen-
@@ -5137,6 +5309,70 @@
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Kommunikative
     Kompetenzen)
   differentiated: true
+- page: 6
+  name: Gruppenleitung in Lehr-Lern-Kontexten
+  organizer: Freie Universität Berlin/ Career Service Berlin
+  responsible: Career Service
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden sind in der Lage, studentische Lerngruppen (z. B. in
+    Mentorien oder Tutorien) anzuleiten. Sie verfügen über Grundlagenkenntnisse
+    zu ausgewählten psychologisch-pädagogischen Modellen des Lehrens und Lernens
+    und können diese in die Gestaltung eigener Lehr-Lern-Kontexte einbringen, um
+    eine positive Lernumgebung zu schaffen. Sie kennen aktivierende Methoden für
+    die unterschiedlichen Sozialformen sowie Grundlagen gender- und
+    diversitätsbewusster Didaktik und können diese auf heterogene Lerngruppen
+    übertragen und anwenden. Sie sind in der Lage, komplexe Sachverhalte
+    verständlich und anschaulich zu vermitteln und können eigene Arbeitsprozesse
+    im Rahmen der Leitung von Lerngruppen effizient planen, organisieren und
+    gestalten. Sie können ihr eigenes Verhalten und Auftreten in der Lehrpraxis
+    kritisch bewerten, kennen die Phasen von Gruppenprozessen und können mit
+    typischen Konflikten und Störungen innerhalb einer Gruppe konstruktiv
+    umgehen.
+  content: |
+    Das Modul vermittelt in fachübergreifenden Gruppen lerntheoretische und
+    anwendungsbezogene Grundkenntnisse der Anleitung studentischer Lern- und
+    Arbeitsgruppen. Aspekte der Didaktik und Methodik inklusive genderund
+    diversitätsbewusster Didaktik werden exemplarisch vor dem Hintergrund
+    ausgewählter psychologisch-pädagogischer Modelle des Lehrens und Lernens
+    vorgestellt und in der Gruppe diskutiert. Dabei übernehmen die Studierenden
+    unter Anleitung kleinere Moderationsaufgaben und beraten sich kollegial. In
+    einem begleitenden Workbook und im Austausch mit anderen Teilnehmenden
+    reflektieren die Studierenden ihre eigene Rolle, ihre Art Wissen zu
+    vermitteln und Gruppen anzuleiten sowie Lernstoff zu strukturieren und
+    lerntypendifferenziert aufzubereiten. Einzelne Gelingensaspekte der
+    adressatenorientierten studentisch angeleiteten Lehre werden unter dem
+    Gesichtspunkt fachspezifischer Anforderungen gemeinsam erarbeitet und
+    diskutiert. Unterschiedliche Lern- und Arbeitstechniken, die das
+    selbstgesteuerte Lernen fördern, werden in praktischen Übungen verfestigt.
+    Anhand von Beispielen werden Methoden zum Umgang mit typischen (auch
+    herausfordernden) Kommunikations- und Konfliktsituationen gesammelt. Bei der
+    Vermittlung der Inhalte wird Wert daraufgelegt, unterschiedliche
+    Sozialformen und Gruppendynamiken im Blick zu haben und immer auch auf der
+    Metaebene zu besprechen und zu analysieren.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Beteiligung an Diskussionen, Moderationen, Präsentationen von Planungen und Arbeitsfortschritten sowie Einzelund Gruppenarbeiten, Planung einer Lerneinheit unter Berücksichtigung fachspezifischer Anforderungen
+  workload:
+    - type: Selbststudium
+      time: 30
+    - type: Vor- und Nachbereitung
+      time: 120
+  exam: |
+    Keine
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: |
+    Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Kommunikative
+    Kompetenzen)
+  differentiated: true
 - page: 92
   name: Nachhaltigkeit managen
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -5563,6 +5799,112 @@
   repeat: Einmal im Jahr
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
+    Forschungsorientierung)
+  differentiated: true
+- page: 7
+  name: Forschungsarbeit A
+  organizer: Freie Universität Berlin/
+  responsible: Projektbetreuung
+  requirements: |
+    Keine
+  goals: |
+    Studierende können das wissenschaftliche Vorgehen zu einem Teilaspekt eines
+    Forschungsprojekts konzipieren, und in einem interdisziplinär
+    zusammengesetzten Team durchführen. Sie sind in der Lage, zielgerichtet zu
+    arbeiten und sammeln erste Forschungserfahrungen. Sie kennen grundlegende
+    Methoden der beteiligten Wissenschaftsgebiete und haben Einblicke in
+    Fragestellung und Lösungsansätze des Projekts. Studierende beschreiben ein
+    dem verfügbaren Workload angemessenes Projektziel und können die Ergebnisse
+    zusammenfassend dokumentieren.
+  content: |
+    Das Modul vermittelt Methoden für eine genaue inhaltliche und
+    organisatorische Projektplanung. Es bietet projektbezogene und für das
+    Arbeitsgebiet geeignete Formate, Ergebnisse zu reflektieren und in einem
+    interdisziplinären Kontext zu präsentieren.
+  teachingunit:
+    - type: Integrative Veranstaltung
+      swstime: 1
+      attendance: required
+      activity: |
+        Gruppenarbeit, Tutorielle Beratungen, Blended Learning
+        Mitgestaltung der Durchführung von Forschungsarbeiten, Arbeitsgespräche mit Betreuung und im Projektteam, Reflexion der Ergebnisse, Erarbeitung wissenschaftlicher Beitrag
+    - type: Praxisprojekt
+      htime: 100
+      attendance: required
+      activity: |
+        Gruppenarbeit, Tutorielle Beratungen, Blended Learning
+        Mitgestaltung der Durchführung von Forschungsarbeiten, Arbeitsgespräche mit Betreuung und im Projektteam, Reflexion der Ergebnisse, Erarbeitung wissenschaftlicher Beitrag
+  workload:
+    - type: Präsenzzeit InV
+      time: 15
+    - type: Vor- und Nachbereitung InV
+      time: 35
+    - type: Präsenzzeit PrP
+      time: 100
+  exam: |
+    Keine
+  language: Deutsch; ggf. Englisch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Semester
+  usability: |
+    Bachelorstudiengang Studienbereich ABV (Kompetenzbereich
+    Forschungsorientierung)
+  differentiated: true
+- page: 8
+  name: Forschungsarbeit B
+  organizer: Freie Universität Berlin/
+  responsible: Projektbetreuung
+  requirements: |
+    Keine
+  goals: |
+    Studierende können ein Forschungsprojekt zu einem vorgegebenen Thema
+    konzipieren, planen, durchführen und
+
+    - einschließlich der Präsentation der Ergebnisse in
+    - erfolgreich abschließen. Sie sind in der Lage, in interdisziplinär
+      zusammengesetzten Teams zu arbeiten und sammeln erste
+      Forschungserfahrungen. Sie kennen grundlegende Methoden der beteiligten
+      Wissenschaftsgebiete und könne ein für das Projekt geeignetes methodisches
+      Konzept entwickeln. Studierende beschreiben ein dem verfügbaren Workload
+      angemessenes Projektziel und können dieses auch erreichen.
+  content: |
+    Das Modul vermittelt Methoden für eine genaue inhaltliche und
+    organisatorische Projektplanung sowie durchführung. Es bietet
+    projektbezogene und für das Arbeitsgebiet geeignete Formate, Ergebnisse zu
+    reflektieren und in einem interdisziplinären Kontext zu präsentieren.
+  teachingunit:
+    - type: Integrative Veranstaltung
+      swstime: 1
+      attendance: required
+      activity: |
+        Projektplanung, Gruppenarbeit, Tutorielle Beratungen, Blended Learning
+        Planung und Durchführung einer kleineren Forschungsarbeit, Arbeitsgespräche mit Betreuung und im Projektteam, Reflexion der Ergebnisse, Erarbeitung wissenschaftlicher Beitrag
+    - type: Praxisprojekt
+      htime: 230
+      attendance: required
+      activity: |
+        Projektplanung, Gruppenarbeit, Tutorielle Beratungen, Blended Learning
+        Planung und Durchführung einer kleineren Forschungsarbeit, Arbeitsgespräche mit Betreuung und im Projektteam, Reflexion der Ergebnisse, Erarbeitung wissenschaftlicher Beitrag
+  workload:
+    - type: Präsenzzeit InV
+      time: 15
+    - type: Vor- und Nachbereitung InV
+      time: 55
+    - type: Präsenzzeit PrP
+      time: 230
+  exam: |
+    Keine
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein bis zwei Semester
+  repeat: Jedes Semester
+  usability: |
+    Artikel II Diese Ordnung tritt am Tage nach ihrer Veröffentlichung in den
+    FU-Mitteilungen (Amtsblatt der Freien Universität Berlin) in Kraft.
+    Verwendbarkeit: Bachelorstudiengang Studienbereich ABV (Kompetenzbereich
     Forschungsorientierung)
   differentiated: true
 - page: 9

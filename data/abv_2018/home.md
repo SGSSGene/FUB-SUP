@@ -4,7 +4,8 @@ Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung der
 Allgeimenen Berufsvorbereitung der Bachelor-Studiengänge der FU-Berlin. Das
 Original ist hier zu finden:
 [StO/PO SoSe 2018](https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2018/ab322018.pdf).
-Außerdem wurden die Änderungen der [1. Änderungsordnung 2019](https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2002/ab272002.pdf) eingearbeitet.
+Außerdem wurden die Änderungen der [1. Änderungsordnung 2019](https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2019/ab202019.pdf)
+    und [2. Änderungsordnung 2021](https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2021/ab022021.pdf#G2150584) eingearbeitet.
 
 # Modifikation
 
