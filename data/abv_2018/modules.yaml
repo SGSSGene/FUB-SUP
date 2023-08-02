@@ -1153,8 +1153,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
+    Klausur (90 Minuten)
   language: Französisch
   total_work: 150
   credit_points: 5
@@ -1216,7 +1215,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
     Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Französisch
   total_work: 150
@@ -1617,8 +1615,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
+    Klausur (90 Minuten)
   language: Italienisch
   total_work: 150
   credit_points: 5
@@ -1745,7 +1742,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
     Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Italienisch
   total_work: 150
@@ -1762,37 +1758,39 @@
   requirements: |
     Keine
   goals: |
-    Beherrschung der Grundfertigkeiten auf der Niveaustufe B 1 GER
+    Beherrschung der Grundfertigkeiten auf der Niveaustufe A2 GER
 
-    1. __Lesen__: Die Studentinnen und Studenten können Zeitungstexte und
-       unkomplizierte Sachtexte zu Themen des eigenen Fach- und
-       Interessengebiets verstehen. Sie können die Bedeutung unbekannter Wörter
-       aus dem Kontext erschließen.
-    2. __Hören__: Die Studentinnen und Studenten können Alltagssituationen
-       bewältigen, vorausgesetzt es wird deutlich und langsam gesprochen. Sie
-       können die Hauptpunkte einer einfachen Präsentation zu einem vertrauten
-       Thema verstehen.
-    3. __Sprechen__: Die Studentinnen und Studenten können relativ flüssig
-       zusammenhängende Beschreibungen oder Berichte zu weniger komplexen Themen
-       aus ihren Interessen- oder Fachgebieten geben. Sie können eine
-       Argumentation gut genug ausführen, um die meiste Zeit ohne Schwierigkeit
-       verstanden zu werden.
-    4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, mit
-       einfachen Mitteln Alltagssituationen zu beschreiben, über ein vertrautes
-       Thema oder ein Erlebnis zu berichten, persönliche Briefe zu schreiben.
-       Sie können in einer Vorlesung eine Liste der zentralen Punkte machen,
-       sofern das Thema vertraut ist.
-    5. __Strategien__: Die Studentinnen und Studenten können
-       Kommunikationsstrategien sowie Lese- und Hörverständnisstrategien
-       anwenden. Sie können spezifische kulturell geprägte Elemente der
-       Kommunikation erkennen.
+    1. __Lesen__: Die Studentinnen und Studenten können kurze, einfache Texte
+       verstehen, die einen gewissen Anteil international bekannter Wörter
+       enthalten. Sie können aus einfachen schriftlichen Materialien spezifische
+       Informationen heraussuchen. Sie sind imstande, kurze einfache Texte zu
+       verstehen, sofern sie sich auf konkrete und bekannte Situationen
+       beziehen. Darüber hinaus können sie Texten, die bildgestützt sind, die
+       Hauptinformatioen entnehmen.
+    2. __Hören__: Die Studentinnen und Studenten können kurze beschreibende
+       Texte zu vertrauten Themen verstehen, vorausgesetzt, es wird langsam und
+       deutlich in Standardsprache gesprochen.
+    3. __Sprechen__: Die Studentinnen und Studenten sind in der Lage, ihren
+       täglichen Tagesablauf zu schildern, über ihre beruflichen und
+       Freizeitinteressen zu berichten, ihre Gesprächspartner nach diesen Themen
+       zu befragen und auf solche Fragen kurz zu reagieren.
+    4. __Schreiben__: Die Studentinnen und Studenten sind imstande, kurze
+       Notizen und Mitteilungen zu verfassen, persönliche Dankes- und
+       Entschuldigungsschreiben zu formulieren, einen tabellarischen Lebenslauf
+       zu schreiben und Pläne und Vereinbarungen schriftlich festzuhalten.
+    5. __Strategien__: Die Studentinnen und Studenten entwickeln folgende
+       Strategien weiter: Kooperationsstrategien, globale und lokale
+       Verständnisstrategien (verbaler und nicht verbaler Kommunikation),
+       allgemeine Lesestrategien. Sie können Sprachstrukturen anhand bereits
+       erworbener Kenntnisse anderer Fremdsprachen erkennen; außerdem können sie
+       verschiedene Textstrukturen erfassen. Sie nehmen eine erste
+       Selbstkorrektur ihrer Texte vor.
   content: |
-
-    - Aufbau des Grundwortschatzes
-    - Aufbau der Basisgrammatik
+    - Elemente des Grundwortschatzes
+    - Elemente der Basisgrammatik
+    - Elemente der Textgrammatik
     - Hör- und Leseverständnisübungen
-    - Entwicklung der Sprechfertigkeit für die Ausführung kommunikativer
-      Grundfunktionen
+    - Entwicklung der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen
     - Arbeit mit verschiedenen Textsorten
     - Arbeit mit Wörterbüchern
   teachingunit:
@@ -1835,37 +1833,39 @@
     Grundkenntnisse des Niederländischen (Einstufungstest der ZE Sprachenzentrum
     oder gleichwertiger Nachweis)
   goals: |
-    Beherrschung der Grundfertigkeiten auf der Niveaustufe B 1 GER
+    Beherrschung der Grundfertigkeiten auf der Niveaustufe A2 GER
 
-    1. __Lesen__: Die Studentinnen und Studenten können Zeitungstexte und
-       unkomplizierte Sachtexte zu Themen des eigenen Fach- und
-       Interessengebiets verstehen. Sie können die Bedeutung unbekannter Wörter
-       aus dem Kontext erschließen.
-    2. __Hören__: Die Studentinnen und Studenten können Alltagssituationen
-       bewältigen, vorausgesetzt es wird deutlich und langsam gesprochen. Sie
-       können die Hauptpunkte einer einfachen Präsentation zu einem vertrauten
-       Thema verstehen.
-    3. __Sprechen__: Die Studentinnen und Studenten können relativ flüssig
-       zusammenhängende Beschreibungen oder Berichte zu weniger komplexen Themen
-       aus ihren Interessen- oder Fachgebieten geben. Sie können eine
-       Argumentation gut genug ausführen, um die meiste Zeit ohne Schwierigkeit
-       verstanden zu werden.
-    4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, mit
-       einfachen Mitteln Alltagssituationen zu beschreiben, über ein vertrautes
-       Thema oder ein Erlebnis zu berichten, persönliche Briefe zu schreiben.
-       Sie können in einer Vorlesung eine Liste der zentralen Punkte machen,
-       sofern das Thema vertraut ist.
-    5. __Strategien__: Die Studentinnen und Studenten können
-       Kommunikationsstrategien sowie Lese- und Hörverständnisstrategien
-       anwenden. Sie können spezifische kulturell geprägte Elemente der
-       Kommunikation erkennen.
+    1. __Lesen__: Die Studentinnen und Studenten können kurze, einfache Texte
+       verstehen, die einen gewissen Anteil international bekannter Wörter
+       enthalten. Sie können aus einfachen schriftlichen Materialien spezifische
+       Informationen heraussuchen. Sie sind imstande, kurze einfache Texte zu
+       verstehen, sofern sie sich auf konkrete und bekannte Situationen
+       beziehen. Darüber hinaus können sie Texten, die bildgestützt sind, die
+       Hauptinformationen entnehmen.
+    2. __Hören__: Die Studentinnen und Studenten können kurze beschreibende
+       Texte zu vertrauten Themen verstehen, vorausgesetzt, es wird langsam und
+       deutlich in Standardsprache gesprochen.
+    3. __Sprechen__: Die Studentinnen und Studenten sind in der Lage, ihren
+       täglichen Tagesablauf zu schildern, über ihre beruflichen und
+       Freizeitinteressen zu berichten, ihre Gesprächspartner nach diesen Themen
+       zu befragen und auf solche Fragen kurz zu reagieren.
+    4. __Schreiben__: Die Studentinnen und Studenten sind imstande, kurze
+       Notizen und Mitteilungen zu verfassen, persönliche Dankes- und
+       Entschuldigungsschreiben zu formulieren, einen tabellarischen Lebenslauf
+       zu schreiben und Pläne und Vereinbarungen schriftlich festzuhalten.
+    5. __Strategien__: Die Studentinnen und Studenten entwickeln folgende
+       Strategien weiter: Kooperationsstrategien, globale und lokale
+       Verständnisstrategien (verbaler und nicht verbaler Kommunikation),
+       allgemeine Lesestrategien. Sie können Sprachstrukturen anhand bereits
+       erworbener Kenntnisse anderer Fremdsprachen erkennen; außerdem können sie
+       verschiedene Textstrukturen erfassen. Sie nehmen eine erste
+       Selbstkorrektur ihrer Texte vor.
   content: |
-
-    - Vervollständigung des Grundwortschatzes
-    - Vervollständigung der Basisgrammatik
+    - Elemente des Grundwortschatzes
+    - Elemente der Basisgrammatik
+    - Elemente der Textgrammatik
     - Hör- und Leseverständnisübungen
-    - Weiterentwicklung der Sprechfertigkeit für die Ausführung kommunikativer
-      Grundfunktionen
+    - Entwicklung der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen
     - Arbeit mit verschiedenen Textsorten
     - Arbeit mit Wörterbüchern
   teachingunit:
@@ -1900,43 +1900,38 @@
     Erfolgreiche Absolvierung des Moduls „Niederländisch ABV Einstiegsmodul“ oder
     des Moduls „Niederländisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse
   goals: |
-    Beherrschung der Grundfertigkeiten auf der Niveaustufe B 2.1 GER
+    Beherrschung der Grundfertigkeiten auf der Niveaustufe B1 GER
 
-    1. __Lesen__: Die Studentinnen und Studenten können authentische, zum Teil
-       auch längere Texte in ihrer Hauptaussage, Argumentation und
-       Schlussfolgerung verstehen und Details nach wiederholtem Lesen entnehmen.
-       Sie können Informationen aus verschiedenen Texten oder Textteilen
-       zusammentragen, um eine bestimmte Aufgabe zu lösen.
-    2. __Hören__: Die Studentinnen und Studenten können bei längeren Gesprächen
-       zu Themen des eigenen Interessengebiets oder Fachs den Hauptpunkten
-       folgen und Einzelinformationen verstehen. Sie sind auch in der Lage, die
-       Hauptaussagen eines Vortrags zu verstehen, wenn in deutlich artikulierter
-       Standardsprache gesprochen wird.
-    3. __Sprechen__: Die Studentinnen und Studenten sind in der Lage, bei
-       Gesprächen und Diskussionen über vertraute Themen den eigenen Standpunkt
-       zu äußern und kurz zu den Standpunkten anderer Stellung nehmen. Sie sind
-       weiterhin imstande, eine unkomplizierte Präsentation zu einem vertrauten
-       Thema so klar vorzutragen, dass man ihr meist mühelos folgen kann.
-    4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, Texte
-       zusammenzufassen, Informationen und Argumentationen aus verschiedenen
-       Quellen zusammenzuführen, ihren Standpunkt zu einem Sachverhalt zu
-       erklären und Vor- und Nachteile verschiedener Optionen zu erläutern.
-    5. __Strategien__: Die Studentinnen und Studenten können Hilfsmittel gezielt
-       einsetzen und im mündlichen und schriftlichen Bereich Selbstkorrekturen
-       vornehmen. Sie können unbekannte Wörter aus dem Kontext sicher erschlie-
-       ßen, Lesestil und -tempo an Leseabsichten und Texte anpassen. Sie können
-       geeignete Strategien einsetzen, um das Hörverstehen zu überprüfen. Sie
-       können spezifische kulturell geprägte Elemente der Kommunikation
-       anwenden.
+    1. __Lesen__: Die Studentinnen und Studenten können Zeitungstexte und
+       unkomplizierte Sachtexte zu Themen des eigenen Fach- und
+       Interessengebiets verstehen. Sie können die Bedeutung unbekannter Wörter
+       aus dem Kontext erschließen.
+    2. __Hören__: Die Studentinnen und Studenten können Alltagssituationen
+       bewältigen, vorausgesetzt es wird deutlich und langsam gesprochen. Sie
+       können die Hauptpunkte einer einfachen Präsentation zu einem vertrauten
+       Thema verstehen.
+    3. __Sprechen__: Die Studentinnen und Studenten können relativ flüssig
+       zusammenhängende Beschreibungen oder Berichte zu weniger komplexen Themen
+       aus ihren Interessen- oder Fachgebieten geben. Sie können eine
+       Argumentation gut genug ausführen, um die meiste Zeit ohne Schwierigkeit
+       verstanden zu werden.
+    4. __Schreiben__: Die Studentinnen und Studenten sind in der Lage, mit
+       einfachen Mitteln Alltagssituationen zu beschreiben, über ein vertrautes
+       Thema oder ein Erlebnis zu berichten, persönliche Briefe zu schreiben.
+       Sie können in einer Vorlesung eine Liste der zentralen Punkte machen,
+       sofern das Thema vertraut ist.
+    5. __Strategien__: Die Studentinnen und Studenten können
+       Kommunikationsstrategien sowie Lese- und Hörverständnisstrategien
+       anwenden. Sie können spezifische kulturell geprägte Elemente der
+       Kommunikation erkennen.
   content: |
-
-    - Konsolidierung und Ausbau des Wortschatzes
-    - Konsolidierung und Ausbau der Grammatik
-    - Entwicklung von Hör- und Leseverständnisstrategien
-    - Entwicklung der Sprechfertigkeit für die Teilnahme an Gesprächen und das
-      zusammenhängende Sprechen
-    - Entwicklung des schriftlichen Ausdrucks
-    - Anleitung zur Selbstkorrektur und zum effektiven Arbeiten mit Hilfsmitteln
+    - Ausbau des Grundwortschatzes
+    - Vervollständigung der Basisgrammatik
+    - Ausbau der Textgrammatik
+    - Hör- und Leseverständnisübungen
+    - Weiterentwicklung der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen
+    - Arbeit mit verschiedenen Textsorten
+    - Arbeit mit Wörterbüchern
   teachingunit:
     - type: Sprachpraktische Übung
       swstime: 4
@@ -2533,8 +2528,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
+    Klausur (90 Minuten)
   language: Portugiesisch
   total_work: 150
   credit_points: 5
@@ -2596,7 +2590,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
     Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Portugiesisch
   total_work: 150
@@ -3369,8 +3362,7 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (3 bis 4 Seiten) sowie
-    Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
+    Klausur (90 Minuten)
   language: Spanisch
   total_work: 150
   credit_points: 5
@@ -3432,7 +3424,6 @@
     - type: Prüfungsvorbereitung und Prüfung
       time: 30
   exam: |
-    Klausur (90 Minuten) oder schriftliche Ausarbeitung (4 bis 6 Seiten) sowie
     Präsentation (ca. 20 Minuten) oder mündliche Prüfung (ca. 20 Minuten)
   language: Spanisch
   total_work: 150
@@ -3632,40 +3623,37 @@
 - page: 66
   name: Türkisch ABV Grundmodul 3
   organizer: Freie Universität Berlin/Zentraleinrichtung (ZE) Sprachenzentrum
-  responsible: beauftragte Türkischlehrkraft an der ZE Sprachenzentrum
+  responsible: Beauftragte Türkischlehrkraft an der ZE Sprachenzentrum
   requirements: |
     Erfolgreicher Abschluss des Moduls „Türkisch ABV Einstiegsmodul“ oder des Moduls
     „Türkisch ABV Grundmodul 2“ oder gleichwertige Kenntnisse
   goals: |
     Die Studentinnen und Studenten beherrschen die schriftlichen
-    Grundfertigkeiten auf der Niveaustufe A 2.1 GER und die mündlichen
-    Grundfertigkeiten auf der Niveaustufe A 2.2 GER
+    Grundfertigkeiten auf der Niveaustufe A2.2 GER und die mündlichen
+    Grundfertigkeiten auf der Niveaustufe A2.1 GER
 
-    1. __Lesen__: Sie können einfache Texte mittlerer Länge zu vertrauten Themen
-       mit Anleitung verstehen sowie in einfachen Alltagstexten konkrete
-       Informationen herausarbeiten. Sie können die Bedeutung einzelner
-       unbekannter Wörter aus dem Kontext erschließen.
-    2. __Hören__: Siekönnen zu ihnen vertrauten Themen mit Anleitung komplexere
-       Hörtexte auch im Detail verstehen, wenn langsam und deutlich gesprochen
-       wird.
+    1. __Lesen__: Sie können Texte mittlerer Länge zu vertrauten Themen
+       verstehen sowie in einfachen Alltagstexten ko Informationen
+       herausarbeiten. Sie können die Bedeutung einzelner unbekannter Wörter aus
+       dem Kontext erschließen.
+    2. __Hören__: Sie können zu ihnen vertrauten Themen komplexere Hörtexte auch
+       im Detail verstehen, wenn langsam und deutlich gesprochen wird.
     3. __Sprechen__: Sie können die Handlung einer Geschichte in einer einfachen
        Form erzählen, einfache Erklärungen abgeben sowie Gewohnheiten und
        Alltagsbeschäftigungen beschreiben.
-    4. __Schreiben__: Sie können zu ihnen vertrauten Themen einfachere Texte
-       nach Modelltexten anfertigen. Mit Hilfe vertrauter Strukturen und
-       vertrautem Wortschatz können sie in Ansätzen ihre eigenen Ideen
-       ausdrücken.
+    4. __Schreiben__: Sie können zu ihnen vertrauten Themen Texte mittlerer
+       Länge anfertigen und Gehörtes oder Gelesenes schriftlich zusammenfassen.
+       Mithilfe vertrauter Strukturen und vertrautem Wortschatz können sie in
+       Ansätzen ihre eigenen Ideen ausdrücken.
     5. __Interkulturelle Kompetenz__: Sie können für die interkulturelle
        Kommunikation in Ansätzen wichtige soziale und kulturelle Elemente
        berücksichtigen.
   content: |
-
     - Weitere Elemente der Textgrammatik
     - Anleitung zur Selbstkorrektur
     - Ausbau der Basisgrammatik
     - Ausbau des Grundwortschatzes
-    - Ausbau der Sprechfertigkeit für die Ausführung kommunikativer
-      Grundfunktionen
+    - Ausbau der Sprechfertigkeit für die Ausführung kommunikativer Grundfunktionen
     - Komplexere Hörverständnisübungen
   teachingunit:
     - type: Sprachpraktische Übung
@@ -3690,7 +3678,7 @@
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen) und
-    LBW (Kompetenzbereich Fremdsprache)
+    LBW-GS (Ergänzungsbereich)
   differentiated: false
 - page: 67
   name: Türkisch ABV Grundmodul 4
@@ -3763,11 +3751,12 @@
   requirements: |
     Erfolgreicher Abschluss des Moduls „Türkisch ABV Grundmodul 4“ oder gleichwertige Kenntnisse (z. B. nachzuweisen durch einen Sprachtest an der ZE Sprachenzentrum)
   goals: |
-    Die Studentinnen und Studenten beherrschen die Grundfertigkeiten der
-    türkischen Sprache auf der Niveaustufe B 1 GER
+    Die Studentinnen und Studenten beherrschen die schriftlichen
+    Grundfertigkeiten auf der Niveaustufe B1.2 GER und die mündlichen
+    Grundfertigkeiten auf der Niveaustufe B1.1 GER
 
     1. __Lesen__: Sie können Texte verschiedener Textgattungen mit
-       kulturhistorischem, politischem und sozialwissenschaftlichen Inhalt
+       kulturhistorischem, politischem und sozialwissenschaftlichem Inhalt
        größeren Umfangs sowie authentische Texte längeren Umfangs in ihrer
        Hauptaussage, Argumentation und Schlussfolgerung verstehen und Details
        nach wiederholtem Lesen entnehmen.
@@ -3776,9 +3765,9 @@
        Hauptaussagen und Einzelinformationen erkennen. Sie sind auch in der
        Lage, die Hauptaussagen eines Vortrags zu verstehen, wenn in deutlich
        artikulierter Standardsprache gesprochen wird.
-    3. __Sprechen__: Sie können zu einem ihnen vertrauten Thema sich relativ
+    3. __Sprechen__: Sie können sich zu einem ihnen vertrauten Thema relativ
        frei ausdrücken, vorausgesetzt die Gesprächspartnerin/der
-       Gesprächspartner spricht langsam und deutlich. Sie können unkomplizierte
+       Gesprächspartner spricht langsam und deutlich. Sie können unkomplizierte,
        aber zusammenhängende Beschreibungen abgeben sowie eine vorbereitete,
        unkomplizierte Präsentation zu einem vertrauten Thema vortragen.
     4. __Schreiben__: Sie können längere zusammenhängende Texte zu vertrauten
@@ -3786,18 +3775,14 @@
        Interesse schreiben und ihre eigene Meinung vertreten. Sie sind in der
        Lage, auch Texte zu kulturellen, wirtschaftlichen und politisch einfachen
        Themen zu verfassen.
-    5. __Interkulturelle Kompetenz__: Sie können die für die interkulturelle
-       Kommunikation wichtigsten sozialen und kulturellen Elemente bei ihrem
-       Spracherwerb bewusst miteinbeziehen.
+    5. __Interkulturelle Kompetenz__: Sie können die für die interkulturelle Ko
   content: |
-
     - Vertiefung der Textgrammatik
     - Ausbau der Selbstkorrektur
     - Ausbau und Vertiefung der Aufbaugrammatik
     - Verfestigung und Erweiterung der Sprachkenntnisse
     - Vertiefung der Lexik
-    - Erweiterung des Hör- und Leseverstehens sowie der mündlichen und
-      schriftlichen Ausdrucksfähigkeit
+    - Erweiterung des Hör- und Leseverstehens sowie der mündlichen und schriftlichen Ausdrucksfähigkeit
     - Weiterführende Übungen mit unterschiedlichen audiovisuellen Materialien
   teachingunit:
     - type: Sprachpraktische Übung
@@ -5580,6 +5565,65 @@
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
     Forschungsorientierung)
   differentiated: true
+- page: 9
+  name: Medienpraxis
+  organizer: Freie Universität Berlin/Philosophie und Geisteswissenschaften/Theaterwissenschaft/Tanz
+  responsible: Dozentinnen und Dozenten des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studentinnen und Studenten verfügen über Kenntnisse zu ausgewählten
+    Aspekten der Mediengestaltung, insbesondere unter dem Einfluss des von der
+    Internetentwicklung ausgelösten medialen Strukturwandels. Sie können sende-
+    bzw. publikationsfähige Medienprodukte und -formate in verschiedenen
+    analogen und digitalen Medien erstellen. Sie sind in der Lage, Themen zu
+    identifizieren, diese im Team zu entwickeln und zu recherchieren und für ein
+    ausgewähltes Medium oder Format angemessen aufzubereiten. Dabei entwickeln
+    die Studentinnen und Studenten ein adäquates Projektmanagement.
+  content: |
+    Das Studium gibt eine theoretisch-methodische Einführung in Massenmedien
+    sowie deren gattungsspezifische Besonderheiten und vermittelt
+    organisationsspezifische und operative Grundlagen integrierter Medienpraxis
+    und -produktion. Es werden die Planung, Umsetzung und Realisierung von
+    Online- und TV-Formaten und -Beiträgen für verschiedene Medienprojekte in
+    interdisziplinär zusammengesetzten Projektteams behandelt.
+  teachingunit:
+    - type: Projektseminar
+      swstime: 4
+      attendance: required
+      activity: |
+        Projektberatungen, Diskussion, Gruppenarbeit, mündliche oder
+        schriftliche Präsentation von Planungen, Arbeitsfortschritten und
+        Ergebnissen, Übungen
+    - type: Lernwerkstatt
+      swstime: 2
+      attendance: required
+      activity: |
+        Projektberatungen, Diskussion, Gruppenarbeit, mündliche oder
+        schriftliche Präsentation von Planungen, Arbeitsfortschritten und
+        Ergebnissen, Übungen
+  workload:
+    - type: Präsenzzeit ProjS
+      time: 60
+    - type: Vor- und Nachbereitung ProjS
+      time: 120
+    - type: Präsenzzeit LW
+      time: 30
+    - type: Vor- und Nachbereitung LW
+      time: 90
+  exam: |
+    Keine
+  language: Deutsch
+  total_work: 300
+  credit_points: 5
+  duration: Zwei Semester
+  repeat: Jedes Semester
+  usability: |
+    Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Medienpraxis:
+    Planung und realisierung von TV- und Online-Formaten)
+  differentiated: true
+  tags:
+    - Kompetenzbereich Medienpraxis: Planung und Realisierung von TV- und Online-Formaten
 - page: 101
   name: Berufsbezogenes Praktikum – A
   organizer: Freie Universität Berlin/Career Service
@@ -5638,6 +5682,8 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
   differentiated: true
+  tags:
+    - Berufspraktikum
 - page: 102
   name: Berufsbezogenes Praktikum – B
   organizer: Freie Universität Berlin/Career Service
@@ -5696,6 +5742,8 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
   differentiated: true
+  tags:
+    - Berufspraktikum
 - page: 103
   name: Berufsbezogenes Praktikum – C
   organizer: Freie Universität Berlin/Career Service
@@ -5754,6 +5802,8 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
   differentiated: true
+  tags:
+    - Berufspraktikum
 - page: 104
   name: Auslandspraktikum – A
   organizer: Freie Universität Berlin/Career Service
@@ -5813,6 +5863,8 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
   differentiated: true
+  tags:
+    - Berufspraktikum
 - page: 105
   name: Auslandspraktikum – B
   organizer: Freie Universität Berlin/Career Service
@@ -5873,6 +5925,8 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
   differentiated: true
+  tags:
+    - Berufspraktikum
 - page: 106
   name: Auslandspraktikum – C
   organizer: Freie Universität Berlin/Career Service
@@ -5934,3 +5988,5 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
   differentiated: true
+  tags:
+    - Berufspraktikum

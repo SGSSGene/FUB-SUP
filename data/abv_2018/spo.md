@@ -111,7 +111,16 @@ erlassen: \[^1\]
     wissenschaftlich erworbenen Fähigkeiten und Fertigkeiten sowie
     berufspraktischen Erfahrungen zu verknüpfen und bei der Bearbeitung
     komplexer Problemstellungen ergebnisorientiert anzuwenden.
-10. Am Ende eines Berufspraktikums haben die Studentinnen und Studenten einen
+10. Im Kompetenzbereich Medienpraxis: Planung und Realisierung von TV- und
+    Online-Formaten verfügen Studentinnen und Studenten über Kenntnisse zu
+    Aspekten der Mediengestaltung, insbesondere unter dem Einfluss des von der
+    Internetentwicklung ausgelösten medialen Strukturwandels. Sie können sende-
+    bzw. publikationsfähige Medienprodukte und -formate in verschiedenen
+    analogen und digitalen Medien erstellen. Sie sind in der Lage, Themen zu
+    identifizieren, diese im Team zu entwickeln und zu recherchieren und für ein
+    ausgewähltes Medium oder Format angemessen aufzubereiten. Dabei entwickeln
+    die Studentinnen und Studenten ein adäquates Projektmanagement.
+11. Am Ende eines Berufspraktikums haben die Studentinnen und Studenten einen
     ersten Einblick in die betrieblichen Abläufe einer Organisation oder eines
     Unternehmens erhalten. Sie wissen, welche überfachlichen Kenntnisse,
     Fähigkeiten und Fertigkeiten für den Einstieg in den Beruf relevant sind.
@@ -196,6 +205,14 @@ erlassen: \[^1\]
       berufsrelevante Kenntnisse, Fähigkeiten und Fertigkeiten zur Vorbereitung
       auf eine qualifizierte Beschäftigung und anwendungsorientierte
       wissenschaftliche Weiterentwicklung in der eigenen Fachrichtung.
+   9. Der Kompetenzbereich Medienpraxis: Planung und Realisierung von TV- und
+      Online-Formaten gibt eine theoretisch-methodische Einführung in
+      Massenmedien sowie deren gattungsspezifische Besonderheiten und vermittelt
+      organisationsspezifische und operative Grundlagen integrierter
+      Medienpraxis und -produktion. Es werden die Planung, Umsetzung und
+      Realisierung von Online- und TV-Formaten und -Beiträgen für verschiedene
+      Medienprojekte in interdisziplinär zusammengesetzten Projektteams
+      behandelt.
 
 2. Während des Berufspraktikums werden praktische Erfahrungen aus der
    Arbeitswelt gesammelt, die für die Findung und Ausübung
@@ -238,7 +255,8 @@ werden, eingesetzt ist.
    5. Kommunikative Kompetenzen
    6. Nachhaltige Entwicklung
    7. Forschungsorientierung
-   8. Fachnahe Zusatzqualifikationen.
+   8. Fachnahe Zusatzqualifikationen
+   9. Medienpraxis: Planung und Realisierung von TV- und Online-Formaten
 
 2. Die Module des Studienbereichs ABV weisen eine durch 5 teilbare
    Leistungspunktzahl auf. Je Kompetenzbereich dürfen Module im Umfang von
@@ -289,61 +307,70 @@ werden, eingesetzt ist.
 
 1. Im Rahmen des Lehrangebots werden folgende Lehr- und Lernformen angeboten:
 
-   1. Vorlesungen (V) vermitteln Kenntnisse über ein spezielles Stoffgebiet und
-      dienen der Darstellung allgemeiner Zusammenhänge, theoretischer Grundlagen
-      und praxisrelevanter Fragestellungen. Die vorrangige Lehrform ist der
-      Vortrag der jeweiligen Lehrkraft, welcher gegebenenfalls auch
-      Übungselemente enthalten kann
-   2. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
-      Stoffgebietes und der Vertiefung von Fähigkeiten, eine Fragestellung
-      selbstständig und/oder im Team zu bearbeiten, die Ergebnisse in
-      unterschiedlichen Medien darzustellen und kritisch zu diskutieren. Neben
-      klassischen Präsenzveranstaltungen bestehen die vorrangigen Arbeitsformen
-      während der Onlinephasen in der Bearbeitung von internetgestützten
-      Kursmaterialien (z. B. e-Lectures, webbased Trainings oder Fallstudien)
-      sowie der zumeist teamorientierten, kollaborativen Erstellung und
-      Diskussion von Arbeitsergebnissen mit Hilfe ebenfalls internetgestützter
-      Anwendungssysteme (z. B. Foren, Chats, Wiki, Blogs oder Videokonferenzen).
-   3. Seminaristische Übungen (sÜ) dienen der Vermittlung von
-      anwendungsorientierten Kenntnissen eines abgegrenzten Stoffgebietes und
-      der Erweiterung praktischer Fähigkeiten, eine Aufgabe selbstständig oder
-      im Team zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
-      diskutieren. Lehrkräfte aus Wissenschaft und Praxis leiten die
-      Lernprozesse an und geben Regelmäßiges Feedback.
-   4. Seminar am PC (S-PC) dienen in der Präsenzzeit der Vermittlung von
-      Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
-      Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
-      Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
-      Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
-      Anwendung von Spezialsoftware.
-   5. Projektseminare (PrjS) dienen der Vermittlung von berufsrelevanten
-      Kenntnissen, Fähigkeiten und Erfahrungen in einem abgegrenzten
-      Anwendungsgebiet. Komplexe anwendungsorientierte Problemstellungen werden
-      exemplarisch bearbeitet und diskutiert. Die Lehr- und Lernformen bilden
-      eine Kombination aus Lehrvorträgen, Seminargesprächen, Übungen sowie
-      kleineren Arbeitsaufträgen und E-Learning-gestützten Aufgaben, die
-      selbstständig oder im Team bearbeitet werden. Es besteht eine intensive
-      Betreuung durch die anwesenden Lehrkräfte.
-   6. Sprachpraktische Übungen (spÜ) dienen der Vermittlung von
-      handlungsbezogenen kommunikativen Kompetenzen in modernen Fremdsprachen.
-      Sie erfordern eine aktive Teilnahme am Unterrichtsgespräch und enthalten
-      in Abhängigkeit vom jeweiligen Eingangsniveau der Studentinnen und
-      Studenten, den behandelten Textsorten und den Qualifikationszielen
-      vielfältige Formen der eigenständigen und kooperativen Spracharbeit, die
-      in kontinuierlicher Rückkopplung mit der Lehrkraft innerhalb und außerhalb
-      der Präsenzzeit erbracht werden.
-   7. Lehrforschungsprojekt (LFP) dient der Integration von theoretischem Wissen
-      und methodischer Expertise, um so erste eigene Forschungserfahrungen zu
-      erwerben. Es wird die Fähigkeit entwickelt, selbstständig empirische
-      Untersuchungen durchzuführen. Die vorrangige Lehrform ist eine intensive
-      Interaktion von Lehrenden mit Kleingruppen.
-   8. Im Praktikum (P) gewinnen die Studentinnen und Studenten unter Anleitung
-      Erfahrungen in der Anwendung der erworbenen fachwissenschaftlichen
-      Kenntnisse und Methoden und können ihre Eignung für bestimmte Berufsfelder
-      testen.
-   9. Kolloquien (Ko) dienen als Begleitveranstaltungen zu den Praktika dem
-      angeleiteten Austausch von berufsrelevanten Informationen und
-      Praxiserfahrungen in kontinuierlicher Interaktion mit der Lehrkraft.
+   01. Vorlesungen (V) vermitteln Kenntnisse über ein spezielles Stoffgebiet und
+       dienen der Darstellung allgemeiner Zusammenhänge, theoretischer
+       Grundlagen und praxisrelevanter Fragestellungen. Die vorrangige Lehrform
+       ist der Vortrag der jeweiligen Lehrkraft, welcher gegebenenfalls auch
+       Übungselemente enthalten kann
+   02. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
+       Stoffgebietes und der Vertiefung von Fähigkeiten, eine Fragestellung
+       selbstständig und/oder im Team zu bearbeiten, die Ergebnisse in
+       unterschiedlichen Medien darzustellen und kritisch zu diskutieren. Neben
+       klassischen Präsenzveranstaltungen bestehen die vorrangigen Arbeitsformen
+       während der Onlinephasen in der Bearbeitung von internetgestützten
+       Kursmaterialien (z. B. e-Lectures, webbased Trainings oder Fallstudien)
+       sowie der zumeist teamorientierten, kollaborativen Erstellung und
+       Diskussion von Arbeitsergebnissen mit Hilfe ebenfalls internetgestützter
+       Anwendungssysteme (z. B. Foren, Chats, Wiki, Blogs oder
+       Videokonferenzen).
+   03. Seminaristische Übungen (sÜ) dienen der Vermittlung von
+       anwendungsorientierten Kenntnissen eines abgegrenzten Stoffgebietes und
+       der Erweiterung praktischer Fähigkeiten, eine Aufgabe selbstständig oder
+       im Team zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
+       diskutieren. Lehrkräfte aus Wissenschaft und Praxis leiten die
+       Lernprozesse an und geben Regelmäßiges Feedback.
+   04. Seminar am PC (S-PC) dienen in der Präsenzzeit der Vermittlung von
+       Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
+       Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
+       Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
+       Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
+       Anwendung von Spezialsoftware.
+   05. Projektseminare (PrjS) dienen der Vermittlung von berufsrelevanten
+       Kenntnissen, Fähigkeiten und Erfahrungen in einem abgegrenzten
+       Anwendungsgebiet. Komplexe anwendungsorientierte Problemstellungen werden
+       exemplarisch bearbeitet und diskutiert. Die Lehr- und Lernformen bilden
+       eine Kombination aus Lehrvorträgen, Seminargesprächen, Übungen sowie
+       kleineren Arbeitsaufträgen und E-Learning-gestützten Aufgaben, die
+       selbstständig oder im Team bearbeitet werden. Es besteht eine intensive
+       Betreuung durch die anwesenden Lehrkräfte.
+   06. Sprachpraktische Übungen (spÜ) dienen der Vermittlung von
+       handlungsbezogenen kommunikativen Kompetenzen in modernen Fremdsprachen.
+       Sie erfordern eine aktive Teilnahme am Unterrichtsgespräch und enthalten
+       in Abhängigkeit vom jeweiligen Eingangsniveau der Studentinnen und
+       Studenten, den behandelten Textsorten und den Qualifikationszielen
+       vielfältige Formen der eigenständigen und kooperativen Spracharbeit, die
+       in kontinuierlicher Rückkopplung mit der Lehrkraft innerhalb und
+       außerhalb der Präsenzzeit erbracht werden.
+   07. Lehrforschungsprojekt (LFP) dient der Integration von theoretischem
+       Wissen und methodischer Expertise, um so erste eigene
+       Forschungserfahrungen zu erwerben. Es wird die Fähigkeit entwickelt,
+       selbstständig empirische Untersuchungen durchzuführen. Die vorrangige
+       Lehrform ist eine intensive Interaktion von Lehrenden mit Kleingruppen.
+   08. Im Praktikum (P) gewinnen die Studentinnen und Studenten unter Anleitung
+       Erfahrungen in der Anwendung der erworbenen fachwissenschaftlichen
+       Kenntnisse und Methoden und können ihre Eignung für bestimmte
+       Berufsfelder testen.
+   09. Kolloquien (Ko) dienen als Begleitveranstaltungen zu den Praktika dem
+       angeleiteten Austausch von berufsrelevanten Informationen und
+       Praxiserfahrungen in kontinuierlicher Interaktion mit der Lehrkraft.
+   10. Die Lernwerkstatt (LW) ist eine materialreiche Lernumgebung, in deren
+       Zentrum praktisches und eigenaktives Lernen sowie Lernen durch eigene
+       Erfahrungen steht. Die Lernwerkstatt kann in Form von Laboratorien,
+       Simulationseinrichtungen und Übungswerkstätten mit dem Ziel der Ver-
+       mittlung von Einsichten in ganzheitlich-komplexe Zusammenhänge gestaltet
+       sein. Die vorrangige Arbeitsform ist die Vermittlung berufspraktischer
+       oder forschungsmethodischer Kompetenzen und deren Anwendung an
+       vielfältigen Beispielen.
 
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
