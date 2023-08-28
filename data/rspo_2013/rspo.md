@@ -11,9 +11,9 @@ FU-Berlin von 2013. Das Original ist hier zu finden:
 Aufgrund von §9 Abs. 1 Nummer 4 Teilgrundordnung (Erprobungsmodell) der Freien
 Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Akademische Senat der Freien Universität Berlin am 13. Februar und 20. März 2013
-die folgende Rahmenstudien- und -prüfungsordnung (RSPO) erlassen: \[^1\]
+die folgende Rahmenstudien- und -prüfungsordnung (RSPO) erlassen: [^1]
 
-\[^1\]: Diese Ordnung istvom Präsidium der Freien Universität Berlin am 25. März
+[^1]: Diese Ordnung istvom Präsidium der Freien Universität Berlin am 25. März
 2013 und von der für Hochschulen zuständigen Senatsverwaltung am 2. und 17. Juli
 2013 bestätigt worden. Die Geltungsdauer der Ordnung ist bis zum 31. Mai 2014
 befristet.
@@ -41,22 +41,20 @@ befristet.
    Studienbestandteilen werden zwei fachübergreifende Studienbereiche angeboten,
    von denen ein Studienbereich in den jeweiligen Bachelorstudiengang integriert
    ist:
+    1. Studienbereich Allgemeine Berufsvorbereitung (ABV) und
+    2. Studienbereich Lehramtsbezogene Berufswissenschaft (LBW).
 
-   1. Studienbereich Allgemeine Berufsvorbereitung (ABV) und
-   2. Studienbereich Lehramtsbezogene Berufswissenschaft (LBW).
-
-   Für die Studienbereiche ABV und LBW sind Regelungen in gesonderten Studien-
-   und Prüfungsordnungen vorgesehen.
+    Für die Studienbereiche ABV und LBW sind Regelungen in gesonderten Studien-
+    und Prüfungsordnungen vorgesehen.
 
 2. Es werden für Bachelorstudiengänge folgende Studienstrukturmodelle
    unterschieden:
-
-   1. Das Studium in einem Kernfach, ggf. ergänzt um das Studium von Modulen aus
-      einem affinen Bereich bzw. aus affinen Bereichen sowie das Studium des
-      Studienbereichs ABV (Mono-Bachelor).
-   2. Das Studium in einem Kernfach und von Modulangeboten aus einem oder zwei
-      anderen fachlichen Bereichen sowie das Studium des Studienbereichs ABV
-      oder des Studienbereichs LBW (Kombi-Bachelor).
+    1. Das Studium in einem Kernfach, ggf. ergänzt um das Studium von Modulen aus
+       einem affinen Bereich bzw. aus affinen Bereichen sowie das Studium des
+       Studienbereichs ABV (Mono-Bachelor).
+    2. Das Studium in einem Kernfach und von Modulangeboten aus einem oder zwei
+       anderen fachlichen Bereichen sowie das Studium des Studienbereichs ABV
+       oder des Studienbereichs LBW (Kombi-Bachelor).
 
 3. Das Niveau der Qualifikationsziele der Studiengänge, Kernfächer,
    Modulangebote, Studienbereiche und Module wird nach den jeweils zu
@@ -313,21 +311,20 @@ befristet.
    Lehrveranstaltungen mehr als sechs Wochen nach Beginn der Vorlesungszeit, so
    können durch Beschluss des zuständigen Prüfungsausschusses von Abs. 2
    abweichende Termine festgelegt werden. Danach muss
+    - die Anmeldung spätestens am vorletzten Montag vor Beginn der
+      Lehrveranstaltung beginnen,
+    - die Zuteilung der Plätze spätestens am letzten Freitag vor dem ersten
+      Veranstaltungstermin ab 12 Uhr erfolgen,
+    - der Zeitraum zwischen dem Beginn der Anmeldefrist und der Zuteilung der
+      Plätze in Lehrveranstaltungen mit beschränkter Platzzahl mindestens vier
+      Tage betragen,
+    - die Anmeldefrist so rechtzeitig enden, dass die Präsenzquote gemäß § 9 Abs.
+      2 noch eingehalten werden kann, spätestens aber am dritten Freitag nach
+      Beginn der Lehrveranstaltung.
 
-   - die Anmeldung spätestens am vorletzten Montag vor Beginn der
-     Lehrveranstaltung beginnen,
-   - die Zuteilung der Plätze spätestens am letzten Freitag vor dem ersten
-     Veranstaltungstermin ab 12 Uhr erfolgen,
-   - der Zeitraum zwischen dem Beginn der Anmeldefrist und der Zuteilung der
-     Plätze in Lehrveranstaltungen mit beschränkter Platzzahl mindestens vier
-     Tage betragen,
-   - die Anmeldefrist so rechtzeitig enden, dass die Präsenzquote gemäß § 9 Abs.
-     2 noch eingehalten werden kann, spätestens aber am dritten Freitag nach
-     Beginn der Lehrveranstaltung.
-
-   Liegt ein Beschluss gemäß Satz 1 nicht spätestens vier Wochen vor Beginn des
-   jeweiligen Semesters vor, findet Abs. 2 Anwendung. Der Beschluss ist den
-   Studentinnen und Studenten in geeigneter Form bekannt zu geben.
+    Liegt ein Beschluss gemäß Satz 1 nicht spätestens vier Wochen vor Beginn des
+    jeweiligen Semesters vor, findet Abs. 2 Anwendung. Der Beschluss ist den
+    Studentinnen und Studenten in geeigneter Form bekannt zu geben.
 
 4. Beginn und Ende der Präsenzphasen von Lehrveranstaltungen müssen durch den
    zuständigen Prüfungsausschuss spätestens vier Wochen vor Beginn der
@@ -348,15 +345,14 @@ befristet.
    insbesondere für die Anmeldung zu Modulen, Prüfungsleistungen und
    Lehrveranstaltungen, ermöglicht. Dazu werden der ZEDAT von der
    Studierendenverwaltung folgende Daten übermittelt:
-
-   - Vor- und Familienname
-   - Geschlecht
-   - Matrikelnummer
-   - Anschrift
-   - Hörerinnen- oder Hörerstatus
-   - Geburtsdatum
-   - Geburtsort
-   - Geburtsname
+    - Vor- und Familienname
+    - Geschlecht
+    - Matrikelnummer
+    - Anschrift
+    - Hörerinnen- oder Hörerstatus
+    - Geburtsdatum
+    - Geburtsort
+    - Geburtsname
 
 ## § 9 Teilnahme an Lehrveranstaltungen
 
@@ -415,14 +411,14 @@ befristet.
    für im Wintersemester und bis zum 15. Dezember für im Sommersemester
    erbrachte Leistungen.
 6. Ein Leistungsnachweis muss enthalten:
-   - a) Inhalte und Qualifikationsziele des Moduls,
-   - b) Lehrveranstaltungsarten,
-   - c) Art und zeitlicher Umfang des Präsenzstudiums,
-   - d) Gegebenenfalls Voraussetzungen für den Zugang zum Modul,
-   - e) Arten der Prüfungsleistungen/nachgewiesene Leistungen,
-   - f) Zahl der vorgesehenen Leistungspunkte,
-   - g) Note und
-   - h) Datum der Leistungserbringung.
+    - a) Inhalte und Qualifikationsziele des Moduls,
+    - b) Lehrveranstaltungsarten,
+    - c) Art und zeitlicher Umfang des Präsenzstudiums,
+    - d) Gegebenenfalls Voraussetzungen für den Zugang zum Modul,
+    - e) Arten der Prüfungsleistungen/nachgewiesene Leistungen,
+    - f) Zahl der vorgesehenen Leistungspunkte,
+    - g) Note und
+    - h) Datum der Leistungserbringung.
 
 ## § 11 Leistungen bei Behinderungen, gesundheitlichen Beeinträchtigungen sowie bei familiären Belastungen
 
@@ -476,11 +472,11 @@ jeweiligen Prüfungsordnung geregelt.
 1. Studentinnen oder Studenten werden auf Antrag zur Abschlussarbeit in einem
    Bachelor- oder Masterstudiengang oder in einem sonstigen modularisierten
    Studiengang zugelassen, wenn
-   1. die in der jeweiligen Prüfungsordnung geregelten Zulassungsvoraussetzungen
-      erfüllt sind,
-   2. sie im entsprechenden Studiengang zuletzt an der Freien Universität Berlin
-      immatrikuliert gewesen sind und
-   3. der Studienabschluss nicht gemäß § 23 Abs. 1 Satz 2 ausgeschlossen ist.
+    1. die in der jeweiligen Prüfungsordnung geregelten Zulassungsvoraussetzungen
+       erfüllt sind,
+    2. sie im entsprechenden Studiengang zuletzt an der Freien Universität Berlin
+       immatrikuliert gewesen sind und
+    3. der Studienabschluss nicht gemäß § 23 Abs. 1 Satz 2 ausgeschlossen ist.
 2. Dem Antrag soll die Bescheinigung einer prüfungsberechtigten Lehrkraft über
    die Bereitschaft zur Übernahme der Betreuung der Arbeit gemäß Satz 1
    beigefügt werden. Über den Antrag entscheidet der zuständige
@@ -550,15 +546,14 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
 ## § 18 Benotung
 
 1. Für die Bewertung von Prüfungsleistungen sind folgende Noten zu verwenden:
-
-   - 1 = sehr gut - eine hervorragende Leistung
-   - 2 = gut - eine erheblich über dem Durchschnitt liegende Leistung
-   - 3 = befriedigend - eine Leistung, die in jeder Hinsicht durchschnittlichen
-     Anforderungen entspricht
-   - 4 = ausreichend - eine Leistung, die trotz ihrer Mängel den Anforderungen
-     noch entspricht
-   - 5 = nicht ausreichend - eine Leistung mit erheblichen Mängeln, die den
-     Anforderungen nicht entspricht.
+    - 1 = sehr gut - eine hervorragende Leistung
+    - 2 = gut - eine erheblich über dem Durchschnitt liegende Leistung
+    - 3 = befriedigend - eine Leistung, die in jeder Hinsicht durchschnittlichen
+      Anforderungen entspricht
+    - 4 = ausreichend - eine Leistung, die trotz ihrer Mängel den Anforderungen
+      noch entspricht
+    - 5 = nicht ausreichend - eine Leistung mit erheblichen Mängeln, die den
+      Anforderungen nicht entspricht.
 
 2. Zur differenzierten Bewertung der Leistungen können Zwischenwerte zwischen
    1,0 und 4,0 durch Senken oder Erhöhen der Notenziffern um 0,3 gebildet
@@ -598,18 +593,17 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.
 
 4. Die gemäß Abs. 3 gebildeten Noten lauten wie folgt:
+    - Bei einem Durchschnitt von 1,0 bis einschließlich 1,5 = sehr gut
+    - Bei einem Durchschnitt von über 1,5 bis einschließlich 2,5 = gut
+    - Bei einem Durchschnitt von über 2,5 bis einschließlich 3,5 = befriedigend
+    - Bei einem Durchschnitt von über 3,5 bis einschließlich 4,0 = ausreichend
+    - Bei einem Durchschnitt von über 4,0 = nicht ausreichend
 
-   - Bei einem Durchschnitt von 1,0 bis einschließlich 1,5 = sehr gut
-   - Bei einem Durchschnitt von über 1,5 bis einschließlich 2,5 = gut
-   - Bei einem Durchschnitt von über 2,5 bis einschließlich 3,5 = befriedigend
-   - Bei einem Durchschnitt von über 3,5 bis einschließlich 4,0 = ausreichend
-   - Bei einem Durchschnitt von über 4,0 = nicht ausreichend
-
-   Die gesamte Prüfung ist bestanden, wenn alle Leistungen gemäß den Ordnungen
-   für den jeweiligen Studiengang erbracht und alle mit Noten gemäß den Absätzen
-   1 und 2 zu beurteilenden Leistungen mindestens mit der Note „ausreichend“
-   (4,0) beurteilt sowie alle nicht differenziert zu bewertenden Leistungen mit
-   „bestanden“ bewertet worden sind.
+    Die gesamte Prüfung ist bestanden, wenn alle Leistungen gemäß den Ordnungen
+    für den jeweiligen Studiengang erbracht und alle mit Noten gemäß den Absätzen
+    1 und 2 zu beurteilenden Leistungen mindestens mit der Note „ausreichend“
+    (4,0) beurteilt sowie alle nicht differenziert zu bewertenden Leistungen mit
+    „bestanden“ bewertet worden sind.
 
 5. Der Prüfungsausschuss legt die Fristen fest, innerhalb derer
    Prüfungsleistungen durch die jeweiligen Prüferinnen oder Prüfer zu bewerten
@@ -757,27 +751,27 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
 ## § 23 Studienabschluss
 
 1. Voraussetzung für den Studienabschluss ist, dass
-   1. die nach Maßgabe der jeweiligen Studien- und Prüfungsordnung geforderten
-      Leistungen von der Studentin oder dem Studenten nachgewiesen sind,
+    1. die nach Maßgabe der jeweiligen Studien- und Prüfungsordnung geforderten
+       Leistungen von der Studentin oder dem Studenten nachgewiesen sind,
+    2. die Abschlussarbeit in einem Bachelor- oder Masterstudiengang oder in
+       einem sonstigen modularisierten Studiengang an der Freien Universität
+       Berlin erbracht worden ist und
+    3. die Versicherung der Studentin oder des Studenten vorliegt, dass kein Fall
+       gemäß Satz 2 gegeben ist.
 
-   2. die Abschlussarbeit in einem Bachelor- oder Masterstudiengang oder in
-      einem sonstigen modularisierten Studiengang an der Freien Universität
-      Berlin erbracht worden ist und
-
-   3. die Versicherung der Studentin oder des Studenten vorliegt, dass kein Fall
-      gemäß Satz 2 gegeben ist. Der Studienabschluss ist ausgeschlossen, soweit
-      die Studentin oder der Student an einer anderen Hochschule im gleichen
-      Studiengang, im gleichen Fach oder in einem Modul, welches mit einem der
-      im jeweiligen Studiengang absolvierten Module identisch oder vergleichbar
-      und für die Ermittlung der Gesamtnote zu berücksichtigen ist, Leistungen
-      endgültig nicht erbracht oder Prüfungsleistungen endgültig nicht bestanden
-      hat oder sich in einem schwebenden Prüfungsverfahren befindet. In
-      Abweichung von Satz 1 Nummer 2 in Verbindung mit § 7 Abs. 3 Satz 2 kann in
-      der jeweiligen Prüfungsordnung geregelt werden, dass die Arbeit gemäß Satz
-      1 Nummer 2 als Voraussetzung für den Studienabschluss außerhalb der Freien
-      Universität Berlin erbracht werden darf. Die Entscheidung über die
-      Erfüllung der Voraussetzungen gemäß Satz 1 Nummern 1 bis 3 trifft der
-      zuständige Prüfungsausschuss.
+     Der Studienabschluss ist ausgeschlossen, soweit
+     die Studentin oder der Student an einer anderen Hochschule im gleichen
+     Studiengang, im gleichen Fach oder in einem Modul, welches mit einem der
+     im jeweiligen Studiengang absolvierten Module identisch oder vergleichbar
+     und für die Ermittlung der Gesamtnote zu berücksichtigen ist, Leistungen
+     endgültig nicht erbracht oder Prüfungsleistungen endgültig nicht bestanden
+     hat oder sich in einem schwebenden Prüfungsverfahren befindet. In
+     Abweichung von Satz 1 Nummer 2 in Verbindung mit § 7 Abs. 3 Satz 2 kann in
+     der jeweiligen Prüfungsordnung geregelt werden, dass die Arbeit gemäß Satz
+     1 Nummer 2 als Voraussetzung für den Studienabschluss außerhalb der Freien
+     Universität Berlin erbracht werden darf. Die Entscheidung über die
+     Erfüllung der Voraussetzungen gemäß Satz 1 Nummern 1 bis 3 trifft der
+     zuständige Prüfungsausschuss.
 2. Aufgrund der bestandenen Prüfung erhalten die Studentinnen und Studenten ein
    Zeugnis, eine Urkunde sowie ein Diploma Supplement (englische und deutsche
    Version). Darüber hinaus wird eine Zeugnisergänzung mit Angaben zu den
