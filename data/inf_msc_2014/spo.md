@@ -134,7 +134,7 @@ Die Regelstudienzeit beträgt vier Semester.
          - Modul: [Computergrafik](modules/Computergrafik.md) (10 LP),
          - Modul: [Computer-Vision](modules/Computer-Vision.md) (5 LP),
          - Modul: [Datenbanktechnologie](modules/Datenbanktechnologie.md) (5 LP),
-         - Modul: [Empirische Bewertung in der Informatik](modules/Empirische      Bewertung in der Informatik.md) (5 LP),
+         - Modul: [Empirische Bewertung in der Informatik](modules/Empirische Bewertung in der Informatik.md) (5 LP),
          - Modul: [Existenzgründung in der IT-Industrie](modules/Existenzgründung in der IT-Industrie.md) (5 LP),
          - Modul: [Grundlagen des Softwaretestens](modules/Grundlagen des Softwaretestens.md) (5 LP),
          - Modul: [Grundlagen des Managements von IT-Projekten](modules/Grundlagen des Managements von IT-Projekten.md) (5 LP),
