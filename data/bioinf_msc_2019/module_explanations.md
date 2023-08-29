@@ -4,30 +4,18 @@
 andere Ordnungen verwiesen wird, für jedes Modul des Masterstudiengangs
 
 - die Bezeichnung des Moduls,
-
 - die Verantwortliche oder den Verantwortlichen des Moduls,
-
 - die Voraussetzungen für den Zugang zum jeweiligen Modul,
-
 - Inhalte und Qualifikationsziele des Moduls,
-
 - Lehr- und Lernformen des Moduls,
-
 - den studentischen Arbeitsaufwand, der für die erfolgreiche Absolvierung eines
   Moduls veranschlagt wird,
-
 - Formen der aktiven Teilnahme,
-
 - die Prüfungsformen,
-
 - die Pflicht zu regelmäßiger Teilnahme,
-
 - die den Modulen zugeordneten Leistungspunkte,
-
 - die Regeldauer des Moduls,
-
 - die Häufigkeit des Angebots,
-
 - die Verwendbarkeit des Moduls.
 
 Die Angaben zum zeitlichen Arbeitsaufwand berücksichtigen insbesondere

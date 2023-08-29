@@ -23,7 +23,7 @@ include "scripts/helperScript";
        "Qualifikationsziele:",
        "Inhalte:",
        "Präsenzstudium",
-       "Modulprüfung:",
+#       "Modulprüfung:",
        "Modulsprache:",
        "Pflicht zu regelmäßiger Teilnahme:",
        "Arbeitszeitaufwand insgesamt:",
@@ -37,8 +37,9 @@ include "scripts/helperScript";
     | [.[] | .[].text
            | textcleanup
       ]
+#    | $tu
     | .
-    | (.[9] | sub(".*?: "; "")) as $attendance
+    | (.[8] | sub(".*?: "; "")) as $attendance
     | {
         page: $number,
         name: (.[0] | removeTitle),
@@ -49,13 +50,14 @@ include "scripts/helperScript";
         content: (.[5] | removeTitle | textcleanup | gsub("\n"; " ") | gsub(" [-–] "; "\n- ")),
         teachingunit: $tu.col2,
         workload: $tu.col4,
-        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
-        language: (.[8] | removeTitle),
-        total_work: (.[10] | removeTitle | split(" ")[0] | tonumber),
-        credit_points: (.[10] | removeTitle | split(" ")[-2] | tonumber),
-        duration: (.[11] | removeTitle),
-        repeat: (.[12] | removeTitle),
-        usability: (.[13] | removeTitle),
+        exam: "!TODO",
+#        exam: (.[7] | removeTitle | textcleanup | gsub("\n"; " ") | gsub("- (?<c>[a-zäöü])"; "\(.c)")),
+        language: (.[7] | removeTitle),
+        total_work: (.[9] | removeTitle | split(" ")[0] | tonumber),
+        credit_points: (.[9] | removeTitle | split(" ")[-2] | tonumber),
+        duration: (.[10] | removeTitle),
+        repeat: (.[11] | removeTitle),
+        usability: (.[12] | removeTitle),
         differentiated: "unknown !TODO"
     }
     | .teachingunit[] |= extractAttendance($attendance)

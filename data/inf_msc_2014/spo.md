@@ -7,9 +7,9 @@ Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 16. Juli 2014 folgende Studien- und Prüfungsordnung für
 den Masterstudiengang Informatik des Fachbereichs Mathematik und Informatik der
-Freien Universität Berlin erlassen: \[^1\]
+Freien Universität Berlin erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 12.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 12.
 August 2014 bestätigt worden.
 
 ## Anlagen
@@ -123,166 +123,92 @@ Die Regelstudienzeit beträgt vier Semester.
 
 01. Im Masterstudiengang sind insgesamt Leistungen im Umfang von 120
     Leistungspunkten (LP) nachzuweisen. Der Masterstudiengang gliedert sich in:
-
-    1. den Bereich Informatik im Umfang von 70 LP,
-    2. den Anwendungsbereich im Umfang von 10 LP,
-    3. den Wahlbereich im Umfang von 10 LP und
-    4. die Masterarbeit mit Präsentation der Ergebnisse im Umfang von 30 LP.
-
+     1. den Bereich Informatik im Umfang von 70 LP,
+     2. den Anwendungsbereich im Umfang von 10 LP,
+     3. den Wahlbereich im Umfang von 10 LP und
+     4. die Masterarbeit mit Präsentation der Ergebnisse im Umfang von 30 LP.
 02. Der Bereich Informatik gliedert sich fachlich in die folgenden drei
     Studiengebiete mit den dazugehörigen Modulen:
-
-    1. Praktische Informatik im Umfang von 20 bis 50 LP, mit den Modulen:
-
-       - Modul: [Bildverarbeitung](modules/Bildverarbeitung.md) (5 LP),
-       - Modul: [Computergrafik](modules/Computergrafik.md) (10 LP),
-       - Modul: [Computer-Vision](modules/Computer-Vision.md) (5 LP),
-       - Modul: [Datenbanktechnologie](modules/Datenbanktechnologie.md) (5 LP),
-       - Modul: \[Empirische Bewertung in der Informatik\](modules/Empirische
-         Bewertung in der Informatik.md) (5 LP),
-       - Modul: \[Existenzgründung in der
-         IT-Industrie\](modules/Existenzgründung in der IT-Industrie.md) (5 LP),
-       - Modul: \[Grundlagen des Softwaretestens\](modules/Grundlagen des
-         Softwaretestens.md) (5 LP),
-       - Modul: \[Grundlagen des Managements von
-         IT-Projekten\](modules/Grundlagen des Managements von IT-Projekten.md)
-         (5 LP),
-       - Modul: \[Künstliche Intelligenz\](modules/Künstliche Intelligenz.md) (5
-         LP),
-       - Modul: \[Medizinische Bildverarbeitung\](modules/Medizinische
-         Bildverarbeitung.md) (5 LP),
-       - Modul: \[Modellgetriebene
-         Softwareentwicklung\](modules/Modellgetriebene Softwareentwicklung.md)
-         (5 LP),
-       - Modul: [Mustererkennung](modules/Mustererkennung.md) (5 LP),
-       - Modul: \[Netzbasierte Informationssysteme\](modules/Netzbasierte
-         Informationssysteme.md) (5 LP),
-       - Modul: [Projektmanagement](modules/Projektmanagement.md) (5 LP),
-       - Modul: \[Projektmanagement - Vertiefung\](modules/Projektmanagement –
-         Vertiefung.md) (5 LP),
-       - Modul: [Rechnersicherheit](modules/Rechnersicherheit.md) (10 LP),
-       - Modul: \[Semantisches Geschäftsprozessmanagement\](modules/Semantisches
-         Geschäftsprozessmanagement.md) (5 LP),
-       - Modul: [Softwareprozesse](modules/Softwareprozesse.md) (5 LP),
-       - Modul: [Übersetzerbau](modules/%C3%9Cbersetzerbau.md) (10 LP),
-       - Modul: \[Verteilte Systeme\](modules/Verteilte Systeme.md) (5 LP),
-       - Modul: [XML-Technologien](modules/XML-Technologien.md) (5 LP),
-       - Modul: \[Praktiken professioneller
-         Softwareentwicklung\](modules/Praktiken professioneller
-         Softwareentwicklung.md) (5 LP),
-       - Modul: \[Softwareprojekt - Praktische Informatik
-         A\](modules/Softwareprojekt – Praktische Informatik A.md) (10 LP),
-       - Modul: \[Softwareprojekt - Praktische Informatik
-         B\](modules/Softwareprojekt – Praktische Informatik B.md) (10 LP),
-       - Modul: \[Wissenschaftliches Arbeiten Praktische Informatik
-         A\](modules/Wissenschaftliches Arbeiten Praktische Informatik A.md) (5
-         LP),
-       - Modul: \[Wissenschaftliches Arbeiten Praktische Informatik
-         B\](modules/Wissenschaftliches Arbeiten Praktische Informatik B.md) (5
-         LP),
-       - Modul: \[Aktuelle Forschungsthemen der Praktischen
-         Informatik\](modules/Aktuelle Forschungsthemen der Praktischen
-         Informatik.md) (5 LP),
-       - Modul: \[Spezielle Aspekte der Praktischen
-         Informatik\](modules/Spezielle Aspekte der Praktischen Informatik.md)
-         (5 LP),
-       - Modul: \[Spezielle Aspekte der Datenverwaltung\](modules/Spezielle
-         Aspekte der Datenverwaltung.md) (5 LP),
-       - Modul: \[Spezielle Aspekte der Softwareentwicklung\](modules/Spezielle
-         Aspekte der Softwareentwicklung.md) (5 LP) und
-       - Modul: \[Ausgewählte Themen der Praktischen
-         Informatik\](modules/Ausgewählte Themen der Praktischen Informatik.md)
-         (10 LP).
-
-    2. Theoretische Informatik im Umfang von 10 bis 40 LP, mit den Modulen:
-
-       - Modul: \[Höhere Algorithmik\](modules/Höhere Algorithmik.md) (10 LP),
-       - Modul: [Modelchecking](modules/Modelchecking.md) (10 LP),
-       - Modul: \[Aktuelle Forschungsthemen der Theoretischen
-         Informatik\](modules/Aktuelle Forschungsthemen der Theoretischen
-         Informatik.md) (5 LP),
-       - Modul: \[Algorithmische Geometrie\](modules/Algorithmische
-         Geometrie.md) (10 LP),
-       - Modul: \[Ausgewählte Themen der Theoretischen
-         Informatik\](modules/Ausgewählte Themen der Theoretischen
-         Informatik.md) (10 LP),
-       - Modul: \[Fortgeschrittene Themen der Theoretischen
-         Informatik\](modules/Fortgeschrittene Themen der Theoretischen
-         Informatik.md) (10 LP),
-       - Modul: \[Spezielle Aspekte der Theoretischen
-         Informatik\](modules/Spezielle Aspekte der Theoretischen Informatik.md)
-         (5 LP),
-       - Modul: \[Kryptographie und Sicherheit in Verteilten
-         Systemen\](modules/Kryptographie und Sicherheit in Verteilten
-         Systemen.md) (10 LP),
-       - Modul: \[Semantik von Programmiersprachen\](modules/Semantik von
-         Programmiersprachen.md) (5 LP),
-       - Modul: \[Softwareprojekt - Theoretische Informatik
-         A\](modules/Softwareprojekt – Theoretische Informatik A.md) (10 LP),
-       - Modul: \[Softwareprojekt - Theoretische Informatik
-         B\](modules/Softwareprojekt – Theoretische Informatik B.md) (10 LP),
-       - Modul: \[Wissenschaftliches Arbeiten Theoretische Informatik
-         A\](modules/Wissenschaftliches Arbeiten Theoretische Informatik A.md)
-         (5 LP) und
-       - Modul: \[Wissenschaftliches Arbeiten Theoretische Informatik
-         B\](modules/Wissenschaftliches Arbeiten Theoretische Informatik B.md)
-         (5 LP).
-
-    3. Technische Informatik im Umfang von 10 bis 40 LP, mit den Modulen:
-
-       - Modul: [Betriebssysteme](modules/Betriebssysteme.md) (10 LP),
-       - Modul: [Mikroprozessor-Praktikum](modules/Mikroprozessor-Praktikum.md)
-         (10 LP),
-       - Modul: [Mobilkommunikation](modules/Mobilkommunikation.md) (5 LP),
-       - Modul: [Robotik](modules/Robotik.md) (5 LP),
-       - Modul: [Telematik](modules/Telematik.md) (10 LP),
-       - Modul: \[Softwareprojekt - Technische Informatik
-         A\](modules/Softwareprojekt – Technische Informatik A.md) (10 LP),
-       - Modul: \[Softwareprojekt - Technische Informatik
-         B\](modules/Softwareprojekt – Technische Informatik B.md) (10 LP),
-       - Modul: \[Wissenschaftliches Arbeiten Technische Informatik
-         A\](modules/Wissenschaftliches Arbeiten Technische Informatik A.md) (5
-         LP),
-       - Modul: \[Wissenschaftliches Arbeiten Technische Informatik
-         B\](modules/Wissenschaftliches Arbeiten Technische Informatik B.md) (5
-         LP),
-       - Modul: \[Aktuelle Forschungsthemen der Technischen
-         Informatik\](modules/Aktuelle Forschungsthemen der Technischen
-         Informatik.md) (5 LP),
-       - Modul: \[Spezielle Aspekte der Technischen
-         Informatik\](modules/Spezielle Aspekte der Technischen Informatik.md)
-         (5 LP) und
-       - Modul: \[Ausgewählte Themen der Technischen
-         Informatik\](modules/Ausgewählte Themen der Technischen Informatik.md)
-         (10 LP).
-
+     1. Praktische Informatik im Umfang von 20 bis 50 LP, mit den Modulen:
+         - Modul: [Bildverarbeitung](modules/Bildverarbeitung.md) (5 LP),
+         - Modul: [Computergrafik](modules/Computergrafik.md) (10 LP),
+         - Modul: [Computer-Vision](modules/Computer-Vision.md) (5 LP),
+         - Modul: [Datenbanktechnologie](modules/Datenbanktechnologie.md) (5 LP),
+         - Modul: [Empirische Bewertung in der Informatik](modules/Empirische      Bewertung in der Informatik.md) (5 LP),
+         - Modul: [Existenzgründung in der IT-Industrie](modules/Existenzgründung in der IT-Industrie.md) (5 LP),
+         - Modul: [Grundlagen des Softwaretestens](modules/Grundlagen des Softwaretestens.md) (5 LP),
+         - Modul: [Grundlagen des Managements von IT-Projekten](modules/Grundlagen des Managements von IT-Projekten.md) (5 LP),
+         - Modul: [Künstliche Intelligenz](modules/Künstliche Intelligenz.md) (5 LP),
+         - Modul: [Medizinische Bildverarbeitung](modules/Medizinische Bildverarbeitung.md) (5 LP),
+         - Modul: [Modellgetriebene Softwareentwicklung](modules/Modellgetriebene Softwareentwicklung.md) (5 LP),
+         - Modul: [Mustererkennung](modules/Mustererkennung.md) (5 LP),
+         - Modul: [Netzbasierte Informationssysteme](modules/Netzbasierte Informationssysteme.md) (5 LP),
+         - Modul: [Projektmanagement](modules/Projektmanagement.md) (5 LP),
+         - Modul: [Projektmanagement - Vertiefung](modules/Projektmanagement – Vertiefung.md) (5 LP),
+         - Modul: [Rechnersicherheit](modules/Rechnersicherheit.md) (10 LP),
+         - Modul: [Semantisches Geschäftsprozessmanagement](modules/Semantisches Geschäftsprozessmanagement.md) (5 LP),
+         - Modul: [Softwareprozesse](modules/Softwareprozesse.md) (5 LP),
+         - Modul: [Übersetzerbau](modules/%C3%9Cbersetzerbau.md) (10 LP),
+         - Modul: [Verteilte Systeme](modules/Verteilte Systeme.md) (5 LP),
+         - Modul: [XML-Technologien](modules/XML-Technologien.md) (5 LP),
+         - Modul: [Praktiken professioneller Softwareentwicklung](modules/Praktiken professioneller Softwareentwicklung.md) (5 LP),
+         - Modul: [Softwareprojekt - Praktische Informatik A](modules/Softwareprojekt – Praktische Informatik A.md) (10 LP),
+         - Modul: [Softwareprojekt - Praktische Informatik B](modules/Softwareprojekt – Praktische Informatik B.md) (10 LP),
+         - Modul: [Wissenschaftliches Arbeiten Praktische Informatik A](modules/Wissenschaftliches Arbeiten Praktische Informatik A.md) (5 LP),
+         - Modul: [Wissenschaftliches Arbeiten Praktische Informatik B](modules/Wissenschaftliches Arbeiten Praktische Informatik B.md) (5 LP),
+         - Modul: [Aktuelle Forschungsthemen der Praktischen Informatik](modules/Aktuelle Forschungsthemen der Praktischen Informatik.md) (5 LP),
+         - Modul: [Spezielle Aspekte der Praktischen Informatik](modules/Spezielle Aspekte der Praktischen Informatik.md) (5 LP),
+         - Modul: [Spezielle Aspekte der Datenverwaltung](modules/Spezielle Aspekte der Datenverwaltung.md) (5 LP),
+         - Modul: [Spezielle Aspekte der Softwareentwicklung](modules/Spezielle Aspekte der Softwareentwicklung.md) (5 LP) und
+         - Modul: [Ausgewählte Themen der Praktischen Informatik](modules/Ausgewählte Themen der Praktischen Informatik.md) (10 LP).
+     2. Theoretische Informatik im Umfang von 10 bis 40 LP, mit den Modulen:
+         - Modul: [Höhere Algorithmik](modules/Höhere Algorithmik.md) (10 LP),
+         - Modul: [Modelchecking](modules/Modelchecking.md) (10 LP),
+         - Modul: [Aktuelle Forschungsthemen der Theoretischen Informatik](modules/Aktuelle Forschungsthemen der Theoretischen Informatik.md) (5 LP),
+         - Modul: [Algorithmische Geometrie](modules/Algorithmische Geometrie.md) (10 LP),
+         - Modul: [Ausgewählte Themen der Theoretischen Informatik](modules/Ausgewählte Themen der Theoretischen Informatik.md) (10 LP),
+         - Modul: [Fortgeschrittene Themen der Theoretischen Informatik](modules/Fortgeschrittene Themen der Theoretischen Informatik.md) (10 LP),
+         - Modul: [Spezielle Aspekte der Theoretischen Informatik](modules/Spezielle Aspekte der Theoretischen Informatik.md) (5 LP),
+         - Modul: [Kryptographie und Sicherheit in Verteilten Systemen](modules/Kryptographie und Sicherheit in Verteilten Systemen.md) (10 LP),
+         - Modul: [Semantik von Programmiersprachen](modules/Semantik von Programmiersprachen.md) (5 LP),
+         - Modul: [Softwareprojekt - Theoretische Informatik A](modules/Softwareprojekt – Theoretische Informatik A.md) (10 LP),
+         - Modul: [Softwareprojekt - Theoretische Informatik B](modules/Softwareprojekt – Theoretische Informatik B.md) (10 LP),
+         - Modul: [Wissenschaftliches Arbeiten Theoretische Informatik A](modules/Wissenschaftliches Arbeiten Theoretische Informatik A.md) (5 LP) und
+         - Modul: [Wissenschaftliches Arbeiten Theoretische Informatik B](modules/Wissenschaftliches Arbeiten Theoretische Informatik B.md) (5 LP).
+     3. Technische Informatik im Umfang von 10 bis 40 LP, mit den Modulen:
+         - Modul: [Betriebssysteme](modules/Betriebssysteme.md) (10 LP),
+         - Modul: [Mikroprozessor-Praktikum](modules/Mikroprozessor-Praktikum.md) (10 LP),
+         - Modul: [Mobilkommunikation](modules/Mobilkommunikation.md) (5 LP),
+         - Modul: [Robotik](modules/Robotik.md) (5 LP),
+         - Modul: [Telematik](modules/Telematik.md) (10 LP),
+         - Modul: [Softwareprojekt - Technische Informatik A](modules/Softwareprojekt – Technische Informatik A.md) (10 LP),
+         - Modul: [Softwareprojekt - Technische Informatik B](modules/Softwareprojekt – Technische Informatik B.md) (10 LP),
+         - Modul: [Wissenschaftliches Arbeiten Technische Informatik A](modules/Wissenschaftliches Arbeiten Technische Informatik A.md) (5 LP),
+         - Modul: [Wissenschaftliches Arbeiten Technische Informatik B](modules/Wissenschaftliches Arbeiten Technische Informatik B.md) (5 LP),
+         - Modul: [Aktuelle Forschungsthemen der Technischen Informatik](modules/Aktuelle Forschungsthemen der Technischen Informatik.md) (5 LP),
+         - Modul: [Spezielle Aspekte der Technischen Informatik](modules/Spezielle Aspekte der Technischen Informatik.md) (5 LP) und
+         - Modul: [Ausgewählte Themen der Technischen Informatik](modules/Ausgewählte Themen der Technischen Informatik.md) (10 LP).
 03. Im Studiengebiet Praktische Informatik sind Module im Umfang von mindestens
     20 LP zu wählen und zu absolvieren, in den Studiengebieten Theoretische
     Informatik und Technische Informatik sind Module im Umfang von je mindestens
     10 LP zu wählen und zu absolvieren.
-
 04. Eines der drei Studiengebiete ist zu vertiefen. In diesem Studiengebiet sind
     zusätzlich Module im Umfang von 20 LP zu wählen und zu absolvieren. Weitere
     10 LP sind frei aus den drei Studiengebieten zu wählen und zu absolvieren.
-
 05. Es sind zwei bis vier Module aus den sechs in den Studiengebieten
     angebotenen Modulen „Wissenschaftliches Arbeiten“ zu wählen und zu
     absolvieren. Dabei muss mindestens eines der gemäß Satz 1 zu wählenden
     Module aus dem gemäß Abs. 4 vertieften Studiengebiet kommen.
-
 06. Es sind ein oder zwei Module aus den sechs in den Studiengebieten
     angebotenen Modulen „Softwareprojekt“ zu wählen und zu absolvieren.
-
 07. Im Anwendungsbereich sind Module im Umfang von 10 LP zu wählen und zu
     absolvieren. Für den Anwendungsbereich kommen alle Module der
     wissenschaftlichen Studienfächer außerhalb der Informatik in Betracht.
     Besonders empfohlen wird die Absolvierung von Modulen aus den Studienfächern
     Mathematik, Bioinformatik, Physik, Philosophie, Psychologie oder Chemie.
-
 08. Im Wahlbereich sind Module aus der Informatik gemäß Abs. 2 oder anderen
     wissenschaftlichen Studienfächern gemäß Abs. 7 im Umfang von 10 LP zu wählen
     und zu absolvieren.
-
 09. Module aus einem Bachelorstudiengang können bis zu einem Umfang von 15 LP
     eingebracht werden. Module, die mit bereits im Bachelorstudiengang
     Informatik des Fachbereichs Mathematik und Informatik der Freien Universität
@@ -291,12 +217,10 @@ Die Regelstudienzeit beträgt vier Semester.
     werden, wenn das Modul „Grundlagen des Managements von IT-Projekten“ (5 LP)
     oder das Modul „Projektmanagement-Vertiefung“ (5 LP) gewählt oder
     eingebracht wird.
-
 10. Im Masterstudiengang sind insgesamt Module im Umfang von 60 bis 65 LP mit
     differenziert bewerteten Modulprüfungen und Module im Umfang von 25 bis 30
     LP mit nicht differenziert bewerteten Modulprüfungen oder ohne Modulprüfung
     zu wählen und zu absolvieren.
-
 11. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
     Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
     Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -311,60 +235,59 @@ Die Regelstudienzeit beträgt vier Semester.
     Anwendungsbereichs gemäß Abs. 7 und des Wahlbereichs gemäß Abs. 8 wird auf
     die jeweiligen Studien- und Prüfungsordnungen der entsprechenden
     Studiengänge der Freien Universität Berlin verwiesen.
-
 12. Über den empfohlenen Verlauf des Vollzeitstudiums unterrichtet der
     exemplarische Studienverlaufsplan in der Anlage 2.
 
 ## § 8 Lehr- und Lernformen
 
 1. Es sind folgende Lehr- und Lernformen vorgesehen:
-   1. In Vorlesungen (V) wird der Stoff der jeweiligen Veranstaltung von der
-      Lehrkraft vorgetragen und erläutert und von den Studentinnen und Studenten
-      durch regelmäßige Vor- und Nachbereitung vertieft.
-   2. Übungen (Ü) finden begleitend zur Vorlesung in Gruppen statt und werden in
-      der Regel von wissenschaftlichen Mitarbeitern unter der Leitung der
-      Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
-      erscheinen in regelmäßigen Abständen Aufgabenblätter, die von den
-      Studentinnen und Studenten selbstständig in freier Hausarbeit oder in
-      selbstorganisierten Kleingruppen zu lösen oder zumindest zu bearbeiten
-      sind. Die Lösungen oder Lösungsansätze werden in den Übungsgruppen
-      vorgetragen und diskutiert. Zweck der Übungsgruppen ist sowohl die
-      Vertiefung des Vorlesungsstoffes als auch das Einüben der zu erlernenden
-      Methoden und Techniken.
-   3. Praktika (P) dienen dem Erwerb von Fähigkeiten, die Problemlösungsmethodik
-      der Informatik anhand mehrerer praktischer Aufgaben erfolgreich
-      einzusetzen. Das schließt die Problemspezifikation und die Zerlegung in
-      Teilprobleme ein. Lösungsvorschläge und Ergebnisse sind regelmäßig
-      vorzuführen, schriftlich auszuarbeiten und vorzutragen. Zweck der Praktika
-      ist der sichere Umgang mit dem erlernten Wissen.
-   4. Im Projektseminar (PrS) bereiten die Studentinnen und Studenten eine
-      umfangreichere Aufgabe auf und lösen sie mit Techniken und Methoden, die
-      in der Regel in einer begleitenden oder vorangegangenen Veranstaltung
-      erarbeitet wurden. Das schließt die formale Problemspezifikation, die
-      Zerlegung in Teilprobleme, die Festlegung von Schnittstellen sowie den
-      Einsatz von Projektmanagementmethoden ein. Die Studentinnen und Studenten
-      berichten in selbstorganisierten Gruppen regelmäßig über ihre
-      Fortschritte. Gut dokumentierte, lauffähige Programme und ein
-      zusammenfassender Projektbericht, aus dem die eigenen Leistungen
-      hervorgehen, sind zum Abschluss vorzulegen. Neben dem Erwerb von
-      Fähigkeiten zur selbstständigen Anwendung von erlernten Kenntnissen und
-      Problemlösungsmethoden der Informatik auf eine konkrete Aufgabe dient ein
-      Projektseminar auch der Vertiefung von kooperativen Arbeitstechniken, von
-      Gender- und Diversitätskompetenz.
-   5. In Hauptseminaren (HS) wird ein spezielles Thema von den Teilnehmerinnen
-      und Teilnehmern und der Dozentin oder dem Dozenten gemeinsam erarbeitet.
-      Dazu bereitet jede Studentin und jeder Student weitgehend selbstständig
-      ein Referat vor, das schriftlich ausgearbeitet und im Seminar vorgetragen
-      und diskutiert wird. Zweck eines Hauptseminars ist das Erlernen
-      selbstständiger wissenschaftlicher Arbeit sowie die Weiterentwicklung
-      kommunikativer Kompetenzen und rhetorischer Fähigkeiten.
-   6. Im seminaristischen Unterricht (sU) werden anwendungsorientierte
-      Kenntnisse eines abgegrenzten Stoffgebietes vermittelt; dabei wird eine
-      Aufgabe selbstständig bearbeitet und deren Ergebnisse werden von den
-      Studentinnen und Studenten dargestellt und kritisch gemeinsam diskutiert.
-   7. In einem Methodenkurs (MK) werden wissenschaftliche oder
-      ingenieurpraktische Arbeitsmethoden erlernt und an konkreten Beispielen
-      diskutiert und eingeübt.
+    1. In Vorlesungen (V) wird der Stoff der jeweiligen Veranstaltung von der
+       Lehrkraft vorgetragen und erläutert und von den Studentinnen und Studenten
+       durch regelmäßige Vor- und Nachbereitung vertieft.
+    2. Übungen (Ü) finden begleitend zur Vorlesung in Gruppen statt und werden in
+       der Regel von wissenschaftlichen Mitarbeitern unter der Leitung der
+       Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
+       erscheinen in regelmäßigen Abständen Aufgabenblätter, die von den
+       Studentinnen und Studenten selbstständig in freier Hausarbeit oder in
+       selbstorganisierten Kleingruppen zu lösen oder zumindest zu bearbeiten
+       sind. Die Lösungen oder Lösungsansätze werden in den Übungsgruppen
+       vorgetragen und diskutiert. Zweck der Übungsgruppen ist sowohl die
+       Vertiefung des Vorlesungsstoffes als auch das Einüben der zu erlernenden
+       Methoden und Techniken.
+    3. Praktika (P) dienen dem Erwerb von Fähigkeiten, die Problemlösungsmethodik
+       der Informatik anhand mehrerer praktischer Aufgaben erfolgreich
+       einzusetzen. Das schließt die Problemspezifikation und die Zerlegung in
+       Teilprobleme ein. Lösungsvorschläge und Ergebnisse sind regelmäßig
+       vorzuführen, schriftlich auszuarbeiten und vorzutragen. Zweck der Praktika
+       ist der sichere Umgang mit dem erlernten Wissen.
+    4. Im Projektseminar (PrS) bereiten die Studentinnen und Studenten eine
+       umfangreichere Aufgabe auf und lösen sie mit Techniken und Methoden, die
+       in der Regel in einer begleitenden oder vorangegangenen Veranstaltung
+       erarbeitet wurden. Das schließt die formale Problemspezifikation, die
+       Zerlegung in Teilprobleme, die Festlegung von Schnittstellen sowie den
+       Einsatz von Projektmanagementmethoden ein. Die Studentinnen und Studenten
+       berichten in selbstorganisierten Gruppen regelmäßig über ihre
+       Fortschritte. Gut dokumentierte, lauffähige Programme und ein
+       zusammenfassender Projektbericht, aus dem die eigenen Leistungen
+       hervorgehen, sind zum Abschluss vorzulegen. Neben dem Erwerb von
+       Fähigkeiten zur selbstständigen Anwendung von erlernten Kenntnissen und
+       Problemlösungsmethoden der Informatik auf eine konkrete Aufgabe dient ein
+       Projektseminar auch der Vertiefung von kooperativen Arbeitstechniken, von
+       Gender- und Diversitätskompetenz.
+    5. In Hauptseminaren (HS) wird ein spezielles Thema von den Teilnehmerinnen
+       und Teilnehmern und der Dozentin oder dem Dozenten gemeinsam erarbeitet.
+       Dazu bereitet jede Studentin und jeder Student weitgehend selbstständig
+       ein Referat vor, das schriftlich ausgearbeitet und im Seminar vorgetragen
+       und diskutiert wird. Zweck eines Hauptseminars ist das Erlernen
+       selbstständiger wissenschaftlicher Arbeit sowie die Weiterentwicklung
+       kommunikativer Kompetenzen und rhetorischer Fähigkeiten.
+    6. Im seminaristischen Unterricht (sU) werden anwendungsorientierte
+       Kenntnisse eines abgegrenzten Stoffgebietes vermittelt; dabei wird eine
+       Aufgabe selbstständig bearbeitet und deren Ergebnisse werden von den
+       Studentinnen und Studenten dargestellt und kritisch gemeinsam diskutiert.
+    7. In einem Methodenkurs (MK) werden wissenschaftliche oder
+       ingenieurpraktische Arbeitsmethoden erlernt und an konkreten Beispielen
+       diskutiert und eingeübt.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -385,10 +308,10 @@ Die Regelstudienzeit beträgt vier Semester.
     bewerten.
 02. Studentinnen und Studenten werden auf Antrag zur Masterarbeit zugelassen,
     wenn sie bei Antragstellung nachweisen, dass sie
-    1. im Masterstudiengang zuletzt an der Freien Universität Berlin
-       immatrikuliert gewesen sind und
-    2. Module im Umfang von mindestens 60 LP im Masterstudiengang absolviert
-       haben.
+     1. im Masterstudiengang zuletzt an der Freien Universität Berlin
+        immatrikuliert gewesen sind und
+     2. Module im Umfang von mindestens 60 LP im Masterstudiengang absolviert
+        haben.
 03. Dem Antrag auf Zulassung zur Masterarbeit sind Nachweise über das Vorliegen
     der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer
     prüfungsberechtigten Lehrkraft über die Bereitschaft zur Übernahme der

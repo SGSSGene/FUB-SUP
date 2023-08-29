@@ -7,9 +7,9 @@ Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen Nr. 24/1998) hat der
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 19. April 2017 die folgende Studien- und Prüfungsordnung
 für das 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer
-Studiengänge erlassen.\[^1\]
+Studiengänge erlassen.[^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. Mai
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. Mai
 2017 bestätigt worden.
 
 ## Anlagen
@@ -88,15 +88,15 @@ eingesetzte Prüfungsausschuss.
    nachzuweisen. Das Modulangebot gliedert sich in einen Pflichtbereich im
    Umfang von 16 LP und einen Wahlpflichtbereich im Umfang von 14 LP.
 2. Im Rahmen des Pflichtbereichs sind die folgenden Module zu absolvieren:
-   - Modul: Informatik A (8 LP) und
-   - Modul: Informatik B (8 LP).
+    - Modul: Informatik A (8 LP) und
+    - Modul: Informatik B (8 LP).
 3. Im Wahlpflichtbereich sind zwei Module im Umfang von insgesamt 14 LP zu
    wählen und absolvieren. Hierfür werden die folgenden Module angeboten:
-   - Modul: Auswirkungen der Informatik (7 LP),
-   - Modul: Datenbanksysteme für Nebenfach (7 LP),
-   - Modul: Grundlagen der theoretischen Informatik für Nebenfach (7 LP),
-   - Modul: Nichtsequentielle Programmierung (7 LP).
-   - Modul: Verteilte Programmierung (7 LP).
+    - Modul: Auswirkungen der Informatik (7 LP),
+    - Modul: Datenbanksysteme für Nebenfach (7 LP),
+    - Modul: Grundlagen der theoretischen Informatik für Nebenfach (7 LP),
+    - Modul: Nichtsequentielle Programmierung (7 LP).
+    - Modul: Verteilte Programmierung (7 LP).
 4. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -110,33 +110,33 @@ eingesetzte Prüfungsausschuss.
 ## § 8 Lehr- und Lernformen
 
 1. Im Rahmen des Lehrangebots werden folgende Lehr- und Lernformen angeboten:
-   1. Vorlesung (V): Vorlesungen geben einen systematischen und umfassenden
-      Überblick über einen größeren Gegenstandsbereich der Informatik und ihre
-      methodischen bzw. theoretischen Grundlagen oder Kenntnisse über ein
-      spezielles Stoffgebiet und dienen damit der Darstellung allgemeiner
-      Zusammenhänge und theoretischer Grundlagen. Die vorrangige Lehrform ist
-      der Vortrag der jeweiligen Lehrkraft. Sie kontrolliert am Ende der LV den
-      Wissensstand.
-   2. Übung (Ü): Die Übungen finden begleitend zur Vorlesung in kleinen Gruppen
-      statt, die nicht mehr als zwanzig Teilnehmerinnen und Teilnehmer umfassen
-      sollen. Die Übungen werden von studentischen Tutorinnen oder Tutoren oder
-      wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern unter der Leitung
-      der Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
-      erscheinen in regelmäßigen Abständen Übungsblätter mit theoretischen oder
-      praktischen Aufgaben, die von den Studentinnen und Studenten selbstständig
-      in freier Hausarbeit oder in selbstorganisierten Kleingruppen zu lösen
-      oder zu bearbeiten sind. Die Lösungen oder Lösungsansätze werden in den
-      Übungsgruppen vorgetragen und diskutiert. Zweck der Übungsgruppen ist
-      sowohl die Vertiefung des Vorlesungsstoffes als auch das Erlernen und Üben
-      von Methoden und Techniken. Ferner soll das Gespräch über Informatik, die
-      Zusammenarbeit und die Planung der eigenen Arbeitsweise erlernt werden.
-   3. Seminar (S): Ein Seminar dient der Vermittlung von Kenntnissen eines
-      abgegrenzten Stoffgebiets und dem Erwerb von Fähigkeiten, eine
-      Fragestellung selbstständig zu bearbeiten, die Ergebnisse darzustellen und
-      kritisch zu diskutieren. Die vorrangigen Arbeitsformen sind
-      Seminargespräche auf der Grundlage von Unterrichtsmitteln, von
-      vorzubereitender Lektüre (Fachliteratur und Quellen), von Arbeitsaufträgen
-      sowie Gruppenarbeit.
+    1. Vorlesung (V): Vorlesungen geben einen systematischen und umfassenden
+       Überblick über einen größeren Gegenstandsbereich der Informatik und ihre
+       methodischen bzw. theoretischen Grundlagen oder Kenntnisse über ein
+       spezielles Stoffgebiet und dienen damit der Darstellung allgemeiner
+       Zusammenhänge und theoretischer Grundlagen. Die vorrangige Lehrform ist
+       der Vortrag der jeweiligen Lehrkraft. Sie kontrolliert am Ende der LV den
+       Wissensstand.
+    2. Übung (Ü): Die Übungen finden begleitend zur Vorlesung in kleinen Gruppen
+       statt, die nicht mehr als zwanzig Teilnehmerinnen und Teilnehmer umfassen
+       sollen. Die Übungen werden von studentischen Tutorinnen oder Tutoren oder
+       wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern unter der Leitung
+       der Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
+       erscheinen in regelmäßigen Abständen Übungsblätter mit theoretischen oder
+       praktischen Aufgaben, die von den Studentinnen und Studenten selbstständig
+       in freier Hausarbeit oder in selbstorganisierten Kleingruppen zu lösen
+       oder zu bearbeiten sind. Die Lösungen oder Lösungsansätze werden in den
+       Übungsgruppen vorgetragen und diskutiert. Zweck der Übungsgruppen ist
+       sowohl die Vertiefung des Vorlesungsstoffes als auch das Erlernen und Üben
+       von Methoden und Techniken. Ferner soll das Gespräch über Informatik, die
+       Zusammenarbeit und die Planung der eigenen Arbeitsweise erlernt werden.
+    3. Seminar (S): Ein Seminar dient der Vermittlung von Kenntnissen eines
+       abgegrenzten Stoffgebiets und dem Erwerb von Fähigkeiten, eine
+       Fragestellung selbstständig zu bearbeiten, die Ergebnisse darzustellen und
+       kritisch zu diskutieren. Die vorrangigen Arbeitsformen sind
+       Seminargespräche auf der Grundlage von Unterrichtsmitteln, von
+       vorzubereitender Lektüre (Fachliteratur und Quellen), von Arbeitsaufträgen
+       sowie Gruppenarbeit.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte

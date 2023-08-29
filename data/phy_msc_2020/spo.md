@@ -6,28 +6,22 @@ Aufgrund von § 14 Abs. 1 Satz 1 Nr. 2 Teilgrundordnung (Erprobungsmodell) der
 Freien Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Physik der Freien Universität Berlin am 12.
 Februar 2020 die folgende Studien- und Prüfungsordnung für den Masterstudiengang
-Physik des Fachbereichs Physik der Freien Universität Berlin erlassen: \[^1\]
+Physik des Fachbereichs Physik der Freien Universität Berlin erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. 3.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. 3.
 2020 bestätigt worden.
 
 ## Anlagen
 
 - Anlage 1: Modulbeschreibungen
-
 - Anlage 2: Exemplarische Studienverlaufspläne
-
-  - 2.1 Exemplarischer Studienverlaufsplan für den Masterstudiengang (!TODO
-    missing)
-  - 2.2 Exemplarischer Studienverlaufsplan für das Doppelmasterprogramm (!TODO
-    missing)
-
+    - 2.1 Exemplarischer Studienverlaufsplan für den Masterstudiengang (!TODO
+      missing)
+    - 2.2 Exemplarischer Studienverlaufsplan für das Doppelmasterprogramm (!TODO
+      missing)
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
-
 - Anlage 4: Urkunde (Muster) (!TODO missing)
-
 - Anlage 5: Zeugnis (Muster Doppelmasterprogramm) (!TODO missing)
-
 - Anlage 6: Urkunde (Muster Doppelmasterprogramm) (!TODO missing)
 
 ## § 1 Geltungsbereich
@@ -136,104 +130,88 @@ Die Regelstudienzeit des Masterstudiengangs beträgt vier Semester.
 
 1. Es sind insgesamt Leistungen im Umfang von 120 Leistungspunkten (LP)
    nachzuweisen. Der Masterstudiengang gliedert sich in
-
-   1. eine Aufbauphase im Umfang von 60 LP, davon 15 LP im Pflichtbereich, 20 LP
-      im Wahlpflichtbereich und 25 LP im Wahlbereich sowie
-   2. eine Forschungsphase im Umfang von 60 LP, davon entfallen 30 LP auf die
-      Masterarbeit mit begleitendem Kolloquium.
-
+    1. eine Aufbauphase im Umfang von 60 LP, davon 15 LP im Pflichtbereich, 20 LP
+       im Wahlpflichtbereich und 25 LP im Wahlbereich sowie
+    2. eine Forschungsphase im Umfang von 60 LP, davon entfallen 30 LP auf die
+       Masterarbeit mit begleitendem Kolloquium.
 2. Die Aufbauphase ist wie folgt zu absolvieren:
+    1. Pflichtbereich: Im Rahmen des Pflichtbereichs im Umfang von 15 LP sind die
+       folgenden Module zu absolvieren:
+        - Modul: Advanced Laboratory Course for Master Students (10 LP) und
+        - Modul: Selected Topics in Physics (5 LP).
+    2. Wahlpflichtbereich: Im Rahmen des Wahlpflichtbereichs im Umfang von 20 LP
+       sind zwei Module im Umfang von jeweils 10 LP zu absolvieren.
+        1. Hierfür ist mindestens eines der folgenden Module aus dem Bereich der
+           theoretischen Physik zu wählen:
+            - Modul: Advanced Quantum Mechanics (10 LP),
+            - Modul: Statistical Physics and Thermodynamics (10 LP),
+            - Modul: Advanced Statistical Physics (10 LP) oder/und
+            - Modul: Quantum Field Theory and Many-Body Physics (10 LP).
+        2. Sofern nicht zwei Module aus dem Bereich der theoretischen Physik
+           gewählt wurden, ist eines der folgenden Module aus dem Bereich der
+           experimentellen Physik zu wählen:
+            - Modul: Advanced Solid State Physics (10 LP),
+            - Modul: Advanced Atomic and Molecular Physics (10 LP) oder
+            - Modul: Advanced Biophysics (10 LP).
+    3. Wahlbereich: Im Rahmen des Wahlbereichs im Umfang von 25 LP sind Module im
+       Umfang von insgesamt 25 LP zu wählen und zu absolvieren.
+        1. Hierfür werden die folgenden Module aus zentralen Forschungsbereichen
+           des Fachbereichs Physik angeboten:
+            - Modul: Theoretical Solid State Physics (10 LP),
+            - Modul: Advanced Theoretical Biophysics (8 LP),
+            - Modul: Nanophysics (5 LP),
+            - Modul: Ultrafast Spectroscopy and Nonlinear Optics (5 LP),
+            - Modul: Spectroscopy with Synchrotron Radiation (8 LP),
+            - Modul: Photobiophysics and Photosynthesis (5 LP),
+            - Modul: Semiconductor Physics (5 LP),
+            - Modul: General Relativity (5 LP) oder/und
+            - Modul: History of Physics (5 LP).
+        2. Des Weiteren werden hierfür ergänzend folgende Module angeboten:
+            - Modul: Advanced Topics in Theoretical Condensed Matter Physics (5
+              LP),
+            - Modul: Special Topics in Magnetism (5 LP),
+            - Modul: Special Topics in Molecular Physics (5 LP),
+            - Modul: Special Topics in Molecular Biophysics (5 LP),
+            - Modul: Advanced Astronomy and Astrophysics (12 LP),
+            - Modul: Modern Methods in Theoretical Physics A (5 LP),
+            - Modul: Modern Methods in Theoretical Physics B (8 LP),
+            - Modul: Modern Methods in Theoretical Physics C (10 LP),
+            - Modul: Modern Methods in Experimental Physics A (5 LP),
+            - Modul: Modern Methods in Experimental Physics B (8 LP) oder/und
+            - Modul: Modern Methods in Experimental Physics C (10 LP).
 
-   1. Pflichtbereich: Im Rahmen des Pflichtbereichs im Umfang von 15 LP sind die
-      folgenden Module zu absolvieren:
-
-      - Modul: Advanced Laboratory Course for Master Students (10 LP) und
-      - Modul: Selected Topics in Physics (5 LP).
-
-   2. Wahlpflichtbereich: Im Rahmen des Wahlpflichtbereichs im Umfang von 20 LP
-      sind zwei Module im Umfang von jeweils 10 LP zu absolvieren. a) Hierfür
-      ist mindestens eines der folgenden Module aus dem Bereich der
-      theoretischen Physik zu wählen:
-
-      - Modul: Advanced Quantum Mechanics (10 LP),
-      - Modul: Statistical Physics and Thermodynamics (10 LP),
-      - Modul: Advanced Statistical Physics (10 LP) oder/und
-      - Modul: Quantum Field Theory and Many-Body Physics (10 LP).
-
-      b) Sofern nicht zwei Module aus dem Bereich der theoretischen Physik
-      gewählt wurden, ist eines der folgenden Module aus dem Bereich der
-      experimentellen Physik zu wählen:
-
-      - Modul: Advanced Solid State Physics (10 LP),
-      - Modul: Advanced Atomic and Molecular Physics (10 LP) oder
-      - Modul: Advanced Biophysics (10 LP).
-
-   3. Wahlbereich: Im Rahmen des Wahlbereichs im Umfang von 25 LP sind Module im
-      Umfang von insgesamt 25 LP zu wählen und zu absolvieren.
-
-      1. Hierfür werden die folgenden Module aus zentralen Forschungsbereichen
-         des Fachbereichs Physik angeboten:
-
-         - Modul: Theoretical Solid State Physics (10 LP),
-         - Modul: Advanced Theoretical Biophysics (8 LP),
-         - Modul: Nanophysics (5 LP),
-         - Modul: Ultrafast Spectroscopy and Nonlinear Optics (5 LP),
-         - Modul: Spectroscopy with Synchrotron Radiation (8 LP),
-         - Modul: Photobiophysics and Photosynthesis (5 LP),
-         - Modul: Semiconductor Physics (5 LP),
-         - Modul: General Relativity (5 LP) oder/und
-         - Modul: History of Physics (5 LP).
-
-      2. Des Weiteren werden hierfür ergänzend folgende Module angeboten:
-
-         - Modul: Advanced Topics in Theoretical Condensed Matter Physics (5
-           LP),
-         - Modul: Special Topics in Magnetism (5 LP),
-         - Modul: Special Topics in Molecular Physics (5 LP),
-         - Modul: Special Topics in Molecular Biophysics (5 LP),
-         - Modul: Advanced Astronomy and Astrophysics (12 LP),
-         - Modul: Modern Methods in Theoretical Physics A (5 LP),
-         - Modul: Modern Methods in Theoretical Physics B (8 LP),
-         - Modul: Modern Methods in Theoretical Physics C (10 LP),
-         - Modul: Modern Methods in Experimental Physics A (5 LP),
-         - Modul: Modern Methods in Experimental Physics B (8 LP) oder/und
-         - Modul: Modern Methods in Experimental Physics C (10 LP).
-
-   Die Module im Wahlbereich werden in unregelmäßiger Reihenfolge angeboten. In
-   jedem Studienjahr werden für den Wahlbereich mindestens sieben der unter
-   Buchst. a) und b) aufgeführten Module angeboten. Im Wahlbereich können auch
-   weitere Module des Wahlpflichtbereichs sowie auf begründeten Antrag beim
-   Prüfungsausschuss ergänzende Module aus nichtphysikalischen Fächern mit Bezug
-   zum Fachstudium gewählt werden. Im Antrag muss der Bezug der Module zum
-   gesamthaften Qualifikationsziel dargelegt werden. Über den Antrag entscheidet
-   der zuständige Prüfungsausschuss. Es dürfen keine Module gewählt werden, die
-   identisch mit einem bereits für den Abschluss des vorangehenden Studiums
-   berücksichtigten Modul oder wesentlich inhaltsgleich zu einem solchen sind.
+    Die Module im Wahlbereich werden in unregelmäßiger Reihenfolge angeboten. In
+    jedem Studienjahr werden für den Wahlbereich mindestens sieben der unter
+    Buchst. a) und b) aufgeführten Module angeboten. Im Wahlbereich können auch
+    weitere Module des Wahlpflichtbereichs sowie auf begründeten Antrag beim
+    Prüfungsausschuss ergänzende Module aus nichtphysikalischen Fächern mit Bezug
+    zum Fachstudium gewählt werden. Im Antrag muss der Bezug der Module zum
+    gesamthaften Qualifikationsziel dargelegt werden. Über den Antrag entscheidet
+    der zuständige Prüfungsausschuss. Es dürfen keine Module gewählt werden, die
+    identisch mit einem bereits für den Abschluss des vorangehenden Studiums
+    berücksichtigten Modul oder wesentlich inhaltsgleich zu einem solchen sind.
 
 3. In der Forschungsphase absolvieren die Studierenden zunächst parallel die
    Module „Scientific Specialization“ (15 LP) und „Methodology and Project
    Planning“ (15 LP). Im unmittelbaren Anschluss wird die Masterarbeit mit
    begleitendem Kolloquium im Umfang von 30 LP absolviert. Studierende werden
    auf Antrag zur Forschungsphase zugelassen, wenn sie
-
-   1. das Modul „Advanced Laboratory Course for Master Students“ (10 LP) gemäß
-      Abs. 2 Nr. 1 und ein Modul der theoretischen Physik des
-      Wahlpflichtbereichs im Umfang von 10 LP gemäß Abs. 2 Nr. 2 Buchst. a sowie
-      weitere Module des Masterstudiengangs gemäß Abs. 2 im Umfang von
-      mindestens 25 LP erfolgreich absolviert haben und
-   2. den Antrag auf Zulassung zur Masterarbeit eingereicht haben. Mit
-      Zustimmung des Prüfungsausschusses kann die Forschungsphase auch extern in
-      einem geeigneten Betrieb oder in einer wissenschaftlichen Einrichtung
-      absolviert werden, sofern die wissenschaftliche Betreuung durch eine für
-      den Masterstudiengang prüfungsberechtigte Lehrkraft gewährleistet ist.
-
+    1. das Modul „Advanced Laboratory Course for Master Students“ (10 LP) gemäß
+       Abs. 2 Nr. 1 und ein Modul der theoretischen Physik des
+       Wahlpflichtbereichs im Umfang von 10 LP gemäß Abs. 2 Nr. 2 Buchst. a sowie
+       weitere Module des Masterstudiengangs gemäß Abs. 2 im Umfang von
+       mindestens 25 LP erfolgreich absolviert haben und
+    2. den Antrag auf Zulassung zur Masterarbeit eingereicht haben. Mit
+       Zustimmung des Prüfungsausschusses kann die Forschungsphase auch extern in
+       einem geeigneten Betrieb oder in einer wissenschaftlichen Einrichtung
+       absolviert werden, sofern die wissenschaftliche Betreuung durch eine für
+       den Masterstudiengang prüfungsberechtigte Lehrkraft gewährleistet ist.
 4. Die Modulsprache im Masterstudiengang ist Englisch. Nach Absprache mit der
    jeweiligen Dozentin oder dem jeweiligen Dozenten können schriftliche
    Ausarbeitungen, Protokolle, Prüfungsleistungen sowie die Masterarbeit in
    deutscher Sprache erbracht werden. Wenn keine bzw. keiner der teilnehmenden
    Studierenden Einwände hat, können einzelne Veranstaltungen auch in Deutsch
    abgehalten werden.
-
 5. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -241,7 +219,6 @@ Die Regelstudienzeit des Masterstudiengangs beträgt vier Semester.
    Lernformen, die den Modulen jeweils zugeordneten Leistungspunkte, die
    Regeldauer und die Angebotshäufigkeit informieren für die Module des
    Masterstudiengangs die Modulbeschreibungen in der Anlage 1.
-
 6. Über den empfohlenen Verlauf des Studiums im Masterstudiengang unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2 unter 2.1.
 
@@ -299,43 +276,43 @@ Die Regelstudienzeit des Masterstudiengangs beträgt vier Semester.
 ## § 9 Lehr- und Lernformen
 
 1. Im Masterstudiengang werden folgende Lehrveranstaltungstypen angeboten:
-   1. Vorlesungen (V) vermitteln entweder einen Überblick über einen größeren
-      Gegenstandsbereich des Faches und seine methodischen/theoretischen
-      Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet und seine
-      Forschungsprobleme. Die vorrangige Lehrform ist der Vortrag der jeweiligen
-      Lehrkraft.
-   2. Wahlpflichtvorlesung (WV) vermitteln einen Überblick über einen
-      Gegenstandsbereich des Faches und seine methodischen/theoretischen
-      Grundlagen bzw. Kenntnisse über ein spezielles Stoffgebiet und seine
-      Forschungsthemen. Die vorrangige Lehrform istder Vortrag der jeweiligen
-      Lehrkraft.
-   3. Übungen (Ü) dienen der Vermittlung von anwendungsorientierten Kenntnissen
-      eines abgegrenzten Stoffgebietes und dem Erwerb von praktischen
-      Fähigkeiten, eine Aufgabe selbstständig zu bearbeiten, die Ergebnisse
-      darzustellen und kritisch zu diskutieren. Die vorrangige Arbeitsform ist
-      das Lösen von Übungsaufgaben. Die Lehrkraft leitetan und kontrolliertdie
-      Tätigkeiten.
-   4. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
-      Stoffgebietes und dem Erwerb von Fähigkeiten, eine Fragestellung
-      selbstständig zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
-      diskutieren. Die vorrangigen Arbeitsformen sind Seminargespräche auf der
-      Grundlage von Unterrichtsmitteln, von vorzubereitender Lektüre
-      (Fachliteratur und Quellen), von Arbeitsaufträgen sowie die Gruppenarbeit.
-   5. Praktika (P) dienen der selbstständigen Erarbeitung von Fragestellungen
-      und Lösungsmöglichkeiten an ausgewählten Objekten mit geeigneten Methoden
-      und ermöglichen das Erlernen praktischer und analytischer Fähigkeiten.
-      Unter Anleitung gewinnen die Studierenden Erfahrungen in der Anwendung der
-      erworbenen fachwissenschaftlichen Kenntnisse und Methoden und können ihre
-      Eignung für bestimmte Berufsfelder testen. In Veranstaltungen, die Teil
-      eines Praktikums sein können, soll besonders auf Lehrinhalte in den
-      Praktika eingegangen, eventuelle Unklarheiten beseitigt und Erfahrungen
-      aus der Praxis reflektiert werden.
-   6. Projektmodul (PM) dient unter Berücksichtigung der individuellen Stärken
-      und Schwächen jeder oder jedes Studierenden der Aneignung von praktischen
-      Handlungskompetenzen. Über einen festgelegten Zeitraum bearbeiten die
-      Studierenden eigenständig ein internes oder externes Projekt. Die
-      vorrangige Lehrform ist die Betreuung bei der Planung und der
-      Durchführung.
+    1. Vorlesungen (V) vermitteln entweder einen Überblick über einen größeren
+       Gegenstandsbereich des Faches und seine methodischen/theoretischen
+       Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet und seine
+       Forschungsprobleme. Die vorrangige Lehrform ist der Vortrag der jeweiligen
+       Lehrkraft.
+    2. Wahlpflichtvorlesung (WV) vermitteln einen Überblick über einen
+       Gegenstandsbereich des Faches und seine methodischen/theoretischen
+       Grundlagen bzw. Kenntnisse über ein spezielles Stoffgebiet und seine
+       Forschungsthemen. Die vorrangige Lehrform istder Vortrag der jeweiligen
+       Lehrkraft.
+    3. Übungen (Ü) dienen der Vermittlung von anwendungsorientierten Kenntnissen
+       eines abgegrenzten Stoffgebietes und dem Erwerb von praktischen
+       Fähigkeiten, eine Aufgabe selbstständig zu bearbeiten, die Ergebnisse
+       darzustellen und kritisch zu diskutieren. Die vorrangige Arbeitsform ist
+       das Lösen von Übungsaufgaben. Die Lehrkraft leitetan und kontrolliertdie
+       Tätigkeiten.
+    4. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
+       Stoffgebietes und dem Erwerb von Fähigkeiten, eine Fragestellung
+       selbstständig zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
+       diskutieren. Die vorrangigen Arbeitsformen sind Seminargespräche auf der
+       Grundlage von Unterrichtsmitteln, von vorzubereitender Lektüre
+       (Fachliteratur und Quellen), von Arbeitsaufträgen sowie die Gruppenarbeit.
+    5. Praktika (P) dienen der selbstständigen Erarbeitung von Fragestellungen
+       und Lösungsmöglichkeiten an ausgewählten Objekten mit geeigneten Methoden
+       und ermöglichen das Erlernen praktischer und analytischer Fähigkeiten.
+       Unter Anleitung gewinnen die Studierenden Erfahrungen in der Anwendung der
+       erworbenen fachwissenschaftlichen Kenntnisse und Methoden und können ihre
+       Eignung für bestimmte Berufsfelder testen. In Veranstaltungen, die Teil
+       eines Praktikums sein können, soll besonders auf Lehrinhalte in den
+       Praktika eingegangen, eventuelle Unklarheiten beseitigt und Erfahrungen
+       aus der Praxis reflektiert werden.
+    6. Projektmodul (PM) dient unter Berücksichtigung der individuellen Stärken
+       und Schwächen jeder oder jedes Studierenden der Aneignung von praktischen
+       Handlungskompetenzen. Über einen festgelegten Zeitraum bearbeiten die
+       Studierenden eigenständig ein internes oder externes Projekt. Die
+       vorrangige Lehrform ist die Betreuung bei der Planung und der
+       Durchführung.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -457,36 +434,41 @@ Die Regelstudienzeit des Masterstudiengangs beträgt vier Semester.
 1. Voraussetzung für den Studienabschluss ist, dass die gemäß §§ 7 und 10 oder
    im Falle des Doppelmasterprogramms gemäß §§ 8 und 10 geforderten Leistungen
    erbracht worden sind.
-
 2. Der Studienabschluss ist ausgeschlossen, soweit die oder der Studierende an
    einer anderen Hochschule im gleichen Studiengang oder in einem Modul, welches
    mit einem der im Masterstudiengang zu absolvierenden und bei der Ermittlung
    der Gesamtnote zu berücksichtigenden Module identisch oder vergleichbar ist,
    Leistungen endgültig nicht erbracht oder Prüfungsleistungen endgültig nicht
    bestanden hat oder sich in einem schwebenden Prüfungsverfahren befindet.
-
 3. Dem Antrag auf Feststellung des Studienabschlusses sind Nachweise über das
    Vorliegen der Voraussetzung gemäß Abs. 1 und eine Versicherung beizufügen,
    dass für die Person der Antragstellerin oder des Antragstellers keiner der
    Fälle gemäß Abs. 2 vorliegt. Über den Antrag entscheidet der
    Prüfungsausschuss.
-
 4. Die Noten für die im Doppelmasterprogramm gemäß §8 an der Partnerhochschule
    erbrachten Prüfungsleistungen werden von der dort zuständigen Stelle in Form
    einer Durchschnittsnote sowie der Note für die Masterarbeit an den
    Prüfungsausschuss an der Freien Universität Berlin übermittelt. Es gilt
    folgende Umrechnungstabelle:
 
-   |Französische Notenskala<br>Partnerhochschule | Notenskala<br>Freie
-   Universität Berlin| |---------------------------------------------|------| |
-   16, 17, 18, 19, 20 | 1,0 | | 15 | 1,3 | | 14 | 1,7 | | 13 | 2,0 | | 12,5 |
-   2,3 | | 12 | 2,7 | | 11,5 | 3,0 | | 11 | 3,3 | | 10,5 | 3,7 | | 10 | 4,0 | |
-   \<10 | >4,0 (nicht ausreichend) |
+    |Französische Notenskala<br>Partnerhochschule | Notenskala<br>Freie Universität Berlin|
+    |---------------------------------------------|------|
+    | 16, 17, 18, 19, 20 | 1,0 |
+    | 15 | 1,3 |
+    | 14 | 1,7 |
+    | 13 | 2,0 |
+    | 12,5 | 2,3 |
+    | 12 | 2,7 |
+    | 11,5 | 3,0 |
+    | 11 | 3,3 |
+    | 10,5 | 3,7 |
+    | 10 | 4,0 |
+    | \<10 | >4,0 (nicht ausreichend) |
 
-   Die Gesamtnote ergibt sich durch arithmetische Mittelung der Gesamtnote aus
-   dem an der Freien Universität Berlin absolvierten Studienanteil im Umfang von
-   60 LP und dem am Institut Polytechnique erbrachten Studienanteil im Umfang
-   von 60 LP.
+    Die Gesamtnote ergibt sich durch arithmetische Mittelung der Gesamtnote aus
+    dem an der Freien Universität Berlin absolvierten Studienanteil im Umfang von
+    60 LP und dem am Institut Polytechnique erbrachten Studienanteil im Umfang
+    von 60 LP.
 
 5. Aufgrund der bestandenen Prüfung wird der Hochschulgrad Master of Science
    (M.Sc.) verliehen. Die Studierenden erhalten ein Zeugnis und eine Urkunde
@@ -495,16 +477,14 @@ Die Regelstudienzeit des Masterstudiengangs beträgt vier Semester.
    einzelnen Modulen und ihren Bestandteilen (Transkript) erstellt. Auf Antrag
    werden darüber hinaus englische Versionen von Zeugnis und Urkunde
    ausgehändigt.
-
 6. Aufgrund der bestandenen Prüfung im Rahmen des Doppelmasterprogramms gemäß §8
    erhalten die Studierenden
-
-   1. ein Zeugnis und eine Urkunde der Partneruniversität Institut
-      Polytechnique;
-   2. ein Zeugnis und eine Urkunde der Freien Universität Berlin (Anlagen 5 und
-      6\) und
-   3. ein gemeinsames Diploma Supplement in englischer, deutscher und
-      französischer Sprache. Im Übrigen gilt Abs. 5.
+    1. ein Zeugnis und eine Urkunde der Partneruniversität Institut
+       Polytechnique;
+    2. ein Zeugnis und eine Urkunde der Freien Universität Berlin (Anlagen 5 und
+       6) und
+    3. ein gemeinsames Diploma Supplement in englischer, deutscher und
+       französischer Sprache. Im Übrigen gilt Abs. 5.
 
 ## § 14 Inkrafttreten und Übergangsregelungen
 

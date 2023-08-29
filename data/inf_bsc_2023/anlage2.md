@@ -1,19 +1,10 @@
 # Anlage 2: Exemplarischer Studienverlaufsplan für den Bachelorstudiengang Informatik
 
-| Semester | Pflichtbereich {colspan=4} | empty {hidden} | empty {hidden} |
-empty {hidden} | Wahlpflichtbereich | Wahlbereich | ABV | SWS | | --------
-|:-------------------------------- :|:--------------------------
-:|:-------------- :|:-------------- :|:------------------ :|:----------- :|:---
-:| --- | | 1. FS<br> 29 LP | Konzepte der Programierung (9 LP) | Diskrete
-Strukturen für Informatik (9 LP) | Auswirkung der Informatik (6LP) | | | | ABV
-(5 LP) | 20 | | 2. FS<br> 30 LP | Algorithmen und Datenstrukturen (9 LP) |
-Lineare Algebra für Informatik (9 LP) | Betriebs- und Kommunikationssysteme (6
-LP) | Datenbanksysteme (6 LP) | | | | 20 | | 3. FS<br> 30 LP | Nebenläufige,
-parallele und verteilte Programmierung (9 LP) | Analysis für Informatik (9 LP) |
-Rechnerarchitektur (6 LP) | Grundlagen der Theoretischen Informatik (6 LP) | | |
-| 20 | | 4. FS<br> 31 LP | Programmierpraktikum (5 LP) | Statistik für
-Informatik (6 LP) | Informationssicherheit (6 LP) | Softwaretechnik (9 LP) | | |
-ABV (5 LP) | 20 | | 5. FS<br> 32 LP | Wissenschaftliches Arbeiten in der
-Informatik (6 LP) | | | | Wahlpflichtmodule (6 LP) | Wahlbereichsmodul(e) 10 LP)
-| Berufsbezogenes Praktikum Informatik (10 LP) | 13\* | | 6. FS<br> 28 LP | | |
-| | Wahlpflichtmodule (6 LP) | | Softwareprojekt (10 LP) | 8\* |
+| Semester                  | Pflichtbereich {colspan=4}                                  | empty {hidden}                            | empty {hidden}                             | empty {hidden}                                 | Wahlpflichtbereich       | Wahlbereich                 | ABV                                          | SWS  |
+| --------                  |:--------------------------------                           :|:--------------------------               :|:--------------                            :|:--------------                                :|:------------------      :|:-----------                :|:---                                         :| ---  |
+| 1. FS<br> 29 LP           | Konzepte der Programierung (9 LP)                           | Diskrete Strukturen für Informatik (9 LP) | Auswirkung der Informatik (6LP)            |                                                |                          |                             | ABV (5 LP)                                   | 20   |
+| 2. FS<br> 30 LP           | Algorithmen und Datenstrukturen (9 LP)                      | Lineare Algebra für Informatik (9 LP)     | Betriebs- und Kommunikationssysteme (6 LP) | Datenbanksysteme (6 LP)                        |                          |                             |                                              | 20   |
+| 3. FS<br> 30 LP           | Nebenläufige, parallele und verteilte Programmierung (9 LP) | Analysis für Informatik (9 LP)            | Rechnerarchitektur (6 LP)                  | Grundlagen der Theoretischen Informatik (6 LP) |                          |                             |                                              | 20   |
+| 4. FS<br> 31 LP           | Programmierpraktikum (5 LP)                                 | Statistik für Informatik (6 LP)           | Informationssicherheit (6 LP)              | Softwaretechnik (9 LP)                         |                          |                             | ABV (5 LP)                                   | 20   |
+| 5. FS<br> 32 LP           | Wissenschaftliches Arbeiten in der Informatik (6 LP)        |                                           |                                            |                                                | Wahlpflichtmodule (6 LP) | Wahlbereichsmodul(e) 10 LP) | Berufsbezogenes Praktikum Informatik (10 LP) | 13\* |
+| 6. FS<br> 28 LP           |                                                             |                                           |                                            |                                                | Wahlpflichtmodule (6 LP) |                             | Softwareprojekt (10 LP)                      | 8\*  |

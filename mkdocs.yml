@@ -211,6 +211,7 @@ nav:
   - Computational Sciences Msc 2016:
     - Übersicht: compsci_msc_2016/home.md
     - Studien- und Prüfungsordnung: compsci_msc_2016/spo.md
+    - Zugangssatzung: compsci_msc_2016/zugangssatzung.md
     - Modulbeschreibungen: compsci_msc_2016/module_explanations.md
     - compsci_msc_2016/modules/Complex Algorithms A.md
     - compsci_msc_2016/modules/Complex Algorithms B.md
@@ -262,7 +263,6 @@ nav:
     - compsci_msc_2016/modules/Theoretische Meteorologie I.md
     - compsci_msc_2016/modules/Thermodynamik und kinetik von geologischen Prozessen.md
     - compsci_msc_2016/modules/Wetter- und klimadiagnose.md
-    - Zugangssatzung: compsci_msc_2016/zugangssatzung.md
   - Data Science Msc 2019:
     - Übersicht: datasci_msc_2019/home.md
     - Studien- und Prüfungsordnung: datasci_msc_2019/spo.md

@@ -15,8 +15,8 @@ Abweichungen sind bekannt:
   wie alle anderen SPOs)
 - Seite 1068: Arbeitsaufwand ist für eine Übung notiert, aber es gibt nur ein
   Seminar am PC:
-  - `Präsenzzeit {--Ü--}{++SPC++} 30`
-  - `Vor- und Nachbereitung {--Ü--}{++SPC++} 120`
+    - `Präsenzzeit {--Ü--}{++SPC++} 30`
+    - `Vor- und Nachbereitung {--Ü--}{++SPC++} 120`
 - Seite 1068: Modul hat eine fehlerhafte Specifikation. Aufgeschlüsslter
   Arbeitsaufwand beträgt 270h, während es eigentlich nur 180h für das Modul sein
   sollte.

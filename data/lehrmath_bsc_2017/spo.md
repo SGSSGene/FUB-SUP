@@ -8,19 +8,19 @@ Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 24. Mai 2017 die folgende Studien- und Prüfungsordnung für
 den Bachelorstudiengang Mathematik für das Lehramt und das
 60-Leistungspunkte-Modulangebot Mathematik im Rahmen anderer Studiengänge
-erlassen: \[^1\]
+erlassen: [^1]
 
-\[^1\]:Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 13. Juni
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 13. Juni
 2017 bestätigt worden.
 
 ## Anlagen
 
 - Anlage 1: Modulbeschreibungen
 - Anlage 2: Exemplarische Studienverlaufspläne:
-  - 2.1 Exemplarischer Studienverlaufsplan für den Bachelorstudiengang
-    Mathematik für das Lehramt (!TODO missing)
-  - 2.2 Exemplarischer Studienverlaufsplan für das 60-LP-Modulangebot Mathematik
-    im Rahmen anderer Studiengänge (!TODO missing)
+    - 2.1 Exemplarischer Studienverlaufsplan für den Bachelorstudiengang
+      Mathematik für das Lehramt (!TODO missing)
+    - 2.2 Exemplarischer Studienverlaufsplan für das 60-LP-Modulangebot Mathematik
+      im Rahmen anderer Studiengänge (!TODO missing)
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
 - Anlage 4: Urkunde (Muster) (!TODO missing)
 
@@ -60,25 +60,23 @@ Informatik der Freien Universität Berlin eingesetzte Prüfungsausschuss.
 ## § 4 Lehr- und Lernformen
 
 1. Im Rahmen des Lehrangebots werden folgende Lehr- und Lernformen angeboten:
-
-   1. Vorlesungen (V): Vorlesungen vermitteln entweder einen Überblick über
-      einen größeren Gegenstandsbereich des Faches und seine methodischen oder
-      theoretischen Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet
-      und seine Forschungsprobleme. Die vorrangige Lehrform istder Vortrag der
-      jeweiligen Lehrkraft.
-   2. Übungen (Ü): Übungen dienen der Vertiefung des zugehörigen
-      Vorlesungsstoffes. Im Mittelpunkt steht in der Regel die Bearbeitung von
-      Übungsaufgaben. Die vorrangigen Arbeitsformen sind Diskussionen über die
-      Lösungsstrategie der Übungsaufgaben und die schriftliche Darstellung der
-      Lösungen.
-   3. Grundkurs (GK): Grundkurse haben einführenden oder grundlegenden
-      Charakter. Die vorrangige Lehrform ist der Vortrag der jeweiligen
-      Lehrkraft im Präsenzunterricht sowie von ihr moderierte Gespräche und
-      Diskussionen zu grundlegenden Themen, Problemen oder Fragestellungen.
-   4. Proseminare (PS): Proseminare dienen der gründlichen Auseinandersetzung
-      mit exemplarischen Themenbereichen. Die vorrangige Arbeitsform ist der
-      Vortrag der Studentinnen und Studenten.
-
+    1. Vorlesungen (V): Vorlesungen vermitteln entweder einen Überblick über
+       einen größeren Gegenstandsbereich des Faches und seine methodischen oder
+       theoretischen Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet
+       und seine Forschungsprobleme. Die vorrangige Lehrform istder Vortrag der
+       jeweiligen Lehrkraft.
+    2. Übungen (Ü): Übungen dienen der Vertiefung des zugehörigen
+       Vorlesungsstoffes. Im Mittelpunkt steht in der Regel die Bearbeitung von
+       Übungsaufgaben. Die vorrangigen Arbeitsformen sind Diskussionen über die
+       Lösungsstrategie der Übungsaufgaben und die schriftliche Darstellung der
+       Lösungen.
+    3. Grundkurs (GK): Grundkurse haben einführenden oder grundlegenden
+       Charakter. Die vorrangige Lehrform ist der Vortrag der jeweiligen
+       Lehrkraft im Präsenzunterricht sowie von ihr moderierte Gespräche und
+       Diskussionen zu grundlegenden Themen, Problemen oder Fragestellungen.
+    4. Proseminare (PS): Proseminare dienen der gründlichen Auseinandersetzung
+       mit exemplarischen Themenbereichen. Die vorrangige Arbeitsform ist der
+       Vortrag der Studentinnen und Studenten.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    (Integriertes Lernen) umgesetzt werden. Das Präsenzstudium wird hierbei mit
    elektronischen Internet-basierten Medien (E-Learning) verknüpft. Dabei werden
@@ -158,51 +156,39 @@ Die Regelstudienzeit beträgt sechs Semester.
 1. Im Rahmen des Bachelorstudiengangs sind insgesamt Leistungen im Umfang von
    180 Leistungspunkten (LP) zu erbringen. Der Bachelorstudiengang gliedert sich
    in:
-
-   1. das Kernfach im Umfang von 90 LP, davon 10 LP für die Bachelorarbeit mit
-      Präsentation der Ergebnisse,
-   2. ein 60-LP-Modulangebot aus anderen fachlichen lehramtsbezogenen Bereichen
-      im Umfang von 60 LP und
-   3. den Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte
-      Sekundarschulen und Gymnasien (LBW-ISS-GYM) im Umfang von 30 LP.
-
+    1. das Kernfach im Umfang von 90 LP, davon 10 LP für die Bachelorarbeit mit
+       Präsentation der Ergebnisse,
+    2. ein 60-LP-Modulangebot aus anderen fachlichen lehramtsbezogenen Bereichen
+       im Umfang von 60 LP und
+    3. den Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte
+       Sekundarschulen und Gymnasien (LBW-ISS-GYM) im Umfang von 30 LP.
 2. Das Kernfach gliedert sich neben der Bachelorarbeit mit Präsentation der
    Ergebnisse in einen Grundlagenbereich im Umfang von 40 LP, einen
    Aufbaubereich im Umfang von 20 LP und einen Vertiefungsbereich im Umfang von
    20 LP wie folgt:
-
-   1. Im Grundlagenbereich im Umfang von 40 LP sind folgende Module zu
-      absolvieren:
-
-      - Modul: Mathematik entdecken I (10 LP),
-      - Modul: Mathematik entdecken II (5 LP),
-      - Modul: Mathematisches Panorama (5 LP),
-      - Modul: Analysis I (10 LP) und
-      - Modul: Lineare Algebra I (10 LP).
-
-   2. Im Aufbaubereich im Umfang von 20 LP müssen zwei von den drei folgenden
-      Modulen gewählt und absolviert werden:
-
-      - Modul: Analysis II (10 LP),
-      - Modul: Lineare Algebra II (10 LP) und/oder
-      - Modul: Zahlen, Gleichungen, algebraische Strukturen (10 LP).
-
-   3. Der Vertiefungsbereich im Umfang von 20 LP gliedert sich in einen
-      Pflichtbereich im Umfang von 15 LP und einen Wahlpflichtbereich im Umfang
-      von 5 LP wie folgt:
-
-      1. Pflichtbereich: Folgende Module sind zu absolvieren:
-
-         - Modul: Wahrscheinlichkeit und Statistik (10 LP) und
-         - Modul: Proseminar Mathematik - Lehramt (5 LP).
-
-      2. Wahlpflichtbereich: Es istein Modul aus den folgenden Modulen zu wählen
-         und zu absolvieren:
-
-      - Modul: Computerorientierte Mathematik I (5 LP) oder
-      - Modul: Computerorientierte Mathematik II (5 LP) oder
-      - Modul: Computeralgebra (5 LP).
-
+    1. Im Grundlagenbereich im Umfang von 40 LP sind folgende Module zu
+       absolvieren:
+        - Modul: Mathematik entdecken I (10 LP),
+        - Modul: Mathematik entdecken II (5 LP),
+        - Modul: Mathematisches Panorama (5 LP),
+        - Modul: Analysis I (10 LP) und
+        - Modul: Lineare Algebra I (10 LP).
+    2. Im Aufbaubereich im Umfang von 20 LP müssen zwei von den drei folgenden
+       Modulen gewählt und absolviert werden:
+        - Modul: Analysis II (10 LP),
+        - Modul: Lineare Algebra II (10 LP) und/oder
+        - Modul: Zahlen, Gleichungen, algebraische Strukturen (10 LP).
+    3. Der Vertiefungsbereich im Umfang von 20 LP gliedert sich in einen
+       Pflichtbereich im Umfang von 15 LP und einen Wahlpflichtbereich im Umfang
+       von 5 LP wie folgt:
+        1. Pflichtbereich: Folgende Module sind zu absolvieren:
+            - Modul: Wahrscheinlichkeit und Statistik (10 LP) und
+            - Modul: Proseminar Mathematik - Lehramt (5 LP).
+        2. Wahlpflichtbereich: Es istein Modul aus den folgenden Modulen zu wählen
+           und zu absolvieren:
+            - Modul: Computerorientierte Mathematik I (5 LP) oder
+            - Modul: Computerorientierte Mathematik II (5 LP) oder
+            - Modul: Computeralgebra (5 LP).
 3. Als 60-LP-Modulangebot aus anderen fachlichen lehramtsbezogenen Bereichen
    gemäß Abs. 1 Nr. 2 sind Modulangebote der übrigen Fachbereiche der Freien
    Universität Berlin wählbar, sofern aufgrund der Wahl eines solchen
@@ -217,7 +203,6 @@ Die Regelstudienzeit beträgt sechs Semester.
    Modulangebote der anderen Universitäten der Länder Berlin und Brandenburg
    entsprechend. Der Katalog der wählbaren Modulangebote wird rechtzeitig in
    geeigneter Weise bekannt gegeben.
-
 4. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -231,16 +216,10 @@ Die Regelstudienzeit beträgt sechs Semester.
    Mathematik des Fachbereichs Mathematik und Informatik der Freien Universität
    Berlin verwiesen. Für die Module des gewählten 60-LP-Modulangebots gemäß Abs.
    1 Nr. 2 wird auf die jeweilige Studien- und Prüfungsordnung verwiesen.
-
 5. Über den empfohlenen Verlauf des Studiums im Bachelorstudiengang unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2 unter 2.1.
 
-## § 10 Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte Sekundarschulen und
-
-```
-Gymnasien (LBW-ISS-GYM)
-```
-
+## § 10 Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte Sekundarschulen und Gymnasien (LBW-ISS-GYM)
 1. Die Module des Studienbereichs LBW-ISS-GYM vermitteln den Studentinnen und
    Studenten erziehungswissenschaftliches und fachdidaktisches Basiswissen,
    ermöglichen eine theoriegeleitete Reflektion ihrer Lehrerfahrungen und
@@ -265,15 +244,12 @@ Gymnasien (LBW-ISS-GYM)
     Faches Mathematik nach fachwissenschaftlichen Methoden selbstständig zu
     bearbeiten und die Ergebnisse sachgerecht schriftlich und mündlich
     darzustellen und zu bewerten.
-
 02. Studentinnen und Studenten werden auf Antrag zur Bachelorarbeit zugelassen,
     wenn sie bei Antragstellung nachweisen, dass sie
-
-    1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
-       immatrikuliert gewesen sind und
-    2. bereits Module im Umfang von mindestens 60 LP im Bachelorstudiengang
-       erfolgreich absolviert haben.
-
+     1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
+        immatrikuliert gewesen sind und
+     2. bereits Module im Umfang von mindestens 60 LP im Bachelorstudiengang
+        erfolgreich absolviert haben.
 03. Dem Antrag auf Zulassung zur Bachelorarbeit sind Nachweise über das
     Vorliegen der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die
     Bescheinigung einer prüfungsberechtigten Lehrkraft über die Bereitschaft zur
@@ -289,7 +265,6 @@ Gymnasien (LBW-ISS-GYM)
     Thema und Aufgabenstellung müssen so beschaffen sein, dass die Bearbeitung
     innerhalb der Bearbeitungszeit abgeschlossen werden kann. Ausgabe und
     Fristeinhaltung sind aktenkundig zu machen.
-
 05. Bearbeitungszeit für die Bachelorarbeit beträgt 300 Stunden und die
     Abgabefrist beträgt 16 Wochen. War eine Studentin oder ein Student über
     einen Zeitraum von mehr als drei Monaten aus triftigem Grund an der
@@ -297,7 +272,6 @@ Gymnasien (LBW-ISS-GYM)
     Bachelorarbeit neu erbracht werden muss. Die Prüfungsleistung hinsichtlich
     der Bachelorarbeit gilt für den Fall, dass der Prüfungsausschuss eine
     erneute Erbringung verlangt, als nicht unternommen.
-
 06. Als Beginn der Bearbeitungszeit und der Abgabefrist gilt das Datum der
     Ausgabe des Themas durch den Prüfungsausschuss. Das Thema kann einmalig
     innerhalb der ersten zwei Wochen zurückgegeben werden und gilt dann als
@@ -309,7 +283,6 @@ Gymnasien (LBW-ISS-GYM)
     Portable-Document-Format (PDF) abzugeben. Die PDF-Datei muss den Text
     maschinenlesbar und nicht nur grafisch enthalten; ferner darf sie keine
     Rechtebeschränkung aufweisen.
-
 07. Die Ergebnisse der Bachelorarbeit werden in einer Präsentation vorgestellt,
     wissenschaftlich eingeordnet (ca. 15 Minuten) und diskutiert (ca. 15
     Minuten). Voraussetzung für die Teilnahme an der Präsentation ist die Abgabe
@@ -320,7 +293,6 @@ Gymnasien (LBW-ISS-GYM)
     oder Prüfern der Bachelorarbeit identisch sein. Die Note für die
     Präsentation ergibt sich aus dem arithmetischen Mittel der beiden
     Einzelnoten.
-
 08. Die Bachelorarbeit ist innerhalb von vier Wochen von zwei vom
     Prüfungsausschuss bestellten Prüfungsberechtigten mit einer schriftlichen
     Begründung zu bewerten. Dabei soll die Betreuerin oder der Betreuer der
@@ -330,14 +302,11 @@ Gymnasien (LBW-ISS-GYM)
     Berlin hauptberuflich beschäftigt ist. Die Note für den schriftlichen Teil
     der Bachelorarbeit ergibt sich aus dem arithmetischen Mittel der beiden
     Einzelnoten.
-
 09. Die Note für den mündlichen Teil der Bachelorarbeit fließt mit einem Viertel
     und die Note für den schriftlichen Teil der Bachelorarbeit fließtmit drei
     Vierteln in die zusammengefasste Note für die Bachelorarbeit ein.
-
 10. Die Bachelorarbeit ist bestanden, wenn die zusammengefasste Note für die
     Bachelorarbeit mindestens mit „ausreichend“ (4,0) bewertet wurde.
-
 11. Die Anrechnung einer Leistung auf die Bachelorarbeit ist zulässig und kann
     beim Prüfungsausschuss beantragt werden. Voraussetzung für eine solche
     Anrechnung ist,dass sich die Prüfungsbedingungen und die Aufgabenstellung
@@ -398,15 +367,12 @@ Gymnasien (LBW-ISS-GYM)
    ausgehändigt.
 
 ## § 14 Zugangsvoraussetzung
-
-```
 Zugangsvoraussetzung für das 60-LP-Modulangebot ist
 die Zulassung zu einem Bachelorstudiengang der
 Freien Universität Berlin mit einem 90 LP umfassenden
 Kernfach, das einem der Fächer gemäß § 3 Lehramtszugangsverordnung (LZVO) in Verbindung mit der Anlage 2 zur LZVO entspricht, soweit dessen Kombinierbarkeit mit dem 60-LP-Modulangebot nicht durch anderweitige Regelungen ausgeschlossen ist. Der Katalog
 der in Betracht kommenden Bachelorstudiengänge wird
 rechtzeitig vor Beginn des Zulassungsverfahrens bekannt gegeben.
-```
 
 ## § 15 Qualifikationsziele
 
@@ -458,36 +424,26 @@ rechtzeitig vor Beginn des Zulassungsverfahrens bekannt gegeben.
    LP nachzuweisen. Das 60-LP-Modulangebot gliedert sich in einen
    Grundlagenbereich im Umfang von 30 LP, einen Aufbaubereich im Umfang von 10
    LP und einen Vertiefungsbereich im Umfang von 20 LP.
-
-   1. Im Grundlagenbereich im Umfang von 30 LP sind folgende Module zu
-      absolvieren:
-
-      - Modul: Mathematik entdecken I (10 LP),
-      - Modul: Analysis I (10 LP) und
-      - Modul: Lineare Algebra I (10 LP).
-
-   2. Im Aufbaubereich im Umfang von 10 LP ist eines der folgenden Module zu
-      wählen und zu absolvieren:
-
-   - Modul: Analysis II (10 LP) oder
-   - Modul: Lineare Algebra II (10 LP) oder
-   - Modul: Zahlen, Gleichungen, algebraische Strukturen (10 LP).
-
-   3. Im Vertiefungsbereich sind drei Module im Umfang von insgesamt 20 LP wie
-      folgt zu absolvieren:
-
-      1. Es sind folgende zwei Module zu absolvieren:
-
-         - Modul: Wahrscheinlichkeit und Statistik (10 LP) und
-         - Modul: Proseminar Mathematik - Lehramt (5 LP) und
-
-      2. Aus den beiden folgenden Modulen ist ein weiteres Modul als drittes
-         Modul zu wählen und zu absolvieren:
-
-      - Modul: Computerorientierte Mathematik I (5 LP) oder
-      - Modul: Computerorientierte Mathematik II (5 LP) oder
-      - Modul: Computeralgebra (5 LP).
-
+    1. Im Grundlagenbereich im Umfang von 30 LP sind folgende Module zu
+       absolvieren:
+        - Modul: Mathematik entdecken I (10 LP),
+        - Modul: Analysis I (10 LP) und
+        - Modul: Lineare Algebra I (10 LP).
+    2. Im Aufbaubereich im Umfang von 10 LP ist eines der folgenden Module zu
+       wählen und zu absolvieren:
+        - Modul: Analysis II (10 LP) oder
+        - Modul: Lineare Algebra II (10 LP) oder
+        - Modul: Zahlen, Gleichungen, algebraische Strukturen (10 LP).
+    3. Im Vertiefungsbereich sind drei Module im Umfang von insgesamt 20 LP wie
+       folgt zu absolvieren:
+        1. Es sind folgende zwei Module zu absolvieren:
+            - Modul: Wahrscheinlichkeit und Statistik (10 LP) und
+            - Modul: Proseminar Mathematik - Lehramt (5 LP) und
+        2. Aus den beiden folgenden Modulen ist ein weiteres Modul als drittes
+           Modul zu wählen und zu absolvieren:
+            - Modul: Computerorientierte Mathematik I (5 LP) oder
+            - Modul: Computerorientierte Mathematik II (5 LP) oder
+            - Modul: Computeralgebra (5 LP).
 2. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -500,7 +456,6 @@ rechtzeitig vor Beginn des Zulassungsverfahrens bekannt gegeben.
    auf die Studienordnung und die Prüfungsordnung für den Bachelorstudiengang
    Mathematik des Fachbereichs Mathematik und Informatik der Freien Universität
    Berlin verwiesen.
-
 3. Über den empfohlenen Verlauf des Studiums im 60-LP-Modulangebot unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2 unter 2.2.
 

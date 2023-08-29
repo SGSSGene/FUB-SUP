@@ -10,7 +10,7 @@ Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende
 Abweichungen sind bekannt:
 
 - Seite 601: Fehlt ein leerzeichen:
-  - `(1){++ ++}Diese Studienordnung tritt am Tage nach ihrer Ver-`
+    - `(1){++ ++}Diese Studienordnung tritt am Tage nach ihrer Ver-`
 - Anlage 2 der Studienordnung ist nicht als markdown vorhanden
 - Anlage 2-3 der Prüfungsordnung ist nicht als markdown vorhanden
 - Seite 645: Das Modul "Differentialgleichungen I" exstiert in der 2018 msc
