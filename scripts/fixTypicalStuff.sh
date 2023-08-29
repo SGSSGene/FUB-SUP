@@ -14,7 +14,7 @@ extractSection() {
     local start_line=$(grep -n "^${begin}" ${file} | cut -f 1 -d ':' | tail +${idx} | head -n 1)
     local end_line=$(grep -n "^${end}" ${file} | cut -f 1 -d ':' | tail +${idx} | head -n 1)
     head -n ${start_line} ${file} > ${out}.p1
-    tail +$(expr $start_line + 1) $file | head -n $(expr ${end_line} - ${start_line} - 1) | perl -p -e 's|^    ||' > ${out}.p2
+    tail +$(expr $start_line + 1) $file | head -n $(expr ${end_line} - ${start_line} - 1) | perl -p -e 's|^    ||' > ${out}.p2 || true
     tail +${end_line} $file > ${out}.p3
 }
 
@@ -49,13 +49,3 @@ for i in $(seq 1 ${l}); do
     formatSection "  usability: |" "  differentiated:" $i tmp.part
 done
 cp tmp.part ${file}
-
-
-
-# | perl -0777 -p -e 's|\n  goals: '"'"'(.*(\n.*?)*?)'"'"'\n  content:|\n  goals: \|\n    \1\n  content:|g' \
-# | perl -0777 -p -e 's|\n  content: '"'"'(.*(\n.*?)*?)'"'"'\n  teachingunit:|\n  content: \|\n    \1\n  teachingunit:|g' \
-# | perl -0777 -p -e 's|\n  usability: '"'"'(.*(\n.*?)*?)'"'"'\n  differentiated:|\n  usability: \|\n    \1\n  differentiated:|g' \
-# | perl -0777 -p -e 's|\n  goals: ([^\|].*(\n.*?)*?)\n  content:|\n  goals: \|\n    \1\n  content:|g' \
-# | perl -0777 -p -e 's|\n  content: ([^\|].*(\n.*?)*?)\n  teachingunit:|\n  content: \|\n    \1\n  teachingunit:|g' \
-# | perl -0777 -p -e 's|\n  usability: ([^\|].*(\n.*?)*?)\n  differentiated:|\n  usability: \|\n    \1\n  differentiated:|g' \
-
