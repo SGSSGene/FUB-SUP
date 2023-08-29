@@ -92,119 +92,110 @@ Die Regelstudienzeit beträgt vier Semester.
    Leistungspunkten (LP), davon 90 LP für Module und 30 LP für die Masterarbeit
    nachzuweisen. Im Rahmen des Masterstudiengangs sind neben der Masterarbeit
    Module wie folgt zu absolvieren:
-
-   1. Basismodule im Umfang von insgesamt 50 LP gemäß Abs. 3,
-   2. ein Aufbaumodul im Umfang von 5 LP gemäß Abs. 4,
-   3. ein Vertiefungsmodul im Umfang von 5 LP gemäß Abs. 5 und
-   4. Ergänzungsmodule im Umfang von insgesamt 30 LP gemäß Abs. 6.
-
+    1. Basismodule im Umfang von insgesamt 50 LP gemäß Abs. 3,
+    2. ein Aufbaumodul im Umfang von 5 LP gemäß Abs. 4,
+    3. ein Vertiefungsmodul im Umfang von 5 LP gemäß Abs. 5 und
+    4. Ergänzungsmodule im Umfang von insgesamt 30 LP gemäß Abs. 6.
 2. Der Masterstudiengang gliedert sich fachlich in die folgenden zehn
    Studiengebiete:
+    - Algebra,
+    - Differentialgeometrie,
+    - Partielle Differentialgleichungen,
+    - Diskrete Geometrie,
+    - Diskrete Mathematik,
+    - Dynamische Systeme,
+    - Numerik,
+    - Stochastik,
+    - Topologie,
+    - Zahlentheorie.
 
-   - Algebra,
-   - Differentialgeometrie,
-   - Partielle Differentialgleichungen,
-   - Diskrete Geometrie,
-   - Diskrete Mathematik,
-   - Dynamische Systeme,
-   - Numerik,
-   - Stochastik,
-   - Topologie,
-   - Zahlentheorie.
-
-   Die Modultitel zeigen die Zugehörigkeit zu einem Studiengebiet an.
+    Die Modultitel zeigen die Zugehörigkeit zu einem Studiengebiet an.
 
 3. In den Studiengebieten gemäß Abs. 2 werden Basismodule angeboten, die in das
    jeweilige Studiengebiet einführen. Aus den folgenden Basismodulen sind Module
    im Umfang von insgesamt 50 LP auszuwählen und zu absolvieren:
+    - Basismodul: Algebra I (10 LP)
+    - Basismodul: Algebra II (10 LP)
+    - Basismodul: Differentialgeometrie I (10 LP)
+    - Basismodul: Differentialgeometrie II (10 LP)
+    - Basismodul: Diskrete Geometrie I (10 LP)
+    - Basismodul: Diskrete Geometrie II (10 LP)
+    - Basismodul: Diskrete Mathematik I (10 LP)
+    - Basismodul: Diskrete Mathematik II (10 LP)
+    - Basismodul: Dynamische Systeme I (10 LP)
+    - Basismodul: Dynamische Systeme II (10 LP)
+    - Basismodul: Numerik II (10 LP)
+    - Basismodul: Numerik III (10 LP)
+    - Basismodul: Partielle Differentialgleichungen I (10 LP)
+    - Basismodul: Partielle Differentialgleichungen II (10 LP)
+    - Basismodul: Stochastik II (10 LP)
+    - Basismodul: Stochastik III (10 LP)
+    - Basismodul: Topologie I (10 LP)
+    - Basismodul: Topologie II (10 LP)
+    - Basismodul: Zahlentheorie II (10 LP)
 
-   - Basismodul: Algebra I (10 LP)
-   - Basismodul: Algebra II (10 LP)
-   - Basismodul: Differentialgeometrie I (10 LP)
-   - Basismodul: Differentialgeometrie II (10 LP)
-   - Basismodul: Diskrete Geometrie I (10 LP)
-   - Basismodul: Diskrete Geometrie II (10 LP)
-   - Basismodul: Diskrete Mathematik I (10 LP)
-   - Basismodul: Diskrete Mathematik II (10 LP)
-   - Basismodul: Dynamische Systeme I (10 LP)
-   - Basismodul: Dynamische Systeme II (10 LP)
-   - Basismodul: Numerik II (10 LP)
-   - Basismodul: Numerik III (10 LP)
-   - Basismodul: Partielle Differentialgleichungen I (10 LP)
-   - Basismodul: Partielle Differentialgleichungen II (10 LP)
-   - Basismodul: Stochastik II (10 LP)
-   - Basismodul: Stochastik III (10 LP)
-   - Basismodul: Topologie I (10 LP)
-   - Basismodul: Topologie II (10 LP)
-   - Basismodul: Zahlentheorie II (10 LP)
-
-   In jedem Semester werden mindestens drei Basismodule ohne
-   Zugangsvoraussetzungen aus den zehn Studiengebieten gemäß Abs. 2 angeboten.
-   Ein Anspruch auf ein bestimmtes Modul aus einem bestimmten Studiengebiet
-   besteht nicht.
+    In jedem Semester werden mindestens drei Basismodule ohne
+    Zugangsvoraussetzungen aus den zehn Studiengebieten gemäß Abs. 2 angeboten.
+    Ein Anspruch auf ein bestimmtes Modul aus einem bestimmten Studiengebiet
+    besteht nicht.
 
 4. In den Studiengebieten gemäß Abs. 2 wird jeweils ein Aufbaumodul angeboten,
    das an den aktuellen Stand der Forschung heranführt. In einem der
    Studiengebiete, in dem bereits mindestens ein Basismodul absolviert wurde,
    ist ein Modul im Umfang von 5 LP aus den folgenden Aufbaumodulen zu wählen
    und zu absolvieren:
-
-   - Aufbaumodul: Algebra III (5 LP)
-   - Aufbaumodul: Differentialgeometrie III (5 LP)
-   - Aufbaumodul: Diskrete Geometrie III (5 LP)
-   - Aufbaumodul: Diskrete Mathematik III (5 LP)
-   - Aufbaumodul: Dynamische Systeme III (5 LP)
-   - Aufbaumodul: Numerik IV (5 LP)
-   - Aufbaumodul: Partielle Differentialgleichungen III (5 LP)
-   - Aufbaumodul: Stochastik IV (5 LP)
-   - Aufbaumodul: Topologie III (5 LP)
-   - Aufbaumodul: Zahlentheorie III (5 LP)
-
+    - Aufbaumodul: Algebra III (5 LP)
+    - Aufbaumodul: Differentialgeometrie III (5 LP)
+    - Aufbaumodul: Diskrete Geometrie III (5 LP)
+    - Aufbaumodul: Diskrete Mathematik III (5 LP)
+    - Aufbaumodul: Dynamische Systeme III (5 LP)
+    - Aufbaumodul: Numerik IV (5 LP)
+    - Aufbaumodul: Partielle Differentialgleichungen III (5 LP)
+    - Aufbaumodul: Stochastik IV (5 LP)
+    - Aufbaumodul: Topologie III (5 LP)
+    - Aufbaumodul: Zahlentheorie III (5 LP)
 5. In den Studiengebieten gemäß Abs. 2 wird jeweils ein Vertiefungsmodul
    angeboten, das der eigenständigen Erarbeitung aktueller Forschungsthemen und
    deren Vermittlung im Vortrag und in schriftlichen Ausarbeitungen dient. In
    dem Studiengebiet, in dem bereits mindestens ein Basismodul absolviert wurde
    und in dem das zugehörige Aufbaumodul absolviert wird, ist das zu diesem
    Studiengebiet gehörende Vertiefungsmodul im Umfang von 5 LP zu absolvieren:
-
-   - Vertiefungsmodul: Masterseminar Algebra (5 LP)
-   - Vertiefungsmodul: Masterseminar Differentialgeometrie (5 LP)
-   - Vertiefungsmodul: Masterseminar Diskrete Geometrie (5 LP)
-   - Vertiefungsmodul: Masterseminar Diskrete Mathematik (5 LP)
-   - Vertiefungsmodul: Masterseminar Dynamische Systeme (5 LP)
-   - Vertiefungsmodul: Masterseminar Numerik (5 LP)
-   - Vertiefungsmodul: Masterseminar Partielle Differentialgleichungen (5 LP)
-   - Vertiefungsmodul: Masterseminar Stochastik (5 LP)
-   - Vertiefungsmodul: Masterseminar Topologie (5 LP)
-   - Vertiefungsmodul: Masterseminar Zahlentheorie (5 LP)
-
+    - Vertiefungsmodul: Masterseminar Algebra (5 LP)
+    - Vertiefungsmodul: Masterseminar Differentialgeometrie (5 LP)
+    - Vertiefungsmodul: Masterseminar Diskrete Geometrie (5 LP)
+    - Vertiefungsmodul: Masterseminar Diskrete Mathematik (5 LP)
+    - Vertiefungsmodul: Masterseminar Dynamische Systeme (5 LP)
+    - Vertiefungsmodul: Masterseminar Numerik (5 LP)
+    - Vertiefungsmodul: Masterseminar Partielle Differentialgleichungen (5 LP)
+    - Vertiefungsmodul: Masterseminar Stochastik (5 LP)
+    - Vertiefungsmodul: Masterseminar Topologie (5 LP)
+    - Vertiefungsmodul: Masterseminar Zahlentheorie (5 LP)
 6. Darüber hinaus werden im Masterstudiengang Ergänzungsmodule angeboten, die
    thematisch auf alle Studiengebiete ausgerichtet werden können und eine
    fachliche Ergänzung darstellen. Aus den folgenden Ergänzungsmodulen sind
    Module im Umfang von insgesamt 30 LP auszuwählen und zu absolvieren:
+    - Ergänzungsmodul: Ausgewählte Themen A (10 LP)
+    - Ergänzungsmodul: Ausgewählte Themen B (10 LP)
+    - Ergänzungsmodul: Ausgewählte Themen C (10 LP)
+    - Ergänzungsmodul: Spezielle Aspekte A (5 LP)
+    - Ergänzungsmodul: Spezielle Aspekte B (5 LP)
+    - Ergänzungsmodul: Spezielle Aspekte C (5 LP)
+    - Ergänzungsmodul: Aktuelle Forschungsthemen A (5 LP)
+    - Ergänzungsmodul: Aktuelle Forschungsthemen B (5 LP)
+    - Ergänzungsmodul: Aktuelle Forschungsthemen C (5 LP)
+    - Ergänzungsmodul: Spezielle Forschungsaspekte (5 LP)
+    - Ergänzungsmodul: Forschungsprojekt (10 LP)
 
-   - Ergänzungsmodul: Ausgewählte Themen A (10 LP)
-   - Ergänzungsmodul: Ausgewählte Themen B (10 LP)
-   - Ergänzungsmodul: Ausgewählte Themen C (10 LP)
-   - Ergänzungsmodul: Spezielle Aspekte A (5 LP)
-   - Ergänzungsmodul: Spezielle Aspekte B (5 LP)
-   - Ergänzungsmodul: Spezielle Aspekte C (5 LP)
-   - Ergänzungsmodul: Aktuelle Forschungsthemen A (5 LP)
-   - Ergänzungsmodul: Aktuelle Forschungsthemen B (5 LP)
-   - Ergänzungsmodul: Aktuelle Forschungsthemen C (5 LP)
-   - Ergänzungsmodul: Spezielle Forschungsaspekte (5 LP)
-   - Ergänzungsmodul: Forschungsprojekt (10 LP)
-
-   Auf Antrag und mit Zustimmung des Prüfungsausschusses können Module aus
-   benachbarten wissenschaftlichen Studienfächern als Ergänzungsmodule für den
-   Masterstudiengang gewählt werden, sofern die Studentinnen und Studenten einen
-   Zugang zu dem jeweiligen Modul erhalten. Ebenso können Module aus dem
-   Bachelorstudiengang Mathematik des Fachbereichs Mathematik und Informatik der
-   Freien Universität Berlin, die dort nicht eingebracht wurden, im Umfang von
-   insgesamt bis zu 15 LP eingebracht werden. Die mehrfache Einbringung von
-   Themen in verschiedenen Modulen ist nicht möglich. Hinsichtlich der Wahl der
-   thematisch ausgerichteten Ergänzungsmodule wird empfohlen, die
-   Studienfachberatung zu nutzen.
+    Auf Antrag und mit Zustimmung des Prüfungsausschusses können Module aus
+    benachbarten wissenschaftlichen Studienfächern als Ergänzungsmodule für den
+    Masterstudiengang gewählt werden, sofern die Studentinnen und Studenten einen
+    Zugang zu dem jeweiligen Modul erhalten. Ebenso können Module aus dem
+    Bachelorstudiengang Mathematik des Fachbereichs Mathematik und Informatik der
+    Freien Universität Berlin, die dort nicht eingebracht wurden, im Umfang von
+    insgesamt bis zu 15 LP eingebracht werden. Die mehrfache Einbringung von
+    Themen in verschiedenen Modulen ist nicht möglich. Hinsichtlich der Wahl der
+    thematisch ausgerichteten Ergänzungsmodule wird empfohlen, die
+    Studienfachberatung zu nutzen.
 
 7. Für Studentinnen und Studenten, die eine erfolgreiche Qualifizierungsprüfung
    (Eignungsfeststellungs-Prüfung) der Berlin Mathematical School (BMS) abgelegt
@@ -212,10 +203,8 @@ Die Regelstudienzeit beträgt vier Semester.
    die Masterarbeit anzufertigen, die einem unmittelbar anschließenden
    Dissertationsvorhaben dient. Für die Studentinnen und Studenten gemäß Satz 1
    werden folgende Ergänzungsmodule zusätzlich angeboten:
-
-   - Ergänzungsmodul: BMS-Fridays (10 LP)
-   - Ergänzungsmodul: What is …? (5 LP)
-
+    - Ergänzungsmodul: BMS-Fridays (10 LP)
+    - Ergänzungsmodul: What is …? (5 LP)
 8. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -223,32 +212,31 @@ Die Regelstudienzeit beträgt vier Semester.
    Lernformen, die den Modulen jeweils zugeordneten Leistungspunkte, die
    Regeldauer und die Angebotshäufigkeit informieren für die Module des
    Masterstudiengangs die Modulbeschreibungen in der Anlage 1.
-
 9. Über den empfohlenen Verlauf des Studiums im Masterstudiengang unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2.
 
 ## § 8 Lehr- und Lernformen
 
 1. Im Rahmen des Lehrangebots werden folgende Lehr- und Lernformen angeboten:
-   1. Vorlesung (V): In den Vorlesungen werden mathematische Begriffe und
-      Strukturen durch eine Dozentin oder einen Dozenten vermittelt.
-   2. Übung (Ü): In Übungen verfestigen die Studentinnen und Studenten das
-      Gelernte durch selbstständiges Lösen von Aufgaben und die Präsentation der
-      Ergebnisse in kleinen Gruppen. Dabei werden unter Anleitung der Dozentin
-      oder des Dozenten auch ein modernes Diversitätsverständnis sowie Team-,
-      Kommunikations- und Transferfähigkeiten entwickelt.
-   3. Seminar (S): Seminare dienen der aktiven Auseinandersetzung der
-      Studentinnen und Studenten mit der aktuellen Forschung. Auf Grundlage
-      deutsch- und fremdsprachiger Originalarbeiten und eigenständiger
-      Literaturrecherche erarbeiten sich Studentinnen und Studenten unter
-      Anleitung der Dozentin oder des Dozenten anspruchsvolle mathematische
-      Sachverhalte und stellen ihre Ergebnisse in mündlicher und schriftlicher
-      Form vor.
-   4. Projektseminar (PrjS): Projektseminare dienen der anwendungs- und
-      problembezogenen Vertiefung fachwissenschaftlicher Kenntnisse und
-      Methoden. Die Projektarbeitsgruppen sind von Studentinnen und Studenten
-      selbstständig organisierte und von Dozenten betreute Kleingruppen, die der
-      begleitenden Bearbeitung des Projektes dienen.
+    1. Vorlesung (V): In den Vorlesungen werden mathematische Begriffe und
+       Strukturen durch eine Dozentin oder einen Dozenten vermittelt.
+    2. Übung (Ü): In Übungen verfestigen die Studentinnen und Studenten das
+       Gelernte durch selbstständiges Lösen von Aufgaben und die Präsentation der
+       Ergebnisse in kleinen Gruppen. Dabei werden unter Anleitung der Dozentin
+       oder des Dozenten auch ein modernes Diversitätsverständnis sowie Team-,
+       Kommunikations- und Transferfähigkeiten entwickelt.
+    3. Seminar (S): Seminare dienen der aktiven Auseinandersetzung der
+       Studentinnen und Studenten mit der aktuellen Forschung. Auf Grundlage
+       deutsch- und fremdsprachiger Originalarbeiten und eigenständiger
+       Literaturrecherche erarbeiten sich Studentinnen und Studenten unter
+       Anleitung der Dozentin oder des Dozenten anspruchsvolle mathematische
+       Sachverhalte und stellen ihre Ergebnisse in mündlicher und schriftlicher
+       Form vor.
+    4. Projektseminar (PrjS): Projektseminare dienen der anwendungs- und
+       problembezogenen Vertiefung fachwissenschaftlicher Kenntnisse und
+       Methoden. Die Projektarbeitsgruppen sind von Studentinnen und Studenten
+       selbstständig organisierte und von Dozenten betreute Kleingruppen, die der
+       begleitenden Bearbeitung des Projektes dienen.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -271,10 +259,10 @@ Die Regelstudienzeit beträgt vier Semester.
    absolviert wurde oder wird.
 2. Studentinnen und Studenten werden auf Antrag zur Masterarbeit zugelassen,
    wenn sie bei Antragstellung nachweisen, dass sie
-   1. im Masterstudiengang zuletzt an der Freien Universität Berlin
-      immatrikuliert gewesen sind und
-   2. Module im Umfang von insgesamt mindestens 60 LP im Masterstudiengang
-      absolviert haben.
+    1. im Masterstudiengang zuletzt an der Freien Universität Berlin
+       immatrikuliert gewesen sind und
+    2. Module im Umfang von insgesamt mindestens 60 LP im Masterstudiengang
+       absolviert haben.
 3. Dem Antrag auf Zulassung zur Masterarbeit sind Nachweise über das Vorliegen
    der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer
    prüfungsberechtigten Lehrkraft über die Bereitschaft zur Übernahme der
@@ -449,7 +437,7 @@ Die Regelstudienzeit beträgt vier Semester.
 2. Gleichzeitig tritt die Studienordnung für den Masterstudiengang vom 23.
    November 2011 (FU-Mitteilungen 57/2011, S. 1466) und die Prüfungsordnung für
    den Masterstudiengang vom 23. November 2011 (FU-Mitteilungen 57/2011, S.
-   1509\) außer Kraft.
+   1509) außer Kraft.
 3. Diese Ordnung gilt für Studentinnen und Studenten, die nach deren
    Inkrafttreten im Masterstudiengang an der Freien Universität Berlin
    immatrikuliert werden. Studentinnen und Studenten, die vor dem Inkrafttreten

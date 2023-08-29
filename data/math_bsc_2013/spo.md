@@ -121,54 +121,54 @@ Es werden folgende Lehr- und Lernformen angeboten:
 
 1. Der Bachelorstudiengang im Umfang von 180 Leistungspunkten (LP) gliedert sich
    in
-   1. das Kernfach Mathematik im Umfang von 120 bis 130 LP einschließlich der
-      Bachelorarbeit im Umfang von 12 LP,
-   2. den Ergänzungsbereich im Umfang von 20 bis 30 LP und
-   3. den Studienbereich Allgemeine Berufsvorbereitung (ABV) im Umfang von 30
-      LP.
+    1. das Kernfach Mathematik im Umfang von 120 bis 130 LP einschließlich der
+       Bachelorarbeit im Umfang von 12 LP,
+    2. den Ergänzungsbereich im Umfang von 20 bis 30 LP und
+    3. den Studienbereich Allgemeine Berufsvorbereitung (ABV) im Umfang von 30
+       LP.
 2. Das Kernfach Mathematik gliedert sich in einen Grundlagenbereich im Umfang
    von 83 LP und einen Vertiefungsbereich im Umfang von 25 bis 35 LP. Im Rahmen
    des Kernfachs ist ferner die Bachelorarbeit und zugehörige mündliche
    Präsentation der Ergebnisse im Umfang von insgesamt 12 LP zu absolvieren.
 3. Der Grundlagenbereich im Umfang von 83 LP umfasst folgende Module:
-   - Analysis I (10 LP)
-   - Analysis II (10 LP)
-   - Analysis III (11 LP)
-   - Lineare Algebra I (10 LP)
-   - Lineare Algebra II (10 LP)
-   - Computerorientierte Mathematik I (5 LP)
-   - Computerorientierte Mathematik II (5 LP)
-   - Stochastik I (10 LP)
-   - Numerik I (12 LP).
+    - Analysis I (10 LP)
+    - Analysis II (10 LP)
+    - Analysis III (11 LP)
+    - Lineare Algebra I (10 LP)
+    - Lineare Algebra II (10 LP)
+    - Computerorientierte Mathematik I (5 LP)
+    - Computerorientierte Mathematik II (5 LP)
+    - Stochastik I (10 LP)
+    - Numerik I (12 LP).
 4. Der Vertiefungsbereich im Umfang von 25 bis 35 LP umfasst ein Pflichtmodul im
    Umfang von 5 LP und Module des Wahlbereichs im Umfang von 20 bis 30 LP wie
    folgt:
    1. Pflichtmodul: Wissenschaftliches Arbeiten in der Mathematik (5 LP)
    2. Wahlbereich: Es sind Module im Umfang von 20 bis 30 LP zu wählen:
-      1. Aus folgenden Modulen können bis zu drei Module gewählt und absolviert
-         werden:
-         - Algebra und Zahlentheorie (10 LP)
-         - Höhere Analysis (10 LP)
-         - Elementargeometrie (10 LP)
-         - Geometrie (10 LP)
-         - Funktionalanalysis (10 LP)
-         - Funktionentheorie (10 LP)
-         - Stochastik II (10 LP)
-         - Mathematisches Projekt (10 LP)
-         - Datenstrukturen und Datenabstraktion mit Anwendung (10 LP)
-         - Aktuelle Themen der Mathematik (5 LP)
-         - Spezialthemen der Mathematik (10 LP)
-         - Spezialthemen der reinen Mathematik (5 LP)
-         - Spezialthemen der angewandten Mathematik (5 LP)
-      2. Aus den folgenden Modulen kann ein Modul gewählt und absolviert werden:
-         - Differentialgleichungen I (10 LP)
-         - Diskrete Mathematik I (10 LP)
-         - Algebra I (10 LP)
-         - Numerik II (10 LP)
-         - Differentialgeometrie I (10 LP)
-         - Topologie I (10 LP)
-         - Visualisierung (10 LP)
-         - Höhere Algorithmik mit Anwendung (10 LP)
+       1. Aus folgenden Modulen können bis zu drei Module gewählt und absolviert
+          werden:
+           - Algebra und Zahlentheorie (10 LP)
+           - Höhere Analysis (10 LP)
+           - Elementargeometrie (10 LP)
+           - Geometrie (10 LP)
+           - Funktionalanalysis (10 LP)
+           - Funktionentheorie (10 LP)
+           - Stochastik II (10 LP)
+           - Mathematisches Projekt (10 LP)
+           - Datenstrukturen und Datenabstraktion mit Anwendung (10 LP)
+           - Aktuelle Themen der Mathematik (5 LP)
+           - Spezialthemen der Mathematik (10 LP)
+           - Spezialthemen der reinen Mathematik (5 LP)
+           - Spezialthemen der angewandten Mathematik (5 LP)
+       2. Aus den folgenden Modulen kann ein Modul gewählt und absolviert werden:
+           - Differentialgleichungen I (10 LP)
+           - Diskrete Mathematik I (10 LP)
+           - Algebra I (10 LP)
+           - Numerik II (10 LP)
+           - Differentialgeometrie I (10 LP)
+           - Topologie I (10 LP)
+           - Visualisierung (10 LP)
+           - Höhere Algorithmik mit Anwendung (10 LP)
 5. Über Inhalte und Qualifikationsziele, Lehr- und Lernformen, den zeitlichen
    Arbeitsaufwand, die Formen der aktiven Teilnahme, die Regeldauer und die
    Angebotshäufigkeit informieren für die Module die Modulbeschreibungen in der
@@ -204,42 +204,34 @@ Es werden folgende Lehr- und Lernformen angeboten:
    eine breitere wissenschaftliche Bildung und weitere berufsfeldbezogene
    Kompetenzen zur Vorbereitung auf qualifikationsadäquate, auch international
    ausgerichtete berufliche Tätigkeiten nach dem Studium.
-
 2. Die Module des Studienbereichs ABV werden in der Studien- und Prüfungsordnung
    für den Studienbereich Allgemeine Berufsvorbereitung in Bachelorstudiengängen
    der Freien Universität Berlin (StO-ABV und PO-ABV) sowie dieser Studien- und
    Prüfungsordnung beschrieben.
-
 3. Der Studienbereich ABV im Umfang von 30 LP umfasst ein obligatorisches
    Berufspraktikum sowie unterschiedliche Kompetenzbereiche, die berufsrelevante
    Qualifikationsfelder abdecken. Aus den folgenden Modulen sind Module im
    Umfang von insgesamt 30 LP zu wählen und zu absolvieren:
+    1. Kompetenzbereich Fachnahe Zusatzqualifikationen:
+        1. Pflichtmodul:
+            - Kommunikation über Mathematik (5 LP)
+        2. Module im Umfang von 5 bis 10 LP aus den folgenden Modulen:
+            - Computeralgebra (5 LP)
+            - Statistik-Software (CoSta) (5 LP)
+            - Einführung in die Visualisierung (5 LP)
+            - Panorama der Mathematik (10 LP)
+            - Programmierung (5 LP)
+            - Planung, Durchführung und Analyse eines Tutoriums (5 LP)
 
-   1. Kompetenzbereich Fachnahe Zusatzqualifikationen:
+        Ferner sind im Rahmen der Module des Kompetenzbereichs „Fachnahe
+        Zusatzqualifikationen“ gemäß Nr. 1 Buchst. b) alle Module wählbar, die im
+        Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik
+        der Freien Universität Berlin für den Studienbereich ABV vorgesehen sind;
+        auf die entsprechende Studien- und Prüfungsordnung wird verwiesen.
 
-      1. Pflichtmodul:
-
-         - Kommunikation über Mathematik (5 LP)
-
-      2. Module im Umfang von 5 bis 10 LP aus den folgenden Modulen:
-
-         - Computeralgebra (5 LP)
-         - Statistik-Software (CoSta) (5 LP)
-         - Einführung in die Visualisierung (5 LP)
-         - Panorama der Mathematik (10 LP)
-         - Programmierung (5 LP)
-         - Planung, Durchführung und Analyse eines Tutoriums (5 LP)
-
-      Ferner sind im Rahmen der Module des Kompetenzbereichs „Fachnahe
-      Zusatzqualifikationen“ gemäß Nr. 1 Buchst. b) alle Module wählbar, die im
-      Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik
-      der Freien Universität Berlin für den Studienbereich ABV vorgesehen sind;
-      auf die entsprechende Studien- und Prüfungsordnung wird verwiesen.
-
-   2. Frei wählbare Module in anderen Kompetenzbereichen im Umfang von 5, 10
-      oder 15 LP und
-
-   3. das Berufspraktikum im Umfang von 5, 10 oder 15 LP.
+    2. Frei wählbare Module in anderen Kompetenzbereichen im Umfang von 5, 10
+       oder 15 LP und
+    3. das Berufspraktikum im Umfang von 5, 10 oder 15 LP.
 
 4. Das Berufspraktikum ist in einem dafür geeigneten Betrieb, an einer
    außeruniversitären wissenschaftlichen Einrichtung oder an einer anderen
@@ -255,7 +247,6 @@ Es werden folgende Lehr- und Lernformen angeboten:
    beschriebene Modul „Berufspraktikum“ im Umfang von 10 LP zu absolvieren.
    Alternativ können auch die zentralen Praktikumsmodule im Umfang von 5, 10
    oder 15 LP gemäß StO-ABV und PO-ABV absolviert werden.
-
 5. Die Module gemäß Abs. 3 und darin erbrachte Leistungen dürfen nicht mit
    Modulen und Leistungen des Kernfachs und den gewählten Modulangeboten aus
    anderen fachlichen Bereichen übereinstimmen.
@@ -351,12 +342,10 @@ Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester.
 
 1. Im Rahmen des Bachelorstudiengangs sind Prüfungs- und Studienleistungen
    (Leistungen) im Umfang von 180 Leistungspunkten (LP) nachzuweisen, davon
-
-   - 120 bis 130 LP im Kernfach Mathematik, davon 12 LP für die Bachelorarbeit
-     mit mündlicher Präsentation,
-   - 20 bis 30 LP im Ergänzungsbereich und
-   - 30 LP im Studienbereich Allgemeine Berufsvorbereitung (ABV).
-
+    - 120 bis 130 LP im Kernfach Mathematik, davon 12 LP für die Bachelorarbeit
+      mit mündlicher Präsentation,
+    - 20 bis 30 LP im Ergänzungsbereich und
+    - 30 LP im Studienbereich Allgemeine Berufsvorbereitung (ABV).
 2. Die in den Modulen zu erbringenden studienbegleitenden Prüfungsleistungen,
    die Zugangsvoraussetzungen für die einzelnen Module, Angaben über die Pflicht
    zu regelmäßiger Teilnahme an den Lehr- und Lernformen sowie die den Modulen
@@ -375,15 +364,12 @@ Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester.
     Lage ist, ein mathematisches Thema selbstständig nach wissenschaftlichen
     Methoden in einer vorgegebenen Zeit zu bearbeiten, die Ergebnisse
     schriftlich und mündlich darzustellen und wissenschaftlich einzuordnen.
-
 02. Studentinnen und Studenten werden auf Antrag zur Bachelorarbeit zugelassen,
     wenn sie
-
-    1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
-       immatrikuliert gewesen sind,
-    2. Module im Umfang von 60 LP im Kernfach Mathematik erfolgreich absolviert
-       haben.
-
+     1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
+        immatrikuliert gewesen sind,
+     2. Module im Umfang von 60 LP im Kernfach Mathematik erfolgreich absolviert
+        haben.
 03. Dem Antrag auf Zulassung zur Bachelorarbeit sind Nachweise über das
     Vorliegen der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die
     Bescheinigung einer prüfungsberechtigten Lehrkraft über die Bereitschaft zur
@@ -391,50 +377,41 @@ Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester.
     entscheidet über den Antrag. Wird eine Bescheinigung über die Übernahme der
     Betreuung der Bachelorarbeit nicht vorgelegt, so setzt der Prüfungsausschuss
     eine Betreuerin oder einen Betreuer ein.
-
 04. Der Prüfungsausschuss gibt in Abstimmung mit der Betreuerin oder dem
     Betreuer das Thema der Bachelorarbeit aus. Thema und Aufgabenstellung müssen
     so beschaffen sein, dass die Bearbeitung innerhalb der Bearbeitungsfrist
     abgeschlossen werden kann. Ausgabe und Fristeinhaltung sind aktenkundig zu
     machen.
-
 05. Die Bearbeitungszeit für die Bachelorarbeit beträgt einschließlich der
     Anfertigung des Ergebnisberichtes zwölf Wochen.
-
 06. Als Beginn der Bearbeitungszeit gilt das Datum der Ausgabe des Themas durch
     den Prüfungsausschuss. Das Thema kann einmalig innerhalb der ersten drei
     Wochen zurückgegeben werden und gilt dann als nicht ausgegeben. Bei der
     Abgabe hat die Studentin oder der Student schriftlichzu versichern, dass sie
     oder er die Arbeit selbstständig verfasst und keine anderen als die
     angegebenen Quellen und Hilfsmittel benutzt hat.
-
 07. Die Bachelorarbeit ist in maschinenschriftlicher Form in dreifacher
     Ausfertigung als gebundenes Exemplar einzureichen. Außerdem ist die Arbeit
     in elektronischer Form (in einem vom Prüfungsbüro benannten Standardformat)
     vorzulegen.
-
 08. Die Bachelorarbeit ist von der Betreuerin oder dem Betreuer und einer oder
     einem weiteren Prüfungsberechtigten, die oder den der Prüfungsausschuss
     bestellt, innerhalb von vier Wochen mit einer schriftlichen Begründung zu
     bewerten. Mindestens eine dieser beiden Bewertungen soll von einer
     prüfungsberechtigten Lehrkraft sein, die am Fachbereich Mathematik und
     Informatik der Freien Universität Berlin hauptberuflich beschäftigt ist.
-
 09. Die Ergebnisse der Bachelorarbeit werden in einer Präsentation vorgestellt,
     wissenschaftlich eingeordnet und verteidigt. Voraussetzung für die Teilnahme
     an der Präsentation ist das Bestehen der Bachelorarbeit. Die mündliche
     Präsentation schließt sich so bald wie möglich der Abgabe der Bachelorarbeit
     an. Der Termin wird rechtzeitig in geeigneter Form bekannt gegeben.
-
 10. Die mündliche Präsentation dauert etwa 30 Minuten und besteht aus einer
     Darstellung der Bachelorarbeit durch die Kandidatin oder den Kandidaten
     (etwa 15 Minuten) und einer anschließenden Diskussion und Befragung (etwa 15
     Minuten). Der Vortrag und die Diskussion sind fachbereichsöffentlich.
-
 11. Die mündliche Präsentation der Bachelorarbeit wird in der Regel von
     denjenigen Prüfungsberechtigten abgenommen, die die Bachelorarbeit bewertet
     haben.
-
 12. Die Bachelorarbeit ist bestanden, wenn sowohl der schriftliche Teil der
     Bachelorarbeit als auch die mündliche Präsentation mit mindestens der Note
     „ausreichend“ (4,0) bewertet worden sind. Die zusammengefasste Note für die
@@ -461,11 +438,9 @@ Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester.
 ### § 7 Studienabschluss
 
 1. Voraussetzung für den Studienabschluss ist, dass
-
-   1. die gemäß § 6 der Studienordnung in Verbindung mit 4 dieser Ordnung
-      geforderten Leistungen erbracht worden sind,
-   2. die Bachelorarbeit an der Freien Universität Berlin bestanden worden ist.
-
+    1. die gemäß § 6 der Studienordnung in Verbindung mit 4 dieser Ordnung
+       geforderten Leistungen erbracht worden sind,
+    2. die Bachelorarbeit an der Freien Universität Berlin bestanden worden ist.
 2. Der Studienabschluss istausgeschlossen, wenn die Studentin oder der Student
    an einer anderen Hochschule im gleichen Studiengang oder in einem Modul,
    welches mit einem der im Bachelorstudiengang zu absolvierenden und bei der
@@ -473,13 +448,11 @@ Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester.
    vergleichbar ist, Leistungen endgültig nicht erbracht oder Prüfungsleistungen
    endgültig nicht bestanden hat oder sich in einem schwebenden
    Prüfungsverfahren befindet.
-
 3. Dem Antrag auf Feststellung des Studienabschlusses sind Nachweise über das
    Vorliegen der Voraussetzungen gemäß Abs. 1 und eine Versicherung beizufügen,
    dass für die Person der Antragstellerin oder des Antragstellers keiner der
    Fälle gemäß Abs. 2 vorliegt. Über den Antrag entscheidet der zuständige
    Prüfungsausschuss.
-
 4. Aufgrund des abgeschlossenen Studiums erhält die Studentin oder der Student
    ein Zeugnis und eine Urkunde (Anlagen 2 und 3) sowie ein Diploma Supplement
    (englische und deutsche Version). Darüber hinaus wird eine Zeugnisergänzung

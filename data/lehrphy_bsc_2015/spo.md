@@ -16,10 +16,10 @@ August 2015 bestätigt worden.
 
 - Anlage 1: Modulbeschreibungen
 - Anlage 2: Exemplarische Studienverlaufspläne
-  - 2.1 Exemplarischer Studienverlaufsplan: Bachelorstudiengang Physik für das
-    Lehramt (!TODO missing)
-  - 2.2 Exemplarischer Studienverlaufsplan: 60-LP-Modulangebot Physik im Rahmen
-    anderer Studiengänge (!TODO missing)
+    - 2.1 Exemplarischer Studienverlaufsplan: Bachelorstudiengang Physik für das
+      Lehramt (!TODO missing)
+    - 2.2 Exemplarischer Studienverlaufsplan: 60-LP-Modulangebot Physik im Rahmen
+      anderer Studiengänge (!TODO missing)
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
 - Anlage 4: Urkunde (Muster) (!TODO missing)
 
@@ -62,53 +62,51 @@ Die Regelstudienzeit beträgt sechs Semester.
 ## § 5 Lehr- und Lernformen
 
 1. Im Rahmen des Lehrangebots werden folgende Lehr- und Lernformen angeboten:
-
-   1. Vorlesungen (V) vermitteln entweder einen Überblick über einen größeren
-      Gegenstandsbereich des Faches und seine methodischen/theoretischen
-      Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet und seine
-      Forschungsprobleme. Die vorrangige Lehrform ist der Vortrag der jeweiligen
-      Lehrkraft.
-   2. Übungen (Ü) dienen der Vermittlung von anwendungsorientierten Kenntnissen
-      eines abgegrenzten Stoffgebietes und dem Erwerb von praktischen
-      Fähigkeiten, eine Aufgabe selbstständig zu bearbeiten, die Ergebnisse
-      darzustellen und kritisch zu diskutieren. Die vorrangige Arbeitsform ist
-      das Lösen von Übungsaufgaben. Die Lehrkraft leitetan und kontrolliertdie
-      Tätigkeiten.
-   3. Integrierte Veranstaltungen (IV) verknüpfen Elemente unterschiedlicher
-      Lehr- und Lernformen wie Grundkurse, Seminar, Laborpraktikum und
-      Lernwerkstatt. Sie dienen der Vermittlung und Erarbeitung von methodischen
-      und theoretischen Grundlagen und Kenntnissen über ein spezielles
-      Stoffgebiet sowie dem Erwerb von Fähigkeiten, eine Fragestellung
-      selbstständig zu bearbeiten und in einer praktischen Situation erfolgreich
-      umzusetzen. Als Arbeitsformen werden sowohl der Dozentenvortrag als auch
-      das selbstständige Arbeiten der Studentinnen und Studenten im Wechsel
-      gestaltet.
-   4. Praktika (P) dienen der selbstständigen Erarbeitung von Fragestellungen
-      und Lösungsmöglichkeiten an ausgewählten Objekten mit geeigneten Methoden
-      und ermöglichen das Erlernen praktischer und analytischer Fähigkeiten.
-      Unter Anleitung gewinnen die Studentinnen und Studenten Erfahrungen in der
-      Anwendung der erworbenen fachwissenschaftlichen Kenntnisse und Methoden
-      und können ihre Eignung für bestimmte Berufsfelder testen. In
-      Veranstaltungen, die Teil eines Praktikums sein können, soll besonders auf
-      Lehrinhalte in den Praktika eingegangen, sollen eventuelle Unklarheiten
-      beseitigt und Erfahrungen aus der Praxis reflektiert werden.
-   5. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
-      Stoffgebietes und dem Erwerb von Fähigkeiten, eine Fragestellung
-      selbstständig zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
-      diskutieren. Die vorrangigen Arbeitsformen sind Seminargespräche auf der
-      Grundlage von Unterrichtsmitteln, von vorzubereitender Lektüre
-      (Fachliteratur und Quellen), von Arbeitsaufträgen sowie die Gruppenarbeit
-      und Präsentationen.
-   6. In Projektseminaren (ProjS) werden vertiefte Kenntnisse und Methoden eines
-      komplexen physikalischen Gegenstandsbereiches oder Forschungsfeldes
-      vermittelt. Projektseminare sind in der Regel an den
-      Forschungsschwerpunkten der Fachgebiete der Physik orientiert. Sie dienen
-      auch dem Erwerb von Fähigkeiten, eine wissenschaftliche Fragestellung
-      selbstständig zu bearbeiten, die Ergebnisse zu präsentieren, kritisch zu
-      diskutieren und zu reflektieren. Die vorrangigen Arbeitsformen sind die
-      von den Dozent/innen betreute Gruppen- oder Projektarbeit sowie
-      Seminargespräche und Präsentationen.
-
+    1. Vorlesungen (V) vermitteln entweder einen Überblick über einen größeren
+       Gegenstandsbereich des Faches und seine methodischen/theoretischen
+       Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet und seine
+       Forschungsprobleme. Die vorrangige Lehrform ist der Vortrag der jeweiligen
+       Lehrkraft.
+    2. Übungen (Ü) dienen der Vermittlung von anwendungsorientierten Kenntnissen
+       eines abgegrenzten Stoffgebietes und dem Erwerb von praktischen
+       Fähigkeiten, eine Aufgabe selbstständig zu bearbeiten, die Ergebnisse
+       darzustellen und kritisch zu diskutieren. Die vorrangige Arbeitsform ist
+       das Lösen von Übungsaufgaben. Die Lehrkraft leitetan und kontrolliertdie
+       Tätigkeiten.
+    3. Integrierte Veranstaltungen (IV) verknüpfen Elemente unterschiedlicher
+       Lehr- und Lernformen wie Grundkurse, Seminar, Laborpraktikum und
+       Lernwerkstatt. Sie dienen der Vermittlung und Erarbeitung von methodischen
+       und theoretischen Grundlagen und Kenntnissen über ein spezielles
+       Stoffgebiet sowie dem Erwerb von Fähigkeiten, eine Fragestellung
+       selbstständig zu bearbeiten und in einer praktischen Situation erfolgreich
+       umzusetzen. Als Arbeitsformen werden sowohl der Dozentenvortrag als auch
+       das selbstständige Arbeiten der Studentinnen und Studenten im Wechsel
+       gestaltet.
+    4. Praktika (P) dienen der selbstständigen Erarbeitung von Fragestellungen
+       und Lösungsmöglichkeiten an ausgewählten Objekten mit geeigneten Methoden
+       und ermöglichen das Erlernen praktischer und analytischer Fähigkeiten.
+       Unter Anleitung gewinnen die Studentinnen und Studenten Erfahrungen in der
+       Anwendung der erworbenen fachwissenschaftlichen Kenntnisse und Methoden
+       und können ihre Eignung für bestimmte Berufsfelder testen. In
+       Veranstaltungen, die Teil eines Praktikums sein können, soll besonders auf
+       Lehrinhalte in den Praktika eingegangen, sollen eventuelle Unklarheiten
+       beseitigt und Erfahrungen aus der Praxis reflektiert werden.
+    5. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
+       Stoffgebietes und dem Erwerb von Fähigkeiten, eine Fragestellung
+       selbstständig zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
+       diskutieren. Die vorrangigen Arbeitsformen sind Seminargespräche auf der
+       Grundlage von Unterrichtsmitteln, von vorzubereitender Lektüre
+       (Fachliteratur und Quellen), von Arbeitsaufträgen sowie die Gruppenarbeit
+       und Präsentationen.
+    6. In Projektseminaren (ProjS) werden vertiefte Kenntnisse und Methoden eines
+       komplexen physikalischen Gegenstandsbereiches oder Forschungsfeldes
+       vermittelt. Projektseminare sind in der Regel an den
+       Forschungsschwerpunkten der Fachgebiete der Physik orientiert. Sie dienen
+       auch dem Erwerb von Fähigkeiten, eine wissenschaftliche Fragestellung
+       selbstständig zu bearbeiten, die Ergebnisse zu präsentieren, kritisch zu
+       diskutieren und zu reflektieren. Die vorrangigen Arbeitsformen sind die
+       von den Dozent/innen betreute Gruppen- oder Projektarbeit sowie
+       Seminargespräche und Präsentationen.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -172,43 +170,38 @@ Die Regelstudienzeit beträgt sechs Semester.
 1. Der Bachelorstudiengang ist in inhaltlich definierte Einheiten (Module)
    gegliedert, die in der Regel mehrere thematisch aufeinander bezogene Lehr-
    und Lernformen umfassen. Der Bachelorstudiengang gliedert sich in
-
-   1. das Kernfach Physik für das Lehramt im Umfang von 90 Leistungspunkten (LP)
-      einschließlich der Bachelorarbeit im Umfang von 10 LP,
-   2. ein 60-LP-Modulangebot aus anderen lehramtsbezogenen fachlichen Bereichen
-      im Umfang von 60 LP und
-   3. den Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte
-      Sekundarschulen und Gymnasien (LBW-ISS-GYM) im Umfang von 30 LP.
-
+    1. das Kernfach Physik für das Lehramt im Umfang von 90 Leistungspunkten (LP)
+       einschließlich der Bachelorarbeit im Umfang von 10 LP,
+    2. ein 60-LP-Modulangebot aus anderen lehramtsbezogenen fachlichen Bereichen
+       im Umfang von 60 LP und
+    3. den Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte
+       Sekundarschulen und Gymnasien (LBW-ISS-GYM) im Umfang von 30 LP.
 2. Das Kernfach gliedert sich neben der Bachelorarbeit in den Pflichtbereich und
    in den Wahlpflichtbereich wie folgt:
+    1. Im Pflichtbereich im Umfang von 70 LP sind folgende Module zu absolvieren:
+        - Modul: Grundlagen der Experimentalphysik (20 LP),
+        - Modul: Physikalische Grundkompetenzen (5 LP),
+        - Modul: Einführung in die Struktur der Materie (8 LP),
+        - Modul: Physikalisches Grundpraktikum 1 (5 LP),
+        - Modul: Physikalisches Grundpraktikum 2 (5 LP),
+        - Modul: Demonstrationspraktikum 1 (8 LP),
+        - Modul: Theoretische Physik 1 (7 LP),
+        - Modul: Theoretische Physik 2 (7 LP) und
+        - Modul: Moderne Physik (5 LP).
 
-   1. Im Pflichtbereich im Umfang von 70 LP sind folgende Module zu absolvieren:
+        Innerhalb des Moduls „Moderne Physik“ (5 LP) ergeben sich
+        Wahlmöglichkeiten. Hier werden regelmäßig mehrere thematisch verschiedene
+        Lehrveranstaltungen angeboten, aus denen gewählt wird.
 
-      - Modul: Grundlagen der Experimentalphysik (20 LP),
-      - Modul: Physikalische Grundkompetenzen (5 LP),
-      - Modul: Einführung in die Struktur der Materie (8 LP),
-      - Modul: Physikalisches Grundpraktikum 1 (5 LP),
-      - Modul: Physikalisches Grundpraktikum 2 (5 LP),
-      - Modul: Demonstrationspraktikum 1 (8 LP),
-      - Modul: Theoretische Physik 1 (7 LP),
-      - Modul: Theoretische Physik 2 (7 LP) und
-      - Modul: Moderne Physik (5 LP).
+    2. Im Wahlpflichtbereich im Umfang von 10 LP sind zwei Module aus den
+       folgenden drei Modulen zu wählen und zu absolvieren:
+        - Modul: Vertiefung Physik A (5 LP),
+        - Modul: Vertiefung Physik B (5 LP),
+        - Modul: Vertiefung Physik C (5 LP).
 
-      Innerhalb des Moduls „Moderne Physik“ (5 LP) ergeben sich
-      Wahlmöglichkeiten. Hier werden regelmäßig mehrere thematisch verschiedene
-      Lehrveranstaltungen angeboten, aus denen gewählt wird.
-
-   2. Im Wahlpflichtbereich im Umfang von 10 LP sind zwei Module aus den
-      folgenden drei Modulen zu wählen und zu absolvieren:
-
-      - Modul: Vertiefung Physik A (5 LP),
-      - Modul: Vertiefung Physik B (5 LP),
-      - Modul: Vertiefung Physik C (5 LP).
-
-      Hier werden ebenfalls regelmäßig mehrere thematisch verschiedene
-      Lehrveranstaltungen innerhalb der Module angeboten, aus denen gewählt
-      wird.
+        Hier werden ebenfalls regelmäßig mehrere thematisch verschiedene
+        Lehrveranstaltungen innerhalb der Module angeboten, aus denen gewählt
+        wird.
 
 3. Als 60-LP-Modulangebot aus anderen fachlichen lehramtsbezogenen Bereichen
    gemäß Abs. 1 Nr. 2 sind Modulangebote der übrigen Fachbereiche der Freien
@@ -224,7 +217,6 @@ Die Regelstudienzeit beträgt sechs Semester.
    der anderen Universitäten der Länder Berlin und Brandenburg entsprechend. Der
    Katalog der wählbaren Modulangebote wird rechtzeitig in geeigneter Weise
    bekannt gegeben.
-
 4. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -234,17 +226,10 @@ Die Regelstudienzeit beträgt sechs Semester.
    Modulbeschreibungen in der Anlage 1. Für die Module des gewählten
    60-LP-Modulangebots gemäß Abs. 1 Nr. 2 wird auf die jeweilige Studien- und
    Prüfungsordnung verwiesen.
-
 5. Über den empfohlenen Verlauf des Studiums im Bachelorstudiengang unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2 unter 2.1.
 
-## § 10 Studienbereich Lehramtsbezogene
-
-```
-Berufswissenschaft für Integrierte Sekundarschulen
-und Gymnasien (LBW-ISS-GYM)
-```
-
+## § 10 Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte Sekundarschulen und Gymnasien (LBW-ISS-GYM)
 1. Die Module des Studienbereichs LBW-ISS-GYM vermitteln den Studentinnen und
    Studenten erziehungswissenschaftliches und fachdidaktisches Basiswissen,
    ermöglichen eine theoriegeleitete Reflexion ihrer Lehrerfahrungen und
@@ -270,15 +255,12 @@ und Gymnasien (LBW-ISS-GYM)
    und die Ergebnisse schriftlich angemessen darzustellen und zu dokumentieren.
    Auf Antrag beim zuständigen Prüfungsausschuss kann auch ein fachdidaktisches,
    ein interdisziplinäres oder ein technisches Thema bearbeitet werden.
-
 2. Studentinnen und Studenten werden auf Antrag zur Bachelorarbeit zugelassen,
    wenn sie bei Antragstellung nachweisen, dass sie
-
-   1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
-      immatrikuliert gewesen sind und
-   2. Module im Umfang von insgesamt 44 LP im Kernfach gemäß § 9 Abs. 1 Nr. 1
-      absolviert haben.
-
+    1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
+       immatrikuliert gewesen sind und
+    2. Module im Umfang von insgesamt 44 LP im Kernfach gemäß § 9 Abs. 1 Nr. 1
+       absolviert haben.
 3. Dem Antrag auf Zulassung zur Bachelorarbeit sind Nachweise über das Vorliegen
    der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer
    prüfungsberechtigten Lehrkraft über die Bereitschaft zur Übernahme der
@@ -286,13 +268,11 @@ und Gymnasien (LBW-ISS-GYM)
    über den Antrag. Wird eine Bescheinigung über die Übernahme der Betreuung der
    Bachelorarbeit gemäß Satz 1 nicht vorgelegt, so setzt der Prüfungsausschuss
    eine Betreuerin oder einen Betreuer ein.
-
 4. Der Prüfungsausschuss gibt in Abstimmung mit der Betreuerin oder dem Betreuer
    das Thema der Bachelorarbeit aus. Thema und Aufgabenstellung müssen so
    beschaffen sein, dass die Bearbeitung innerhalb der Bearbeitungsfrist
    abgeschlossen werden kann. Ausgabe und Fristeinhaltung sind aktenkundig zu
    machen.
-
 5. Die Bearbeitungszeit für die Bachelorarbeit beträgt 300 Stunden. Die
    Abgabefrist beträgt 24 Wochen. War eine Studentin oder ein Student über einen
    Zeitraum von mehr als drei Monaten aus triftigem Grund an der Bearbeitung
@@ -300,7 +280,6 @@ und Gymnasien (LBW-ISS-GYM)
    erbracht werden muss. Die Prüfungsleistung hinsichtlich der Bachelorarbeit
    giltfür den Fall, dass der Prüfungsausschuss eine erneute Erbringung
    verlangt, als nicht unternommen.
-
 6. Als Beginn der Bearbeitungszeit gilt das Datum der Ausgabe des Themas durch
    den Prüfungsausschuss. Das Thema kann einmalig innerhalb der ersten drei
    Wochen zurückgegeben werden und gilt dann als nicht ausgegeben. Bei der
@@ -311,7 +290,6 @@ und Gymnasien (LBW-ISS-GYM)
    Form im Portable-Document-Format (PDF) abzugeben. Die PDF-Datei muss den Text
    maschinenlesbar und nicht nur grafisch enthalten und darf keine
    Rechtebeschränkung aufweisen.
-
 7. Die Bachelorarbeit ist innerhalb von vier Wochen von zwei vom
    Prüfungsausschuss bestellten Prüfungsberechtigten mit einer schriftlichen
    Begründung zu bewerten. Dabei soll die Betreuerin oder der Betreuer der
@@ -319,7 +297,6 @@ und Gymnasien (LBW-ISS-GYM)
    der oder des zweiten Prüfungsberechtigten steht den Studentinnen und
    Studenten ein Vorschlagsrecht zu, das aber keinen Anspruch auf
    Berücksichtigung begründet.
-
 8. Die Bachelorarbeit ist bestanden, wenn die Note für die Bachelorarbeit
    mindestens „ausreichend“ (4,0) ist.
 
@@ -366,8 +343,6 @@ und Gymnasien (LBW-ISS-GYM)
    Urkunde ausgehändigt.
 
 ## § 14 Zugangsvoraussetzung
-
-```
 Zugangsvoraussetzung für das 60-LP-Modulangebot ist
 die Zulassung zu einem Bachelorstudiengang der Freien
 Universität Berlin mit einem 90 Leistungspunkte umfassenden Kernfach, das einem der Fächer gemäß §§ 2, 3
@@ -376,10 +351,8 @@ den Anlagen 1 und 2 zur LZVO entspricht, soweit dessen
 Kombinierbarkeit mit dem 60-LP-Modulangebot nicht
 durch anderweitige Regelungen ausgeschlossen ist. Der
 Katalog der in Betracht kommenden Bachelorstudiengänge wird rechtzeitig vor Beginn des Zulassungsverfahrens bekannt gegeben.
-```
 
 ## § 15 Qualifikationsziele
-
 1. Die Absolventinnen und Absolventen des 60-LP-Modulangebots besitzen
    grundlegende Fachkenntnisse und eine grundlegende Allgemeinbildung im Fach
    Physik. Sie beherrschen unterschiedliche experimentelle und theoretische
@@ -419,15 +392,13 @@ Katalog der in Betracht kommenden Bachelorstudiengänge wird rechtzeitig vor Beg
 
 1. Im Rahmen des 60-LP-Modulangebots sind die folgenden Module im Umfang von 60
    LP zu absolvieren:
-
-   - Modul: Grundlagen der Experimentalphysik (20 LP),
-   - Modul: Einführung in die Struktur der Materie (8 LP),
-   - Modul: Physikalisches Grundpraktikum 1 (5 LP),
-   - Modul: Physikalisches Grundpraktikum 2 (5 LP),
-   - Modul: Demonstrationspraktikum 1 (8 LP),
-   - Modul: Theoretische Physik 1 (7 LP) und
-   - Modul: Theoretische Physik 2 (7 LP).
-
+    - Modul: Grundlagen der Experimentalphysik (20 LP),
+    - Modul: Einführung in die Struktur der Materie (8 LP),
+    - Modul: Physikalisches Grundpraktikum 1 (5 LP),
+    - Modul: Physikalisches Grundpraktikum 2 (5 LP),
+    - Modul: Demonstrationspraktikum 1 (8 LP),
+    - Modul: Theoretische Physik 1 (7 LP) und
+    - Modul: Theoretische Physik 2 (7 LP).
 2. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -435,7 +406,6 @@ Katalog der in Betracht kommenden Bachelorstudiengänge wird rechtzeitig vor Beg
    Lernformen, die den Modulen jeweils zugeordneten Leistungspunkte, die
    Regeldauer und die Angebotshäufigkeit informieren für die Module des
    Bachelorstudiengangs die Modulbeschreibungen in der Anlage 1.
-
 3. Über den empfohlenen Verlauf des Studiums im 60-LP-Modulangebot unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2 unter 2.2.
 

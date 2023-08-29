@@ -18,11 +18,11 @@ Juni 2015 bestätigt worden.
 
 - Anlage 1: Modulbeschreibungen
 - Anlage 2: Exemplarische Studienverlaufspläne
-  - 2.1 Exemplarische Studienverlaufsplan für den Bachelorstudiengang Informatik
-    für das Lehramt (!TODO missing)
-  - 2.2 Exemplarische Studienverlaufsplan für das
-    60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge
-    (!TODO missing)
+    - 2.1 Exemplarische Studienverlaufsplan für den Bachelorstudiengang Informatik
+      für das Lehramt (!TODO missing)
+    - 2.2 Exemplarische Studienverlaufsplan für das
+      60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge
+      (!TODO missing)
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
 - Anlage 4: Urkunde (Muster) (!TODO missing)
 
@@ -62,32 +62,32 @@ Informatik der Freien Universität Berlin für den Bachelorstudiengang und das
 
 1. Im Rahmen des Lehrangebots der Freien Universität Berlin werden folgende
    Lehr- und Lernformen angeboten:
-   1. Vorlesung (V): Vorlesungen vermitteln entweder einen Überblick über einen
-      größeren Gegenstandsbereich des Faches und seine methodischen bzw.
-      theoretischen Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet
-      und seine Forschungsprobleme und dienen damit der Darstellung allgemeiner
-      Zusammenhänge und theoretischer Grundlagen. Die typische Lehrform ist der
-      Vortrag der jeweiligen Lehrkraft, aber auch Interaktionen und gemeinsame
-      Übungselemente.
-   2. Übung (Ü): Die Übungen finden begleitend zur Vorlesung in kleinen Gruppen
-      statt, die nicht mehr als zwanzig Teilnehmerinnen und Teilnehmer umfassen
-      sollen. Die Übungen werden von studentischen Tutorinnen oder Tutoren oder
-      wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern unter der Leitung
-      der Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
-      erscheinen in regelmäßigen Abständen Übungsblätter mit Aufgaben, die von
-      den Studentinnen und Studenten selbstständig in freier Hausarbeit oder in
-      selbstorganisierten Kleingruppen zu lösen oder zu bearbeiten sind. Die
-      Lösungen oder Lösungsansätze werden in den Übungsgruppen vorgetragen und
-      diskutiert. Zweck der Übungsgruppen ist sowohl die Vertiefung des
-      Vorlesungsstoffes als auch das Erlernen und Üben von Methoden und
-      Techniken. Ferner soll das Gespräch über Informatik, die Zusammenarbeit
-      und die Planung der eigenen Arbeitsweise erlernt werden.
-   3. Seminar am PC (SPC): Es dient in der Präsenzzeit der Vermittlung von
-      Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
-      Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
-      Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
-      Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
-      Anwendung von Spezialsoftware.
+    1. Vorlesung (V): Vorlesungen vermitteln entweder einen Überblick über einen
+       größeren Gegenstandsbereich des Faches und seine methodischen bzw.
+       theoretischen Grundlagen oder Kenntnisse über ein spezielles Stoffgebiet
+       und seine Forschungsprobleme und dienen damit der Darstellung allgemeiner
+       Zusammenhänge und theoretischer Grundlagen. Die typische Lehrform ist der
+       Vortrag der jeweiligen Lehrkraft, aber auch Interaktionen und gemeinsame
+       Übungselemente.
+    2. Übung (Ü): Die Übungen finden begleitend zur Vorlesung in kleinen Gruppen
+       statt, die nicht mehr als zwanzig Teilnehmerinnen und Teilnehmer umfassen
+       sollen. Die Übungen werden von studentischen Tutorinnen oder Tutoren oder
+       wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern unter der Leitung
+       der Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
+       erscheinen in regelmäßigen Abständen Übungsblätter mit Aufgaben, die von
+       den Studentinnen und Studenten selbstständig in freier Hausarbeit oder in
+       selbstorganisierten Kleingruppen zu lösen oder zu bearbeiten sind. Die
+       Lösungen oder Lösungsansätze werden in den Übungsgruppen vorgetragen und
+       diskutiert. Zweck der Übungsgruppen ist sowohl die Vertiefung des
+       Vorlesungsstoffes als auch das Erlernen und Üben von Methoden und
+       Techniken. Ferner soll das Gespräch über Informatik, die Zusammenarbeit
+       und die Planung der eigenen Arbeitsweise erlernt werden.
+    3. Seminar am PC (SPC): Es dient in der Präsenzzeit der Vermittlung von
+       Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
+       Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
+       Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
+       Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
+       Anwendung von Spezialsoftware.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen, z. B.
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -212,55 +212,47 @@ Die Regelstudienzeit beträgt sechs Semester.
 
 1. Im Bachelorstudiengang sind insgesamt Leistungen im Umfang von 180
    Leistungspunkten (LP) nachzuweisen. Der Bachelorstudiengang gliedert sich in:
-
-   1. das Kernfach im Umfang von 90 LP, bestehend aus einem Pflichtbereich im
-      Umfang von 65 LP, einem Wahlpflichtbereich im Umfang von 15 LP und der
-      Bachelorarbeit im Umfang von 10 LP,
-   2. einem 60-LP-Modulangebot aus anderen fachlichen lehramtsbezogenen
-      Bereichen,
-   3. den Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte
-      Sekundarschulen und Gymnasien (LBW-ISS-GYM) im Umfang von 30 LP.
-
+    1. das Kernfach im Umfang von 90 LP, bestehend aus einem Pflichtbereich im
+       Umfang von 65 LP, einem Wahlpflichtbereich im Umfang von 15 LP und der
+       Bachelorarbeit im Umfang von 10 LP,
+    2. einem 60-LP-Modulangebot aus anderen fachlichen lehramtsbezogenen
+       Bereichen,
+    3. den Studienbereich Lehramtsbezogene Berufswissenschaft für Integrierte
+       Sekundarschulen und Gymnasien (LBW-ISS-GYM) im Umfang von 30 LP.
 2. Im Pflichtbereich des Kernfachs sind Module im Umfang von 65 LP wie folgt zu
    absolvieren.
-
-   1. Es sind folgende Module zu absolvieren:
-
-      - Modul: Funktionale Programmierung (9 LP),
-      - Modul: Objektorientierte Programmierung (8 LP),
-      - Modul: Logik und Diskrete Mathematik für Lehramt(10 LP),
-      - Modul: Grundlagen der Theoretischen Informatik(7 LP),
-      - Modul: Algorithmen, Datenstrukturen und Datenabstraktionen (9 LP),
-      - Modul: Datenbanksysteme (7 LP) und
-      - Modul: Softwaretechnik (10 LP).
-
-   2. Weiterhin ist eines der beiden folgenden Module zu wählen und zu
-      absolvieren:
-
-      - Modul: Rechnerarchitektur (5 LP) oder
-      - Modul: Betriebs- und Kommunikationssysteme(5 LP).
-
+    1. Es sind folgende Module zu absolvieren:
+        - Modul: Funktionale Programmierung (9 LP),
+        - Modul: Objektorientierte Programmierung (8 LP),
+        - Modul: Logik und Diskrete Mathematik für Lehramt(10 LP),
+        - Modul: Grundlagen der Theoretischen Informatik(7 LP),
+        - Modul: Algorithmen, Datenstrukturen und Datenabstraktionen (9 LP),
+        - Modul: Datenbanksysteme (7 LP) und
+        - Modul: Softwaretechnik (10 LP).
+    2. Weiterhin ist eines der beiden folgenden Module zu wählen und zu
+       absolvieren:
+        - Modul: Rechnerarchitektur (5 LP) oder
+        - Modul: Betriebs- und Kommunikationssysteme(5 LP).
 3. Im Wahlpflichtbereich des Kernfachs sind Module im Umfang von 15 LP zu wählen
    und zu absolvieren, darunter mindestens ein Modul mit einer differenziert
    bewerteten Modulprüfung. Hierfür werden folgende Module angeboten:
+    - Modul: Systemverwaltung (5 LP),
+    - Modul: Berufsbezogenes Praktikum Informatik(10 LP),
+    - Modul: Softwareprojekt A (10 LP),
+    - Modul: Softwareprojekt B (10 LP),
+    - Modul: Nichtsequentielle und verteilte Programmierung für Lehramt (10 LP),
+    - Modul: Auswirkungen der Informatik (5 LP),
+    - Modul: Gesellschaftliche Aspekte der Informatik(5 LP),
+    - Modul: Grundlagen der Technischen Informatik(10 LP),
+    - Modul: Forschungspraktikum (5 LP),
+    - Modul: Wissenschaftliches Arbeiten in der Informatik(5 LP),
+    - Modul: Betriebs- und Kommunikationssysteme (5 LP) oder
+    - Modul: Rechnerarchitektur (5 LP), sofern es nicht bereits im Rahmen des
+      Pflichtbereichs gemäß Abs. 2 unter Buchst. b) gewählt und absolviert wurde.
 
-   - Modul: Systemverwaltung (5 LP),
-   - Modul: Berufsbezogenes Praktikum Informatik(10 LP),
-   - Modul: Softwareprojekt A (10 LP),
-   - Modul: Softwareprojekt B (10 LP),
-   - Modul: Nichtsequentielle und verteilte Programmierung für Lehramt (10 LP),
-   - Modul: Auswirkungen der Informatik (5 LP),
-   - Modul: Gesellschaftliche Aspekte der Informatik(5 LP),
-   - Modul: Grundlagen der Technischen Informatik(10 LP),
-   - Modul: Forschungspraktikum (5 LP),
-   - Modul: Wissenschaftliches Arbeiten in der Informatik(5 LP),
-   - Modul: Betriebs- und Kommunikationssysteme (5 LP) oder Modul:
-     Rechnerarchitektur (5 LP), sofern es nicht bereits im Rahmen des
-     Pflichtbereichs gemäß Abs. 2 unter Buchst. b) gewählt und absolviert wurde.
-
-   Darüber hinaus können zur individuellen Vertiefung Module aus dem Angebot des
-   Masterstudiengangs Informatik des Fachbereichs Mathematik und Informatik der
-   Freien Universität Berlin gewählt werden.
+    Darüber hinaus können zur individuellen Vertiefung Module aus dem Angebot des
+    Masterstudiengangs Informatik des Fachbereichs Mathematik und Informatik der
+    Freien Universität Berlin gewählt werden.
 
 4. Für Studentinnen und Studenten, die das 60-LP-Modulangebot Mathematik des
    Fachbereichs Mathematik und Informatik der Freien Universität Berlin belegt
@@ -268,7 +260,6 @@ Die Regelstudienzeit beträgt sechs Semester.
    Mathematik für Lehramt“ (10 LP) aus dem Pflichtbereich Module mit einer
    differenziert bewerteten Modulprüfung aus dem Wahlpflichtbereich im Umfang
    von insgesamt 10 LP zu wählen und zu absolvieren.
-
 5. Als 60-LP-Modulangebot aus anderen fachlichen lehramtsbezogenen Bereichen
    gemäß Abs. 1 Nr. 2 sind Modulangebote der übrigen Fachbereiche der Freien
    Universität Berlin wählbar, sofern aufgrund der Wahl eines solchen
@@ -283,7 +274,6 @@ Die Regelstudienzeit beträgt sechs Semester.
    Modulangebote der anderen Universitäten der Länder Berlin und Brandenburg
    entsprechend. Der Katalog der wählbaren Modulangebote wird rechtzeitig in
    geeigneter Weise bekannt gegeben.
-
 6. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -300,7 +290,6 @@ Die Regelstudienzeit beträgt sechs Semester.
    Informatik des Fachbereichs Mathematik und Informatik der Freien Universität
    Berlin verwiesen. Für die Module des gewählten 60-LP-Modulangebots gemäß Abs.
    1 Nr. 2 wird auf die jeweilige Studien- und Prüfungsordnung verwiesen.
-
 7. Über den empfohlenen Verlauf des Studiums im Bachelorstudiengang unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2.1.
 
@@ -330,16 +319,13 @@ Die Regelstudienzeit beträgt sechs Semester.
     Lage ist, eine Fragestellung aus dem Gebiet der Informatik nach
     wissenschaftlichen Methoden selbstständig zu bearbeiten und die gewonnenen
     Ergebnisse schriftlich angemessen darzustellen und zu bewerten.
-
 02. Studentinnen und Studenten werden auf Antrag zur Bachelorarbeit zugelassen,
     wenn sie bei Antragstellung nachweisen, dass sie
-
-    1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
-       immatrikuliert gewesen sind und
-    2. bereits Module im Umfang von mindestens 60 LP im Bachelorstudiengang
-       erfolgreich absolviert haben, darunter das Modul „Algorithmen,
-       Datenstrukturen und Datenabstraktion“ (9 LP).
-
+     1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
+        immatrikuliert gewesen sind und
+     2. bereits Module im Umfang von mindestens 60 LP im Bachelorstudiengang
+        erfolgreich absolviert haben, darunter das Modul „Algorithmen,
+        Datenstrukturen und Datenabstraktion“ (9 LP).
 03. Dem Antrag auf Zulassung zur Bachelorarbeit sind Nachweise über das
     Vorliegen der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die
     Bescheinigung einer prüfungsberechtigten Lehrkraft über die Bereitschaft zur
@@ -347,17 +333,14 @@ Die Regelstudienzeit beträgt sechs Semester.
     entscheidet über den Antrag. Wird eine Bescheinigung über die Übernahme der
     Betreuung der Bachelorarbeit gemäß Satz 1 nicht vorgelegt, so setzt der
     Prüfungsausschuss eine Betreuerin oder einen Betreuer ein.
-
 04. Der Prüfungsausschuss gibt in Abstimmung mit der Betreuerin oder dem
     Betreuer das Thema der Bachelorarbeit aus. Thema und Aufgabenstellung müssen
     so beschaffen sein, dass die Bearbeitung innerhalb der Bearbeitungsfrist
     abgeschlossen werden kann. Ausgabe und Fristeinhaltung sind aktenkundig zu
     machen.
-
 05. Die Arbeit kann auch extern in einem geeigneten Betrieb oder in einer
     wissenschaftlichen Einrichtung angefertigt werden, sofern die
     wissenschaftliche Betreuung gemäß Abs. 3 gewährleistet ist.
-
 06. Die Bachelorarbeit soll ca. 20 Seiten mit etwa 6 000 Wörtern umfassen. Die
     Bearbeitungszeit für die Bachelorarbeit beträgt 12 Wochen. Sie kann in
     deutscher oder englischer Sprache abgefasst werden. Nach Genehmigung durch
@@ -368,7 +351,6 @@ Die Regelstudienzeit beträgt sechs Semester.
     Bachelorarbeit neu erbracht werden muss. Die Prüfungsleistung hinsichtlich
     der Bachelorarbeit gilt für den Fall, dass der Prüfungsausschuss eine
     erneute Erbringung verlangt, als nicht unternommen.
-
 07. Als Beginn der Bearbeitungszeit gilt das Datum der Ausgabe des Themas durch
     den Prüfungsausschuss. Das Thema kann einmalig innerhalb der ersten vier
     Wochen zurückgegeben werden und gilt dann als nicht ausgegeben. Bei der
@@ -377,7 +359,6 @@ Die Regelstudienzeit beträgt sechs Semester.
     die angegebenen Quellen und Hilfsmittel benutzt hat. Die Bachelorarbeit ist
     in drei maschinenschriftlichen gebundenen Exemplaren sowie in elektronischer
     Form gemäß § 7 abzugeben.
-
 08. Die Ergebnisse der Bachelorarbeit werden in einer Präsentation vorgestellt,
     wissenschaftlich eingeordnet (ca. 15 Minuten) und verteidigt (ca. 15
     Minuten). Voraussetzung für die Teilnahme an der Präsentation ist die Abgabe
@@ -386,16 +367,13 @@ Die Regelstudienzeit beträgt sechs Semester.
     geeigneter Form bekannt gegeben. Der Vortrag und die Diskussion sind
     fachbereichsöffentlich. Die Präsentation fließt nicht in die Note für die
     Bachelorarbeit ein.
-
 09. Die Bachelorarbeit ist innerhalb von vier Wochen von zwei vom
     Prüfungsausschuss bestellten Prüfungsberechtigten mit einer schriftlichen
     Begründung zu bewerten. Dabei soll die Betreuerin oder der Betreuer der
     Bachelorarbeit eine oder einer der Prüfungsberechtigten sein. Die
     Prüfungsberechtigten sollen der Präsentation gemäß Abs. 8 beigewohnt haben.
-
 10. Die Bachelorarbeit ist bestanden, wenn die Note für die Bachelorarbeit
     mindestens „ausreichend“ (4,0) ist.
-
 11. Eine abgeschlossene erfolgreiche Bachelorarbeit von einer anderen Hochschule
     oder in einem anderen Studienfach kann bei Gleichwertigkeit der
     Qualifikation auf Antrag beim Prüfungsausschuss anerkannt werden. Dem Antrag
@@ -515,36 +493,32 @@ vor Beginn des Zulassungsverfahrens bekannt gegeben.
 1. Im Rahmen des 60-LP-Modulangebots sind Leistungen im Umfang von insgesamt 60
    LP nachzuweisen. Das 60-LP-Modulangebot gliedert sich in einen Pflichtbereich
    im Umfang von 50 LP und einen Wahlpflichtbereich im Umfang von 10 LP.
-
 2. Im Pflichtbereich sind Module im Umfang von 50 LP zu absolvieren. Es sind
    folgende Module zu absolvieren:
-
-   - Modul: Funktionale Programmierung (9 LP),
-   - Modul: Objektorientierte Programmierung (8 LP),
-   - Modul: Logik und Diskrete Mathematik für Lehramt(10 LP),
-   - Modul: Datenbanksysteme (7 LP),
-   - Modul: Grundlagen der Theoretischen Informatik(7 LP),
-   - Modul: Algorithmen, Datenstrukturen und Datenabstraktionen (9 LP).
-
+    - Modul: Funktionale Programmierung (9 LP),
+    - Modul: Objektorientierte Programmierung (8 LP),
+    - Modul: Logik und Diskrete Mathematik für Lehramt(10 LP),
+    - Modul: Datenbanksysteme (7 LP),
+    - Modul: Grundlagen der Theoretischen Informatik(7 LP),
+    - Modul: Algorithmen, Datenstrukturen und Datenabstraktionen (9 LP).
 3. Im Wahlpflichtbereich sind Module im Umfang von 10 LP zu wählen und zu
    absolvieren, darunter mindestens ein Modul mit einer differenziert bewerteten
    Modulprüfung. Hierfür werden folgende Module angeboten:
+    - Modul: Rechnerarchitektur (5 LP),
+    - Modul: Betriebs- und Kommunikationssysteme (5 LP),
+    - Modul: Softwaretechnik (10 LP),
+    - Modul: Systemverwaltung (5 LP),
+    - Modul: Softwareprojekt B (10 LP),
+    - Modul: Nichtsequentielle und verteilte Programmierung für Lehramt (10 LP),
+    - Modul: Auswirkungen der Informatik (5 LP),
+    - Modul: Gesellschaftliche Aspekte der Informatik(5 LP),
+    - Modul: Grundlagen der Technischen Informatik(10 LP),
+    - Modul: Forschungspraktikum (5 LP)
+    - Modul: Wissenschaftliches Arbeiten in der Informatik(5 LP).
 
-   - Modul: Rechnerarchitektur (5 LP),
-   - Modul: Betriebs- und Kommunikationssysteme (5 LP),
-   - Modul: Softwaretechnik (10 LP),
-   - Modul: Systemverwaltung (5 LP),
-   - Modul: Softwareprojekt B (10 LP),
-   - Modul: Nichtsequentielle und verteilte Programmierung für Lehramt (10 LP),
-   - Modul: Auswirkungen der Informatik (5 LP),
-   - Modul: Gesellschaftliche Aspekte der Informatik(5 LP),
-   - Modul: Grundlagen der Technischen Informatik(10 LP),
-   - Modul: Forschungspraktikum (5 LP)
-   - Modul: Wissenschaftliches Arbeiten in der Informatik(5 LP).
-
-   Darüber hinaus können zur individuellen Vertiefung Module aus dem Angebot des
-   Masterstudiengangs Informatik des Fachbereichs Mathematik und Informatik der
-   Freien Universität Berlin gewählt werden.
+    Darüber hinaus können zur individuellen Vertiefung Module aus dem Angebot des
+    Masterstudiengangs Informatik des Fachbereichs Mathematik und Informatik der
+    Freien Universität Berlin gewählt werden.
 
 4. Für Studentinnen und Studenten, die das Kernfach Mathematik des Fachbereichs
    Mathematik und Informatik der Freien Universität Berlin belegt haben, besteht
@@ -568,7 +542,6 @@ vor Beginn des Zulassungsverfahrens bekannt gegeben.
    Berlin und die Studienund Prüfungsordnung für den Masterstudiengang
    Informatik des Fachbereichs Mathematik und Informatik der Freien Universität
    Berlin verwiesen.
-
 6. Über den empfohlenen Verlauf des Studiums im 60-LP-Modulangebot unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2.2.
 

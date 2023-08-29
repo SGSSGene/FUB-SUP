@@ -57,59 +57,51 @@ der Grundlage der Prüfungsordnung für den Bachelorstudiengang vom 6. Juni 2012
 ### § 4 Aufbau und Gliederung
 
 1. Der Bachelorstudiengang gliedert sich in
-
-   1. das Kernfach Physik im Umfang von 150 Leistungspunkten (LP) inklusive der
-      Bachelorarbeit im Umfang von 12 LP und
-   2. den Studienbereich Allgemeine Berufsvorbereitung (ABV) im Umfang von 30
-      LP.
-
+    1. das Kernfach Physik im Umfang von 150 Leistungspunkten (LP) inklusive der
+       Bachelorarbeit im Umfang von 12 LP und
+    2. den Studienbereich Allgemeine Berufsvorbereitung (ABV) im Umfang von 30
+       LP.
 2. Das Studium im Kernfach gliedert sich in folgende Bereiche:
-
-   1. Pflichtbereich im Umfang von 120 LP inklusive der Bachelorarbeit im Umfang
-      von 12 LP und
-   2. Wahlbereich im Umfang von 30 LP.
-
+    1. Pflichtbereich im Umfang von 120 LP inklusive der Bachelorarbeit im Umfang
+       von 12 LP und
+    2. Wahlbereich im Umfang von 30 LP.
 3. Im Pflichtbereich sind folgende Module im Umfang von insgesamt 108 LP zu
    absolvieren:
-
-   - Einführung in die Physik (15 LP)
-   - Elektrodynamik und Optik (8 LP)
-   - Grundlagen der Mess- und Labortechnik (11 LP)
-   - Struktur der Materie (22 LP)
-   - Analytische Mechanik (8 LP)
-   - Quantenmechanik (12 LP)
-   - Theoretische Elektrodynamik (8 LP)
-   - Lineare Algebra (8 LP)
-   - Analysis (16 LP)
-
+    - Einführung in die Physik (15 LP)
+    - Elektrodynamik und Optik (8 LP)
+    - Grundlagen der Mess- und Labortechnik (11 LP)
+    - Struktur der Materie (22 LP)
+    - Analytische Mechanik (8 LP)
+    - Quantenmechanik (12 LP)
+    - Theoretische Elektrodynamik (8 LP)
+    - Lineare Algebra (8 LP)
+    - Analysis (16 LP)
 4. Im Wahlbereich sind Module im Umfang von insgesamt 30 LP zu wählen und zu
    absolvieren. Hierfür wählen die Studentinnen und Studenten aus den Modulen
+    - Biophysik (8 LP)
+    - Astronomie und Astrophysik (8 LP)
+    - Kern- und Elementarteilchenphysik (8 LP)
+    - Computerphysik (8 LP)
 
-   - Biophysik (8 LP)
-   - Astronomie und Astrophysik (8 LP)
-   - Kern- und Elementarteilchenphysik (8 LP)
-   - Computerphysik (8 LP)
-
-   sowie weiteren vom Fachbereich Physik und anderen Fachbereichen der Freien
-   Universität Berlin angebotenen Modulen aus. Dies sind Module aus den
-   Kernbereichen der Bachelorstudiengänge Betriebswirtschaftslehre, Biochemie,
-   Bioinformatik, Biologie, Chemie, Geologische Wissenschaften, Informatik
-   Mathematik, Meteorologie, Philosophie, Volkswirtschaftslehre an der Freien
-   Universität Berlin. Auf Antrag können weitere geeignete Module an der Freien
-   Universität Berlin und anderen Universitäten ebenfalls studiert werden. Über
-   den Antrag entscheidet der zuständige Prüfungsausschuss. Neben den Modulen
-   aus den Studiengängen der Physik dürfen Module aus höchstens zwei weiteren
-   Studiengängen ausgewählt werden. Dabei dürfen keine Module belegt werden, die
-   identisch bzw. äquivalent mit den im Pflichtbereich zu belegenden Modulen
-   sind. Der zuständige Prüfungsausschuss veröffentlicht eine Liste mit
-   Empfehlungen. Darüber hinaus wird den Studentinnen und Studenten empfohlen,
-   Module zu Gender- und Diversitätsthemen im Wahlbereich in Betracht zu ziehen.
+    sowie weiteren vom Fachbereich Physik und anderen Fachbereichen der Freien
+    Universität Berlin angebotenen Modulen aus. Dies sind Module aus den
+    Kernbereichen der Bachelorstudiengänge Betriebswirtschaftslehre, Biochemie,
+    Bioinformatik, Biologie, Chemie, Geologische Wissenschaften, Informatik
+    Mathematik, Meteorologie, Philosophie, Volkswirtschaftslehre an der Freien
+    Universität Berlin. Auf Antrag können weitere geeignete Module an der Freien
+    Universität Berlin und anderen Universitäten ebenfalls studiert werden. Über
+    den Antrag entscheidet der zuständige Prüfungsausschuss. Neben den Modulen
+    aus den Studiengängen der Physik dürfen Module aus höchstens zwei weiteren
+    Studiengängen ausgewählt werden. Dabei dürfen keine Module belegt werden, die
+    identisch bzw. äquivalent mit den im Pflichtbereich zu belegenden Modulen
+    sind. Der zuständige Prüfungsausschuss veröffentlicht eine Liste mit
+    Empfehlungen. Darüber hinaus wird den Studentinnen und Studenten empfohlen,
+    Module zu Gender- und Diversitätsthemen im Wahlbereich in Betracht zu ziehen.
 
 5. Über Inhalte und Qualifikationsziele, Lehr- und Lernformen, den studentischen
    Arbeitsaufwand, die Formen der aktiven Teilnahme, die Veranstaltungssprache,
    die Regeldauer, die Angebotshäufigkeit und die Verwendbarkeit informieren für
    jedes Modul die Modulbeschreibungen (Anlage 1).
-
 6. Über den empfohlenen Verlauf des Studiums unterrichtet der exemplarische
    Studienverlaufsplan (Anlage 2).
 
@@ -171,16 +163,13 @@ der Grundlage der Prüfungsordnung für den Bachelorstudiengang vom 6. Juni 2012
    unterschiedliche Kompetenzbereiche, die berufsrelevante Qualifikationsfelder
    abdecken. Im Rahmen dieses Studienbereichs sind folgende Module zu
    absolvieren:
-   1. Im Kompetenzbereich Fachnahe Zusatzqualifikationen folgende Module im
-      Umfang von insgesamt 10 LP:
-
-      - Projektpraktikum (5 LP)
-      - Präsentationstechniken (5 LP).
-
-   2. Frei wählbare Module in Kompetenzbereichen im Umfang von 5, 10 oder 15 LP.
-
-   3. Berufspraktikum im Umfang von 5, 10 oder 15 LP; empfohlen wird ein
-      Berufspraktikum im Umfang von 10 LP.
+    1. Im Kompetenzbereich Fachnahe Zusatzqualifikationen folgende Module im
+       Umfang von insgesamt 10 LP:
+        - Projektpraktikum (5 LP)
+        - Präsentationstechniken (5 LP).
+    2. Frei wählbare Module in Kompetenzbereichen im Umfang von 5, 10 oder 15 LP.
+    3. Berufspraktikum im Umfang von 5, 10 oder 15 LP; empfohlen wird ein
+       Berufspraktikum im Umfang von 10 LP.
 4. Das Berufspraktikum eröffnet den Studentinnen und Studenten einen Einblick in
    mögliche Berufs- und Tätigkeitsfelder und in die Anforderungen der Praxis. Es
    wird bei Unternehmen, außeruniversitären Forschungsinstituten und
@@ -275,11 +264,9 @@ Prüfungsausschuss.
 
 2. Im Bachelorstudiengang sind insgesamt 180 Leistungspunkte (LP) nachzuweisen,
    davon
-
-   - 150 LP aus Modulen des Kernfachs inklusive der Bachelorarbeit im Umfang von
-     12 LP;
-   - 30 LP im Studienbereich Allgemeine Berufsvorbereitung (ABV).
-
+    - 150 LP aus Modulen des Kernfachs inklusive der Bachelorarbeit im Umfang von
+      12 LP;
+    - 30 LP im Studienbereich Allgemeine Berufsvorbereitung (ABV).
 3. Die in den einzelnen Modulen des Kernfachs zu erbringenden
    studienbegleitenden Prüfungsleistungen und die jeweils zugeordneten
    Leistungspunkte sind der Anlage 1 zu entnehmen. Anforderungen und Verfahren
@@ -342,24 +329,20 @@ Wiederholungsprüfungen ist eine Notenverbesserung ausgeschlossen.
 ### § 6 Studienabschluss
 
 1. Voraussetzung für den Studienabschluss ist, dass
-
-   - die gemäß § 3 dieser Ordnung in Verbindung mit § 4 Studienordnung
-     geforderten Leistungen erbracht worden sind,
-   - die Bachelorarbeit gemäß § 4 erbracht worden ist.
-
+    - die gemäß § 3 dieser Ordnung in Verbindung mit § 4 Studienordnung
+      geforderten Leistungen erbracht worden sind,
+    - die Bachelorarbeit gemäß § 4 erbracht worden ist.
 2. Der Studienabschluss ist ausgeschlossen, soweit die Studentin oder der
    Student an einer anderen Hochschule im gleichen Studiengang oder in einem
    Modul, welches mit einem der im Bachelorstudiengang zu absolvierenden und bei
    der Ermittlung der Gesamtnote zu berücksichtigenden Module identisch oder
    vergleichbar ist, Leistungen endgültig nicht erbracht oder endgültig nicht
    bestanden hat oder sich in einem schwebenden Prüfungsverfahren befindet.
-
 3. Dem Antrag auf Feststellung des Studienabschlusses sind Nachweise über das
    Vorliegen der Voraussetzungen gemäß Abs. 1 und eine Versicherung beizufügen,
    dass für die Person der Antragstellerin oder des Antragstellers keiner der
    Fälle gemäß Abs. 2 vorliegt. Über den Antrag entscheidet der zuständige
    Prüfungsausschuss.
-
 4. Aufgrund der bestandenen Prüfung im Bachelorstudiengang erhalten die
    Studentinnen und Studenten ein Zeugnis und eine Urkunde (Anlage 2 und 3)
    sowie ein Diploma Supplement (englische und deutsche Version). Darüber hinaus
@@ -371,12 +354,8 @@ Wiederholungsprüfungen ist eine Notenverbesserung ausgeschlossen.
 
 1. Die vorliegende Ordnung trittam Tage nach der Veröffentlichung in den
    FU-Mitteilungen (Amtsblatt der Freien Universität Berlin) in Kraft.
-
-2. Gleichzeitig tritt die Prüfungsordnung für den
-
-   - Bachelorstudiengang vom 14. Juni 2006 (FU-Mitteilungen 66/2006) außer
-     Kraft.
-
+2. Gleichzeitig tritt die Prüfungsordnung für den Bachelorstudiengang vom 14. Juni 2006 (FU-Mitteilungen 66/2006) außer
+   Kraft.
 3. Diese Ordnung gilt für Studentinnen und Studenten, die nach Inkrafttreten
    dieser Ordnung im Bachelorstudiengang an der Freien Universität Berlin
    immatrikuliert werden. Studentinnen und Studenten, die vor Inkrafttreten
@@ -390,6 +369,5 @@ Wiederholungsprüfungen ist eine Notenverbesserung ausgeschlossen.
    dieser Ordnung zu erbringende Studienleistungen, wobei den Erfordernissen von
    Vertrauensschutz und Gleichbehandlungsgebot Rechnung getragen wird. Die
    Entscheidung ist nicht revidierbar.
-
 4. Die Möglichkeit des Studienabschlusses auf der Grundlage der Prüfungsordnung
    gemäß Abs. 2 wird bis zum Ende des Sommersemesters 2015 gewährleistet.

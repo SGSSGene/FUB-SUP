@@ -55,11 +55,9 @@ befristet.
     2. Das Studium in einem Kernfach und von Modulangeboten aus einem oder zwei
        anderen fachlichen Bereichen sowie das Studium des Studienbereichs ABV
        oder des Studienbereichs LBW (Kombi-Bachelor).
-
 3. Das Niveau der Qualifikationsziele der Studiengänge, Kernfächer,
    Modulangebote, Studienbereiche und Module wird nach den jeweils zu
    erwerbenden Kompetenzen abgestuft festgelegt.
-
 4. Bei der Einrichtung eines Masterstudiengangs ist festzulegen, ob es sich um
    einen konsekutiven Masterstudiengang gemäß § 23 Abs. 3 Nummer 1 Buchstabe a
    oder b des Gesetzes über die Hochschulen im Land Berlin (Berliner
@@ -79,7 +77,6 @@ befristet.
    Studiengangskonzept zu verdeutlichen. Weiterbildende Masterstudiengänge
    werden nicht auf das vorhandene Lehrangebot der konsekutiven
    Masterstudiengänge gestützt.
-
 5. Abweichend von den in Absätzen 2 und 4 beschriebenen Gestaltungsvarianten
    können Reformmodelle zur Strukturierung von Studiengängen konzipiert,
    befristet erprobt und ggf. in das Studienangebot der Freien Universität
@@ -117,7 +114,6 @@ befristet.
    der Regel innerhalb eines Semesters oder eines Jahres studiert werden können.
    Die Module sollen einen Umfang von mindestens fünf Leistungspunkten
    aufweisen.
-
 2. Für Bachelor- und Masterstudiengänge werden jeweils eigene Module konzipiert,
    für die ein entsprechendes Lehrangebot bereitgestellt wird. Module aus einem
    Masterstudiengang können ausnahmsweise in einem Umfang von bis zu 15
@@ -132,11 +128,9 @@ befristet.
    Qualifikationsziel des Masterstudiengangs in besonderer Weise dient. Bereits
    im Rahmen eines Bachelorstudiengangs absolvierte Module dürfen in einem
    Masterstudiengang nicht noch einmal absolviert werden.
-
 3. Der Erwerb von Gender- und Diversity-Kompetenz ist in angemessener Weise als
    integraler Bestandteil der Studiengänge in den Qualifikationszielen und
    Modulbeschreibungen zu berücksichtigen.
-
 4. Module werden in der Regel mit einer einheitlichen Prüfungsleistung
    (Modulprüfung) abgeschlossen. Die Modulprüfung ist auf die
    Qualifikationsziele des Moduls bezogen und überprüft die Erreichung dieser
@@ -144,20 +138,16 @@ befristet.
    beschränkt. Eine Modulprüfung kann unter Berücksichtigung der
    Qualifikationsziele des Moduls aus Elementen unterschiedlicher Art
    zusammengesetzt sein.
-
 5. In einer Studien- und Prüfungsordnung kann in begründeten Fällen geregelt
    werden, dass mehrere Module mit einer übergreifenden Modulprüfung
    abgeschlossen werden.
-
 6. Die in der Modulprüfung erbrachte Leistung wird mit einer Note differenziert
    gemäß § 18 bewertet. In der jeweiligen Prüfungsordnung kann geregelt werden,
    dass für einzelne Module oder einen Studienbereich die in der Modulprüfung
    erbrachte Leistung undifferenziert (bestanden/nicht bestanden) bewertet wird
    oder dass in einzelnen Modulen keine Modulprüfung erbracht werden muss.
-
 7. Bei undifferenziert bewerteten Leistungen kann die Studentin oder der Student
    eine qualifizierte Rückmeldung erhalten. § 33 Abs. 2 BerlHG bleibt unberührt.
-
 8. Es werden in den Studien- und Prüfungsordnungen Regelungen getroffen, durch
    die ein planmäßiges Absolvieren der nach dem Studienverlaufsplan vorgesehenen
    Leistungen innerhalb der Regelstudienzeit gewährleistet werden kann.
@@ -290,7 +280,6 @@ befristet.
    über das weitere Verfahren entscheiden und in diesem Zusammenhang
    entscheiden, dass die Studentin oder der Student vor Erbringung der
    Prüfungsleistung eine Lehrveranstaltung ganz oder teilweise wiederholen muss.
-
 2. Die Frist für die Anmeldung zu Modulen und zu Lehrveranstaltungen beginnt
    spätestens am ersten Werktag des Semesters. Die Zuteilung der Plätze in
    Lehrveranstaltungen mit beschränkter Platzzahl erfolgt am letzten Werktag vor
@@ -306,7 +295,6 @@ befristet.
    vorhanden sind oder frei werden. Fallen der Beginn oder das Ende der Frist
    auf einen Feiertag, so tritt an deren Stelle der vorangehende Werktag. Der
    Sonnabend wird nicht als Werktag gerechnet.
-
 3. Beginnt die zeitlich erste der im Rahmen eines Moduls zu absolvierenden
    Lehrveranstaltungen mehr als sechs Wochen nach Beginn der Vorlesungszeit, so
    können durch Beschluss des zuständigen Prüfungsausschusses von Abs. 2
@@ -331,14 +319,12 @@ befristet.
    Anmeldefrist in geeigneter Weise bekannt gegeben werden, soweit diese von
    Beginn und Ende der Vorlesungszeit abweichen und nicht bereits in der
    jeweiligen Studien- oder Prüfungsordnung festgelegt sind.
-
 5. Soweit für ein Modul in der jeweiligen Prüfungsordnung Zugangsvoraussetzungen
    festgelegt sind, kann bei der Anmeldung zum Modul ausnahmsweise von deren
    Vorliegen abgesehen werden, wenn die erfolgreiche Absolvierung unter
    Würdigung aller maßgeblichen Umstände, insbesondere des bisherigen
    Studienverlaufs der Studentin oder des Studenten, dennoch wahrscheinlich
    erscheint. Die Entscheidung trifft der Prüfungsausschuss.
-
 6. Mit der Immatrikulation erhält die Studentin oder der Student einen
    Benutzungsaccount bei der Zentraleinrichtung für Datenverarbeitung (ZEDAT),
    der ihr oder ihm den Online-Zugang zum Prüfungsverwaltungssystem,
@@ -554,12 +540,10 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
       noch entspricht
     - 5 = nicht ausreichend - eine Leistung mit erheblichen Mängeln, die den
       Anforderungen nicht entspricht.
-
 2. Zur differenzierten Bewertung der Leistungen können Zwischenwerte zwischen
    1,0 und 4,0 durch Senken oder Erhöhen der Notenziffern um 0,3 gebildet
    werden. Zulässige Werte sind: 1,0; 1,3; 1,7; 2,0; 2,3; 2,7; 3,0; 3,3; 3,7;
    4,0 und 5,0.
-
 3. Wird eine Prüfungsleistung von mehreren Prüferinnen oder Prüfern bewertet,
    wird die Note als ein arithmetisches Mittel errechnet. Die Modulnoten gehen
    mit dem Gewicht der Leistungspunkte, die dem Modul zugeordnet sind, in die
@@ -591,7 +575,6 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Nachweis oder auf dem Zeugnis sowie bei der Ermittlung der Gesamtnote oder
    einer anderen zusammengefassten Note wird nur die erste Stelle hinter dem
    Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.
-
 4. Die gemäß Abs. 3 gebildeten Noten lauten wie folgt:
     - Bei einem Durchschnitt von 1,0 bis einschließlich 1,5 = sehr gut
     - Bei einem Durchschnitt von über 1,5 bis einschließlich 2,5 = gut
@@ -772,6 +755,7 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
      Universität Berlin erbracht werden darf. Die Entscheidung über die
      Erfüllung der Voraussetzungen gemäß Satz 1 Nummern 1 bis 3 trifft der
      zuständige Prüfungsausschuss.
+
 2. Aufgrund der bestandenen Prüfung erhalten die Studentinnen und Studenten ein
    Zeugnis, eine Urkunde sowie ein Diploma Supplement (englische und deutsche
    Version). Darüber hinaus wird eine Zeugnisergänzung mit Angaben zu den
@@ -785,7 +769,7 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Oktober 2013 in Kraft.
 2. Gleichzeitig tritt die Satzung für Allgemeine Prüfungsangelegenheiten vom 4.
    Juli 2001 und 17. April 2002 (FU-Mitteilungen 15/2002), zuletzt geändert am
-   13\. März 2006 (FU-Mitteilungen 27/2006), fürStudiengänge, die mit dem
+   13\. März 2006 (FU-Mitteilungen 27/2006), für Studiengänge, die mit dem
    Bachelor- oder Mastergrad oder dem Staatsexamen abschließen, außer Kraft.
    Sofern Prüfungsordnungen für Studiengänge, die mit dem Bachelor- oder
    Mastergrad oder dem Staatsexamen abschließen, auf die Satzung für Allgemeine
