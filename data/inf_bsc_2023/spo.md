@@ -7,9 +7,9 @@ Freien Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat de
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 21. Juni 2023 die folgende Studien- und Prüfungsordnung
 für den Bachelorstudiengang Informatik des Fachbereichs Mathematik und
-Informatik der Freien Universität Berlin erlassen: \[^1\]
+Informatik der Freien Universität Berlin erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 3. Juli
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 3. Juli
 2023 bestätigt worden.
 
 ### Anlagen

@@ -18,9 +18,9 @@ gemeinsamen Masterstudiengang Compu- tational Sciences des Fachbereichs
 Biologie, Chemie, Pharmazie, des Fachbereichs Geowissenschaften, des
 Fachbereichs Mathematik und Informatik und des Fach- bereichs Physik der Freien
 Universität Berlin eingesetzte Gemeinsame Kommission (GK) am 21. Januar 2016
-fol- gende Satzung erlassen: \[^1\]
+fol- gende Satzung erlassen: [^1]
 
-\[^1\]: Diese Satzung ist vom Präsidium der Freien Universität Berlin am 9.
+[^1]: Diese Satzung ist vom Präsidium der Freien Universität Berlin am 9.
 Februar 2016 und von der für Hochschulen zuständigen Senatsverwaltung am 12.
 April 2016 befristet bis zum 31. Dezember 2016 bestätigt worden. Die
 Geltungsdauer der Satzung ist damit bis zum 31. Dezember 2016 befriste

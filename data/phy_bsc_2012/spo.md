@@ -7,9 +7,9 @@
 Aufgrund von § 14 Abs. 1 Nr. 2 Teilgrundordnung (Erprobungsmodell) der Freien
 Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Physik der Freien Universität Berlin am 6. Juni
-2012 folgende Studienordnung für den Bachelorstudiengang Physik erlassen: \[^1\]
+2012 folgende Studienordnung für den Bachelorstudiengang Physik erlassen: [^1]
 
-\[^1\]: Die für Hochschulen zuständige Senatsverwaltung hat diese Ordnung am 12.
+[^1]: Die für Hochschulen zuständige Senatsverwaltung hat diese Ordnung am 12.
 Juli 2012 zur Kenntnis genommen. Die Geltungsdauer der Ordnung ist bis zum 30.
 September 2013 befristet.
 
@@ -242,9 +242,9 @@ Aufgrund von § 14 Abs. 1 Nr. 2 Teilgrundordnung (Erprobungsmodell) der Freien
 Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Physik der Freien Universität Berlin am 6. Juni
 2012 folgende Prüfungsordnung für den Bachelorstudiengang Physik erlassen:
-\[^2\]
+[^2]
 
-\[^2\]: Die für Hochschulen zuständige Senatsverwaltung hat diese Ordnung am 12.
+[^2]: Die für Hochschulen zuständige Senatsverwaltung hat diese Ordnung am 12.
 Juli 2012 bestätigt. Die Geltungsdauer der Ordnung ist bis zum 30. September
 2013 befristet.
 

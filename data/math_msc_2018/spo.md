@@ -7,9 +7,9 @@ Freien Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat de
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 25. April 2018 die folgende Studien- und Prüfungsordnung
 für den Masterstudiengang Mathematik des Fachbereichs Mathematik und Informatik
-der Freien Universität Berlin erlassen: \[^1\]
+der Freien Universität Berlin erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 22. Mai
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 22. Mai
 2018 bestätigt worden.
 
 ## Anlagen

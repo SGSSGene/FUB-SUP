@@ -9,9 +9,9 @@ Universität Berlin am 13. Mai 2015 die folgende Studien- und Prüfungsordnung f
 den Bachelorstudiengang Informatik für das Lehramt des Fachbereichs Mathematik
 und Informatik der Freien Universität Berlin und das
 60-Leistungspunkte-Modulangebot Informatik im Rahmen anderer Studiengänge
-erlassen: \[^1\]
+erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 11.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 11.
 Juni 2015 bestätigt worden.
 
 ## Anlagen

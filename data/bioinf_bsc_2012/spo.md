@@ -14,9 +14,9 @@ Fachbereichen Mathematik und Informatik sowie Biologie, Chemie, Pharmazie der
 Freien Universität Berlin sowie der Fakultät der Charité - Universitätsmedizin
 Berlin (Charité) eingesetzte Gemeinsame Kommission Bioinformatik am 10. Juli
 2012 folgende Studienordnung für den Bachelorstudiengang Bioinformatik erlassen:
-\[^1\]
+[^1]
 
-\[^1\]: Die für Hochschulen zuständige Senatsverwaltung hat die Studienordnung
+[^1]: Die für Hochschulen zuständige Senatsverwaltung hat die Studienordnung
 am 21. August 2012 zur Kenntnis genommen. Die Geltungsdauer der Ordnung ist bis
 zum 30. September 2013 befristet.
 
@@ -292,9 +292,9 @@ Universitätsmedizingesetzes vom 5. Dezember 2005 (GVBl. S. 739) hat die von den
 Fachbereichen Mathematik und Informatik und Biologie, Chemie, Pharmazie der
 Freien Universität Berlin sowie der Fakultät der Charité - Universitätsmedizin
 Berl eingesetzte Gemeinsame Kommission Bioinformatik am 10. Juli 2012 folgende
-Prüfungsordnung für den Bachelorstudiengang Bioinformatik erlassen: \[^2\]
+Prüfungsordnung für den Bachelorstudiengang Bioinformatik erlassen: [^2]
 
-\[^2\]: Diese Ordnung ist von der für Hochschulen zuständigen Senat verwaltung
+[^2]: Diese Ordnung ist von der für Hochschulen zuständigen Senat verwaltung
 am 21. August 2012 bestätigt worden. Die Geltungsdau der Ordnung ist bis zum 30.
 September 2013 befristet.
 

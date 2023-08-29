@@ -11,9 +11,9 @@ Fachbereichs Physik der Freien Universität Berlin am 21. Januar 2016 die
 folgende Studien- und Prüfungsordnung für den gemeinsamen Masterstudiengang
 Computational Sciences des Fachbereichs Biologie, Chemie, Pharmazie, des
 Fachbereichs Geowissenschaften, des Fachbereichs Mathematik und Informatik und
-des Fachbereichs Physik der Freien Universität Berlin erlassen: \[^1\]
+des Fachbereichs Physik der Freien Universität Berlin erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 9.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 9.
 Februar 2016 bestätigt worden.
 
 ## Anlagen

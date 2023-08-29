@@ -15,9 +15,9 @@ Berlin (Charité) eingesetzte Gemeinsame Kommission Bioinformatik am 23.
 September 2019 folgende Studien- und Prüfungsordnung für den Masterstudiengang
 Bioinformatik der Fachbereiche Biologie, Chemie, Pharmazie sowie Mathematik und
 Informatik der Freien Universität Berlin und der Fakultät der Charité -
-Universitätsmedizin Berlin erlassen: \[^1\]
+Universitätsmedizin Berlin erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin 25.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin 25.
 September 2019 und vom Vorstand der Charité am 8. Oktober 2019 bestätigt worden.
 
 ## Anlagen

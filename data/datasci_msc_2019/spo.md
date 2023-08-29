@@ -11,9 +11,9 @@ Kommission Data Science) am 18. April 2019 die folgende Studienund
 Prüfungsordnung für den gemeinsamen Masterstudiengang Data Science des
 Fachbereichs Mathematik und Informatik und des Fachbereichs
 Erziehungswissenschaft und Psychologie der Freien Universität Berlin erlassen:
-\[^1\]
+[^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. Mai
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. Mai
 2019 bestätigt worden.
 
 ## Anlagen

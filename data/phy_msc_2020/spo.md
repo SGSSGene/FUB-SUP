@@ -6,9 +6,9 @@ Aufgrund von § 14 Abs. 1 Satz 1 Nr. 2 Teilgrundordnung (Erprobungsmodell) der
 Freien Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Physik der Freien Universität Berlin am 12.
 Februar 2020 die folgende Studien- und Prüfungsordnung für den Masterstudiengang
-Physik des Fachbereichs Physik der Freien Universität Berlin erlassen: \[^1\]
+Physik des Fachbereichs Physik der Freien Universität Berlin erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. 3.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. 3.
 2020 bestätigt worden.
 
 ## Anlagen

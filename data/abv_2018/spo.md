@@ -7,9 +7,9 @@ Freien Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat de
 Akademische Senat der Freien Universität Berlin am 18. April 2018 die folgende
 Studien- und Prüfungsordnung für den Studienbereich Allgemeine
 Berufsvorbereitung in Bachelorstudiengängen der Freien Universität Berlin
-erlassen: \[^1\]
+erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 30. Mai
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 30. Mai
 2018 bestätigt worden.
 
 ## Anlagen

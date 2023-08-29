@@ -9,9 +9,9 @@ Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 3. Juli 2013 die folgende Studienordnung für den
 Bachelorstudiengang Mathematik des Fachbereichs Mathematik und Informatik der
-Freien Universität Berlin erlassen: \[^1\]
+Freien Universität Berlin erlassen: [^1]
 
-\[^1\]: Das Präsidium der Freien Universität Berlin hat die vorliegende Ordnung
+[^1]: Das Präsidium der Freien Universität Berlin hat die vorliegende Ordnung
 am 26. August 2013 bestätigt.
 
 ### Anlagen
@@ -316,7 +316,9 @@ Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 3. Juli 2013 die folgende Prüfungsordnung für den
 Bachelorstudiengang Mathematik des Fachbereichs Mathematik und Informatik der
-Freien Universität Berlin erlassen: \[^2\] \[^2\]: Das Präsidium der Freien
+Freien Universität Berlin erlassen: [^2]
+
+[^2]: Das Präsidium der Freien
 Universität Berlin hat die vorliegende Ordnung am 26. August 2013 bestätigt.
 
 ### Anlagen

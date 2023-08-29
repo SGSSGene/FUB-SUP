@@ -7,9 +7,9 @@ Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 16. Juli 2014 die folgende Studien- und Prüfungsordnung
 für den Bachelorstudiengang Informatik des Fachbereichs Mathematik und
-Informatik der Freien Universität Berlin erlassen:\[^1\]
+Informatik der Freien Universität Berlin erlassen:[^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 12.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 12.
 August 2014 bestätigt worden.
 
 ### Anlagen

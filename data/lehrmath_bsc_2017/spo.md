@@ -8,9 +8,9 @@ Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 24. Mai 2017 die folgende Studien- und Prüfungsordnung für
 den Bachelorstudiengang Mathematik für das Lehramt und das
 60-Leistungspunkte-Modulangebot Mathematik im Rahmen anderer Studiengänge
-erlassen: \[^1\]
+erlassen: [^1]
 
-\[^1\]:Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 13. Juni
+[^1]:Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 13. Juni
 2017 bestätigt worden.
 
 ## Anlagen

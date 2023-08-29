@@ -7,9 +7,9 @@ Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen Nr. 24/1998) hat der
 Fachbereichsrat des Fachbereichs Mathematik und Informatik der Freien
 Universität Berlin am 19. April 2017 die folgende Studien- und Prüfungsordnung
 für das 30-Leistungspunkte-Modulangebot Informatik im Rahmen anderer
-Studiengänge erlassen.\[^1\]
+Studiengänge erlassen.[^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. Mai
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 16. Mai
 2017 bestätigt worden.
 
 ## Anlagen

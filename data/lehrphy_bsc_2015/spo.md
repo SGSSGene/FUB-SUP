@@ -7,9 +7,9 @@ Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Fachbereichsrat des Fachbereichs Physik der Freien Universität Berlin am 24.
 Juni 2015 die folgende Studienund Prüfungsordnung für den Bachelorstudiengang
 Physik für das Lehramt und für das 60-Leistungspunkte-Modulangebot Physik im
-Rahmen anderer Studiengänge erlassen: \[^1\]
+Rahmen anderer Studiengänge erlassen: [^1]
 
-\[^1\]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 5.
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 5.
 August 2015 bestätigt worden.
 
 ## Anlagen:
