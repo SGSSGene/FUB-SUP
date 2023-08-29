@@ -25,12 +25,12 @@ September 2019 und vom Vorstand der Charité am 8. Oktober 2019 bestätigt worde
 - Anlage 1: [Modulbeschreibungen](module_explanations.md)
 - Anlage 2: Exemplarische Studienverlaufspläne für den Masterstudiengang
   Bioinformatik (!TODO missing)
-  - 2.1 Masterstudiengang Bioinformatik mit dem Profilbereich Complex Systems
-    (!TODO missing)
-  - 2.2 Masterstudiengang Bioinformatik mit dem Profilbereich Data Science
-    (!TODO missing)
-  - 2.3 Masterstudiengang Bioinformatik mit dem Profilbereich Advanced
-    Algorithms (!TODO missing)
+    - 2.1 Masterstudiengang Bioinformatik mit dem Profilbereich Complex Systems
+      (!TODO missing)
+    - 2.2 Masterstudiengang Bioinformatik mit dem Profilbereich Data Science
+      (!TODO missing)
+    - 2.3 Masterstudiengang Bioinformatik mit dem Profilbereich Advanced
+      Algorithms (!TODO missing)
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
 - Anlage 4: Urkunde (Muster) (!TODO missing)
 
@@ -136,83 +136,75 @@ Die Regelstudienzeit beträgt vier Semester.
    Grundlagenstudium im Umfang von 30 LP, das Profilbereichsstudium im Umfang
    von 30 LP und das Wahlpflichtstudium im Umfang von 30 LP. Für die Wahl des
    Profilbereiches werden drei verschiedene Ausrichtungen angeboten:
+    1. Complex Systems,
+    2. Data Science und
+    3. Advanced Algorithms.
 
-   1. Complex Systems,
-   2. Data Science und
-   3. Advanced Algorithms.
-
-   Die Studierenden wählen ihren individuellen Profilbereich durch die
-   erfolgreiche Absolvierung aller Pflicht module eines Profilbereichs.
+    Die Studierenden wählen ihren individuellen Profilbereich durch die
+    erfolgreiche Absolvierung aller Pflicht module eines Profilbereichs.
 
 2. Im Grundlagenstudium sind folgende Module zu absolvieren:
-
-   - Foundations in Computer Science (6 LP),
-   - Foundations in Mathematics and Statistics (6 LP),
-   - Foundations in Bio-Medicine (6 LP) und
-   - Introduction to Focus Areas (12 LP).
-
+    - Foundations in Computer Science (6 LP),
+    - Foundations in Mathematics and Statistics (6 LP),
+    - Foundations in Bio-Medicine (6 LP) und
+    - Introduction to Focus Areas (12 LP).
 3. Im Profilstudium Complex Systems (CS) sind folgende Module zu absolvieren:
-
-   - Modul: Complex Systems in Bioinformatics (10 LP),
-   - V-Modul: Complex Systems in Biomedical Applications (5 LP),
-   - Modul: Ethics and Policy Questions (5 LP) und
-   - Modul: Research Internship (10 LP).
-
+    - Modul: Complex Systems in Bioinformatics (10 LP),
+    - V-Modul: Complex Systems in Biomedical Applications (5 LP),
+    - Modul: Ethics and Policy Questions (5 LP) und
+    - Modul: Research Internship (10 LP).
 4. Im Profilstudium Data Science (DS) sind folgende Module zu absolvieren:
-
-   - Modul: Data Science in the Life Sciences (15 LP),
-   - Modul: Ethics and Policy Questions (5 LP) und
-   - Modul: Research Internship (10 LP).
-
+    - Modul: Data Science in the Life Sciences (15 LP),
+    - Modul: Ethics and Policy Questions (5 LP) und
+    - Modul: Research Internship (10 LP).
 5. Im Profilstudium Advanced Algorithms (AA) sind folgende Module zu
    absolvieren:
-
-   - Modul: Advanced Algorithms for Bioinformatics (10 LP),
-   - V-Modul: Methods in Life Sciences (5 LP),
-   - Modul: Ethics and Policy Questions (5 LP) und
-   - Modul: Research Internship (10 LP).
-
+    - Modul: Advanced Algorithms for Bioinformatics (10 LP),
+    - V-Modul: Methods in Life Sciences (5 LP),
+    - Modul: Ethics and Policy Questions (5 LP) und
+    - Modul: Research Internship (10 LP).
 6. Im Wahlpflichtbereich im Umfang von 30 LP sind (a) von den Profilmodulen
    Module im Umfang von insgesamt mindestens 10 LP des individuellen
    Profilbereichs (b) mindestens ein V-Modul und (c) mindestens ein Praxismodul
    zu wählen und zu ab- solvieren. Im Wahlpflichtbereich werden folgende Module
    angeboten:
+    1. Profilmodule
+        - V-Modul: Advanced Network Analysis (CS/AA/5 LP),
+        - V-Modul: Human Evolution (CS/10 LP),
+        - Praxismodul: Computer-Aided Drug Design (CS/AA/5 LP),
+        - Praxismodul: Current topics in cell-physiology(CS/5 LP),
+        - Praxismodul: Computational Systems Biology (CS/5 LP).
+        - Modul: Medical Bioinformatics (DS/AA/10 LP),
+        - V-Modul: Machine Learning in Bioinformatics (DS/5 LP),
+        - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP),
+        - V-Modul: Complex Data Analysis in Physiology (DS/5 LP),
+        - V-Modul: Methodology for clinical trials (DS/5 LP),
+        - V-Modul: Advanced Biometrical Methods (DS/5 LP),
+        - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP),
+        - Modul: Spezielle Aspekte der Datenverwaltung (DS/5 LP),
+        - Modul: Verteilte Systeme (DS/5 LP),
+        - Modul: Netzbasierte Informationssysteme (DS/5 LP).
+        - Modul: Biodiversity and Evolution (AA/10 LP),
+        - Modul: Structural Bioinformatics (AA/10 LP),
+        - Praxismodul: Applied Sequence Analysis (AA/5 LP),
+        - Praxismodul: Environmental metagenomics (AA/5 LP),
+        - Praxismodul: Current topics in medical genomics (DS/AA/5 LP),
+        - Praxismodul: Current topics in structural bioinformatics (AA/5 LP),
+        - Modul: Höhere Algorithmik (AA/10 LP),
+    2. Wahlmodule
+        - Modul: Current research topics in Bioinformatics A (5 LP),
+        - Modul: Current research topics in Bioinformatics B (5 LP),
+        - Modul: Current research topics in Bioinformatics C (5 LP),
+        - V-Modul: Special aspects of Bioinformatics A (5 LP),
+        - V-Modul: Special aspects of Bioinformatics B (5 LP),
+        - V-Modul: Special aspects of Bioinformatics C (5 LP),
+        - V-Modul: Selected topics in Bioinformatics A (10 LP),
+        - V-Modul: Selected topics in Bioinformatics B (10 LP),
 
-   1. Profilmodule
-      - V-Modul: Advanced Network Analysis (CS/AA/5 LP),
-      - V-Modul: Human Evolution (CS/10 LP),
-      - Praxismodul: Computer-Aided Drug Design (CS/AA/5 LP),
-      - Praxismodul: Current topics in cell-physiology(CS/5 LP),
-      - Praxismodul: Computational Systems Biology (CS/5 LP).
-      - Modul: Medical Bioinformatics (DS/AA/10 LP),
-      - V-Modul: Machine Learning in Bioinformatics (DS/5 LP),
-      - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP),
-      - V-Modul: Complex Data Analysis in Physiology (DS/5 LP),
-      - V-Modul: Methodology for clinical trials (DS/5 LP),
-      - V-Modul: Advanced Biometrical Methods (DS/5 LP),
-      - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP),
-      - Modul: Spezielle Aspekte der Datenverwaltung (DS/5 LP),
-      - Modul: Verteilte Systeme (DS/5 LP),
-      - Modul: Netzbasierte Informationssysteme (DS/5 LP).
-      - Modul: Biodiversity and Evolution (AA/10 LP),
-      - Modul: Structural Bioinformatics (AA/10 LP),
-      - Praxismodul: Applied Sequence Analysis (AA/5 LP),
-      - Praxismodul: Environmental metagenomics (AA/5 LP),
-      - Praxismodul: Current topics in medical genomics (DS/AA/5 LP),
-      - Praxismodul: Current topics in structural bioinformatics (AA/5 LP),
-      - Modul: Höhere Algorithmik (AA/10 LP),
-   2. Wahlmodule
-      - Modul: Current research topics in Bioinformatics A (5 LP),
-      - Modul: Current research topics in Bioinformatics B (5 LP),
-      - Modul: Current research topics in Bioinformatics C (5 LP),
-      - V-Modul: Special aspects of Bioinformatics A (5 LP),
-      - V-Modul: Special aspects of Bioinformatics B (5 LP),
-      - V-Modul: Special aspects of Bioinformatics C (5 LP),
-      - V-Modul: Selected topics in Bioinformatics A (10 LP),
-      - V-Modul: Selected topics in Bioinformatics B (10 LP), Zudem können alle
-        unter Nr. 1 aufgeführten noch nicht absolvierten Profilmodule sowie die
-        unter Abs. 3 bis 5 aufgeführten Pflichtmodule der ande- ren beiden
-        Profilbereiche gewählt werden
+    Zudem können alle
+    unter Nr. 1 aufgeführten noch nicht absolvierten Profilmodule sowie die
+    unter Abs. 3 bis 5 aufgeführten Pflichtmodule der ande- ren beiden
+    Profilbereiche gewählt werden
 
 7. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der akti- ven
@@ -230,45 +222,44 @@ Die Regelstudienzeit beträgt vier Semester.
    wird auf die Studien- und Prüfungsordnung für den Master- studiengang
    Informatik des Fachbereichs Mathematik und Informatik der Freien Universität
    Berlin verwie- sen.
-
 8. Über den empfohlenen Verlauf des Studiums im Masterstudiengang unterrichten
    die exemplarischen Studienverlaufspläne in Anlage 2.
 
 ## § 8 Lehr- und Lernformen
 
 1. Im Masterstudiengang werden folgende Lehr- und Lernformen angeboten:
-   1. In Vorlesungen (V) werden die Inhalte der jeweiligen Veranstaltung von der
-      Lehrkraft vorgetragen und erläutert. Die Lehrkräfte vermitteln Lehrinhalte
-      unter Hinweis auf Fachliteratur und regen zu eigenem Arbeiten und
-      kritischem Denken an.
-   2. Übungen (Ü) finden in der Regel begleitend zur Vorlesung in kleinen
-      Gruppen statt. In den Übungsgruppen werden die Inhalte der Vorlesung
-      schwerpunktmäßig wiederholt und die praktische Anwendung des Gelernten
-      anhand von Übungsaufgaben eingeübt.
-   3. Seminare (S) dienen der exemplarischen Einarbeitung in Inhalte, Theorien
-      und Methoden von Vertiefungsgebieten der Bioinformatik anhand
-      überschaubarer Themenbereiche. Im Seminar werden unter Anleitung einer
-      Lehrkraft Lehrinhalte von Studierenden anhand von Fachliteratur und
-      empirischen Erkenntnissen erarbeitet, präsentiert und diskutiert.
-   4. In Praxisseminaren (PS) arbeiten die Studierenden unter Anleitung allein
-      oder in Kleingruppen an umfangreichen praktischen oder wissenschaftlichen
-      Problemstellungen. Bei der Bearbeitung eines Projektes steht der Prozess
-      der Lösungsfindung, also die praktische Anwendung geeigneter Techniken und
-      Verfahrensweisen unter Verwendung wissenschaftlicher Erkenntnisse und
-      Methoden im Mittelpunkt. Darüber hinaus werden überfachliche
-      Qualifikationen wie Team-, Kommunikations- und Transferfähigkeiten
-      erworben sowie ein verantwortliches und geschlechtersensibles Handeln
-      eingeübt.
-   5. Im seminaristischen Unterricht (sU) werden anwendungsorientierte
-      Kenntnisse eines abgegrenzten Stoffgebietes vermittelt; dabei werden
-      Aufgaben selbstständig bearbeitet und deren Ergebnisse von den
-      Studierenden dargestellt und kritisch gemeinsam diskutiert.
-   6. Integrierte Lehrveranstaltung (iLV): Eine integrierte Lehrveranstaltung
-      ist eine Mischform von Veranstaltungstypen. Die vorrangige Arbeitsform ist
-      eine aktive Teilnahme in gemeinsamen Diskussionen, Übungen oder Projekten
-      sowie Praxisanwendungen. Meist werden in Integrierten Lehrveranstaltungen
-      neben Vorlesungen oder Seminaren auch Projekte ausgestaltet. Die
-      tatsächliche Mischform definiert jeder Dozent für sich selbst.
+    1. In Vorlesungen (V) werden die Inhalte der jeweiligen Veranstaltung von der
+       Lehrkraft vorgetragen und erläutert. Die Lehrkräfte vermitteln Lehrinhalte
+       unter Hinweis auf Fachliteratur und regen zu eigenem Arbeiten und
+       kritischem Denken an.
+    2. Übungen (Ü) finden in der Regel begleitend zur Vorlesung in kleinen
+       Gruppen statt. In den Übungsgruppen werden die Inhalte der Vorlesung
+       schwerpunktmäßig wiederholt und die praktische Anwendung des Gelernten
+       anhand von Übungsaufgaben eingeübt.
+    3. Seminare (S) dienen der exemplarischen Einarbeitung in Inhalte, Theorien
+       und Methoden von Vertiefungsgebieten der Bioinformatik anhand
+       überschaubarer Themenbereiche. Im Seminar werden unter Anleitung einer
+       Lehrkraft Lehrinhalte von Studierenden anhand von Fachliteratur und
+       empirischen Erkenntnissen erarbeitet, präsentiert und diskutiert.
+    4. In Praxisseminaren (PS) arbeiten die Studierenden unter Anleitung allein
+       oder in Kleingruppen an umfangreichen praktischen oder wissenschaftlichen
+       Problemstellungen. Bei der Bearbeitung eines Projektes steht der Prozess
+       der Lösungsfindung, also die praktische Anwendung geeigneter Techniken und
+       Verfahrensweisen unter Verwendung wissenschaftlicher Erkenntnisse und
+       Methoden im Mittelpunkt. Darüber hinaus werden überfachliche
+       Qualifikationen wie Team-, Kommunikations- und Transferfähigkeiten
+       erworben sowie ein verantwortliches und geschlechtersensibles Handeln
+       eingeübt.
+    5. Im seminaristischen Unterricht (sU) werden anwendungsorientierte
+       Kenntnisse eines abgegrenzten Stoffgebietes vermittelt; dabei werden
+       Aufgaben selbstständig bearbeitet und deren Ergebnisse von den
+       Studierenden dargestellt und kritisch gemeinsam diskutiert.
+    6. Integrierte Lehrveranstaltung (iLV): Eine integrierte Lehrveranstaltung
+       ist eine Mischform von Veranstaltungstypen. Die vorrangige Arbeitsform ist
+       eine aktive Teilnahme in gemeinsamen Diskussionen, Übungen oder Projekten
+       sowie Praxisanwendungen. Meist werden in Integrierten Lehrveranstaltungen
+       neben Vorlesungen oder Seminaren auch Projekte ausgestaltet. Die
+       tatsächliche Mischform definiert jeder Dozent für sich selbst.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -287,10 +278,10 @@ Die Regelstudienzeit beträgt vier Semester.
     wissenschaftlichen Methoden selbstständig zu bearbeiten und die gewonnenen
     Ergebnisse schriftlich und mündlich angemessen darzustellen und zu bewerten.
 02. Studierende werden auf Antrag zur Masterarbeit zugelassen, wenn sie
-    1. im Masterstudiengang zuletzt an der Freien Universität Berlin
-       immatrikuliert gewesen sind und
-    2. Module im Umfang von insgesamt mindestens 60 LP im Masterstudiengang
-       erfolgreich absolviert haben.
+     1. im Masterstudiengang zuletzt an der Freien Universität Berlin
+        immatrikuliert gewesen sind und
+     2. Module im Umfang von insgesamt mindestens 60 LP im Masterstudiengang
+        erfolgreich absolviert haben.
 03. Dem Antrag auf Zulassung zur Masterarbeit sind Nachweise über das Vorliegen
     der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer
     prüfungsberechtigten Lehrkraft über die Bereitschaft zur Übernahme der
@@ -454,7 +445,6 @@ Die Regelstudienzeit beträgt vier Semester.
 
 1. Prüfungsaufgaben in der Form des Antwort-Wahl-Verfahrens sind von zwei
    Prüfungsberechtigten zu stellen.
-
 2. Erweist sich bei der Bewertung von Prüfungsleistungen, die nach dem
    Antwort-Wahl-Verfahren abgelegt worden sind, ein auffälliges Fehlermuster bei
    der Beantwortung einzelner Prüfungsaufgaben, so überprüfen die beiden
@@ -473,7 +463,6 @@ Die Regelstudienzeit beträgt vier Semester.
    entscheidet, ob die Prüfungsleistung insgesamt zu wiederholen ist oder unter
    Nichtberücksichtigung der fehlerhaften Aufgaben nach den vorstehenden
    Maßgaben gewertet werden kann.
-
 3. Eine im Antwort-Wahl-Verfahren erbrachte Prüfungsleistung ist bestanden, wenn
    die oder der Studierende mindestens 50 % der erzielbaren Bewertungspunkte
    erreicht hat (absolute Bestehensgrenze) oder wenn die Zahl der von der oder
@@ -483,29 +472,26 @@ Die Regelstudienzeit beträgt vier Semester.
    (relative Bestehensgrenze). Kommt die relative Bestehensgrenze zum Tragen, so
    muss die oder der Studierende für das Bestehen der Prüfungsleistung
    gleichwohl mindestens 40 % der erzielbaren Bewertungspunkte erreicht haben.
-
 4. Im Antwort-Wahl-Verfahren erbrachte Prüfungsleistungen sind wie folgt zu
    bewerten: Hat die oder der Studierende die für das Bestehen der
    Prüfungsleistung nach Abs. 3 erforderliche Mindestbewertungspunktzahl
    erreicht, so lautet die Note
+    - sehr gut, wenn sie oder er mindestens 75 %,
+    - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
+    - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
+    - ausreichend, wenn sie oder er keine oder weniger als 25 %
 
-   - sehr gut, wenn sie oder er mindestens 75 %,
-   - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
-   - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
-   - ausreichend, wenn sie oder er keine oder weniger als 25 %
-
-   der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahl hinaus
-   erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
-   Noten gilt im Übrigen die RSPO.
+    der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahl hinaus
+    erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
+    Noten gilt im Übrigen die RSPO.
 
 5. Die Bewertungsvorgaben gemäß der Absätze 3 und 4 finden keine Anwendung, wenn
-
-   1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
-      haben und die im Antwort-Wahl-Verfahren erbrachten Prüfungsleistungen
-      bewerten, identisch sind oder
-   2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
-      des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
-      Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
+    1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
+       haben und die im Antwort-Wahl-Verfahren erbrachten Prüfungsleistungen
+       bewerten, identisch sind oder
+    2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
+       des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
+       Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
 
 ## § 13 Wiederholung von Prüfungsleistungen
 

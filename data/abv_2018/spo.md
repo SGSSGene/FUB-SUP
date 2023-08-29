@@ -139,80 +139,79 @@ erlassen: [^1]
    professionsorientierten Kompetenzfeldern. r (2) Der Studienbereich Allgemeine
    Berufsvorbereitung umfasst ein obligatorisches Berufspraktikum sowie folgende
    Kompetenzbereiche:
-
-   1. Der Kompetenzbereich Fremdsprachen vermittelt dem Gemeinsamen Europäischen
-      Referenzrahmen für Sprachen (GER) entsprechende handlungsbezogene
-      Fertigkeiten, Lese- und Hörverständnisstrategien, Strategien der
-      mündlichen und schriftlichen Produktion und Kommunikation sowie soziale
-      und kulturelle Grundlagen für die interkulturelle Kommunikation.
-   2. Der Kompetenzbereich Informations- und Medienkompetenz vermittelt
-      Kompetenzen zur Durchführung von IT-Projekten und zum reflektierten Umgang
-      mit Informations- und Kommunikationstechnologien. Die Bandbreite der
-      Studieninhalte entspricht den Anforderungen im Berufsalltag und erstreckt
-      sich vom professionellen Einsatz von Büro- und Statistiksoftware über den
-      Einsatz von Webtechnologien für die Veröffentlichung eigener Inhalte im
-      Internet bis hin zu Programmier- und professionellen Recherchetechniken.
-   3. Der Kompetenzbereich Gender- und Diversitykompetenz vermittelt einen
-      Überblick über Theorien und Konzepte der Gender und Diversity Studies und
-      die sich daran anschließenden Fragestellungen zum Geschlechterverhältnis
-      bzw. der kulturellen Vielfalt in Gesellschaft und Organisationen. Die
-      Studentinnen und Studenten gewinnen berufsrelevante Kenntnisse über
-      Konzepte zur Implementierung von Gleichstellung sowie deren rechtliche,
-      wirtschaftliche und politische Rahmenbedingungen. Integraler Bestandteil
-      des Kompetenzbereiches istdas Training zum Umgang mit Heterogenität im
-      Berufsalltag.
-   4. Der Kompetenzbereich Organisation und Management vermittelt praxisnahe
-      Kompetenzen der Betriebswirtschaftslehre, des Marketings und der Bedeutung
-      sowie Nutzung innovativer Informations- und Kommunikationstechnologien im
-      Wirtschaftsleben. Er sensibilisiert und qualifiziert für unternehmerisches
-      Denken und Handeln. Zentraler Bestandteil des Kompetenzbereiches ist die
-      Nutzung moderner Technologien in der Lehre, durch die Medienkompetenz und
-      Teamfähigkeit vermittelt werden.
-   5. Der Kompetenzbereich Kommunikative Kompetenzen umfasst das Gebiet der
-      personalen und interpersonellen Kompetenzen; er vermittelt einen Überblick
-      über ausgewählte Theorien und Modelle der Kommunikation sowie vertieftes
-      Wissen über Arbeitsorganisationssysteme. Integraler Bestandteil des
-      Kompetenzbereichs sind angeleitete praktische Erfahrungen bei der
-      Anwendung von professionellen Gesprächsund Präsentationstechniken sowie
-      effektiven Zeitund Selbstmanagementstrategien.
-   6. Der Kompetenzbereich Nachhaltige Entwicklung vermittelt Grundlagenwissen
-      zu Aspekten des Querschnittsthemas Nachhaltigkeit und gibt einen Einblick
-      in die interdisziplinären Zusammenhänge von Nachhaltigkeitsaspekten und
-      Strategien zur Vermittlung und Umsetzung einer nachhaltigen Entwicklung.
-      In diesem Zusammenhang werden die globalen gesellschaftlichen
-      Herausforderungen im Sinne der Sustainable Development Goals (SDGs) der
-      Vereinten Nationen sowie Lösungsansätze erörtert. Im Rahmen von Projekten
-      in Kleingruppen erwerben die Studentinnen und Studenten darüber hinaus
-      interdisziplinäre Teamfähigkeit und die Fähigkeit, unterschiedliche
-      Projektmethoden anzuwenden.
-   7. Im Kompetenzbereich Forschungsorientierung werden Kompetenzen der Research
-      Literacy (Forschungsmethoden und -ergebnisse verschiedener Disziplinen
-      nachvollziehen und darüber kommunizieren können, um diese Erkenntnisse für
-      wissenschaftliche Zwecke und als Expertinnen und Experten in der
-      Gesellschaft nutzen zu können) vermittelt, die Studentinnen und Studenten
-      sowohl für eine Karriere in der Wissenschaft als auch für wissensbasierte
-      Expertinnen- und Expertenberufe in einer dynamischen Wissensgesellschaft
-      benötigen. Dazu werden wissenschaftstheoretische, wissenschaftshistorische
-      und methodologische Fragen aus der Perspektive unterschiedlicher
-      Fächerkulturen adressiert sowie Fragen des Transfers und der Anwendung
-      wissenschaftlichen Wissens behandelt. Auf dieser Grundlage bearbeiten die
-      Studentinnen und Studenten aktuelle gesellschaftliche Themen/Probleme
-      anhand von Forschungsergebnissen aus unterschiedlichen Disziplinen.
-   8. Im Kompetenzbereich Fachnahe Zusatzqualifikationen werden
-      praxisorientierte Module der Fächer und Fachbereiche angeboten, welche auf
-      die Verknüpfung von fachwissenschaftlichen und professionsbezogenen
-      Kompetenzen gerichtet sind. Die Studentinnen und Studenten erwerben
-      berufsrelevante Kenntnisse, Fähigkeiten und Fertigkeiten zur Vorbereitung
-      auf eine qualifizierte Beschäftigung und anwendungsorientierte
-      wissenschaftliche Weiterentwicklung in der eigenen Fachrichtung.
-   9. Der Kompetenzbereich Medienpraxis: Planung und Realisierung von TV- und
-      Online-Formaten gibt eine theoretisch-methodische Einführung in
-      Massenmedien sowie deren gattungsspezifische Besonderheiten und vermittelt
-      organisationsspezifische und operative Grundlagen integrierter
-      Medienpraxis und -produktion. Es werden die Planung, Umsetzung und
-      Realisierung von Online- und TV-Formaten und -Beiträgen für verschiedene
-      Medienprojekte in interdisziplinär zusammengesetzten Projektteams
-      behandelt.
+    1. Der Kompetenzbereich Fremdsprachen vermittelt dem Gemeinsamen Europäischen
+       Referenzrahmen für Sprachen (GER) entsprechende handlungsbezogene
+       Fertigkeiten, Lese- und Hörverständnisstrategien, Strategien der
+       mündlichen und schriftlichen Produktion und Kommunikation sowie soziale
+       und kulturelle Grundlagen für die interkulturelle Kommunikation.
+    2. Der Kompetenzbereich Informations- und Medienkompetenz vermittelt
+       Kompetenzen zur Durchführung von IT-Projekten und zum reflektierten Umgang
+       mit Informations- und Kommunikationstechnologien. Die Bandbreite der
+       Studieninhalte entspricht den Anforderungen im Berufsalltag und erstreckt
+       sich vom professionellen Einsatz von Büro- und Statistiksoftware über den
+       Einsatz von Webtechnologien für die Veröffentlichung eigener Inhalte im
+       Internet bis hin zu Programmier- und professionellen Recherchetechniken.
+    3. Der Kompetenzbereich Gender- und Diversitykompetenz vermittelt einen
+       Überblick über Theorien und Konzepte der Gender und Diversity Studies und
+       die sich daran anschließenden Fragestellungen zum Geschlechterverhältnis
+       bzw. der kulturellen Vielfalt in Gesellschaft und Organisationen. Die
+       Studentinnen und Studenten gewinnen berufsrelevante Kenntnisse über
+       Konzepte zur Implementierung von Gleichstellung sowie deren rechtliche,
+       wirtschaftliche und politische Rahmenbedingungen. Integraler Bestandteil
+       des Kompetenzbereiches istdas Training zum Umgang mit Heterogenität im
+       Berufsalltag.
+    4. Der Kompetenzbereich Organisation und Management vermittelt praxisnahe
+       Kompetenzen der Betriebswirtschaftslehre, des Marketings und der Bedeutung
+       sowie Nutzung innovativer Informations- und Kommunikationstechnologien im
+       Wirtschaftsleben. Er sensibilisiert und qualifiziert für unternehmerisches
+       Denken und Handeln. Zentraler Bestandteil des Kompetenzbereiches ist die
+       Nutzung moderner Technologien in der Lehre, durch die Medienkompetenz und
+       Teamfähigkeit vermittelt werden.
+    5. Der Kompetenzbereich Kommunikative Kompetenzen umfasst das Gebiet der
+       personalen und interpersonellen Kompetenzen; er vermittelt einen Überblick
+       über ausgewählte Theorien und Modelle der Kommunikation sowie vertieftes
+       Wissen über Arbeitsorganisationssysteme. Integraler Bestandteil des
+       Kompetenzbereichs sind angeleitete praktische Erfahrungen bei der
+       Anwendung von professionellen Gesprächsund Präsentationstechniken sowie
+       effektiven Zeitund Selbstmanagementstrategien.
+    6. Der Kompetenzbereich Nachhaltige Entwicklung vermittelt Grundlagenwissen
+       zu Aspekten des Querschnittsthemas Nachhaltigkeit und gibt einen Einblick
+       in die interdisziplinären Zusammenhänge von Nachhaltigkeitsaspekten und
+       Strategien zur Vermittlung und Umsetzung einer nachhaltigen Entwicklung.
+       In diesem Zusammenhang werden die globalen gesellschaftlichen
+       Herausforderungen im Sinne der Sustainable Development Goals (SDGs) der
+       Vereinten Nationen sowie Lösungsansätze erörtert. Im Rahmen von Projekten
+       in Kleingruppen erwerben die Studentinnen und Studenten darüber hinaus
+       interdisziplinäre Teamfähigkeit und die Fähigkeit, unterschiedliche
+       Projektmethoden anzuwenden.
+    7. Im Kompetenzbereich Forschungsorientierung werden Kompetenzen der Research
+       Literacy (Forschungsmethoden und -ergebnisse verschiedener Disziplinen
+       nachvollziehen und darüber kommunizieren können, um diese Erkenntnisse für
+       wissenschaftliche Zwecke und als Expertinnen und Experten in der
+       Gesellschaft nutzen zu können) vermittelt, die Studentinnen und Studenten
+       sowohl für eine Karriere in der Wissenschaft als auch für wissensbasierte
+       Expertinnen- und Expertenberufe in einer dynamischen Wissensgesellschaft
+       benötigen. Dazu werden wissenschaftstheoretische, wissenschaftshistorische
+       und methodologische Fragen aus der Perspektive unterschiedlicher
+       Fächerkulturen adressiert sowie Fragen des Transfers und der Anwendung
+       wissenschaftlichen Wissens behandelt. Auf dieser Grundlage bearbeiten die
+       Studentinnen und Studenten aktuelle gesellschaftliche Themen/Probleme
+       anhand von Forschungsergebnissen aus unterschiedlichen Disziplinen.
+    8. Im Kompetenzbereich Fachnahe Zusatzqualifikationen werden
+       praxisorientierte Module der Fächer und Fachbereiche angeboten, welche auf
+       die Verknüpfung von fachwissenschaftlichen und professionsbezogenen
+       Kompetenzen gerichtet sind. Die Studentinnen und Studenten erwerben
+       berufsrelevante Kenntnisse, Fähigkeiten und Fertigkeiten zur Vorbereitung
+       auf eine qualifizierte Beschäftigung und anwendungsorientierte
+       wissenschaftliche Weiterentwicklung in der eigenen Fachrichtung.
+    9. Der Kompetenzbereich Medienpraxis: Planung und Realisierung von TV- und
+       Online-Formaten gibt eine theoretisch-methodische Einführung in
+       Massenmedien sowie deren gattungsspezifische Besonderheiten und vermittelt
+       organisationsspezifische und operative Grundlagen integrierter
+       Medienpraxis und -produktion. Es werden die Planung, Umsetzung und
+       Realisierung von Online- und TV-Formaten und -Beiträgen für verschiedene
+       Medienprojekte in interdisziplinär zusammengesetzten Projektteams
+       behandelt.
 
 2. Während des Berufspraktikums werden praktische Erfahrungen aus der
    Arbeitswelt gesammelt, die für die Findung und Ausübung
@@ -247,24 +246,21 @@ werden, eingesetzt ist.
 1. Der Studienbereich ABV ist in Module im Umfang von 30 Leistungspunkten (LP)
    gegliedert und umfasst ein obligatorisches Berufspraktikum und die folgenden
    acht Kompetenzbereiche:
-
-   1. Fremdsprachen
-   2. Informations- und Medienkompetenz
-   3. Gender- und Diversitykompetenz
-   4. Organisation und Management
-   5. Kommunikative Kompetenzen
-   6. Nachhaltige Entwicklung
-   7. Forschungsorientierung
-   8. Fachnahe Zusatzqualifikationen
-   9. Medienpraxis: Planung und Realisierung von TV- und Online-Formaten
-
+    1. Fremdsprachen
+    2. Informations- und Medienkompetenz
+    3. Gender- und Diversitykompetenz
+    4. Organisation und Management
+    5. Kommunikative Kompetenzen
+    6. Nachhaltige Entwicklung
+    7. Forschungsorientierung
+    8. Fachnahe Zusatzqualifikationen
+    9. Medienpraxis: Planung und Realisierung von TV- und Online-Formaten
 2. Die Module des Studienbereichs ABV weisen eine durch 5 teilbare
    Leistungspunktzahl auf. Je Kompetenzbereich dürfen Module im Umfang von
    höchstens 15 LP absolviert werden. Das Berufspraktikum umfasst 5, 10 oder 15
    LP. Anstelle eines Praktikumsmoduls kann auch ein Auslandspraktikumsmodul mit
    20, 25 oder 30 LP absolviert werden. Bei der Durchführung eines
    Auslandspraktikums im Umfang von 30 LP wird kein Kompetenzbereich studiert.
-
 3. Durch die Studien- oder Prüfungsordnung für den jeweiligen
    Bachelorstudiengang kann festgelegt werden, dass bestimmte Module des
    Studienbereichs ABV im Rahmen des jeweiligen Bachelorstudiengangs absolviert
@@ -275,7 +271,6 @@ werden, eingesetzt ist.
    und in der Studienordnung für den Studienbereich ABV geregelten Module nach
    Maßgabe modulbezogener Zugangsvoraussetzungen gegeben. Dabei sind die
    Anforderungen gemäß Abs. 1 und 2 zu berücksichtigen.
-
 4. Durch die Studien- und/oder Prüfungsordnung für den jeweiligen
    Bachelorstudiengang kann bestimmt werden, dass an einer Universität oder
    einer gleichgestellten Hochschule außerhalb der Bundesrepublik Deutschland
@@ -285,7 +280,6 @@ werden, eingesetzt ist.
    Modulen aus den Kompetenzbereichen oder des Praktikums gemäß Abs. 1 treten
    können. Die Entscheidung trifftder zuständige Prüfungsausschuss auf Antrag
    der Studentin oder des Studenten.
-
 5. Die im Rahmen des Studienbereichs ABV erbrachten Leistungen werden
    undifferenziert bewertet und auf dem Zeugnis, welches aufgrund der
    bestandenen Prüfung im jeweiligen Bachelorstudiengang ausgestellt wird,
@@ -294,7 +288,6 @@ werden, eingesetzt ist.
    und 2 kann die jeweilige Prüfungsordnung für Module des Kompetenzbereichs
    Fachnahe Zusatzqualifikationen regeln, dass diese Module differenziert
    bewertet und bei der Ermittlung der Gesamtnote berücksichtigt werden.
-
 6. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
    Teilnahme, die zu erbringenden studienbegleitenden Prüfungsleistungen, die
@@ -306,72 +299,70 @@ werden, eingesetzt ist.
 ## § 7 Lehr- und Lernformen
 
 1. Im Rahmen des Lehrangebots werden folgende Lehr- und Lernformen angeboten:
-
-   01. Vorlesungen (V) vermitteln Kenntnisse über ein spezielles Stoffgebiet und
-       dienen der Darstellung allgemeiner Zusammenhänge, theoretischer
-       Grundlagen und praxisrelevanter Fragestellungen. Die vorrangige Lehrform
-       ist der Vortrag der jeweiligen Lehrkraft, welcher gegebenenfalls auch
-       Übungselemente enthalten kann
-   02. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
-       Stoffgebietes und der Vertiefung von Fähigkeiten, eine Fragestellung
-       selbstständig und/oder im Team zu bearbeiten, die Ergebnisse in
-       unterschiedlichen Medien darzustellen und kritisch zu diskutieren. Neben
-       klassischen Präsenzveranstaltungen bestehen die vorrangigen Arbeitsformen
-       während der Onlinephasen in der Bearbeitung von internetgestützten
-       Kursmaterialien (z. B. e-Lectures, webbased Trainings oder Fallstudien)
-       sowie der zumeist teamorientierten, kollaborativen Erstellung und
-       Diskussion von Arbeitsergebnissen mit Hilfe ebenfalls internetgestützter
-       Anwendungssysteme (z. B. Foren, Chats, Wiki, Blogs oder
-       Videokonferenzen).
-   03. Seminaristische Übungen (sÜ) dienen der Vermittlung von
-       anwendungsorientierten Kenntnissen eines abgegrenzten Stoffgebietes und
-       der Erweiterung praktischer Fähigkeiten, eine Aufgabe selbstständig oder
-       im Team zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
-       diskutieren. Lehrkräfte aus Wissenschaft und Praxis leiten die
-       Lernprozesse an und geben Regelmäßiges Feedback.
-   04. Seminar am PC (S-PC) dienen in der Präsenzzeit der Vermittlung von
-       Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
-       Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
-       Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
-       Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
-       Anwendung von Spezialsoftware.
-   05. Projektseminare (PrjS) dienen der Vermittlung von berufsrelevanten
-       Kenntnissen, Fähigkeiten und Erfahrungen in einem abgegrenzten
-       Anwendungsgebiet. Komplexe anwendungsorientierte Problemstellungen werden
-       exemplarisch bearbeitet und diskutiert. Die Lehr- und Lernformen bilden
-       eine Kombination aus Lehrvorträgen, Seminargesprächen, Übungen sowie
-       kleineren Arbeitsaufträgen und E-Learning-gestützten Aufgaben, die
-       selbstständig oder im Team bearbeitet werden. Es besteht eine intensive
-       Betreuung durch die anwesenden Lehrkräfte.
-   06. Sprachpraktische Übungen (spÜ) dienen der Vermittlung von
-       handlungsbezogenen kommunikativen Kompetenzen in modernen Fremdsprachen.
-       Sie erfordern eine aktive Teilnahme am Unterrichtsgespräch und enthalten
-       in Abhängigkeit vom jeweiligen Eingangsniveau der Studentinnen und
-       Studenten, den behandelten Textsorten und den Qualifikationszielen
-       vielfältige Formen der eigenständigen und kooperativen Spracharbeit, die
-       in kontinuierlicher Rückkopplung mit der Lehrkraft innerhalb und
-       außerhalb der Präsenzzeit erbracht werden.
-   07. Lehrforschungsprojekt (LFP) dient der Integration von theoretischem
-       Wissen und methodischer Expertise, um so erste eigene
-       Forschungserfahrungen zu erwerben. Es wird die Fähigkeit entwickelt,
-       selbstständig empirische Untersuchungen durchzuführen. Die vorrangige
-       Lehrform ist eine intensive Interaktion von Lehrenden mit Kleingruppen.
-   08. Im Praktikum (P) gewinnen die Studentinnen und Studenten unter Anleitung
-       Erfahrungen in der Anwendung der erworbenen fachwissenschaftlichen
-       Kenntnisse und Methoden und können ihre Eignung für bestimmte
-       Berufsfelder testen.
-   09. Kolloquien (Ko) dienen als Begleitveranstaltungen zu den Praktika dem
-       angeleiteten Austausch von berufsrelevanten Informationen und
-       Praxiserfahrungen in kontinuierlicher Interaktion mit der Lehrkraft.
-   10. Die Lernwerkstatt (LW) ist eine materialreiche Lernumgebung, in deren
-       Zentrum praktisches und eigenaktives Lernen sowie Lernen durch eigene
-       Erfahrungen steht. Die Lernwerkstatt kann in Form von Laboratorien,
-       Simulationseinrichtungen und Übungswerkstätten mit dem Ziel der Ver-
-       mittlung von Einsichten in ganzheitlich-komplexe Zusammenhänge gestaltet
-       sein. Die vorrangige Arbeitsform ist die Vermittlung berufspraktischer
-       oder forschungsmethodischer Kompetenzen und deren Anwendung an
-       vielfältigen Beispielen.
-
+    01. Vorlesungen (V) vermitteln Kenntnisse über ein spezielles Stoffgebiet und
+        dienen der Darstellung allgemeiner Zusammenhänge, theoretischer
+        Grundlagen und praxisrelevanter Fragestellungen. Die vorrangige Lehrform
+        ist der Vortrag der jeweiligen Lehrkraft, welcher gegebenenfalls auch
+        Übungselemente enthalten kann
+    02. Seminare (S) dienen der Vermittlung von Kenntnissen eines abgegrenzten
+        Stoffgebietes und der Vertiefung von Fähigkeiten, eine Fragestellung
+        selbstständig und/oder im Team zu bearbeiten, die Ergebnisse in
+        unterschiedlichen Medien darzustellen und kritisch zu diskutieren. Neben
+        klassischen Präsenzveranstaltungen bestehen die vorrangigen Arbeitsformen
+        während der Onlinephasen in der Bearbeitung von internetgestützten
+        Kursmaterialien (z. B. e-Lectures, webbased Trainings oder Fallstudien)
+        sowie der zumeist teamorientierten, kollaborativen Erstellung und
+        Diskussion von Arbeitsergebnissen mit Hilfe ebenfalls internetgestützter
+        Anwendungssysteme (z. B. Foren, Chats, Wiki, Blogs oder
+        Videokonferenzen).
+    03. Seminaristische Übungen (sÜ) dienen der Vermittlung von
+        anwendungsorientierten Kenntnissen eines abgegrenzten Stoffgebietes und
+        der Erweiterung praktischer Fähigkeiten, eine Aufgabe selbstständig oder
+        im Team zu bearbeiten, die Ergebnisse darzustellen und kritisch zu
+        diskutieren. Lehrkräfte aus Wissenschaft und Praxis leiten die
+        Lernprozesse an und geben Regelmäßiges Feedback.
+    04. Seminar am PC (S-PC) dienen in der Präsenzzeit der Vermittlung von
+        Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
+        Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
+        Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
+        Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
+        Anwendung von Spezialsoftware.
+    05. Projektseminare (PrjS) dienen der Vermittlung von berufsrelevanten
+        Kenntnissen, Fähigkeiten und Erfahrungen in einem abgegrenzten
+        Anwendungsgebiet. Komplexe anwendungsorientierte Problemstellungen werden
+        exemplarisch bearbeitet und diskutiert. Die Lehr- und Lernformen bilden
+        eine Kombination aus Lehrvorträgen, Seminargesprächen, Übungen sowie
+        kleineren Arbeitsaufträgen und E-Learning-gestützten Aufgaben, die
+        selbstständig oder im Team bearbeitet werden. Es besteht eine intensive
+        Betreuung durch die anwesenden Lehrkräfte.
+    06. Sprachpraktische Übungen (spÜ) dienen der Vermittlung von
+        handlungsbezogenen kommunikativen Kompetenzen in modernen Fremdsprachen.
+        Sie erfordern eine aktive Teilnahme am Unterrichtsgespräch und enthalten
+        in Abhängigkeit vom jeweiligen Eingangsniveau der Studentinnen und
+        Studenten, den behandelten Textsorten und den Qualifikationszielen
+        vielfältige Formen der eigenständigen und kooperativen Spracharbeit, die
+        in kontinuierlicher Rückkopplung mit der Lehrkraft innerhalb und
+        außerhalb der Präsenzzeit erbracht werden.
+    07. Lehrforschungsprojekt (LFP) dient der Integration von theoretischem
+        Wissen und methodischer Expertise, um so erste eigene
+        Forschungserfahrungen zu erwerben. Es wird die Fähigkeit entwickelt,
+        selbstständig empirische Untersuchungen durchzuführen. Die vorrangige
+        Lehrform ist eine intensive Interaktion von Lehrenden mit Kleingruppen.
+    08. Im Praktikum (P) gewinnen die Studentinnen und Studenten unter Anleitung
+        Erfahrungen in der Anwendung der erworbenen fachwissenschaftlichen
+        Kenntnisse und Methoden und können ihre Eignung für bestimmte
+        Berufsfelder testen.
+    09. Kolloquien (Ko) dienen als Begleitveranstaltungen zu den Praktika dem
+        angeleiteten Austausch von berufsrelevanten Informationen und
+        Praxiserfahrungen in kontinuierlicher Interaktion mit der Lehrkraft.
+    10. Die Lernwerkstatt (LW) ist eine materialreiche Lernumgebung, in deren
+        Zentrum praktisches und eigenaktives Lernen sowie Lernen durch eigene
+        Erfahrungen steht. Die Lernwerkstatt kann in Form von Laboratorien,
+        Simulationseinrichtungen und Übungswerkstätten mit dem Ziel der Ver-
+        mittlung von Einsichten in ganzheitlich-komplexe Zusammenhänge gestaltet
+        sein. Die vorrangige Arbeitsform ist die Vermittlung berufspraktischer
+        oder forschungsmethodischer Kompetenzen und deren Anwendung an
+        vielfältigen Beispielen.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -405,7 +396,6 @@ werden, eingesetzt ist.
 
 1. Prüfungsaufgaben in der Form des Antwort-Wahl-Verfahrens sind von zwei
    Prüfungsberechtigten zu stellen.
-
 2. Erweist sich bei der Bewertung von Prüfungsleistungen, die nach dem
    Antwort-Wahl-Verfahren abgelegt worden sind, eine auffällige Fehlerhäufung
    bei der Beantwortung einzelner Prüfungsaufgaben, so leiteteine Prüferin oder
@@ -422,7 +412,6 @@ werden, eingesetzt ist.
    Anteil der Bewertungspunkte der zu eliminierenden Prüfungsaufgaben 15 % der
    Gesamtzahl der erzielbaren Bewertungspunkte im Antwort-Wahl-Verfahren, so ist
    die Prüfungsleistung insgesamt zu wiederholen.
-
 3. Eine im Antwort-Wahl-Verfahren erbrachte Prüfungsleistung ist bestanden, wenn
    die Studentin oder der Student mindestens 50 % der erzielbaren
    Bewertungspunkte erreicht hat (absolute Bestehensgrenze) oder wenn die Zahl
@@ -433,29 +422,26 @@ werden, eingesetzt ist.
    Bestehensgrenze zum Tragen, so muss die Studentin oder der Student für das
    Bestehen der Prüfungsleistung gleichwohl mindestens 40 % der erzielbaren
    Bewertungspunkte erreicht haben.
-
 4. Im Antwort-Wahl-Verfahren erbrachte Prüfungsleistungen sind wie folgt zu
    bewerten: Hat die Studentin oder der Student die für das Bestehen der
    Prüfungsleistung nach Abs. 3 erforderliche Mindestbewertungspunktzahl
    erreicht, so lautet die Note
+    - sehr gut, wenn sie oder er mindestens 75 %,
+    - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
+    - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
+    - ausreichend, wenn sie oder er keine oder weniger als 25 %
 
-   - sehr gut, wenn sie oder er mindestens 75 %,
-   - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
-   - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
-   - ausreichend, wenn sie oder er keine oder weniger als 25 %
-
-   der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahl hinaus
-   erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
-   Noten gilt im Übrigen die RSPO.
+    der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahl hinaus
+    erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
+    Noten gilt im Übrigen die RSPO.
 
 5. Die Bewertungsvorgaben gemäß der Absätze 3 und 4 finden keine Anwendung, wenn
-
-   1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
-      haben und die im Antwort-Wahl-Verfahren erbrachten Prüfungsleistungen
-      bewerten, übereinstimmen oder
-   2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
-      des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
-      Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
+    1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
+       haben und die im Antwort-Wahl-Verfahren erbrachten Prüfungsleistungen
+       bewerten, übereinstimmen oder
+    2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
+       des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
+       Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
 
 ## § 10 Inkrafttreten und Übergangsbestimmungen
 

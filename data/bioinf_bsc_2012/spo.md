@@ -91,55 +91,43 @@ Prüfungsordnung für den Bachelorstudiengang vom 10. Juli 2012.
 ### § 4 Aufbau und Gliederung
 
 1. Der Bachelorstudiengang gliedert sich in
-
-   1. das Kernfach im Umfang von 150 Leistungspunkten (LP) einschließlich der
-      Bachelorarbeit mit mündlicher Präsentation im Umfang von 12 LP und
-   2. Module aus dem Studienbereich Allgemeine Berufsvorbereitung (ABV) im
-      Umfang von 30 LP.
-
+    1. das Kernfach im Umfang von 150 Leistungspunkten (LP) einschließlich der
+       Bachelorarbeit mit mündlicher Präsentation im Umfang von 12 LP und
+    2. Module aus dem Studienbereich Allgemeine Berufsvorbereitung (ABV) im
+       Umfang von 30 LP.
 2. Das Kernfach Bioinformatik gliedert sich neben der Bachelorarbeit mit
    mündlicher Präsentation im Umfang von 12 LP in folgende Bereiche im Umfang
    von 138 LP:
-
-   1. einen Pflichtbereich im Umfang von 131 LP mit den Studienbereichen
-
-      1. Informatik im Umfang von 42 LP
-      2. Mathematik und Statistik im Umfang von 40 LP
-      3. Biologie/Chemie/Biochemie im Umfang von 49 LP und
-
-   2. einen Wahlbereich im Umfang von 7 LP.
-
+    1. einen Pflichtbereich im Umfang von 131 LP mit den Studienbereichen
+        1. Informatik im Umfang von 42 LP
+        2. Mathematik und Statistik im Umfang von 40 LP
+        3. Biologie/Chemie/Biochemie im Umfang von 49 LP und
+    2. einen Wahlbereich im Umfang von 7 LP.
 3. Im Rahmen des Studienbereichs Informatik im Umfang von 42 LP sind folgende
    Module zu absolvieren:
-
-   1. Informatik A (8 LP),
-   2. Informatik B (8 LP),
-   3. Algorithmen und Datenstrukturen (6 LP),
-   4. Algorithmen und Datenstrukturen - Praktikum (6 LP) und
-   5. Algorithmische Bioinformatik (14 LP).
-
+    1. Informatik A (8 LP),
+    2. Informatik B (8 LP),
+    3. Algorithmen und Datenstrukturen (6 LP),
+    4. Algorithmen und Datenstrukturen - Praktikum (6 LP) und
+    5. Algorithmische Bioinformatik (14 LP).
 4. Im Rahmen des Studienbereichs Mathematik und Statistik im Umfang von 40 LP
    sind folgende Module zu absolvieren:
-
-   1. Mathematik für Bioinformatiker I (8 LP),
-   2. Mathematik für Bioinformatiker II (8 LP),
-   3. Computerorientierte Mathematik I (5 LP),
-   4. Computerorientierte Mathematik II (5 LP),
-   5. Statistik für Biowissenschaften I (6 LP) und
-   6. Statistik für Biowissenschaften II (8 LP).
-
+    1. Mathematik für Bioinformatiker I (8 LP),
+    2. Mathematik für Bioinformatiker II (8 LP),
+    3. Computerorientierte Mathematik I (5 LP),
+    4. Computerorientierte Mathematik II (5 LP),
+    5. Statistik für Biowissenschaften I (6 LP) und
+    6. Statistik für Biowissenschaften II (8 LP).
 5. Im Rahmen des Studienbereichs Biologie/Chemie/Biochemie im Umfang von 49 LP
    sind folgende Module zu absolvieren:
-
-   1. Allgemeine Chemie (7 LP),
-   2. Allgemeine Biologie (6 LP),
-   3. Molekularbiologie und Biochemie I (6 LP),
-   4. Molekularbiologie und Biochemie II (6 LP),
-   5. Molekularbiologie und Biochemie III (6 LP),
-   6. Genetik und Genomforschung (5 LP),
-   7. Medizinische Physiologie (8 LP) und
-   8. Neurobiologie (5 LP).
-
+    1. Allgemeine Chemie (7 LP),
+    2. Allgemeine Biologie (6 LP),
+    3. Molekularbiologie und Biochemie I (6 LP),
+    4. Molekularbiologie und Biochemie II (6 LP),
+    5. Molekularbiologie und Biochemie III (6 LP),
+    6. Genetik und Genomforschung (5 LP),
+    7. Medizinische Physiologie (8 LP) und
+    8. Neurobiologie (5 LP).
 6. Im Wahlbereich im Umfang von 7 LP sollen über die Grundlagenausbildung im
    Pflichtbereich hinaus vertiefte und ergänzende Fachkenntnisse in einem der
    drei Studienbereiche Informatik gemäß Abs. 3, Mathematik und Statistik gemäß
@@ -149,7 +137,6 @@ Prüfungsordnung für den Bachelorstudiengang vom 10. Juli 2012.
    „Datenbanksysteme“ und „Grundlagen der Theoretischen Informatik“ aus dem
    Bachelorstudiengang Informatik des Fachbereichs Mathematik und Informatik der
    Freien Universität Berlin.
-
 7. Die Module des Wahlbereichs und darin nachgewiesene Leistungen dürfen nicht
    mit Modulen und Leistungen des Pflichtbereichs gemäß Abs. 2 bis 5
    übereinstimmen. Für Anforderungen und Verfahren der Leistungserbringung
@@ -158,7 +145,6 @@ Prüfungsordnung für den Bachelorstudiengang vom 10. Juli 2012.
    welche Module von den Studentinnen und Studenten gewählt werden können. Der
    Beschluss wird den Studentinnen und Studenten rechtzeitig und in geeigneter
    Form bekannt gegeben.
-
 8. Über Inhalte und Qualifikationsziele, Lehr- und Lernformen, den zeitlichen
    Arbeitsaufwand, die Formen der aktiven Teilnahme, die Regeldauer und die
    Angebotshäufigkeit informieren für die Module des Kernfachs ohne den
@@ -217,11 +203,11 @@ durchgeführt.
 3. Der Studienbereich ABV umfasst ein obligatorisches Berufspraktikum sowie
    unterschiedliche Kompetenzbereiche, die berufsrelevante Qualifikationsfelder
    abdecken. Es sind folgende Module zu absolvieren:
-   1. „Projektmanagement im Softwarebereich“ (10 LP) aus dem Kompetenzbereich
-      Fachnahe Zusatzqualifikationen,
-   2. frei wählbare Module im Umfang von insgesamt 10 LP aus anderen
-      Kompetenzbereichen und
-   3. Berufspraktikum (10 LP)
+    1. „Projektmanagement im Softwarebereich“ (10 LP) aus dem Kompetenzbereich
+       Fachnahe Zusatzqualifikationen,
+    2. frei wählbare Module im Umfang von insgesamt 10 LP aus anderen
+       Kompetenzbereichen und
+    3. Berufspraktikum (10 LP)
 4. Das obligatorische Berufspraktikum im Umfang von 10 LP ist in einem dafür
    geeigneten Betrieb oder an einer außeruniversitären wissenschaftlichen
    Einrichtung zu absolvieren. Es soll den Studentinnen und Studenten einen
@@ -330,9 +316,9 @@ Die Regelstudienzeit beträgt sechs Semester.
 
 1. Es sind insgesamt Prüfungs- und Studienleistungen (Leistungen) im Umfang von
    180 Leistungspunkten (LP) nachzuweisen, davon in
-   1. 150 LP im Kernfach einschließlich der Bachelorarbeit mit mündlicher
-      Präsentation im Umfang von 12 LP und
-   2. 30 LP im Studienbereich Allgemeine Berufsvorbereitung (ABV).
+    1. 150 LP im Kernfach einschließlich der Bachelorarbeit mit mündlicher
+       Präsentation im Umfang von 12 LP und
+    2. 30 LP im Studienbereich Allgemeine Berufsvorbereitung (ABV).
 2. Die in den Modulen zu erbringenden studienbegleitenden Prüfungsleistungen,
    die Zugangsvoraussetzungen für die einzelnen Module, Angaben über die Pflicht
    zu regelmäßiger Teilnahme an den Lehr- und Lernformen sowie die den Modulen
@@ -355,10 +341,10 @@ Die Regelstudienzeit beträgt sechs Semester.
    angemessen darzustellen und zu dokumentieren.
 2. Studentinnen und Studenten werden auf Antrag zur Bachelorarbeit zugelassen,
    wenn sie
-   1. Module im Umfang von mindestens 120 LP einser schließlich des Moduls
-      „Algorithmische Bioinformatik“ erfolgreich absolviert haben und
-   2. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
-      immatrikuliert gewesen sind.
+    1. Module im Umfang von mindestens 120 LP einser schließlich des Moduls
+       „Algorithmische Bioinformatik“ erfolgreich absolviert haben und
+    2. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
+       immatrikuliert gewesen sind.
 3. Dem Antrag auf Zulassung zur Bachelorarbeit sind Nachweise über das Vorliegen
    der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer
    prüfungsberechtigten Lehrkraft über die Bereitschaft zur Übernahme der

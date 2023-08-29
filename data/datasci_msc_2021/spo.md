@@ -21,10 +21,10 @@ August 2021 bestätigt worden.
 - Anlage 1: Modulbeschreibungen
 - Anlage 2: Exemplarische Studienverlaufspläne für den Masterstudiengang Data
   Science
-  1. Masterstudiengang mit dem Profil „Data Science in Life Sciences“ (!TODO
-     missing)
-  2. Masterstudiengang mit dem Profil „Data Science Technologies“ (!TODO
-     missing)
+    1. Masterstudiengang mit dem Profil „Data Science in Life Sciences“ (!TODO
+       missing)
+    2. Masterstudiengang mit dem Profil „Data Science Technologies“ (!TODO
+       missing)
 - Anlage 3: Zeugnis (Muster) (!TODO missing)
 - Anlage 4: Urkunde (Muster) (!TODO missing)
 
@@ -134,15 +134,12 @@ Die Regelstudienzeit beträgt vier Semester.
    Kolloquium im Umfang von 30 LP. Der Masterstudiengang gliedert sich in einen
    Grundlagenbereich im Umfang von 30 LP und in einen Profilbereich im Umfang
    von 60 LP.
-
 2. Im Grundlagenbereich im Umfang von 30 LP sind die folgenden Module zu
    absolvieren:
-
-   - Modul: Introduction to Profile Areas (5 LP),
-   - Modul: Statistics for Data Science (10 LP),
-   - Modul: Machine Learning for Data Science (10 LP) und
-   - Modul: Programming for Data Science (5 LP).
-
+    - Modul: Introduction to Profile Areas (5 LP),
+    - Modul: Statistics for Data Science (10 LP),
+    - Modul: Machine Learning for Data Science (10 LP) und
+    - Modul: Programming for Data Science (5 LP).
 3. Im Profilbereich werden die zwei Profile „Data Science in Life Sciences“ und
    „Data Science Technologies“ angeboten, von denen eines zu wählen und zu
    absolvieren ist. Die Wahl des Profilbereiches geschieht durch Belegung der
@@ -152,126 +149,114 @@ Die Regelstudienzeit beträgt vier Semester.
    entscheidet hierüber der Prüfungsausschuss; die Klärung soll vor der Wahl des
    fraglichen Moduls vorgenommen werden. Die zwei Profile im Rahmen des
    Profilbereichs werden wie folgt angeboten:
+    1. Profilbereich mit dem Profil „Data Science in Life Sciences“ im Umfang von
+       60 LP:
+        1. Pflichtbereich im Umfang von 30 LP: Es sind die folgenden Module zu
+           absolvieren:
+            - Modul: Data Science in Life Sciences (15 LP),
+            - Modul: Forschungspraxis (10 LP) und
+            - Modul: Ethical Foundations of Data Science (5 LP).
+        2. Wahlpflichtbereich im Umfang von 30 LP:
+            1. Aus den folgenden Modulen des Profils „Data Science in Life
+               Sciences“ müssen Module im Umfang von insgesamt 15 LP gewählt und
+               absolviert werden:
+                - Modul: Spezielle Aspekte der Data Science in Life Sciences (5 LP)
+                - Modul: Aktuelle Forschungsthemen der Data Science in Life Sciences
+                  (5 LP)
+                - Modul: Masterseminar Data Science in Life Sciences (5 LP)
+                - Modul: Ausgewählte Themen der Data Science in Life Sciences (10
+                  LP)
+                - V-Modul: Machine Learning in Bioinformatics (DS/5 LP),
+                - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP),
+                - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP).
+            2. Aus den folgenden Modulen des anderen Profils sind Module im Umfang
+               von insgesamt 15 LP zu wählen und zu absolvieren:
+                - Modul: Spezielle Aspekte der Data Science Technologies
+                - Modul: Aktuelle Forschungsthemen der Data Science Technologies (5
+                  LP)
+                - Modul: Ausgewählte Themen der Data Science Technologies A (10 LP)
+                - Modul: Ausgewählte Themen der Data Science Technologies B (10 LP)
+                - Modul: Masterseminar in Data Science Technologies (5 LP)
+                - Modul: Softwareprojekt Data Science B (10 LP)
+                - Modul: Datenbanksysteme Data Science (5 LP)
+                - Modul: Verteilte Systeme (5 LP)
+                - Modul: Mobilkommunikation (5 LP)
+                - Modul: Telematik (10 LP)
+                - Modul: Höhere Algorithmik (10 LP)
+                - Modul: Rechnersicherheit (10 LP)
+                - Modul: Mustererkennung (5 LP)
+                - Modul: Netzbasierte Informationssysteme (5 LP)
+                - Modul: Künstliche Intelligenz (5 LP)
+                - Modul: Spezielle Aspekte der Datenverwaltung (5 LP)
+                - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science A (5
+                  LP)
+                - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science B (10
+                  LP)
 
-   1. Profilbereich mit dem Profil „Data Science in Life Sciences“ im Umfang von
-      60 LP:
+        Auf Antrag und mit Zustimmung des Prüfungsausschusses können Module im
+        Umfang von insgesamt 15 LP aus anderen Masterstudiengängen für den
+        Wahlpflichtbereich anstelle der Module gemäß bb) eingebracht werden,
+        sofern die oder der Studierende einen Zugang zu den jeweiligen Modulen
+        erhält. Die Wahl und Anrechnung weiterer Module im Wahlpflichtbereich kann
+        nach Rücksprache mit dem Prüfungsausschuss beantragt werden, wenn diese
+        zum Qualifikationsziel dieses Masterstudiengangs passen. Jedes Modul kann
+        nur einmal eingebracht werden. Hinsichtlich der Wahl anderer Mastermodule
+        wird empfohlen, zuvor die Beratungsangebote der Studienfachberatung zu
+        nutzen.
 
-      1. Pflichtbereich im Umfang von 30 LP: Es sind die folgenden Module zu
-         absolvieren:
-         - Modul: Data Science in Life Sciences (15 LP),
-         - Modul: Forschungspraxis (10 LP) und
-         - Modul: Ethical Foundations of Data Science (5 LP).
-      2. Wahlpflichtbereich im Umfang von 30 LP:
-         1. Aus den folgenden Modulen des Profils „Data Science in Life
-            Sciences“ müssen Module im Umfang von insgesamt 15 LP gewählt und
-            absolviert werden:
+    2. Profilbereich mit dem Profil „Data Science Technologies“ im Umfang von 60
+       LP:
+        1. Pflichtbereich im Umfang von 15 LP: Es sind die folgenden Module zu
+           absolvieren:
+            - Modul: Softwareprojekt Data Science A (10 LP) und
+            - Modul: Ethical Foundations of Data Science (5 LP).
+        2. Wahlpflichtbereich im Umfang von 45 LP:
+            1. Aus den folgenden Modulen des Profils „Data Science Technologies“
+               müssen Module im Umfang von insgesamt 30 LP gewählt und absolviert
+               werden:
+                - Modul: Spezielle Aspekte der Data Science Technologies
+                - Modul: Aktuelle Forschungsthemen der Data Science Technologies (5
+                  LP)
+                - Modul: Ausgewählte Themen der Data Science Technologies A (10 LP)
+                - Modul: Ausgewählte Themen der Data Science Technologies B (10 LP)
+                - Modul: Masterseminar in Data Science Technologies (5 LP)
+                - Modul: Softwareprojekt Data Science B (10 LP)
+                - Modul: Datenbanksysteme Data Science (5 LP)
+                - Modul: Verteilte Systeme (5 LP)
+                - Modul: Mobilkommunikation (5 LP)
+                - Modul: Telematik (10 LP)
+                - Modul: Höhere Algorithmik (10 LP)
+                - Modul: Rechnersicherheit (10 LP)
+                - Modul: Mustererkennung (5 LP)
+                - Modul: Netzbasierte Informationssysteme (5 LP)
+                - Modul: Künstliche Intelligenz (5 LP)
+                - Modul: Spezielle Aspekte der Datenverwaltung (5 LP)
+            2. Aus den folgenden Modulen des anderen Profils sind Module im Umfang
+               von insgesamt 15 LP zu wählen und zu absolvieren:
+                - Modul: Spezielle Aspekte der Data Science in Life Sciences (5 LP)
+                - Modul: Aktuelle Forschungsthemen der Data Science in Life Sciences
+                  (5 LP)
+                - Modul: Masterseminar Data Science in Life Sciences (5 LP)
+                - Modul: Ausgewählte Themen der Data Science in Life Sciences (10
+                  LP)
+                - V-Modul: Machine Learning in Bioinformatics (DS/5 LP)
+                - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP)
+                - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP)
+                - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science A (5
+                  LP)
+                - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science B (10
+                  LP)
 
-            - Modul: Spezielle Aspekte der Data Science in Life Sciences (5 LP)
-            - Modul: Aktuelle Forschungsthemen der Data Science in Life Sciences
-              (5 LP)
-            - Modul: Masterseminar Data Science in Life Sciences (5 LP)
-            - Modul: Ausgewählte Themen der Data Science in Life Sciences (10
-              LP)
-            - V-Modul: Machine Learning in Bioinformatics (DS/5 LP),
-            - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP),
-            - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP).
-
-         2. Aus den folgenden Modulen des anderen Profils sind Module im Umfang
-            von insgesamt 15 LP zu wählen und zu absolvieren:
-
-            - Modul: Spezielle Aspekte der Data Science Technologies
-            - Modul: Aktuelle Forschungsthemen der Data Science Technologies (5
-              LP)
-            - Modul: Ausgewählte Themen der Data Science Technologies A (10 LP)
-            - Modul: Ausgewählte Themen der Data Science Technologies B (10 LP)
-            - Modul: Masterseminar in Data Science Technologies (5 LP)
-            - Modul: Softwareprojekt Data Science B (10 LP)
-            - Modul: Datenbanksysteme Data Science (5 LP)
-            - Modul: Verteilte Systeme (5 LP)
-            - Modul: Mobilkommunikation (5 LP)
-            - Modul: Telematik (10 LP)
-            - Modul: Höhere Algorithmik (10 LP)
-            - Modul: Rechnersicherheit (10 LP)
-            - Modul: Mustererkennung (5 LP)
-            - Modul: Netzbasierte Informationssysteme (5 LP)
-            - Modul: Künstliche Intelligenz (5 LP)
-            - Modul: Spezielle Aspekte der Datenverwaltung (5 LP)
-            - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science A (5
-              LP)
-            - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science B (10
-              LP)
-
-      Auf Antrag und mit Zustimmung des Prüfungsausschusses können Module im
-      Umfang von insgesamt 15 LP aus anderen Masterstudiengängen für den
-      Wahlpflichtbereich anstelle der Module gemäß bb) eingebracht werden,
-      sofern die oder der Studierende einen Zugang zu den jeweiligen Modulen
-      erhält. Die Wahl und Anrechnung weiterer Module im Wahlpflichtbereich kann
-      nach Rücksprache mit dem Prüfungsausschuss beantragt werden, wenn diese
-      zum Qualifikationsziel dieses Masterstudiengangs passen. Jedes Modul kann
-      nur einmal eingebracht werden. Hinsichtlich der Wahl anderer Mastermodule
-      wird empfohlen, zuvor die Beratungsangebote der Studienfachberatung zu
-      nutzen.
-
-   2. Profilbereich mit dem Profil „Data Science Technologies“ im Umfang von 60
-      LP:
-
-      1. Pflichtbereich im Umfang von 15 LP: Es sind die folgenden Module zu
-         absolvieren:
-
-         - Modul: Softwareprojekt Data Science A (10 LP) und
-         - Modul: Ethical Foundations of Data Science (5 LP).
-
-      2. Wahlpflichtbereich im Umfang von 45 LP:
-
-         1. Aus den folgenden Modulen des Profils „Data Science Technologies“
-            müssen Module im Umfang von insgesamt 30 LP gewählt und absolviert
-            werden:
-
-            - Modul: Spezielle Aspekte der Data Science Technologies
-            - Modul: Aktuelle Forschungsthemen der Data Science Technologies (5
-              LP)
-            - Modul: Ausgewählte Themen der Data Science Technologies A (10 LP)
-            - Modul: Ausgewählte Themen der Data Science Technologies B (10 LP)
-            - Modul: Masterseminar in Data Science Technologies (5 LP)
-            - Modul: Softwareprojekt Data Science B (10 LP)
-            - Modul: Datenbanksysteme Data Science (5 LP)
-            - Modul: Verteilte Systeme (5 LP)
-            - Modul: Mobilkommunikation (5 LP)
-            - Modul: Telematik (10 LP)
-            - Modul: Höhere Algorithmik (10 LP)
-            - Modul: Rechnersicherheit (10 LP)
-            - Modul: Mustererkennung (5 LP)
-            - Modul: Netzbasierte Informationssysteme (5 LP)
-            - Modul: Künstliche Intelligenz (5 LP)
-            - Modul: Spezielle Aspekte der Datenverwaltung (5 LP)
-
-         2. Aus den folgenden Modulen des anderen Profils sind Module im Umfang
-            von insgesamt 15 LP zu wählen und zu absolvieren:
-
-            - Modul: Spezielle Aspekte der Data Science in Life Sciences (5 LP)
-            - Modul: Aktuelle Forschungsthemen der Data Science in Life Sciences
-              (5 LP)
-            - Modul: Masterseminar Data Science in Life Sciences (5 LP)
-            - Modul: Ausgewählte Themen der Data Science in Life Sciences (10
-              LP)
-            - V-Modul: Machine Learning in Bioinformatics (DS/5 LP)
-            - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP)
-            - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP)
-            - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science A (5
-              LP)
-            - Modul: Interdisziplinäre Zugänge im Rahmen von Data Science B (10
-              LP)
-
-      Auf Antrag und mit Zustimmung des Prüfungsausschusses können Module im
-      Umfang von insgesamt 15 LP aus anderen Masterstudiengängen für den
-      Wahlpflichtbereich anstelle der Module gemäß bb) eingebracht werden,
-      sofern die oder der Studierende einen Zugang zu den jeweiligen Modulen
-      erhält. Die Wahl und Anrechnung weiterer Module im Wahlpflichtbereich kann
-      nach Rücksprache mit dem Prüfungsausschuss beantragt werden, wenn diese
-      zum Qualifikationsziel dieses Masterstudiengangs passen. Jedes Modul kann
-      nur einmal eingebracht werden. Hinsichtlich der Wahl anderer Mastermodule
-      wird empfohlen, zuvor die Beratungsangebote der Studienfachberatung zu
-      nutzen.
+       Auf Antrag und mit Zustimmung des Prüfungsausschusses können Module im
+       Umfang von insgesamt 15 LP aus anderen Masterstudiengängen für den
+       Wahlpflichtbereich anstelle der Module gemäß bb) eingebracht werden,
+       sofern die oder der Studierende einen Zugang zu den jeweiligen Modulen
+       erhält. Die Wahl und Anrechnung weiterer Module im Wahlpflichtbereich kann
+       nach Rücksprache mit dem Prüfungsausschuss beantragt werden, wenn diese
+       zum Qualifikationsziel dieses Masterstudiengangs passen. Jedes Modul kann
+       nur einmal eingebracht werden. Hinsichtlich der Wahl anderer Mastermodule
+       wird empfohlen, zuvor die Beratungsangebote der Studienfachberatung zu
+       nutzen.
 
 4. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
@@ -284,24 +269,23 @@ Die Regelstudienzeit beträgt vier Semester.
    Masterstudiengang Bioinformatik der Fachbereiche Biologie, Chemie, Pharmazie
    sowie Mathematik und Informatik der Freien Universität Berlin und der
    Fakultät der Charité - Universitätsmedizin Berlin verwiesen:
+    - V-Modul: Machine Learning in Bioinformatics (DS/5 LP),
+    - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP),
+    - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP).
 
-   - V-Modul: Machine Learning in Bioinformatics (DS/5 LP),
-   - V-Modul: Big Data Analysis in Bioinformatics (DS/5 LP),
-   - Praxismodul: Applied Machine Learning in Bioinformatics (DS/5 LP).
+    Für die folgenden neun Module wird auf die Studienund Prüfungsordnung für den
+    Masterstudiengang Informatik des Fachbereichs Mathematik und Informatik der
+    Freien Universität Berlin verwiesen:
 
-   Für die folgenden neun Module wird auf die Studienund Prüfungsordnung für den
-   Masterstudiengang Informatik des Fachbereichs Mathematik und Informatik der
-   Freien Universität Berlin verwiesen:
-
-   - Modul: Verteilte Systeme (5 LP),
-   - Modul: Mobilkommunikation (5 LP),
-   - Modul: Telematik (10 LP),
-   - Modul: Höhere Algorithmik (10 LP),
-   - Modul: Rechnersicherheit (10 LP),
-   - Modul: Mustererkennung (5 LP),
-   - Modul: Netzbasierte Informationssysteme (5 LP),
-   - Modul: Künstliche Intelligenz (5 LP),
-   - Modul: Spezielle Aspekte der Datenverwaltung (5 LP).
+    - Modul: Verteilte Systeme (5 LP),
+    - Modul: Mobilkommunikation (5 LP),
+    - Modul: Telematik (10 LP),
+    - Modul: Höhere Algorithmik (10 LP),
+    - Modul: Rechnersicherheit (10 LP),
+    - Modul: Mustererkennung (5 LP),
+    - Modul: Netzbasierte Informationssysteme (5 LP),
+    - Modul: Künstliche Intelligenz (5 LP),
+    - Modul: Spezielle Aspekte der Datenverwaltung (5 LP).
 
 5. Über den empfohlenen Verlauf des Studiums im Masterstudiengang unterrichtet
    der exemplarische Studienverlaufsplan in der Anlage 2.
@@ -310,70 +294,68 @@ Die Regelstudienzeit beträgt vier Semester.
 
 1. Im Rahmen des Lehrangebots für den Masterstudiengang werden folgende Lehr-
    und Lernformen angeboten:
-
-   01. In Vorlesungen (V) werden die Inhalte der jeweiligen Veranstaltung von
-       der Lehrkraft vorgetragen und erläutert. Die Lehrkräfte vermitteln
-       Lehrinhalte unter Hinweis auf Fachliteratur und regen zu eigenem Arbeiten
-       und kritischem Denken an.
-   02. Übungen (Ü) finden in der Regel begleitend zur Vorlesung in kleinen
-       Gruppen statt. In den Übungsgruppen werden die Inhalte der Vorlesung
-       schwerpunktmäßig wiederholt und die praktische Anwendung des Gelernten
-       anhand von Übungsaufgaben eingeübt.
-   03. Seminare (S) dienen der exemplarischen Einarbeitung in Inhalte, Theorien
-       und Methoden von Vertiefungsgebieten der Bioinformatik anhand
-       überschaubarer Themenbereiche. Im Seminar werden unter Anleitung einer
-       Lehrkraft Lehrinhalte von Studierenden anhand von Fachliteratur und
-       empirischen Erkenntnissen erarbeitet, präsentiert und diskutiert.
-   04. In Praxisseminaren (PraxS) arbeiten die Studierenden unter Anleitung
-       allein oder in Kleingruppen an umfangreichen praktischen oder
-       wissenschaftlichen Problemstellungen. Bei der Bearbeitung eines Projektes
-       steht der Prozess der Lösungsfindung, also die praktische Anwendung
-       geeigneter Techniken und Verfahrensweisen unter Verwendung
-       wissenschaftlicher Erkenntnisse und Methoden im Mittelpunkt. Darüber
-       hinaus werden überfachliche Qualifikationen wie Team-, Kommunikations-
-       und Transferfähigkeiten erworben sowie ein verantwortliches und
-       geschlechtersensibles Handeln eingeübt.
-   05. Im Projektseminar (ProjS) bereiten die Studierenden eine umfangreichere
-       Aufgabe auf und lösen sie mit Techniken und Methoden, die in der Regel in
-       einer begleitenden oder vorangegangenen Veranstaltung erarbeitet wurden.
-       Das schließt die formale Problemspezifikation, die Zerlegung in
-       Teilprobleme, die Festlegung von Schnittstellen sowie den Einsatz von
-       Projektmanagementmethoden ein. Die Studierenden berichten in
-       selbstorganisierten Gruppen regelmäßig über ihre Fortschritte. Gut
-       dokumentierte, lauffähige Programme und ein zusammenfassender
-       Projektbericht, aus dem die eigenen Leistungen hervorgehen, sind zum
-       Abschluss vorzulegen. Neben dem Erwerb von Fähigkeiten zur
-       selbstständigen Anwendung von erlernten Kenntnissen und
-       Problemlösungsmethoden der Informatik auf eine konkrete Aufgabe dient ein
-       Projektseminar auch der Vertiefung von kooperativen Arbeitstechniken, von
-       Gender- und Diversitätskompetenz.
-   06. Im seminaristischen Unterricht (sU) werden anwendungsorientierte
-       Kenntnisse eines abgegrenzten Stoffgebietes vermittelt; dabei wird eine
-       Aufgabe selbstständig bearbeitet und deren Ergebnisse werden von den
-       Studierenden dargestellt und kritisch gemeinsam diskutiert.
-   07. Externe Praktika (P) dienen dem Erwerb von Fähigkeiten, die
-       Problemlösungsmethodik im Bereich Data Science anhand mehrerer
-       praktischer Aufgaben erfolgreich einzusetzen. Das schließt die
-       Problemspezifikation und die Zerlegung in Teilprobleme ein.
-       Lösungsvorschläge und Ergebnisse sind regelmäßig vorzuführen, schriftlich
-       auszuarbeiten und vorzutragen. Zweck der Praktika ist der sichere Umgang
-       mit dem erlernten Wissen.
-   08. Ringvorlesungen (RV) vermitteln ein breites Spektrum an Fächerkulturen
-       oder Zugänge zu einem Thema oder zu einem Fach und sind damit eine
-       besondere Form der Vorlesung. In der Vorlesungsreihe zur Orientierung
-       stellen sich verschiedene Dozentinnen und Dozenten, aus den
-       unterschiedlichen Profilbereichen und Disziplinen, mit ihren Fächern vor.
-       Dies schließt Gesprächselemente ein.
-   09. Integrierte Lehrveranstaltungen (ILV) bieten eine Mischform von
-       Veranstaltungstypen an. Die vorrangige Arbeitsform ist eine aktive
-       Teilnahme in gemeinsamen Diskussionen, Übungen oder Projekten sowie
-       Praxisanwendungen. Meist werden in integrierten Lehrveranstaltungen neben
-       Vorlesungen oder Seminaren auch Projekte ausgestaltet. Die tatsächliche
-       Mischform definiert jeder Dozent bzw. jede Dozentin für sich selbst.
-   10. Wahlveranstaltungen (WV) sind Veranstaltungen mit überfachlichem oder
-       fachlichem Kompetenzerwerb, die die Studierenden aus dem Lehrangebot
-       aller Lehrinhalte frei wählen können.
-
+    01. In Vorlesungen (V) werden die Inhalte der jeweiligen Veranstaltung von
+        der Lehrkraft vorgetragen und erläutert. Die Lehrkräfte vermitteln
+        Lehrinhalte unter Hinweis auf Fachliteratur und regen zu eigenem Arbeiten
+        und kritischem Denken an.
+    02. Übungen (Ü) finden in der Regel begleitend zur Vorlesung in kleinen
+        Gruppen statt. In den Übungsgruppen werden die Inhalte der Vorlesung
+        schwerpunktmäßig wiederholt und die praktische Anwendung des Gelernten
+        anhand von Übungsaufgaben eingeübt.
+    03. Seminare (S) dienen der exemplarischen Einarbeitung in Inhalte, Theorien
+        und Methoden von Vertiefungsgebieten der Bioinformatik anhand
+        überschaubarer Themenbereiche. Im Seminar werden unter Anleitung einer
+        Lehrkraft Lehrinhalte von Studierenden anhand von Fachliteratur und
+        empirischen Erkenntnissen erarbeitet, präsentiert und diskutiert.
+    04. In Praxisseminaren (PraxS) arbeiten die Studierenden unter Anleitung
+        allein oder in Kleingruppen an umfangreichen praktischen oder
+        wissenschaftlichen Problemstellungen. Bei der Bearbeitung eines Projektes
+        steht der Prozess der Lösungsfindung, also die praktische Anwendung
+        geeigneter Techniken und Verfahrensweisen unter Verwendung
+        wissenschaftlicher Erkenntnisse und Methoden im Mittelpunkt. Darüber
+        hinaus werden überfachliche Qualifikationen wie Team-, Kommunikations-
+        und Transferfähigkeiten erworben sowie ein verantwortliches und
+        geschlechtersensibles Handeln eingeübt.
+    05. Im Projektseminar (ProjS) bereiten die Studierenden eine umfangreichere
+        Aufgabe auf und lösen sie mit Techniken und Methoden, die in der Regel in
+        einer begleitenden oder vorangegangenen Veranstaltung erarbeitet wurden.
+        Das schließt die formale Problemspezifikation, die Zerlegung in
+        Teilprobleme, die Festlegung von Schnittstellen sowie den Einsatz von
+        Projektmanagementmethoden ein. Die Studierenden berichten in
+        selbstorganisierten Gruppen regelmäßig über ihre Fortschritte. Gut
+        dokumentierte, lauffähige Programme und ein zusammenfassender
+        Projektbericht, aus dem die eigenen Leistungen hervorgehen, sind zum
+        Abschluss vorzulegen. Neben dem Erwerb von Fähigkeiten zur
+        selbstständigen Anwendung von erlernten Kenntnissen und
+        Problemlösungsmethoden der Informatik auf eine konkrete Aufgabe dient ein
+        Projektseminar auch der Vertiefung von kooperativen Arbeitstechniken, von
+        Gender- und Diversitätskompetenz.
+    06. Im seminaristischen Unterricht (sU) werden anwendungsorientierte
+        Kenntnisse eines abgegrenzten Stoffgebietes vermittelt; dabei wird eine
+        Aufgabe selbstständig bearbeitet und deren Ergebnisse werden von den
+        Studierenden dargestellt und kritisch gemeinsam diskutiert.
+    07. Externe Praktika (P) dienen dem Erwerb von Fähigkeiten, die
+        Problemlösungsmethodik im Bereich Data Science anhand mehrerer
+        praktischer Aufgaben erfolgreich einzusetzen. Das schließt die
+        Problemspezifikation und die Zerlegung in Teilprobleme ein.
+        Lösungsvorschläge und Ergebnisse sind regelmäßig vorzuführen, schriftlich
+        auszuarbeiten und vorzutragen. Zweck der Praktika ist der sichere Umgang
+        mit dem erlernten Wissen.
+    08. Ringvorlesungen (RV) vermitteln ein breites Spektrum an Fächerkulturen
+        oder Zugänge zu einem Thema oder zu einem Fach und sind damit eine
+        besondere Form der Vorlesung. In der Vorlesungsreihe zur Orientierung
+        stellen sich verschiedene Dozentinnen und Dozenten, aus den
+        unterschiedlichen Profilbereichen und Disziplinen, mit ihren Fächern vor.
+        Dies schließt Gesprächselemente ein.
+    09. Integrierte Lehrveranstaltungen (ILV) bieten eine Mischform von
+        Veranstaltungstypen an. Die vorrangige Arbeitsform ist eine aktive
+        Teilnahme in gemeinsamen Diskussionen, Übungen oder Projekten sowie
+        Praxisanwendungen. Meist werden in integrierten Lehrveranstaltungen neben
+        Vorlesungen oder Seminaren auch Projekte ausgestaltet. Die tatsächliche
+        Mischform definiert jeder Dozent bzw. jede Dozentin für sich selbst.
+    10. Wahlveranstaltungen (WV) sind Veranstaltungen mit überfachlichem oder
+        fachlichem Kompetenzerwerb, die die Studierenden aus dem Lehrangebot
+        aller Lehrinhalte frei wählen können.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -391,15 +373,12 @@ Die Regelstudienzeit beträgt vier Semester.
     eine Aufgabenstellung aus dem Bereich Data Science mit wissenschaftlichen
     Methoden selbstständig zu bearbeiten und die gewonnenen Ergebnisse
     schriftlich und mündlich angemessen darzustellen und zu bewerten.
-
 02. Studierende werden auf Antrag zur Masterarbeit zugelassen, wenn sie bei
     Antragstellung nachweisen, dass sie
-
-    1. im Masterstudiengang zuletzt an der Freien Universität Berlin
-       immatrikuliert gewesen sind und
-    2. Module im Rahmen des Masterstudiengangs im Umfang von insgesamt
-       mindestens 60 LP erfolgreich absolviert haben.
-
+     1. im Masterstudiengang zuletzt an der Freien Universität Berlin
+        immatrikuliert gewesen sind und
+     2. Module im Rahmen des Masterstudiengangs im Umfang von insgesamt
+        mindestens 60 LP erfolgreich absolviert haben.
 03. Dem Antrag auf Zulassung zur Masterarbeit sind Nachweise über das Vorliegen
     der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die Bescheinigung einer
     prüfungsberechtigten Lehrkraft über die Bereitschaft zur Übernahme der
@@ -411,9 +390,7 @@ Die Regelstudienzeit beträgt vier Semester.
     Berücksichtigung der Besonderheiten des eigenen Fachgebiets. Die
     Studierenden erhalten Gelegenheit, eigene Themenvorschläge zu machen; ein
     Anspruch auf deren Umsetzung besteht nicht.
-
 04. Die Masterarbeit soll ca. 70 Seiten umfassen.
-
 05. Der Prüfungsausschuss gibt in Abstimmung mit der Betreuerin oder dem
     Betreuer das Thema der Masterarbeit aus. Thema und Aufgabenstellung müssen
     so beschaffen sein, dass die Bearbeitung innerhalb der Bearbeitungsfrist
@@ -422,14 +399,12 @@ Die Regelstudienzeit beträgt vier Semester.
     schriftlich zu versichern, dass sie oder er die Arbeit selbstständig
     verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel
     benutzt hat.
-
 06. Die Bearbeitungsfrist beträgt 23 Wochen. Als Beginn der Bearbeitungsfrist
     gilt das Datum der Ausgabe des Themas durch den Prüfungsausschuss. Das Thema
     kann einmal innerhalb der ersten vier Wochen zurückgegeben werden und
     giltdann als nicht ausgegeben. Der Prüfungsausschuss entscheidet über den
     Antrag im Einvernehmen mit der Betreuerin oder dem Betreuer der
     Masterarbeit.
-
 07. Die Masterarbeit muss in englischer Sprache abgefasst werden. Auf
     begründeten Antrag kann der Prüfungsausschuss auch das Verfassen in
     deutscher Sprache zulassen. War die oder der Studierende über einen Zeitraum
@@ -438,16 +413,13 @@ Die Regelstudienzeit beträgt vier Semester.
     muss. Die Prüfungsleistung hinsichtlich der Masterarbeit gilt für den Fall,
     dass der Prüfungsausschuss eine erneute Erbringung verlangt, als nicht
     unternommen.
-
 08. Die Masterarbeit wird durch ein Kolloquium begleitet,das in der Regel in der
     zugeordneten Arbeitsgruppe stattfindet. Die Studierenden sollen einmal einen
     ca. 30-minütigen Vortrag über den Fortgang ihrer Masterarbeit halten.
-
 09. Mit Zustimmung des Prüfungsausschusses kann die Masterarbeit auch extern in
     einem geeigneten Betrieb oder in einer wissenschaftlichen Einrichtung
     angefertigtwerden, sofern die wissenschaftliche Betreuung durch eine
     Prüferin oder einen Prüfer der Masterarbeit gewährleistet ist.
-
 10. Die Masterarbeit ist von zwei Prüfungsberechtigten zu bewerten, die vom
     Prüfungsausschuss bestellt werden. Eine oder einer der beiden
     Prüfungsberechtigten soll die Betreuerin oder der Betreuer der Masterarbeit
@@ -455,7 +427,6 @@ Die Regelstudienzeit beträgt vier Semester.
     Lehre im Masterstudiengang beteiligt und zugleich Hochschullehrerin oder
     Hochschullehrer am Fachbereich Mathematik und Informatik der Freien
     Universität Berlin sein.
-
 11. Die Note für die Masterarbeit ergibt sich aus dem arithmetischen Mittel der
     Einzelnoten der beiden Prüfungsberechtigten. Bewertet eine oder einer der
     Prüfungsberechtigten die Arbeit mit „nicht ausreichend“ (5,0) oder liegen
@@ -465,7 +436,6 @@ Die Regelstudienzeit beträgt vier Semester.
     ergibt sich die Note für die Masterarbeit aus dem arithmetischen Mittel der
     Einzelnoten der drei Prüfungsberechtigten. Die Masterarbeit istbestanden,
     wenn die Note für die Masterarbeit „ausreichend“ (4,0) oder besser ist.
-
 12. Die Anrechnung einer Leistung auf die Masterarbeit ist zulässig und kann
     beim Prüfungsausschuss beantragt werden. Voraussetzung für eine solche
     Anrechnung ist,dass sich die Prüfungsbedingungen und die Aufgabenstellung
@@ -480,14 +450,12 @@ Die Regelstudienzeit beträgt vier Semester.
 1. Prüfungsaufgaben in der Form des Antwort-Wahl-Verfahrens sowie damit
    zusammenhängende Freitextaufgaben sind von zwei Prüfungsberechtigten zu
    stellen.
-
 2. Erweist sich bei der Bewertung von Prüfungsleistungen, die nach dem
    Antwort-Wahl-Verfahren abgelegt worden sind, dass einzelne Prüfungsaufgaben
    im Hinblick auf die Qualifikationsziele des jeweiligen Moduls keine
    zuverlässigen Prüfungsergebnisse ermöglichen und damit fehlerhaft sind, so
    dürfen sich diese bei der Feststellung des Prüfungsergebnisses nicht zum
    Nachteil von Studierenden auswirken.
-
 3. Eine im Antwort-Wahl-Verfahren erbrachte Prüfungsleistung ist bestanden, wenn
    die oder der Studierende mindestens 50 % der erzielbaren Bewertungspunkte
    erreicht hat (absolute Bestehensgrenze) oder wenn die Zahl der von der oder
@@ -497,29 +465,26 @@ Die Regelstudienzeit beträgt vier Semester.
    (relative Bestehensgrenze). Kommt die relative Bestehensgrenze zum Tragen, so
    müssen die oder der Studierende für das Bestehen der Prüfungsleistung
    gleichwohl mindestens 40 % der erzielbaren Bewertungspunkte erreicht haben.
-
 4. Im Antwort-Wahl-Verfahren erbrachte Prüfungsleistungen sind wie folgt zu
    bewerten: Hat die oder der Studierende die für das Bestehen der
    Prüfungsleistung nach Abs. 3 erforderliche Mindestbewertungspunktzahl
    erreicht, so lautet die Note
+    - sehr gut, wenn sie oder er mindestens 75 %,
+    - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
+    - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
+    - ausreichend, wenn sie oder er keine oder weniger als 25 %
 
-   - sehr gut, wenn sie oder er mindestens 75 %,
-   - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
-   - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
-   - ausreichend, wenn sie oder er keine oder weniger als 25 %
-
-   der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahlen hinaus
-   erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
-   Noten gilt im Übrigen die RSPO.
+    der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahlen hinaus
+    erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
+    Noten gilt im Übrigen die RSPO.
 
 5. Die Bewertungsvorgaben gemäß der Absätze 3 und 4 finden keine Anwendung, wenn
-
-   1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
-      haben und die im Antwort-Wahl-Verfahren erbrachten Prüfungsleistungen
-      bewerten, identisch sind oder
-   2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
-      des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
-      Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
+    1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
+       haben und die im Antwort-Wahl-Verfahren erbrachten Prüfungsleistungen
+       bewerten, identisch sind oder
+    2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
+       des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
+       Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
 
 ## § 11 Elektronische Prüfungsleistungen
 

@@ -153,95 +153,60 @@ Die Regelstudienzeit beträgt sechs Semester.
    das Kernfach im Umfang von 150 LP inklusive der Bachelorarbeit mit
    Präsentation der Ergebnisse im Umfang von 12 LP und den Studienbereich
    Allgemeine Berufsvorbereitung im Umfang von 30 LP.
-
 2. Das Kernfach gliedert sich in die folgenden drei Studienbereiche:
-
-   - den Pflichtbereich im Umfang von 116 LP,
-   - den Wahlpflichtbereich im Umfang von 12 LP,
-   - den Wahlbereich im Umfang von 10 LP.
-
+    - den Pflichtbereich im Umfang von 116 LP,
+    - den Wahlpflichtbereich im Umfang von 12 LP,
+    - den Wahlbereich im Umfang von 10 LP.
 3. Pflichtbereich: In diesem Studienbereich sind die folgenden Module zu
    absolvieren:
-
-   - Modul: \[Konzepte der Programmierung\](modules/Konzepte der
-     Programmierung.md) (9 LP),
-   - Modul: \[Diskrete Strukturen für Informatik\](modules/Diskrete Strukturen
-     für Informatik.md) (9 LP),
-   - Modul: \[Auswirkungen der Informatik\](modules/Auswirkungen der
-     Informatik.md) (6 LP),
-   - Modul: \[Algorithmen und Datenstrukturen\](modules/Algorithmen und
-     Datenstrukturen.md) (9 LP),
-   - Modul: \[Lineare Algebra für Informatik\](modules/Lineare Algebra für
-     Informatik.md) (9 LP),
-   - Modul: [Rechnerarchitektur](modules/Rechnerarchitektur.md) (6 LP) und
-   - Modul: \[Grundlagen der Theoretischen Informatik\](modules/Grundlagen der
-     Theoretischen Informatik.md) (6 LP),
-   - Modul: \[Nebenläufige, parallele und verteilte
-     Programmierung\](modules/Nebenläufige, parallele und verteilte
-     Programmierung.md) (9 LP),
-   - Modul: \[Analysis für Informatik\](modules/Analysis für Informatik.md) (9
-     LP),
-   - Modul: \[Betriebs- und Kommunikationssysteme\](modules/Betriebs- und
-     Kommunikationssysteme.md) (6 LP),
-   - Modul: [Datenbanksysteme](modules/Datenbanksysteme.md) (6 LP),
-   - Modul: [Programmierpraktikum](modules/Programmierpraktikum.md) (5 LP),
-   - Modul: \[Statistik für Informatik\](modules/Statistik für Informatik.md) (6
-     LP),
-   - Modul: [Informationssicherheit](modules/Informationssicherheit.md) (6 LP),
-   - Modul: [Softwaretechnik](modules/Softwaretechnik.md) (9 LP),
-   - Modul: \[Wissenschaftliches Arbeiten in der
-     Informatik\](modules/Wissenschaftliches Arbeiten in der Informatik.md) (6
-     LP),
-
+    - Modul: [Konzepte der Programmierung](modules/Konzepte der Programmierung.md) (9 LP),
+    - Modul: [Diskrete Strukturen für Informatik](modules/Diskrete Strukturen für Informatik.md) (9 LP),
+    - Modul: [Auswirkungen der Informatik](modules/Auswirkungen der Informatik.md) (6 LP),
+    - Modul: [Algorithmen und Datenstrukturen](modules/Algorithmen und Datenstrukturen.md) (9 LP),
+    - Modul: [Lineare Algebra für Informatik](modules/Lineare Algebra für Informatik.md) (9 LP),
+    - Modul: [Rechnerarchitektur](modules/Rechnerarchitektur.md) (6 LP) und
+    - Modul: [Grundlagen der Theoretischen Informatik](modules/Grundlagen der Theoretischen Informatik.md) (6 LP),
+    - Modul: [Nebenläufige, parallele und verteilte Programmierung](modules/Nebenläufige, parallele und verteilte Programmierung.md) (9 LP),
+    - Modul: [Analysis für Informatik](modules/Analysis für Informatik.md) (9 LP),
+    - Modul: [Betriebs- und Kommunikationssysteme](modules/Betriebs- und Kommunikationssysteme.md) (6 LP),
+    - Modul: [Datenbanksysteme](modules/Datenbanksysteme.md) (6 LP),
+    - Modul: [Programmierpraktikum](modules/Programmierpraktikum.md) (5 LP),
+    - Modul: [Statistik für Informatik](modules/Statistik für Informatik.md) (6 LP),
+    - Modul: [Informationssicherheit](modules/Informationssicherheit.md) (6 LP),
+    - Modul: [Softwaretechnik](modules/Softwaretechnik.md) (9 LP),
+    - Modul: [Wissenschaftliches Arbeiten in der Informatik](modules/Wissenschaftliches Arbeiten in der Informatik.md) (6 LP),
 4. Wahlpflichtbereich: In diesem Studienbereich sind aus den folgenden Modulen
    zwei Module zu wählen und zu absolvieren:
-
-   - Modul: \[Angewandte Biometrie\](modules/Angewandte Biometrie.md) (6 LP),
-   - Modul: \[Architektur eingebetteter Systeme\](modules/Architektur
-     eingebetteter Systeme.md) (6 LP),
-   - Modul: [Datenvisualisierung](modules/Datenvisualisierung.md) (6 LP),
-   - Modul: [Forschungspraktikum](modules/Forschungspraktikum.md) (6 LP),
-   - Modul: \[Funktionale Programmierung\](modules/Funktionale
-     Programmierung.md) (6 LP),
-   - Modul: [Informationstheorie](modules/Informationstheorie.md) (6 LP),
-   - Modul: \[Maschinelles Lernen\](modules/Maschinelles Lernen.md) (6 LP),
-   - Modul: \[Mensch-Computer Interaktion\](modules/Mensch-Computer
-     Interaktion.md) (6 LP),
-   - Modul: \[Praktiken professioneller Softwareentwicklung\](modules/Praktiken
-     professioneller Softwareentwicklung.md) (6 LP),
-   - Modul: \[Grundlagen des Datenschutzrechts\](modules/Grundlagen des
-     Datenschutzrechts.md) (6 LP),
-   - Modul: \[Vertiefung Theoretische Informatik\](modules/Vertiefung
-     Theoretische Informatik.md) (6 LP),
-   - Modul: \[Aktuelle Themen in der Informatik\](modules/Aktuelle Themen in der
-     Informatik.md) (6 LP),
-   - Modul: \[Vertiefte Aspekte der Informatik\](modules/Vertiefte Aspekte der
-     Informatik.md) (6 LP).
-
+    - Modul: [Angewandte Biometrie](modules/Angewandte Biometrie.md) (6 LP),
+    - Modul: [Architektur eingebetteter Systeme](modules/Architektur eingebetteter Systeme.md) (6 LP),
+    - Modul: [Datenvisualisierung](modules/Datenvisualisierung.md) (6 LP),
+    - Modul: [Forschungspraktikum](modules/Forschungspraktikum.md) (6 LP),
+    - Modul: [Funktionale Programmierung](modules/Funktionale Programmierung.md) (6 LP),
+    - Modul: [Informationstheorie](modules/Informationstheorie.md) (6 LP),
+    - Modul: [Maschinelles Lernen](modules/Maschinelles Lernen.md) (6 LP),
+    - Modul: [Mensch-Computer Interaktion](modules/Mensch-Computer Interaktion.md) (6 LP),
+    - Modul: [Praktiken professioneller Softwareentwicklung](modules/Praktiken professioneller Softwareentwicklung.md) (6 LP),
+    - Modul: [Grundlagen des Datenschutzrechts](modules/Grundlagen des Datenschutzrechts.md) (6 LP),
+    - Modul: [Vertiefung Theoretische Informatik](modules/Vertiefung Theoretische Informatik.md) (6 LP),
+    - Modul: [Aktuelle Themen in der Informatik](modules/Aktuelle Themen in der Informatik.md) (6 LP),
+    - Modul: [Vertiefte Aspekte der Informatik](modules/Vertiefte Aspekte der Informatik.md) (6 LP).
 5. Im Wahlbereich können Module beliebiger wissenschaftlicher Studienfächer
    (einschließlich der Informatik) im Umfang von 10 LP absolviert werden, die
    die erworbenen Qualifikationen ergänzen. Im Pflicht- oder Wahlpflichtbereich
    absolvierte Module oder andere gleichwertige Module der Informatik aus
    anderen Studiengängen dürfen im Wahlbereich nicht eingebracht werden.
-
 6. Im Bereich Allgemeine Berufsvorbereitung ist im Kompetenzbereich Fachnahe
    Zusatzqualifikationen das Modul
    „[Softwareprojekt](modules/Softwareprojekt.md)“ (10 LP) zu absolvieren.
    Zusätzlich werden die folgenden Module angeboten:
+    - Modul: [Arbeits- und Lebensmethodik](modules/Arbeits- und Lebensmethodik.md) (5 LP),
+    - Modul: [Gender and Diversity](modules/Gender and Diversity.md) (5 LP),
+    - Modul: [Planung, Durchführung und Evaluation eines Tutoriums in der Informatik](modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md) (5 LP),
+    - Modul: [Projektmanagement in agilen Umgebungen](modules/Projektmanagement in agilen Umgebungen.md) (5 LP),
+    - Modul: [Systemverwaltung](modules/Systemverwaltung.md) (5 LP).
 
-   - Modul: \[Arbeits- und Lebensmethodik\](modules/Arbeits- und
-     Lebensmethodik.md) (5 LP),
-   - Modul: \[Gender and Diversity\](modules/Gender and Diversity.md) (5 LP),
-   - Modul: \[Planung, Durchführung und Evaluation eines Tutoriums in der
-     Informatik\](modules/Planung, Durchführung und Evaluation eines Tutoriums
-     in der Informatik.md) (5 LP),
-   - Modul: \[Projektmanagement in agilen Umgebungen\](modules/Projektmanagement
-     in agilen Umgebungen.md) (5 LP),
-   - Modul: [Systemverwaltung](modules/Systemverwaltung.md) (5 LP).
-
-   Im Bereich Praktika wird das Modul „\[Berufsbezogenes Praktikum
-   Informatik\](modules/Berufsbezogenes Praktikum Informatik.md)“ (10 LP)
-   angeboten.
+    Im Bereich Praktika wird das Modul „[Berufsbezogenes Praktikum formatik](modules/Berufsbezogenes Praktikum Informatik.md)“ (10 LP)
+    angeboten.
 
 7. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
    Lehr- und Lernformen, den zeitlichen Arbeitsaufwand, die Formen der aktiven
@@ -251,74 +216,73 @@ Die Regelstudienzeit beträgt sechs Semester.
    Regeldauer und die Angebotshäufigkeit informieren für die Module des
    Bachelorstudiengangs die Modulbeschreibungen in der
    [Anlage 1](module_explanations.md).
-
 8. Über den empfohlenen Verlauf des Studiums unterrichtet der exemplarische
    Studienverlaufsplan in der [Anlage 2](anlage2.md).
 
 ## § 8 Lehr- und Lernformen
 
 1. Im Rahmen des Lehrangebots werden folgende Lehr- und Lernformen angeboten:
-   01. Vorlesung (V): Die Lehrkraft trägt den Stoff in der Vorlesung vor und
-       erläutert ihn. Die Studierenden vertiefen den Stoff durch regelmäßige
-       Vor- und Nachbereitung.
-   02. Übung (Ü): Die Übungen finden begleitend zur Vorlesung in kleinen Gruppen
-       statt, die nicht mehr als zwanzig Teilnehmerinnen und Teilnehmer umfassen
-       sollen. Die Übungen werden von studentischen Tutorinnen oder Tutoren oder
-       wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern unter der Leitung
-       der Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
-       erscheinen in regelmäßigen Abständen Übungsaufgaben, die von den
-       Studierenden selbstständig in freier Hausarbeit, in selbstorganisierten
-       Kleingruppen oder während der Übung zu lösen oder zu bearbeiten sind. Die
-       Lösungen oder Lösungsansätze werden in den Übungsgruppen vorgetragen oder
-       diskutiert. Zweck der Übungsgruppen ist sowohl die Vertiefung des
-       Vorlesungsstoffes als auch das Erlernen und Üben von Methoden und
-       Techniken. Ferner soll das Gespräch über Informatik, die Zusammenarbeit
-       und die Planung der eigenen Arbeitsweise erlernt werden.
-   03. Praktikum (P): Praktika dienen anhand mehrerer praktischer Aufgaben dem
-       Erwerb von Fertigkeiten, die Problemlösungsmethoden der Informatik
-       erfolgreich einzusetzen. Das schließt die Problemspezifikation und die
-       Zerlegung in Teilprobleme ein. Lösungsvorschläge und Ergebnisse sind
-       regelmäßig vorzubereiten, vorzuführen, schriftlich auszuarbeiten und
-       vorzutragen. Zweck der Praktika ist der sichere Umgang mit dem erlernten
-       Wissen und den geübten Fertigkeiten.
-   04. Proseminar (PS): In einem Proseminar wird ein spezielles Thema der
-       Informatik oder der Anwendungen der Informatik von den Studierenden und
-       der Lehrkraft gemeinsam erarbeitet. Dazu bereitet jede Studentin und
-       jeder Student unter Anleitung der Lehrkraft ein Referat vor, das
-       schriftlich ausgearbeitet und im Proseminar vorgetragen und anschließend
-       diskutiert wird. Zweck eines Proseminars ist das Erlernen gründlicher
-       wissenschaftlicher Arbeit unter Anleitung, das Schreiben einer
-       wissenschaftlichen Arbeit in Vorbereitung auf die Bachelorarbeit sowie
-       der Erwerb kommunikativer Kompetenzen und rhetorischer Fertigkeiten.
-   05. Seminar (S): Ein Seminar dient der Vermittlung von Kenntnissen eines
-       abgegrenzten Stoffgebiets und dem Erwerb von Fähigkeiten, eine
-       Fragestellung selbstständig zu bearbeiten, die Ergebnisse darzustellen
-       und kritisch zu diskutieren. Die vorrangige Arbeitsformen sind
-       Seminargespräche auf der Grundlage von Unterrichtsmitteln, von
-       vorzubereitender Lektüre (Fachliteratur und Quellen), von
-       Arbeitsaufträgen sowie Gruppenarbeit.
-   06. Praxisseminar (PrS): Es dient der Anwendung der Lehr- und Lerninhalte und
-       der Arbeitsmethoden einer wissenschaftlichen Disziplin in einem
-       praktischen Projekt. Die vorrangige Arbeitsform ist die angeleitete
-       Durchführung eines in praktischen Feldern begleiteten Projekts.
-   07. Projektseminar (PrjS): Es dient der anwendungs- und problembezogenen
-       Vertiefung fachwissenschaftlicher Kenntnisse und Methoden. Die
-       Projektarbeitsgruppen sind von Studierende selbstständig organisierte und
-       von Dozenten betreute Kleingruppen, die der begleitenden Bearbeitung des
-       Projektes dienen.
-   08. Seminar am PC (SPC): Es dient in der Präsenzzeit der Vermittlung von
-       Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
-       Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
-       Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
-       Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
-       Anwendung von Spezialsoftware.
-   09. Seminaristischer Unterricht (sU): Im seminaristischen Unterricht werden
-       anwendungsorientierte Kenntnisse und Fertigkeiten selbstständig
-       erarbeitet, vorgestellt und in der Gruppe diskutiert.
-   10. Im externen Praktikum (eP) im Studienbereich ABV gewinnen die
-       Studierenden unter Anleitung Erfahrungen in der Anwendung der erworbenen
-       fachwissenschaftlichen Kenntnisse und Methoden und können ihre Eignung
-       für bestimmte Berufsfelder testen.
+    01. Vorlesung (V): Die Lehrkraft trägt den Stoff in der Vorlesung vor und
+        erläutert ihn. Die Studierenden vertiefen den Stoff durch regelmäßige
+        Vor- und Nachbereitung.
+    02. Übung (Ü): Die Übungen finden begleitend zur Vorlesung in kleinen Gruppen
+        statt, die nicht mehr als zwanzig Teilnehmerinnen und Teilnehmer umfassen
+        sollen. Die Übungen werden von studentischen Tutorinnen oder Tutoren oder
+        wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern unter der Leitung
+        der Lehrkraft der jeweiligen Vorlesung durchgeführt. Zu einer Vorlesung
+        erscheinen in regelmäßigen Abständen Übungsaufgaben, die von den
+        Studierenden selbstständig in freier Hausarbeit, in selbstorganisierten
+        Kleingruppen oder während der Übung zu lösen oder zu bearbeiten sind. Die
+        Lösungen oder Lösungsansätze werden in den Übungsgruppen vorgetragen oder
+        diskutiert. Zweck der Übungsgruppen ist sowohl die Vertiefung des
+        Vorlesungsstoffes als auch das Erlernen und Üben von Methoden und
+        Techniken. Ferner soll das Gespräch über Informatik, die Zusammenarbeit
+        und die Planung der eigenen Arbeitsweise erlernt werden.
+    03. Praktikum (P): Praktika dienen anhand mehrerer praktischer Aufgaben dem
+        Erwerb von Fertigkeiten, die Problemlösungsmethoden der Informatik
+        erfolgreich einzusetzen. Das schließt die Problemspezifikation und die
+        Zerlegung in Teilprobleme ein. Lösungsvorschläge und Ergebnisse sind
+        regelmäßig vorzubereiten, vorzuführen, schriftlich auszuarbeiten und
+        vorzutragen. Zweck der Praktika ist der sichere Umgang mit dem erlernten
+        Wissen und den geübten Fertigkeiten.
+    04. Proseminar (PS): In einem Proseminar wird ein spezielles Thema der
+        Informatik oder der Anwendungen der Informatik von den Studierenden und
+        der Lehrkraft gemeinsam erarbeitet. Dazu bereitet jede Studentin und
+        jeder Student unter Anleitung der Lehrkraft ein Referat vor, das
+        schriftlich ausgearbeitet und im Proseminar vorgetragen und anschließend
+        diskutiert wird. Zweck eines Proseminars ist das Erlernen gründlicher
+        wissenschaftlicher Arbeit unter Anleitung, das Schreiben einer
+        wissenschaftlichen Arbeit in Vorbereitung auf die Bachelorarbeit sowie
+        der Erwerb kommunikativer Kompetenzen und rhetorischer Fertigkeiten.
+    05. Seminar (S): Ein Seminar dient der Vermittlung von Kenntnissen eines
+        abgegrenzten Stoffgebiets und dem Erwerb von Fähigkeiten, eine
+        Fragestellung selbstständig zu bearbeiten, die Ergebnisse darzustellen
+        und kritisch zu diskutieren. Die vorrangige Arbeitsformen sind
+        Seminargespräche auf der Grundlage von Unterrichtsmitteln, von
+        vorzubereitender Lektüre (Fachliteratur und Quellen), von
+        Arbeitsaufträgen sowie Gruppenarbeit.
+    06. Praxisseminar (PrS): Es dient der Anwendung der Lehr- und Lerninhalte und
+        der Arbeitsmethoden einer wissenschaftlichen Disziplin in einem
+        praktischen Projekt. Die vorrangige Arbeitsform ist die angeleitete
+        Durchführung eines in praktischen Feldern begleiteten Projekts.
+    07. Projektseminar (PrjS): Es dient der anwendungs- und problembezogenen
+        Vertiefung fachwissenschaftlicher Kenntnisse und Methoden. Die
+        Projektarbeitsgruppen sind von Studierende selbstständig organisierte und
+        von Dozenten betreute Kleingruppen, die der begleitenden Bearbeitung des
+        Projektes dienen.
+    08. Seminar am PC (SPC): Es dient in der Präsenzzeit der Vermittlung von
+        Kenntnissen eines abgegrenzten Stoffgebietes und dem Erwerb von
+        Fähigkeiten, eine Fragestellung selbstständig zu bearbeiten, die
+        Ergebnisse darzustellen und kritisch zu diskutieren. Die vorrangige
+        Arbeitsform ist das gemeinsame Arbeiten am PC unter Einführung und
+        Anwendung von Spezialsoftware.
+    09. Seminaristischer Unterricht (sU): Im seminaristischen Unterricht werden
+        anwendungsorientierte Kenntnisse und Fertigkeiten selbstständig
+        erarbeitet, vorgestellt und in der Gruppe diskutiert.
+    10. Im externen Praktikum (eP) im Studienbereich ABV gewinnen die
+        Studierenden unter Anleitung Erfahrungen in der Anwendung der erworbenen
+        fachwissenschaftlichen Kenntnisse und Methoden und können ihre Eignung
+        für bestimmte Berufsfelder testen.
 2. Die Lehr- und Lernformen gemäß Abs. 1 können in Blended-Learning-Arrangements
    umgesetzt werden. Das Präsenzstudium wird hierbei mit elektronischen, z. B.
    Internet-basierten Medien (E-Learning) verknüpft. Dabei werden ausgewählte
@@ -359,11 +323,11 @@ Die Regelstudienzeit beträgt sechs Semester.
     schriftlich und mündlich angemessen darzustellen.
 02. Studierende werden auf Antrag zur Bachelorarbeit zugelassen, wenn sie bei
     Antragstellung nachweisen, dass sie
-    1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
-       immatrikuliert gewesen sind und
-    2. Module im Umfang von mindestens 90 LP erfolgreich absolviert haben,
-       darunter das Modul „Wissenschaftliches Arbeiten in der Informatik“ (6
-       LP).
+     1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
+        immatrikuliert gewesen sind und
+     2. Module im Umfang von mindestens 90 LP erfolgreich absolviert haben,
+        darunter das Modul „Wissenschaftliches Arbeiten in der Informatik“ (6
+        LP).
 03. Dem Antrag auf Zulassung zur Bachelorarbeit sind Nachweise über das
     Vorliegen der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die
     Bescheinigung einer prüfungsberechtigten Lehrkraft über die Bereitschaft zur
@@ -456,14 +420,12 @@ Die Regelstudienzeit beträgt sechs Semester.
 
 1. Prüfungsaufgaben in der Form des Antwort-WahlVerfahrens sind von zwei
    Prüfungsberechtigten zu stellen.
-
 2. Erweist sich bei der Bewertung von Prüfungsleistungen, die nach dem
    Antwort-Wahl-Verfahren abgelegt worden sind, dass einzelne Prüfungsaufgaben
    im Hinblick auf die Qualifikationsziele des jeweiligen Moduls keine
    zuverlässigen Prüfungsergebnisse ermöglichen und damit fehlerhaft sind, so
    dürfen sich diese bei der Feststellung des Prüfungsergebnisses nicht zum
    Nachteil von Studierenden auswirken.
-
 3. Eine im Antwort-Wahl-Verfahren erbrachte Prüfungsleistung ist bestanden, wenn
    die\*der Studierende mindestens 50 % der erzielbaren Bewertungspunkte
    erreicht hat (absolute Bestehensgrenze) oder wenn die Zahl der von der\*dem
@@ -473,29 +435,26 @@ Die Regelstudienzeit beträgt sechs Semester.
    Bestehensgrenze). Kommt die relative Bestehensgrenze zum Tragen, so muss die
    oder der Studierende für das Bestehen der Prüfungsleistung gleichwohl
    mindestens 40 % der erzielbaren Bewertungspunkte erreicht haben.
-
 4. Im Antwort-Wahl-Verfahren erbrachte Prüfungsleistungen sind wie folgt zu
    bewerten: Hat der\*die Student\*in die für das Bestehen der Prüfungsleistung
    nach Abs. 3 erforderliche Mindestbewertungspunktzahl erreicht, so lautet die
    Note
+    - sehr gut, wenn sie oder er mindestens 75 %,
+    - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
+    - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
+    - ausreichend, wenn sie oder er keine oder weniger als 25 %
 
-   - sehr gut, wenn sie oder er mindestens 75 %,
-   - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
-   - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
-   - ausreichend, wenn sie oder er keine oder weniger als 25 %
-
-   der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahl hinaus
-   erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
-   Noten gilt im Übrigen die RSPO.
+    der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahl hinaus
+    erzielbaren Bewertungspunkte zutreffend beantwortet hat; für die verwendeten
+    Noten gilt im Übrigen die RSPO.
 
 5. Die Bewertungsvorgaben gemäß der Absätze 3 und 4 finden keine Anwendung, wenn
-
-   1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
-      haben und die im AntwortWahl-Verfahren erbrachten Prüfungsleistungen
-      bewerten, identisch sind oder
-   2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
-      des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
-      Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
+    1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
+       haben und die im AntwortWahl-Verfahren erbrachten Prüfungsleistungen
+       bewerten, identisch sind oder
+    2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
+       des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
+       Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
 
 ## § 14 Einreichform für schriftliche Prüfungsleistungen
 
