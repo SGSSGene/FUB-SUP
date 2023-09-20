@@ -7,7 +7,7 @@ tags:
 
 # Introduction to Focus Areas
 
-[« Human Evolution](Human Evolution.md){class=prev}
+[« Höhere Algorithmik](Höhere Algorithmik.md){class=prev}
 [Machine Learning in Bioinformatics »](Machine Learning in Bioinformatics.md){class=next}
 {class=prev-next-nav}
 

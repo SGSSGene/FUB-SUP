@@ -8,7 +8,7 @@ tags:
 # Current topics in structural bioinformatics
 
 [« Current topics in medical genomics](Current topics in medical genomics.md){class=prev}
-[Environmental metagenomics »](Environmental metagenomics.md){class=next}
+[Data Science in the Life Sciences »](Data Science in the Life Sciences.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

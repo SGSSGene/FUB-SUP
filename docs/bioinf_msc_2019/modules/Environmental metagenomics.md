@@ -7,7 +7,7 @@ tags:
 
 # Environmental metagenomics
 
-[« Current topics in structural bioinformatics](Current topics in structural bioinformatics.md){class=prev}
+[« Data Science in the Life Sciences](Data Science in the Life Sciences.md){class=prev}
 [Ethics and Policy Questions »](Ethics and Policy Questions.md){class=next}
 {class=prev-next-nav}
 

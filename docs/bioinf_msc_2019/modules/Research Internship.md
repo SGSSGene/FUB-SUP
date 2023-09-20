@@ -7,7 +7,7 @@ tags:
 
 # Research Internship
 
-[« Methods in Life Sciences](Methods in Life Sciences.md){class=prev}
+[« Netzbasierte Informationssysteme](Netzbasierte Informationssysteme.md){class=prev}
 [Selected topics in Bioinformatics A »](Selected topics in Bioinformatics A.md){class=next}
 {class=prev-next-nav}
 

@@ -8,7 +8,7 @@ tags:
 # Special aspects of Bioinformatics C
 
 [« Special aspects of Bioinformatics B](Special aspects of Bioinformatics B.md){class=prev}
-[Structural Bioinformatics »](Structural Bioinformatics.md){class=next}
+[Spezielle Aspekte der Datenverwaltung »](Spezielle Aspekte der Datenverwaltung.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

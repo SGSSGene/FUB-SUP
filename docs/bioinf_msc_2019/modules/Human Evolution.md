@@ -8,7 +8,7 @@ tags:
 # Human Evolution
 
 [« Foundations in Mathematics and Statistics](Foundations in Mathematics and Statistics.md){class=prev}
-[Introduction to Focus Areas »](Introduction to Focus Areas.md){class=next}
+[Höhere Algorithmik »](Höhere Algorithmik.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

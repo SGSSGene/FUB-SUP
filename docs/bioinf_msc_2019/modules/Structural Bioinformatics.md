@@ -7,7 +7,8 @@ tags:
 
 # Structural Bioinformatics
 
-[« Special aspects of Bioinformatics C](Special aspects of Bioinformatics C.md){class=prev}
+[« Spezielle Aspekte der Datenverwaltung](Spezielle Aspekte der Datenverwaltung.md){class=prev}
+[Verteilte Systeme »](Verteilte Systeme.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

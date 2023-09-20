@@ -8,7 +8,7 @@ tags:
 # Methods in Life Sciences
 
 [« Methodology for clinical trials](Methodology for clinical trials.md){class=prev}
-[Research Internship »](Research Internship.md){class=next}
+[Netzbasierte Informationssysteme »](Netzbasierte Informationssysteme.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

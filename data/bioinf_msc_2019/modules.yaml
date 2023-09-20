@@ -2112,3 +2112,28 @@
   tags:
     - V-Modul
     - Profilstudium mit der Ausrichtung Complex Systems
+- page: 3
+  name: Höhere Algorithmik
+  link: inf_msc_2014
+  tags:
+    - Profilstudium mit der Ausrichtung Advanced Algorithms
+- page: 3
+  name: Spezielle Aspekte der Datenverwaltung
+  link: inf_msc_2014
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+- page: 3
+  name: Verteilte Systeme
+  link: inf_msc_2014
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
+- page: 3
+  name: Data Science in the Life Sciences
+  link: datasci_msc_2019
+  tags:
+    - Profilstudium mit der Ausrichtung Complex Systems
+- page: 3
+  name: Netzbasierte Informationssysteme
+  link: inf_msc_2014
+  tags:
+    - Profilstudium mit der Ausrichtung Data Science
