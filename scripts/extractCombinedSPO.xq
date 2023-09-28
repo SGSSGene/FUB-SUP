@@ -1,5 +1,4 @@
 #!/usr/bin/env -S xq -y -f
-include "helperScript";
 include "scripts/helperScript";
 
 # Extract first Part, above Inhalte

@@ -13,6 +13,13 @@ Aktuell sind folgende Studien- und Prüfungsordnungen umgesetzt:
 |------------------------------------------------|---------|
 |Rahmenstudien- und -prüfungsordnung             | rspo: ✔, anhänge: ✘ |
 |ABV Module (inkl. 1., 2., 3. Änderungsordnung)  | sop: ✔, modules: ✔, anhänge: ✘ |
+|Bioinformatik Bachelor 2012 + 1. Änderung 2017  | sop: ✔, modules: ✔, anhänge: ✘ |
+|Bioinformatik Bachelor 2023                     | sop: ✔, modules: ✔, anhänge: ✘ |
+|Bioinformatik Master 2012                       | ✘  (has a different format) |
+|Bioinformatik Master 2019 + 1. Änderung 2021    | sop: ✔, modules: ✔, anhänge: ✘ |
+|Computational Sciences Master 2016              | sop: ✔, modules: ✔, zugangssatzung: ✔, anhänge: ✘ |
+|Data Science Master 2019                        | sop: ✔, modules: ✔, anhänge: ✘ |
+|Data Science Master 2021                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Bachelor 2014                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Bachelor 2023                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Lehramt Bachelor 2014                | sop: ✔, modules: ✔, anhänge: ✘ |
@@ -20,12 +27,6 @@ Aktuell sind folgende Studien- und Prüfungsordnungen umgesetzt:
 |Informatik 30LP Bachelor 2017                   | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik Master 2014                          | sop: ✔, modules: ✔, anhänge: ✘ |
 |Informatik 30LP Bachelor 2017                   | sop: ✔, modules: ✔, anhänge: ✘ |
-|Bioinformatik Bachelor 2012 + 1. Änderung 2017  | sop: ✔, modules: ✔, anhänge: ✘ |
-|Bioinformatik Master 2012                       | ✘  (has a different format) |
-|Bioinformatik Master 2019 + 1. Änderung 2021    | sop: ✔, modules: ✔, anhänge: ✘ |
-|Computational Sciences Master 2016              | sop: ✔, modules: ✔, zugangssatzung: ✔, anhänge: ✘ |
-|Data Science Master 2019                        | sop: ✔, modules: ✔, anhänge: ✘ |
-|Data Science Master 2021                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Mathematik Bachelor 2013                        | sop: ✔, modules: ✔, anhänge: ✘ |
 |Mathematik Lehramt Bachelor 2012                | ✘       |
 |Mathematik Lehramt Bachelor 2015                | ✘       |

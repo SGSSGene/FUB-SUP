@@ -1,0 +1,94 @@
+---
+tags:
+  - bioinf_bsc_2023
+---
+[Report an error](https://github.com/SGSSGene/FUB-SUP/issues/new?title=Error%20in%20%22Molekularbiologie%20und%20Biochemie%20III%22&body=There%20seems%20to%20be%20an%20error%20in%20module%20%22Molekularbiologie%20und%20Biochemie%20III%22%2E%0A%0A%3CDescribe%20here%20a%20slightly%20more%20detailed%20description%20of%20what%20is%20wrong%3E&labels=bug)
+{ class=open-github-issue data-search-exclude}
+
+# Molekularbiologie und Biochemie III
+
+[« Molekularbiologie und Biochemie II](Molekularbiologie und Biochemie II.md){class=prev}
+[Neurobiologie »](Neurobiologie.md){class=next}
+{class=prev-next-nav}
+
+<table markdown id="moduledesc">
+<tr markdown class="moduledesc_head"><th colspan="2">Molekularbiologie und Biochemie III </th></tr>
+<tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biochemie</td></tr>
+
+<tr markdown><td colspan="2">**Bereich**<br>
+
+
+- Pflichtbereich
+- Studienbereich
+- Studienbereich Biologie/Chemie/Biochemie
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Zugangsvoraussetzungen** <br>
+
+Erfolgreiche Absolvierung des Moduls „Molekularbiologie und Biochemie I“
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Qualifikationsziele**    <br>
+
+Die Studierenden können ihr Grundlagenverständnis in den Zusammenhang
+komplexer biologischer Systeme stellen. Sie besitzen ein Verständnis der
+rezeptorvermittelten Signaltransduktion und der Regulation von Zellzyklus
+und Zelltod, der molekularbiologischen und zellbiologischen Eigenschaften
+von metastasierenden Tumorzellen und der Wechselwirkungen von Pathogenen,
+Wirtszellen und Immunsystem, sowie der Prinzipien der DNA-Medizin.
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Inhalte**                <br>
+
+Es werden Wachstumsfaktoren, Rezeptoren und Signaltransduktion zur
+Regulation von Zellzyklus und Zelltod, Grundlagen der Immunologie wie
+angeborene, erworbene Immunabwehr und Antigen-präsentierende Zellen sowie
+Effektorzellen behandelt. Die Studierenden befassen sich mit PAMP- und
+DAMP-Konzepten der Antigen-Prozessierung bei Infektion und Tumor-Bekämpfung
+sowie DNA-Medizin und Gentherapie.
+
+
+</td></tr>
+
+<tr markdown><td>**Lehr- und Lernformen**</td><td>**Aktive Teilnahme**</td></tr>
+<tr markdown><td> **Vorlesung** <br>2 SWS <br> Teilnahme empfohlen</td><td>
+
+Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+</td></tr>
+<tr markdown><td> **Übung** <br>2 SWS <br> verpflichtete Teilnahme</td><td>
+
+Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+</td></tr>
+<tr markdown><td colspan="2">**Aufwand**                <br>
+<table class="aufwand_table">
+<tr><td>Präsenzzeit V</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung V</td><td>35 Stunden</td></tr>
+<tr><td>Präsenzzeit Ü</td><td>30 Stunden</td></tr>
+<tr><td>Vor- und Nachbereitung Ü</td><td>40 Stunden</td></tr>
+<tr><td>Prüfungsvorbereitung und Prüfung</td><td>45 Stunden</td></tr>
+</table>
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulprüfung**             <br>Klausur (90 Minuten)
+
+
+</td></tr>
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+
+</td></tr>
+<tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
+<tr markdown><td colspan="2">**Arbeitsaufwand (Stunden)** <br>180</td></tr>
+<tr markdown><td colspan="2">**Leistungspunkte (LP)**     <br>6</td></tr>
+<tr markdown><td colspan="2">**Dauer des Moduls**         <br>Ein Semester</td></tr>
+<tr markdown><td colspan="2">**Häufigkeit des Angebots**  <br>Jedes Sommersemester</td></tr>
+<tr markdown><td colspan="2">**Verwendbarkeit**           <br>
+
+Bachelorstudiengang Bioinformatik
+
+
+</td></tr>
+
+</table>

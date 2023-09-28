@@ -1,0 +1,995 @@
+- page: 8
+  name: Konzepte der Programmierung
+  link: inf_bsc_2023
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Informatik/Algorithmische Bioinformatik
+- page: 8
+  name: Algorithmen und Datenstrukturen
+  link: inf_bsc_2023
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Informatik/Algorithmische Bioinformatik
+- page: 8
+  name: Algorithmische Bioinformatik I und Numerik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können grundlegende Begriffe der Numerik und Methoden der
+    approximativen Sequenzsuche erklären. Sie sind in der Lage, Beschreibungen
+    und Quelltexte zur approximativen Sequenzsuche zu charakterisieren und deren
+    Funktionsweise zu interpretieren. Ebenso können sie das Zustandekommen
+    falscher Lösungen interpretieren, die durch numerische Probleme entstehen.
+    Sie sind in der Lage, Vor- und Nachteile verschiedener Lösungen
+    algorithmischer und numerischer Probleme zu diskutieren und zu bewerten.
+  content: |
+    Es wird eine Übersicht über Methoden der approximativen Sequenzsuche und des
+    Sequenzvergleiches vermittelt. Dazu gehören indexbasierte Suche
+    (Suffixarray, FM index), Methoden für multiple Suchen, Methoden für
+    Sequenzalignments und Heuristiken zur Sequenzsuche. Im Bereich Numerik
+    werden Rundungsfehler, Kondition, Stabilität, Vektor- und Matrixnormen, LR
+    Zerlegung und Gaussverfahren behandelt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Diskussionsteilnahme
+        Erfolgreiches Bearbeiten der Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: |
+        Diskussionsteilnahme
+        Erfolgreiches Bearbeiten der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 15
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Informatik/Algorithmische Bioinformatik
+- page: 9
+  name: Praxis der Algorithmischen Bioinformatik I und Numerik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen die Kompetenz, Algorithmen als Programm zu
+    implementieren, zu kommentieren und zu testen. Sie verfügen über
+    grundlegende praktische Techniken der approximativen Sequenzsuche und
+    Numerik. Sie implementieren Algorithmen und Datenstrukturen zur
+    approximativen Sequenzsuche und passen diese an unterschiedliche
+    Anforderungen an. Sie können einfache, numerisch instabile Rechnungen
+    geeignet umstellen.
+  content: |
+    Zunächst wird in Programmierwerkzeuge und die verwendete Programmiersprache
+    eingeführt. Danach werden programmiertechnische Fertigkeiten zur
+    Implementierung von Algorithmen der Bioinformatik und Numerik erklärt und
+    vermittelt.
+  teachingunit:
+    - type: Praktikum
+      swstime: 4
+      attendance: required
+      activity: |
+        Erfolgreiches Erstellen von Programmen
+  workload:
+    - type: Präsenzzeit P
+      time: 60
+    - type: Vor- und Nachbereitung P
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Mündliche Prüfung (ca. 20 Minuten)
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: false
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Informatik/Algorithmische Bioinformatik
+- page: 10
+  name: Algorithmische Bioinformatik II
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können grundlegende Problemstellungen der modernen
+    Bioinformatik erklären. Sie sind in der Lage Ergebnisse der aktuellen
+    Algorithmen zur Lösung dieser Problemstellungen zu interpretieren und Vor-
+    und Nachteile verschiedener Lösungen der algorithmischen Probleme zu
+    diskutieren und zu bewerten.
+  content: |
+    Im Studium werden Algorithmen für multiples Sequenzalignment, Algorithmen
+    zur Motiv-Suche, Grundlagen der formalen Sprachen und Algorithmen zur
+    probabilistischen Sequenzanalyse mittels Hidden Markov Models vermittelt.
+    Die Studierenden befassen sich mit Algorithmen zur Genomassemblierung,
+    Algorithmen zur RNA-Strukturvorhersage und zum RNA-Vergleich sowie mit
+    Modellen und Algorithmen zur Analyse von HPLC/MS Daten.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Diskussionsteilnahme
+        Erfolgreiches Bearbeiten der Übungsaufgaben
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: |
+        Diskussionsteilnahme
+        Erfolgreiches Bearbeiten der Übungsaufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 15
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 75
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Informatik/Algorithmische Bioinformatik
+- page: 11
+  name: Algorithmische Bioinformatik III und Statistik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden können verschiedene statistische Methoden zur Analyse
+    bioinformatischer Daten erklären. Sie sind in der Lage Daten mit Hilfe
+    dieser Methoden zu interpretieren und entsprechende Schlussfolgerungen zu
+    ziehen. Sie können Analyse-Pipelines sowie verschiedene statistische
+    Verfahren implementieren. Sie sind in der Lage die Vor- und Nachteile dieser
+    Verfahren zu diskutieren und zu bewerten.
+  content: |
+    Gegenstand des Studiums sind die statistische Signifikanz von
+    Sequenzähnlichkeit und Ergebnissen aus Datenbanksuchen, Algorithmen zur
+    Rekonstruktion phylogenetischer Bäume sowie Modelle und Algorithmen zur
+    Protein-Analyse. Die Studierenden werten Daten aus aktuellen Technologien
+    der funktionellen Genomik aus und üben die Analyse funktioneller Daten
+    praktisch ein. Es werden statistische Resultate interpretiert.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Diskussionsteilnahme
+        Erfolgreiches Bearbeiten der Übungsaufgaben
+        Präsentationen; schriftliche Aufgaben
+    - type: Übung
+      swstime: 1
+      attendance: required
+      activity: |
+        Diskussionsteilnahme
+        Erfolgreiches Bearbeiten der Übungsaufgaben
+        Präsentationen; schriftliche Aufgaben
+    - type: Seminaristischer Unterricht
+      swstime: 1
+      attendance: required
+      activity: |
+        Diskussionsteilnahme
+        Erfolgreiches Bearbeiten der Übungsaufgaben
+        Präsentationen; schriftliche Aufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 10
+    - type: Präsenzzeit Ü
+      time: 15
+    - type: Vor- und Nachbereitung Ü
+      time: 45
+    - type: Präsenzzeit sU
+      time: 15
+    - type: Vor- und Nachbereitung sU
+      time: 65
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 210
+  credit_points: 7
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Informatik/Algorithmische Bioinformatik
+- page: 12
+  name: Wissenschaftliches Arbeiten in der Bioinformatik
+  organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden sind in der Lage, sich selbstständig in ein vorgegebenes
+    Thema der Bioinformatik anhand von wissenschaftlicher Literatur
+    einzuarbeiten und relevante Literatur zu recherchieren. Sie zitieren die
+    Quellen korrekt und können ein umgrenztes Thema der Bioinformatik
+    schriftlich darstellen und mündlich präsentieren. Sie können gängige
+    Gliederungs-, Vortrags- und Dokumentationstechniken anwenden und beherrschen
+    die Regeln guter wissenschaftlicher Praxis. Die Studierenden berücksichtigen
+    in der wissenschaftlichen Arbeit gesellschaftliche, ethische und rechtliche
+    Fragen unter Einschluss von Gender- und Diversity-Aspekten.
+  content: |
+    Im Studium werden mündliche und schriftliche Präsentation wissenschaftlicher
+    Inhalte in der Bioinformatik eingeübt. Gegenstand sind Literaturrecherche in
+    der Bioinformatik, korrektes Zitieren, Aufbau und Gliederung einer
+    Abschlussarbeit in der Bioinformatik sowie Vortrags- und
+    Präsentationstechniken. Die Studierenden befassen sich mit der Dokumentation
+    von Daten und Software, guter wissenschaftlicher Praxis und
+    gesellschaftlichen, ethischen und rechtlichen Fragen bioinformatischen
+    Handelns unter Einschluss von Gender- und Diversity-Aspekten.
+  teachingunit:
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: |
+        Vortrag mit Diskussion und schriftlicher Ausarbeitung
+  workload:
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 120
+  exam: |
+    Keine
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Zwei Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Informatik/Algorithmische Bioinformatik
+- page: 13
+  name: Diskrete Strukturen für Informatik
+  link: inf_bsc_2023
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Mathematik/Statistik
+- page: 13
+  name: Lineare Algebra für Informatik
+  link: inf_bsc_2023
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Mathematik/Statistik
+- page: 13
+  name: Analysis für Informatik
+  link: inf_bsc_2023
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Mathematik/Statistik
+- page: 13
+  name: Statistik für Bioinformatik I
+  organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen verschiedene statistische Modelle sowie deren
+    Anwendung in den Lebenswissenschaften und der Bioinformatik. Sie können
+    statistische Modelle und Effekte interpretieren. Sie sind in der Lage
+    Momente und deren Bedeutung in der Biologie zu beschreiben und
+    Wahrscheinlichkeiten von Zufallsereignissen zu bestimmen. Sie können
+    empirische Daten mit Hilfe statistischer Methoden analysieren und
+    Algorithmen zur Schätzung von Effekten entwickeln. Sie sind in der Lage
+    Prädiktionsmodelle zur Vorhersage von Ereignissen und Hypothesen mit Hilfe
+    statistischer Tests zu evaluieren. Sie können den Unterschied zwischen
+    statistischer Signifikanz und klinischer Relevanz erklären.
+  content: |
+    Die Studierenden befassen sich mit statistischen Modellen und deren
+    Anwendung in der Medizin/Biologie. Es werden grundlegende Konzepte
+    vermittelt wie Zufallsvariablen, Verteilung und Dichte, Erwartungswert und
+    Varianz, spezielle diskrete und kontinuierliche Verteilungen, (klinische)
+    Effekte, mittlere quadratische Fehler, Gesetze der großen Zahlen und der
+    zentrale Grenzwertsatz. Es werden Schätzverfahren, Maximum Likelihood
+    Methode, Hypothesentests, Konfidenzintervalle, multiples Testen und
+    Testverfahren für metrische und diskrete Daten behandelt. Weitere Inhalte
+    sind statistische Signifikanz versus klinische Relevanz, Approximationen für
+    kleine Fallzahlen sowie Prädiktionsmodelle und deren Anwendung in der
+    Medizin.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Schriftliche Übungsund Programmieraufgaben
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: |
+        Schriftliche Übungsund Programmieraufgaben
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Mathematik/Statistik
+- page: 14
+  name: Statistik für Bioinformatik II und Maschinelles Lernen
+  organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen verschiedene Regressionsmodelle und deren Anwendung
+    in der Bioinformatik. Sie können die Grundlagen und Komponenten
+    varianzanalytischer Modelle (ANOVA) beschreiben. Sie sind in der Lage die
+    Vorhersagegüte verschiedener Prädiktionsmodelle in der Bioinformatik zu
+    interpretieren und Clusteringverfahren zu beurteilen. Sie können
+    Klassifikationsalgorithmen und deren Anwendungen in der Bioinformatik und
+    grafische Methoden zur Darstellung von Ergebnissen analysieren. Sie sind in
+    der Lage Algorithmen zur Vorhersage von Ereignissen zu entwickeln sowie
+    Diskriminanz- und Softwareverfahren zu evaluieren und kritisch anzuwenden.
+  content: |
+    Es werden lineare und nichtlineare Regression (logistische Regression) und
+    deren Anwendung in der Bioinformatik vermittelt. Die Studierenden befassen
+    sich mit Prädiktion und Prädiktionsfehler, Varianzanalyse und ihrer
+    Interpretation, Methoden des statistischen Lernens, Clustering und
+    Klassifikationsalgorithmen in der Bioinformatik, Diskriminanzanalyse,
+    Hauptkomponentenanalyse (PCA). Sie wenden diese in der Bioinformatik an, z.
+    B. zur Genvorhersage, Phylogenie oder Genexpressionsanalyse.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Schriftliche Übungsaufgaben, Analyse von einfachen Datensätzen
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: |
+        Schriftliche Übungsaufgaben, Analyse von einfachen Datensätzen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 60
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Mathematik/Statistik
+- page: 15
+  name: Allgemeine Chemie
+  organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Chemie
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen hinreichende Kenntnisse über Grundlagen der
+    Chemie, über biologisch relevante bzw. medizinrelevante Fragestellungen der
+    Chemie. Sie beherrschen grundlegende Gesetzmäßigkeiten und sind mit der
+    chemischen Terminologie und der chemischen Formelsprache vertraut. Sie
+    verstehen die Bedeutung chemischer Zusammenhänge in Organismen und folglich
+    in Biologie und Medizin und beherrschen einfache chemische Labortechniken
+    und -regeln.
+  content: |
+    Im Bereich Anorganische und Allgemeine Chemie werden Atombau, Periodensystem
+    der Elemente, medizinrelevante bzw. biologisch relevante Elemente, chemische
+    Bindung (Theorien, Grenztypen, Strukturaussagen), Zustandsformen der
+    Materie, Materie in Wechselwirkung mit thermischer, elektrischer und
+    Strahlungsenergie, chemische Reaktionen und chemisches Gleichgewicht
+    (Massenwirkungsgesetz), Säuren und Basen/Puffersysteme, Salze (Ionen,
+    Löslichkeitsprodukt, Fällungsreaktionen), Redoxvorgänge (Oxidation und
+    Reduktion), Gleichgewichte in Mehrphasensystemen (heterogene
+    Gleichgewichte), Energetik (Grundlagen der Thermodynamik) und Kinetik
+    chemischer Reaktionen, Metallkomplexe behandelt. In der Organischen Chemie
+    befassen sich die Studierenden mit Aufbau und Reaktionstypen organischer
+    Verbindungen, Strukturformeln und Nomenklatur, Kohlenwasserstoffen
+    (Aliphaten und Carbocyclen, Aromaten), Heterocyclen, funktionellen Gruppen
+    (Amine, Alkohole, Aldehyde und Ketone, Carbonsäuren und
+    Carbonsäurederivate), Raumstruktur organischer Moleküle und Stereoisomerie.
+    Es werden Aminosäuren/Peptide/Proteine, Saccharide (Kohlenhydrate), Lipide
+    als Naturstoffe vermittelt. Die Studierenden üben die Durchführung und
+    kritische Beurteilung einfacher chemischer Experimente, chemische
+    Arbeitstechniken (Titration, pH-Messung, Stofftrennung), sie besuchen
+    Übungen zum chemischen Verhalten der vorgestellten Substanzklassen und zu
+    analytischen Nachweisreaktionen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 4
+      attendance: recommended
+      activity: |
+        Übungsaufgaben, praktische Laborarbeit, schriftlicher Test
+    - type: Sicherheitsrelevan- tes Praktikum
+      swstime: 2
+      attendance: 'TODO: Vorlesung: Teilnahme wird empfohlen, Praktikum: Ja:: Sicherheitsrelevan-
+        tes Praktikum: Ja'
+      activity: |
+        Übungsaufgaben, praktische Laborarbeit, schriftlicher Test
+  workload:
+    - type: Präsenzzeit V
+      time: 60
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit sP
+      time: 30
+    - type: Vor- und Nachbereitung sP
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 45
+  exam: |
+    Praktische Prüfung (Darstellung theoretischer Hintergründe,
+    Versuchsergebnis, Protokollbuch und schriftliche Ausarbeitung)
+  language: Deutsch
+  total_work: 210
+  credit_points: 7
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 16
+  name: Allgemeine Biologie
+  organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biologie
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden besitzen einen Überblick über die Pflanzenzelle, Kenntnisse
+    über die Pflanzenmorphologie und grundsätzliche pflanzliche
+    Entwicklungsvorgänge, physiologische Prozesse und Diversität im
+    Pflanzenreich. Sie haben einen Überblick über das Tierreich. Sie kennen die
+    wesentlichen Organisationsformen im Tierreich und ihre phylogenetischen
+    Beziehungen.
+  content: |
+    Es werden Bau der Pflanzenzelle, Grundlagen des Stoff- und
+    Energiestoffwechsels, pflanzliche Transport- und Entwicklungsprozesse,
+    Struktur- und Funktionszusammenhänge bei Samenpflanzen, Merkmale, Baupläne
+    und Zusammenhänge der wichtigsten Taxa des Pflanzenreichs, Biodiversität im
+    Pflanzenreich vermittelt. Zudem werden die Evolution als historischer
+    Prozess, Diversität und Systematik der wichtigsten Tiergruppen und ihrer
+    Merkmale, grundlegende Baupläne und Funktionen erläutert.
+  teachingunit:
+    - type: Vorlesung A
+      swstime: 2
+      attendance: required
+      activity: |
+        Test oder Befragung ggf. elektronischer Formate
+    - type: Vorlesung B
+      swstime: 2
+      attendance: required
+      activity: |
+        Test oder Befragung ggf. elektronischer Formate
+  workload:
+    - type: Präsenzzeit V-A
+      time: 30
+    - type: Vor- und Nachbereitung V-A
+      time: 45
+    - type: Präsenzzeit V-A
+      time: 30
+    - type: Vor- und Nachbereitung V-A
+      time: 45
+  exam: |
+    Keine
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 17
+  name: Molekularbiologie und Biochemie I
+  organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biochemie
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen die Entstehung und molekulare Struktur der
+    wichtigsten zellulären Makromoleküle und Stoffklassen sowie ihren
+    biologischen Kontext. Der Schwerpunkt liegt hierbei auf einem chemischen
+    Grundverständnis des molekularen Aufbaus von Biomolekülen in einem Umfang,
+    wie es für bioinformatische Ansätze erforderlich ist.
+  content: |
+    Es werden chemische und zellbiologische Grundlagen, Nukleinsäuren
+    (Bausteine, Struktur von DNA und RNA), Replikation, Transkription,
+    Proteinbiosynthese, Regulation der Genexpression und gentechnologische
+    Methoden behandelt. Die Studierenden befassen sich mit Proteinen,
+    Aminosäuren und Peptiden, Proteinstruktur und Proteinfaltung, Proteom,
+    posttranslationalen Modifikationen, Methoden der Proteinforschung sowie
+    Konzepten und Kinetik von Enzymen. Gegenstand des Studiums sind auch
+    Kohlenhydrate, Lipide und Biomembranen. Ferner wird in den Stoffwechsel und
+    die Stoffwechselregulation eingeführt.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Schriftliche Übungsaufgaben; erfolgreiche Teilnahme an schriftlichen Lernerfolgskontrollen
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: |
+        Schriftliche Übungsaufgaben; erfolgreiche Teilnahme an schriftlichen Lernerfolgskontrollen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 45
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 18
+  name: Molekularbiologie und Biochemie II
+  organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biochemie
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Molekularbiologie und Biochemie I“
+  goals: |
+    Die Studierenden haben ein Grundlagenverständnis im Bereich des
+    Zusammenwirkens anatomischer, zellbiologischer und biochemischer Prinzipien
+    der Genexpression und des Energiestoffwechsels in Säugetieren. Sie kennen
+    die Regulation der Genexpression auf den Ebenen von Chromatinstruktur,
+    Transkription, Prozessierung und Modifzierung in Säugetieren sowie die
+    Zell-Morphologie, -Mobilität und -Adhäsion in Organstrukturen von
+    Säugetieren.
+  content: |
+    Es werden Strukturprinzipien in Nukleinsäuren und Proteinen, Chaperone und
+    Ausbildung biologisch korrekter Protein-Strukturen, Prinzipien der
+    Struktur-Vorhersage, Genom-Komponenten und quantitative Zusammensetzung,
+    Remodellierung von Chromatin zu transkribierbaren und
+    nicht-transkribierbaren Konformationen, epigenetischer Histon-Code,
+    CG-Inseln und DNA-Methylierung und modularer Aufbau der Promotoren
+    vermittelt. Im Bereich Proteine befassen sich die Studierenden mit
+    DNA-Wechselwirkungen und deren Strukturdomänen bei der qualitativen und
+    quantitativen Steuerung der Transkription, snRNP und RNA-Prozessierung,
+    selbstspleißenden Introns, RNA- Editierung, Kern-Cytoplasma,
+    Cyotoplasma-Kern Transport, anatomischen, zellbiologischen und biochemischen
+    Prinzipien zur Gewinnung chemischer Reaktionsenergie, Protein-Abbau und
+    Autophagie und Cytoskelett, Zellmotilität und Zelladhäsion.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: |
+        Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 35
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 40
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 45
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 19
+  name: Molekularbiologie und Biochemie III
+  organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biochemie
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Molekularbiologie und Biochemie I“
+  goals: |
+    Die Studierenden können ihr Grundlagenverständnis in den Zusammenhang
+    komplexer biologischer Systeme stellen. Sie besitzen ein Verständnis der
+    rezeptorvermittelten Signaltransduktion und der Regulation von Zellzyklus
+    und Zelltod, der molekularbiologischen und zellbiologischen Eigenschaften
+    von metastasierenden Tumorzellen und der Wechselwirkungen von Pathogenen,
+    Wirtszellen und Immunsystem, sowie der Prinzipien der DNA-Medizin.
+  content: |
+    Es werden Wachstumsfaktoren, Rezeptoren und Signaltransduktion zur
+    Regulation von Zellzyklus und Zelltod, Grundlagen der Immunologie wie
+    angeborene, erworbene Immunabwehr und Antigen-präsentierende Zellen sowie
+    Effektorzellen behandelt. Die Studierenden befassen sich mit PAMP- und
+    DAMP-Konzepten der Antigen-Prozessierung bei Infektion und Tumor-Bekämpfung
+    sowie DNA-Medizin und Gentherapie.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+    - type: Übung
+      swstime: 2
+      attendance: required
+      activity: |
+        Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 35
+    - type: Präsenzzeit Ü
+      time: 30
+    - type: Vor- und Nachbereitung Ü
+      time: 40
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 45
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 180
+  credit_points: 6
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 20
+  name: Genetik und Genomforschung
+  organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biologie
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Erfolgreiche Absolvierung des Moduls „Molekularbiologie und Biochemie II“
+  goals: |
+    Die Studierenden haben ein Verständnis der Grundlagen von Genetik und
+    Genomforschung als wichtige Tätigkeitsfelder der Bioinformatik.
+  content: |
+    Es werden Aufbau, Inhalt und Organisation des Genoms, Genomprojekte von
+    Menschen und Modellorganismen, Chromosomen, Trisomien und
+    Chromosomenaberrationen, Replikation und Zellteilung, monogene und komplexe
+    Krankheiten, Pathomechanismen erblicher Erkrankungen, Populationsgenetik,
+    Phylogenetik, Genomevolution, Transkriptome und Regulation der Transkription
+    vermittelt. Die Studierenden befassen sich mit Transkriptionsfaktoren,
+    nicht-kodierenden RNAs, Epigenetik, mono-allelischer Expression,
+    Geschlechtsbestimmung, biologischen Netzwerken und Modellorganismen.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 2
+      attendance: recommended
+      activity: |
+        Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+    - type: Übung
+      swstime: 1
+      attendance: required
+      activity: |
+        Praktische Übungen, Protokolle, Teilnahme an schriftlichen Lernerfolgskontrollen
+  workload:
+    - type: Präsenzzeit V
+      time: 30
+    - type: Vor- und Nachbereitung V
+      time: 30
+    - type: Präsenzzeit Ü
+      time: 15
+    - type: Vor- und Nachbereitung Ü
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 21
+  name: Medizinische Physiologie
+  organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen und verstehen die Grundlagen physiologischer
+    Untersuchungsmethoden (Datentypen, -akquise, -preprocessing), die
+    Funktionsprinzipien biologischer Regelsysteme, der (neuro)vegetativen
+    Regulationen von Kreislauf, Atmung, Muskelfunktion, Energie-/Leistungs-/und
+    Wärmehaushalt sowie Herz- und Nierenfunktion.
+  content: |
+    Es werden Grundlagen biologischer Regelsysteme sowie der Regulation
+    vegetativer Organsysteme durch das vegetative Nervensystem vermittelt. Dazu
+    gehören im Bereich Herz die Grundlagen der Erregungsphysiologie am Herzen
+    (Ruhemembranpotential, Aktionspotential, Erregungsausbreitung), kausale
+    Zusammenhänge elektrischer und mechanischer Vorgänge am Herzen und klinische
+    Untersuchungsmethoden. Im Bereich Blutkreislauf befassen sich die
+    Studierenden mit physikalischen und biologischen Prinzipien
+    (Druck/Strömung/Widerstand), Kreislaufregulation und Stoffaustausch. Die
+    Prinzipien von Ventilation und Gasaustausch in der Lunge sowie Regulation
+    der Atmung werden vermittelt. Die Studierenden befassen sich mit
+    Muskelphysiologie (Struktur und Funktion der Skelettmuskulatur, Ablauf der
+    Muskelkontraktion), dem Wärmehaushalt inklusive Produktion, Transport und
+    Abgabe von Wärme, Thermoregulation und Leistungsphysiologie sowie der
+    Nierenfunktion und Regulation von Plasmavolumen und -osmolarität.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 1.5
+      attendance: recommended
+      activity: |
+        Diskussionsbeiträge, Referat
+        Praktische Übungen
+    - type: Seminar
+      swstime: 2
+      attendance: required
+      activity: |
+        Diskussionsbeiträge, Referat
+        Praktische Übungen
+    - type: Praktikum
+      swstime: 2
+      attendance: required
+      activity: |
+        Diskussionsbeiträge, Referat
+        Praktische Übungen
+  workload:
+    - type: Präsenzzeit V
+      time: 23
+    - type: Vor- und Nachbereitung V
+      time: 23
+    - type: Präsenzzeit S
+      time: 30
+    - type: Vor- und Nachbereitung S
+      time: 37
+    - type: Präsenzzeit P
+      time: 30
+    - type: Vor- und Nachbereitung P
+      time: 37
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 210
+  credit_points: 7
+  duration: Ein Semester
+  repeat: Jedes Sommersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 22
+  name: Neurobiologie
+  organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biologie
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden kennen und verstehen grundlegend die Bildung und
+    Ausbreitung neuronaler Erregung, die Funktion von Sinnesorganen und
+    motorischer Systeme und die Funktionsweise und Modellierung biologischer
+    neuronaler Netze.
+  content: |
+    Die Studierenden befassen sich mit der experimentellen und theoretischen
+    Bearbeitung der neurobiologischen Lernziele und der Protokollierung der
+    eigenen Experimente einschließlich statistischer Bearbeitung. Vermittelt
+    werden die molekularen und zellulären Grundlagen der Erregungsbildung in
+    Sinneszellen und Neuronen, der Ausbreitung über Dendriten und Axone und der
+    Weiterleitung über Synapsen. Die Studierenden kennen die Grundlagen der
+    Psychophysik und der Verhaltenssteuerung, die Mechanismen des Lernens und
+    der Gedächtnisbildung und die Modellierung einfacher neuronaler
+    Schaltkreise.
+  teachingunit:
+    - type: Vorlesung
+      swstime: 1.5
+      attendance: recommended
+      activity: |
+        Praktische Laborarbeit, Protokolle
+    - type: Praktikum
+      swstime: 2
+      attendance: required
+      activity: |
+        Praktische Laborarbeit, Protokolle
+  workload:
+    - type: Präsenzzeit V
+      time: 23
+    - type: Vor- und Nachbereitung V
+      time: 27
+    - type: Präsenzzeit P
+      time: 30
+    - type: Vor- und Nachbereitung P
+      time: 40
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Klausur (90 Minuten)
+  language: Deutsch
+  total_work: 150
+  credit_points: 5
+  duration: Ein Semester
+  repeat: Jedes Wintersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: true
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich Biologie/Chemie/Biochemie
+- page: 23
+  name: Projektmanagement im Softwarebereich
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
+  responsible: Dozent*innen des Moduls
+  requirements: |
+    Keine
+  goals: |
+    Die Studierenden haben allgemeine Kenntnisse über die Anwendung von Software
+    im beruflichen Alltag mit größeren Nutzergruppen, insbesondere praktische
+    Erfahrungen mit typischen Problemen mit Software aus dem weiteren Umfeld der
+    Bioinformatik und mit Lösungsansätzen zu deren Überwindung. Sie können die
+    Arbeit in einer Projektgruppe selbstständig organisieren und berücksichtigen
+    dabei Gender- und Diversity-Aspekte.
+  content: |
+    Es wird die Verwendung von für den zu erwartenden Berufsalltag typischer
+    Software für ein typisches Projekt vermittelt. Die Studierenden befassen
+    sich mit Auswahl passender Software aus einer vorgegebenen Kollektion bzw.
+    Anpassung oder Entwicklung fehlender Softwaremodule. Sie erarbeiten
+    Lösungsstrategien im Team und versuchen eine Lösungsumsetzung mittels der
+    zusammengestellten Software. Sie dokumentieren die Ergebnisse und stellen
+    die Projektergebnisse in einem Vortrag dar.
+  teachingunit:
+    - type: Praxisseminar
+      swstime: 4
+      attendance: required
+      activity: |
+        Praktische Übungen mit Software, Vorlage einer schriftlichen Dokumentation
+        Diskussionsbeiträge
+    - type: Seminar
+      swstime: 1
+      attendance: required
+      activity: |
+        Praktische Übungen mit Software, Vorlage einer schriftlichen Dokumentation
+        Diskussionsbeiträge
+  workload:
+    - type: Präsenzzeit PS
+      time: 60
+    - type: Vor – und Nachbereitung PS
+      time: 150
+    - type: Präsenzzeit S
+      time: 15
+    - type: Vor- und Nachbereitung S
+      time: 45
+    - type: Prüfungsvorbereitung und Prüfung
+      time: 30
+  exam: |
+    Referat mit Diskussion (ca. 40 Minuten)
+  language: Deutsch
+  total_work: 300
+  credit_points: 10
+  duration: Ein Semester (als Blockveranstaltung zu Beginn des Semesters)
+  repeat: Jedes Sommersemester
+  usability: |
+    Bachelorstudiengang Bioinformatik
+  differentiated: false
+  tags:
+    - Pflichtbereich
+    - Studienbereich
+    - Studienbereich AllgemeineBerufsvorbereitung
