@@ -51,7 +51,7 @@
   repeat: Jedes Wintersemester
   usability: |
     Masterstudiengang Data Science
-  differentiated: true
+  differentiated: false
   tags:
     - Grundlagenbereich
 - page: 12
@@ -211,7 +211,7 @@
   repeat: Jedes Wintersemester
   usability: |
     Masterstudiengang Data Science
-  differentiated: true
+  differentiated: false
   tags:
     - Grundlagenbereich
 - page: 15
@@ -257,7 +257,7 @@
   repeat: Jedes Wintersemester
   usability: |
     Masterstudiengang Data Science
-  differentiated: true
+  differentiated: false
   tags:
     - Profilbereich
 - page: 16
@@ -294,7 +294,7 @@
   repeat: Jedes Semester
   usability: |
     Masterstudiengang Data Science
-  differentiated: true
+  differentiated: false
   tags:
     - Profilbereich
 - page: 17

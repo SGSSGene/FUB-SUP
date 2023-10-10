@@ -1827,7 +1827,7 @@
   usability: |
     Bachelorstudiengang Mathematik; Bachelorstudiengang Informatik;
     Studienbereich ABV (Kompetenzbereich Fachnahe Zusatzqualifikationen)
-  differentiated: true
+  differentiated: false
   tags:
     - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“
 - page: 37
@@ -1884,6 +1884,6 @@
   repeat: Jeweils nach dem Sommersemester
   usability: |
     Bachelorstudiengang Mathematik; Studienbereich ABV
-  differentiated: true
+  differentiated: false
   tags:
     - Allgemeine Berufsvorbereitung – Kompetenzbereich „Fachnahe Zusatzqualifikationen“

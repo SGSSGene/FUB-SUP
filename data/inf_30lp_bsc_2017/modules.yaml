@@ -184,7 +184,7 @@
   repeat: Blockveranstaltung nach der Vorlesungszeit Jedes Wintersemesters
   usability: |
     30-LP-Modulangebot Informatik
-  differentiated: true
+  differentiated: false
   modification:
     - |
       Unklare Situtation: hat dieses Modul ein Seminar oder eine Übung? Es wurde alles auf Seminar geändert, so entspricht es der inf_bsc_2014 Ordnung.

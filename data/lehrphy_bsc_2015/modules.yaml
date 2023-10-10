@@ -283,7 +283,7 @@
   repeat: Jedes Semester
   usability: |
     Physik, Bachelorstudiengang Meteorologie
-  differentiated: true
+  differentiated: false
 - page: 14
   name: Physikalisches Grundpraktikum 2
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik
@@ -325,7 +325,7 @@
   repeat: Jedes Semester
   usability: |
     Physik, Bachelorstudiengang Meteorologie
-  differentiated: true
+  differentiated: false
 - page: 15
   name: Demonstrationspraktikum 1
   organizer: Freie Universität Berlin/Physik/Institut für Experimentalphysik

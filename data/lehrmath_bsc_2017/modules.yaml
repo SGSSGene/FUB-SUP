@@ -355,7 +355,7 @@
       time: 60
     - type: Prüfungsvorbereitung und Prüfung
       time: 60
-  exam: |2+
+  exam: ""
   language: Deutsch
   total_work: 150
   credit_points: 5

@@ -54,7 +54,7 @@
   repeat: Jedes Wintersemester
   usability: |
     Bachelorstudiengang Physik
-  differentiated: true
+  differentiated: false
   tags:
     - Kernfach
     - Pflichtbereich
@@ -812,7 +812,7 @@
   usability: |
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Kompetenzbereich Fachnahe Zusatzqualifikationen)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
@@ -915,7 +915,7 @@
   usability: |
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Berufspraktikum
@@ -973,7 +973,7 @@
   usability: |
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Berufspraktikum
@@ -1031,7 +1031,7 @@
   usability: |
     Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
     (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Berufspraktikum

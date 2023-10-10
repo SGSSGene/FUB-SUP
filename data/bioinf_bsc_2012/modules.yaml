@@ -551,7 +551,7 @@
   repeat: Jedes Wintersemester
   usability: |
     Bachelorstudiengang Bioinformatik
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
