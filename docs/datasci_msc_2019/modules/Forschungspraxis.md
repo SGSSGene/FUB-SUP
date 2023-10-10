@@ -62,7 +62,7 @@ Praktikumsbericht und Abschlussvortrag Betreuungsgespräch
 
 
 </td></tr>
-<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
 
 </td></tr>
 <tr markdown><td colspan="2">**Modulsprache**             <br>Englisch</td></tr>

@@ -77,7 +77,7 @@ Präsentation der eig. Arbeiten und Ergebnisse zum Thema der jeweiligen Hausaufg
 
 
 </td></tr>
-<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>differenzierte Bewertung
+<tr markdown><td colspan="2">**Differenzierte Bewertung** <br>nicht differenzierte Bewertung
 
 </td></tr>
 <tr markdown><td colspan="2">**Modulsprache**             <br>Deutsch</td></tr>
