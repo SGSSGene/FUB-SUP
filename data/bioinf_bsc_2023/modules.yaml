@@ -290,7 +290,7 @@
   repeat: Jedes Wintersemester
   usability: |
     Bachelorstudiengang Bioinformatik
-  differentiated: true
+  differentiated: false
   tags:
     - Pflichtbereich
     - Studienbereich
@@ -565,7 +565,7 @@
   repeat: Jedes Wintersemester
   usability: |
     Bachelorstudiengang Bioinformatik
-  differentiated: true
+  differentiated: false
   tags:
     - Pflichtbereich
     - Studienbereich

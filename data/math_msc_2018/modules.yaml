@@ -2488,7 +2488,7 @@
   repeat: Jedes Semester
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
-  differentiated: true
+  differentiated: false
   tags:
     - Ergänzungsmodul
     - gemäß § 7 Abs. 7
@@ -2531,7 +2531,7 @@
   repeat: Jedes Semester
   usability: |
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
-  differentiated: true
+  differentiated: false
   modification:
     - The name of this module is actually 'What is …?'...but this breaks currently so many things
   tags:

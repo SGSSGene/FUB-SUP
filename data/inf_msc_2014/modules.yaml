@@ -1293,7 +1293,7 @@
   repeat: Zweijährlich im Wintersemester
   usability: |
     Masterstudiengang Informatik
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Praktische Informatik
 - page: 127

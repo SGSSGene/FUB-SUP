@@ -177,7 +177,7 @@
   usability: |
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikationen)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
@@ -236,7 +236,7 @@
   usability: |
     Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
     Lehramt
-  differentiated: true
+  differentiated: false
   tags:
     - Pflichtbereich
     - Themengebiet Praktische Informatik
@@ -350,7 +350,7 @@
   usability: |
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikation)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Berufsbezogenes Praktikum Informatik
@@ -1278,7 +1278,7 @@
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
     (Fachnahe Zusatzqualifikationen)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
@@ -1422,7 +1422,7 @@
     Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
     (Fachnahe Zusatzqualifikationen); Masterstudiengang Informatik: Praktische
     Informatik
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
@@ -1484,7 +1484,7 @@
     Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe
     Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
     (Fachnahe Zusatzqualifikationen)
-  differentiated: true
+  differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen

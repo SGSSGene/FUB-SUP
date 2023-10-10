@@ -4479,7 +4479,7 @@
   usability: |
     Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Kommunikative
     Kompetenzen)
-  differentiated: true
+  differentiated: false
 - page: 76
   name: Zentrale soziale Kategorien im 21. Jahrhundert
   organizer: Freie Universität Berlin/Zentraleinrichtung zur Förderung von Frauen-
@@ -5442,7 +5442,7 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Kommunikative
     Kompetenzen)
-  differentiated: true
+  differentiated: false
 - page: 6
   name: Gruppenleitung in Lehr-Lern-Kontexten
   organizer: Freie Universität Berlin/ Career Service Berlin
@@ -5506,7 +5506,7 @@
   usability: |
     Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Kommunikative
     Kompetenzen)
-  differentiated: true
+  differentiated: false
 - page: 92
   name: Nachhaltigkeit managen
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -5590,7 +5590,7 @@
   repeat: Mindestens einmal im Studienjahr
   usability: |
     Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
-  differentiated: true
+  differentiated: false
 - page: 94
   name: Nachhaltigkeit kommunizieren
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -5682,7 +5682,7 @@
   repeat: Mindestens einmal im Studienjahr
   usability: |
     Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
-  differentiated: true
+  differentiated: false
 - page: 96
   name: Nachhaltigkeit erforschen
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -5771,7 +5771,7 @@
   repeat: Mindestens einmal im Studienjahr
   usability: |
     Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
-  differentiated: true
+  differentiated: false
 - page: 98
   name: Nachhaltigkeit konkret gestalten
   organizer: Freie Universität Berlin/Stabsstelle Nachhaltigkeit & Energie
@@ -5868,7 +5868,7 @@
   repeat: Mindestens jeweils im Sommersemester
   usability: |
     Studienbereich ABV (Kompetenzbereich „Nachhaltige Entwicklung“)
-  differentiated: true
+  differentiated: false
 - page: 100
   name: Wissenschaft und Gesellschaft
   organizer: Freie Universität Berlin/Fachbereich Erziehungswissenschaft und Psychologie/Fachbereich
@@ -5934,7 +5934,7 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich
     Forschungsorientierung)
-  differentiated: true
+  differentiated: false
 - page: 7
   name: Forschungsarbeit A
   organizer: Freie Universität Berlin/
@@ -5985,7 +5985,7 @@
   usability: |
     Bachelorstudiengang Studienbereich ABV (Kompetenzbereich
     Forschungsorientierung)
-  differentiated: true
+  differentiated: false
 - page: 8
   name: Forschungsarbeit B
   organizer: Freie Universität Berlin/
@@ -6040,7 +6040,7 @@
     FU-Mitteilungen (Amtsblatt der Freien Universität Berlin) in Kraft.
     Verwendbarkeit: Bachelorstudiengang Studienbereich ABV (Kompetenzbereich
     Forschungsorientierung)
-  differentiated: true
+  differentiated: false
 - page: 9
   name: Medienpraxis
   organizer: Freie Universität Berlin/Philosophie und Geisteswissenschaften/Theaterwissenschaft/Tanz
@@ -6097,7 +6097,7 @@
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Medienpraxis:
     Planung und realisierung von TV- und Online-Formaten)
-  differentiated: true
+  differentiated: false
   tags:
     - Kompetenzbereich Medienpraxis: Planung und Realisierung von TV- und Online-Formaten
 - page: 101
@@ -6157,7 +6157,7 @@
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Berufspraktikum
 - page: 102
@@ -6217,7 +6217,7 @@
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Berufspraktikum
 - page: 103
@@ -6277,7 +6277,7 @@
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Berufspraktikum
 - page: 104
@@ -6338,7 +6338,7 @@
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Berufspraktikum
 - page: 105
@@ -6400,7 +6400,7 @@
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Berufspraktikum
 - page: 106
@@ -6463,6 +6463,6 @@
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
-  differentiated: true
+  differentiated: false
   tags:
     - Berufspraktikum

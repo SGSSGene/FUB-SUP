@@ -52,7 +52,7 @@
   repeat: Jedes Semester
   usability: |
     Masterstudiengang Physik
-  differentiated: true
+  differentiated: false
   tags:
     - Pflichtbereich
 - page: 11
@@ -95,7 +95,7 @@
   repeat: Jedes Semester
   usability: |
     Masterstudiengang Physik
-  differentiated: true
+  differentiated: false
   tags:
     - Pflichtbereich
 - page: 12
@@ -1660,6 +1660,6 @@
   repeat: Jedes Semester
   usability: |
     Masterstudiengang Physik
-  differentiated: true
+  differentiated: false
   tags:
     - Wahlbereich

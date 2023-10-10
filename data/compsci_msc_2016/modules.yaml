@@ -1262,7 +1262,7 @@
   repeat: Mindestens einmal im Studienjahr
   usability: |
     Masterstudiengang Computational Sciences
-  differentiated: true
+  differentiated: false
   tags:
     - Fachliche Angebote
     - Meterologie
@@ -1319,7 +1319,7 @@
   repeat: Mindestens einmal im Studienjahr
   usability: |
     Masterstudiengang Computational Sciences
-  differentiated: true
+  differentiated: false
   tags:
     - Fachliche Angebote
     - Meterologie
@@ -1533,7 +1533,7 @@
   repeat: Mindestens einmal im Studienjahr
   usability: |
     Masterstudiengang Computational Sciences
-  differentiated: true
+  differentiated: false
   tags:
     - Fachliche Angebote
     - Physik

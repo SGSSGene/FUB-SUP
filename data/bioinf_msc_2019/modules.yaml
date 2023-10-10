@@ -447,7 +447,7 @@
   repeat: Jedes Sommersemester
   usability: |
     Masterstudiengang Bioinformatik
-  differentiated: true
+  differentiated: false
   tags:
     - Profilstudium mit der Ausrichtung Complex Systems
 - page: 18
@@ -485,7 +485,7 @@
   repeat: Jedes Semester
   usability: |
     Masterstudiengang Bioinformatik
-  differentiated: true
+  differentiated: false
   tags:
     - Profilstudium mit der Ausrichtung Complex Systems
 - page: 20
