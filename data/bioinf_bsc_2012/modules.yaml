@@ -314,6 +314,18 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Mathematik und Statistik
+- page: 10
+  name: Computerorientierte Mathematik I
+  link: math_bsc_2013
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Mathematik und Statistik
+- page: 10
+  name: Computerorientierte Mathematik II
+  link: math_bsc_2013
+  tags:
+    - Studienbereiche im Pflichtbereich des Kernfaches
+    - Studienbereich Mathematik und Statistik
 - page: 11
   name: Statistik für Biowissenschaften I
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin

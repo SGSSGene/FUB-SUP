@@ -8,7 +8,7 @@ tags:
 # Allgemeine Chemie
 
 [« Allgemeine Biologie](Allgemeine Biologie.md){class=prev}
-[Genetik und Genomforschung »](Genetik und Genomforschung.md){class=next}
+[Computerorientierte Mathematik I »](Computerorientierte Mathematik I.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">

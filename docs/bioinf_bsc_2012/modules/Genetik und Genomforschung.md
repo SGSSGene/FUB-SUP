@@ -7,7 +7,7 @@ tags:
 
 # Genetik und Genomforschung
 
-[« Allgemeine Chemie](Allgemeine Chemie.md){class=prev}
+[« Computerorientierte Mathematik II](Computerorientierte Mathematik II.md){class=prev}
 [Informatik A »](Informatik A.md){class=next}
 {class=prev-next-nav}
 
