@@ -33,9 +33,9 @@ Keine
 Die Studierenden verstehen den Unterschied zwischen Verfügungswissen und
 Orientierungswissen und unterscheiden beim Nachdenken über Informatiksysteme
 zwischen technischen Fragestellungen, Technikfolgenabschätzung und
-Technikfolgenbewertung. Sie nehmen6 die Verantwortungsaspekte der
+Technikfolgenbewertung. Sie nehmen die Verantwortungsaspekte der
 Ingenieurtätigkeit an und gestalten Technik und ihren Wandel
-verantwortungsbewusst mit5. Sie verstehen einige Aspekte der
+verantwortungsbewusst mit. Sie verstehen einige Aspekte der
 Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B.
 Sicherheit, Schutz der Privatsphäre, Künstliche Intelligenz und können
 Bezüge zum gesellschaftlichen Wandel herstellen und anhand ihrer
@@ -98,6 +98,12 @@ Lehramt, Einführungs- und Orientierungsstudium,
 Masterstudiengang für das Lehramt an Integrierten Sekundarschulen und
 Gymnasien mit dem Profil Quereinstieg
 
+
+</td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- `Sie nehmen{--6--} die Verantwortungsaspekte der Ingenieurtätigkeit an und gestalten Technik und ihren Wandel verantwortungsbewusst mit{--5--}.`
 
 </td></tr>
 

@@ -84,5 +84,11 @@ Bachelorstudiengang Informatik
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Zellenbezeichnung vereinheitlicht: `Hochschule/Fachbereich/{--Institut--}{++Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
+
+</td></tr>
 
 </table>

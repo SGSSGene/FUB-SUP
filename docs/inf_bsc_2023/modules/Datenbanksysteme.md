@@ -110,5 +110,11 @@ Wirtschaftsinformatik
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Suspicious: "Formen aktiver Teilnahme" ist nur für die Übung annotiert
+
+</td></tr>
 
 </table>

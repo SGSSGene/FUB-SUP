@@ -106,5 +106,11 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Fehlendes Leerzeichen: `Moderation einer Übung oder eines Teils davon.{++ ++}Bearbeiten von Übungsaufgaben.`
+
+</td></tr>
 
 </table>

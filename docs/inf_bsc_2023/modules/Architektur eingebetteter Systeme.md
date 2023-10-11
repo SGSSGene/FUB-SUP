@@ -109,5 +109,11 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Hinzufügen von Satzzeichen, für bessere Lesbarkeit: `Moderation einer Übung oder eines Teils davon{++;++} Bearbeiten von Übungsaufgaben{++.++}`
+
+</td></tr>
 
 </table>

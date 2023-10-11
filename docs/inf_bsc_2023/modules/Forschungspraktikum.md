@@ -94,5 +94,11 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Anpassung der Zugangsvorraussetzungen Textes: `Zugangsvoraussetzungen: {--Erfolgreiche Absolvierung des Moduls „--}Wissenschaftliches Arbeiten in der Informatik{--“--}`
+
+</td></tr>
 
 </table>

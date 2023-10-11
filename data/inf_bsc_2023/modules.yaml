@@ -266,6 +266,8 @@
   differentiated: true
   tags:
     - Wahlpflichtbereich
+  modification:
+  - "Bindestrich entfernt: `Kommentierung der Vorträge der Mit{-----}studierenden.`"
 - page: 40
   name: Arbeits- und Lebensmethodik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -391,6 +393,8 @@
   differentiated: true
   tags:
     - Wahlpflichtbereich
+  modification:
+    - "Hinzufügen von Satzzeichen, für bessere Lesbarkeit: `Moderation einer Übung oder eines Teils davon{++;++} Bearbeiten von Übungsaufgaben{++.++}`"
 - page: 12
   name: Auswirkungen der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -401,9 +405,9 @@
     Die Studierenden verstehen den Unterschied zwischen Verfügungswissen und
     Orientierungswissen und unterscheiden beim Nachdenken über Informatiksysteme
     zwischen technischen Fragestellungen, Technikfolgenabschätzung und
-    Technikfolgenbewertung. Sie nehmen6 die Verantwortungsaspekte der
+    Technikfolgenbewertung. Sie nehmen die Verantwortungsaspekte der
     Ingenieurtätigkeit an und gestalten Technik und ihren Wandel
-    verantwortungsbewusst mit5. Sie verstehen einige Aspekte der
+    verantwortungsbewusst mit. Sie verstehen einige Aspekte der
     Technikfolgenabschätzung in bestimmten Informatik-Themenbereichen wie z. B.
     Sicherheit, Schutz der Privatsphäre, Künstliche Intelligenz und können
     Bezüge zum gesellschaftlichen Wandel herstellen und anhand ihrer
@@ -456,6 +460,8 @@
   differentiated: false
   tags:
     - Pflichtbereich
+  modification:
+    - "`Sie nehmen{--6--} die Verantwortungsaspekte der Ingenieurtätigkeit an und gestalten Technik und ihren Wandel verantwortungsbewusst mit{--5--}.`"
 - page: 45
   name: Berufsbezogenes Praktikum Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -510,6 +516,8 @@
   differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
+  modification:
+    - "Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`"
 - page: 19
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -661,6 +669,8 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  modification:
+    - "Suspicious: \"Formen aktiver Teilnahme\" ist nur für die Übung annotiert"
 - page: 28
   name: Datenvisualisierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -862,6 +872,8 @@
   differentiated: true
   tags:
     - Wahlpflichtbereich
+  modification:
+    - "Anpassung der Zugangsvorraussetzungen Textes: `Zugangsvoraussetzungen: {--Erfolgreiche Absolvierung des Moduls „--}Wissenschaftliches Arbeiten in der Informatik{--“--}`"
 - page: 30
   name: Funktionale Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -925,6 +937,8 @@
   differentiated: true
   tags:
     - Wahlpflichtbereich
+  modification:
+    - "Überflüssiges Leerzeichen entfernt: `Hochschule/Fachbereich/Lehreinheit: Freie Universität Berlin/{-- --}Mathematik und Informatik/Informatik`"
 - page: 41
   name: Gender and Diversity
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1051,6 +1065,8 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  modification:
+    - "Qualifikationsziele angepasst: `...untersuchen{--4--} und...`"
 - page: 35
   name: Grundlagen des Datenschutzrechts
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1125,6 +1141,8 @@
   differentiated: true
   tags:
     - Wahlpflichtbereich
+  modification:
+    - "Falsche Zellenbezeichnung korrigiert: `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`"
 - page: 23
   name: Informationssicherheit
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1549,6 +1567,8 @@
   differentiated: true
   tags:
     - Wahlpflichtbereich
+  modification:
+    - "Fehlendes Leerzeichen: `Moderation einer Übung oder eines Teils davon.{++ ++}Bearbeiten von Übungsaufgaben.`"
 - page: 17
   name: Nebenläufige, parallele und verteilte Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1748,6 +1768,10 @@
   differentiated: false
   tags:
     - Wahlpflichtbereich
+  modification:
+    - "`{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`"
+    - "`{--ul--}{++Modulverantwortung++}: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen`"
+    - "`{--ul--}{++Zugangsvoraussetzungen++}: Programmierpraktikum, Softwaretechnik`"
 - page: 21
   name: Programmierpraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1794,6 +1818,8 @@
   differentiated: false
   tags:
     - Pflichtbereich
+  modification:
+    - "Zellenbezeichnung vereinheitlicht: `Hochschule/Fachbereich/{--Institut--}{++Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`"
 - page: 43
   name: Projektmanagement in agilen Umgebungen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1854,6 +1880,9 @@
   differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
+  modification:
+    - "Es ist zweimal die gleiche \"Lehr- und Lernformen\" gelistet. Diese
+       wurden zusammen gefasst, und die entsprechenden Zahlen verdoppelt."
 - page: 15
   name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2195,6 +2224,8 @@
   differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
+  modification:
+    - "Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`"
 - page: 38
   name: Vertiefte Aspekte der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2383,3 +2414,5 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  modification:
+    - "Suspicious: \"Formen aktiver Teilnahme\" ist nur für das Proseminar annotiert"

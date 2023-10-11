@@ -102,5 +102,11 @@ Lehramt
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Suspicious: "Formen aktiver Teilnahme" ist nur für das Proseminar annotiert
+
+</td></tr>
 
 </table>

@@ -98,5 +98,11 @@ Zusatzqualifikation)
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Es ist zweimal die gleiche "Lehr- und Lernformen" gelistet. Diese wurden zusammen gefasst, und die entsprechenden Zahlen verdoppelt.
+
+</td></tr>
 
 </table>

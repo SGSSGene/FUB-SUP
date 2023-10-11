@@ -89,5 +89,11 @@ Zusatzqualifikation)
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
+
+</td></tr>
 
 </table>

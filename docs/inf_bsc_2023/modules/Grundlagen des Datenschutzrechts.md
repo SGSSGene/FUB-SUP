@@ -108,5 +108,11 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Falsche Zellenbezeichnung korrigiert: `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
+
+</td></tr>
 
 </table>

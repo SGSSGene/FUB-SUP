@@ -17,15 +17,14 @@ for i in $(seq 0 $ct); do
     export YQ_MODULE_IDX=$i
     echo -n "id: $i; "
     name=$(yq -r 'sort_by(.name) | .[env.YQ_MODULE_IDX | tonumber].name' ${input}/modules.yaml)
-#    link=$(yq -r 'sort_by(.name) | .[env.YQ_MODULE_IDX | tonumber].link' ${input}/modules.yaml)
     echo ${name}
 
-#    if [ "${link}" == "null" ]; then
-        ./scripts/createMDFromYaml.yq ${input}/modules.yaml ${linkmodules} tmp.yaml > "${output}/modules/${name}.md"
-#    else
-#        echo "  -> ${link}/${name}"
-#        nidx=$(yq -y 'sort_by(.name) | [.[].name]' data/${link}/modules.yaml | grep -n "^- ${name}$" | cut -d ':' -f 1)
-#        export YQ_MODULE_IDX=$nidx
-#        ./scripts/createMDFromYaml.yq data/${link}/modules.yaml > "${output}/modules/${name}.md"
-#    fi
+    ./scripts/createMDFromYaml.yq ${input}/modules.yaml ${linkmodules} tmp.yaml > "${output}/modules/${name}.md"
 done
+
+# generate home.md
+if [ -e ${input}/home.md.mustache ]; then
+    rm ${output}/home.md
+    yq '[.[] | if .modification == null then null else . end] | sort_by(.page)' ${input}/modules.yaml \
+        | mustache - ${input}/home.md.mustache > ${output}/home.md
+fi

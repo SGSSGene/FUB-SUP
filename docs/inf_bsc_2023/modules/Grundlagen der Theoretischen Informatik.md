@@ -104,5 +104,11 @@ Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- Qualifikationsziele angepasst: `...untersuchen{--4--} und...`
+
+</td></tr>
 
 </table>

@@ -96,5 +96,13 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 
 </td></tr>
+<tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
+
+
+- `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
+- `{--ul--}{++Modulverantwortung++}: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen`
+- `{--ul--}{++Zugangsvoraussetzungen++}: Programmierpraktikum, Softwaretechnik`
+
+</td></tr>
 
 </table>
