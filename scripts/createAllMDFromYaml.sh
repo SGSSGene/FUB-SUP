@@ -24,7 +24,37 @@ done
 
 # generate home.md
 if [ -e ${input}/home.md.mustache ]; then
-    rm ${output}/home.md
+    rm -rf ${output}/home.md
     yq '[.[] | if .modification == null then null else . end] | sort_by(.page)' ${input}/modules.yaml \
         | mustache - ${input}/home.md.mustache > ${output}/home.md
+fi
+
+# generate spo.md
+if [ -e ${input}/spo.md.mustache ]; then
+    rm -rf ${output}/spo.md
+    yq 'def merge(a; b):
+      a as $a | b as $b |
+        if ($a|type) == "object" and ($b|type) == "object" then
+            reduce ([$a,$b]|add|keys_unsorted[]) as $k (
+                {};
+                .[$k] = merge( $a[$k]; $b[$k])
+            )
+        elif ($a|type) == "array" and ($b|type) == "array" then
+            $a + $b
+        elif
+            $b == null then $a
+        else
+            $b
+        end
+    ;
+    def mergeAll:
+        . | reduce .[] as $item (
+            {};
+            merge(.; $item)
+        )
+    ;
+    { tags: [.[] | . as $e | .tags[] | {(.): [$e]}] | mergeAll | with_entries(.value = (.value | sort_by(.page))) | with_entries(.key = (.key | gsub(" ";"_"))),
+      name: [.[] | . as $e | {(.name | gsub(" ";"_")): $e}] | mergeAll
+    }' ${input}/modules.yaml \
+        | mustache - ${input}/spo.md.mustache > ${output}/spo.md
 fi

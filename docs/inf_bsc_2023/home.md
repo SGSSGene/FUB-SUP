@@ -18,43 +18,43 @@ Abweichungen sind bekannt:
     - `Modul: Aktuelle {--Forschungst--}{++T++}hemen in der Informatik] (6 LP),`
 - Seite 8: Falsche Anlagen werden referenziert:
     - `Die Studierenden erhalten ein Zeugnis und eine Urkunde (Anlagen {--2--}{++3++} und {--3--}{++4++})`
-- [Module: Auswirkungen der Informatik](../modules/Auswirkungen der Informatik), page: 12
+- [Module: Auswirkungen der Informatik](modules/Auswirkungen der Informatik.md), page: 12
     - `Sie nehmen{--6--} die Verantwortungsaspekte der Ingenieurtätigkeit an und gestalten Technik und ihren Wandel verantwortungsbewusst mit{--5--}.`
-- [Module: Grundlagen der Theoretischen Informatik](../modules/Grundlagen der Theoretischen Informatik), page: 16
+- [Module: Grundlagen der Theoretischen Informatik](modules/Grundlagen der Theoretischen Informatik.md), page: 16
     - Qualifikationsziele angepasst: `...untersuchen{--4--} und...`
-- [Module: Datenbanksysteme](../modules/Datenbanksysteme), page: 20
+- [Module: Datenbanksysteme](modules/Datenbanksysteme.md), page: 20
     - Suspicious: "Formen aktiver Teilnahme" ist nur für die Übung annotiert
-- [Module: Programmierpraktikum](../modules/Programmierpraktikum), page: 21
+- [Module: Programmierpraktikum](modules/Programmierpraktikum.md), page: 21
     - Zellenbezeichnung vereinheitlicht: `Hochschule/Fachbereich/{--Institut--}{++Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
-- [Module: Wissenschaftliches Arbeiten in der Informatik](../modules/Wissenschaftliches Arbeiten in der Informatik), page: 25
+- [Module: Wissenschaftliches Arbeiten in der Informatik](modules/Wissenschaftliches Arbeiten in der Informatik.md), page: 25
     - Suspicious: "Formen aktiver Teilnahme" ist nur für das Proseminar annotiert
-- [Module: Angewandte Biometrie](../modules/Angewandte Biometrie), page: 26
+- [Module: Angewandte Biometrie](modules/Angewandte Biometrie.md), page: 26
     - Bindestrich entfernt: `Kommentierung der Vorträge der Mit{-----}studierenden.`
-- [Module: Architektur eingebetteter Systeme](../modules/Architektur eingebetteter Systeme), page: 27
+- [Module: Architektur eingebetteter Systeme](modules/Architektur eingebetteter Systeme.md), page: 27
     - Hinzufügen von Satzzeichen, für bessere Lesbarkeit: `Moderation einer Übung oder eines Teils davon{++;++} Bearbeiten von Übungsaufgaben{++.++}`
-- [Module: Forschungspraktikum](../modules/Forschungspraktikum), page: 29
+- [Module: Forschungspraktikum](modules/Forschungspraktikum.md), page: 29
     - Anpassung der Zugangsvorraussetzungen Textes: `Zugangsvoraussetzungen: {--Erfolgreiche Absolvierung des Moduls „--}Wissenschaftliches Arbeiten in der Informatik{--“--}`
-- [Module: Funktionale Programmierung](../modules/Funktionale Programmierung), page: 30
+- [Module: Funktionale Programmierung](modules/Funktionale Programmierung.md), page: 30
     - Überflüssiges Leerzeichen entfernt: `Hochschule/Fachbereich/Lehreinheit: Freie Universität Berlin/{-- --}Mathematik und Informatik/Informatik`
-- [Module: Mensch-Computer Interaktion](../modules/Mensch-Computer Interaktion), page: 33
+- [Module: Mensch-Computer Interaktion](modules/Mensch-Computer Interaktion.md), page: 33
     - Fehlendes Leerzeichen: `Moderation einer Übung oder eines Teils davon.{++ ++}Bearbeiten von Übungsaufgaben.`
-- [Module: Praktiken professioneller Softwareentwicklung](../modules/Praktiken professioneller Softwareentwicklung), page: 34
+- [Module: Praktiken professioneller Softwareentwicklung](modules/Praktiken professioneller Softwareentwicklung.md), page: 34
     - `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
     - `{--ul--}{++Modulverantwortung++}: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen`
     - `{--ul--}{++Zugangsvoraussetzungen++}: Programmierpraktikum, Softwaretechnik`
-- [Module: Praktiken professioneller Softwareentwicklung](../modules/Praktiken professioneller Softwareentwicklung), page: 34
+- [Module: Praktiken professioneller Softwareentwicklung](modules/Praktiken professioneller Softwareentwicklung.md), page: 34
     - `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
     - `{--ul--}{++Modulverantwortung++}: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen`
     - `{--ul--}{++Zugangsvoraussetzungen++}: Programmierpraktikum, Softwaretechnik`
-- [Module: Praktiken professioneller Softwareentwicklung](../modules/Praktiken professioneller Softwareentwicklung), page: 34
+- [Module: Praktiken professioneller Softwareentwicklung](modules/Praktiken professioneller Softwareentwicklung.md), page: 34
     - `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
     - `{--ul--}{++Modulverantwortung++}: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen`
     - `{--ul--}{++Zugangsvoraussetzungen++}: Programmierpraktikum, Softwaretechnik`
-- [Module: Grundlagen des Datenschutzrechts](../modules/Grundlagen des Datenschutzrechts), page: 35
+- [Module: Grundlagen des Datenschutzrechts](modules/Grundlagen des Datenschutzrechts.md), page: 35
     - Falsche Zellenbezeichnung korrigiert: `{--ul--}{++Hochschule/Fachbereich/Lehreinheit++}: Freie Universität Berlin/Mathematik und Informatik/Informatik`
-- [Module: Projektmanagement in agilen Umgebungen](../modules/Projektmanagement in agilen Umgebungen), page: 43
+- [Module: Projektmanagement in agilen Umgebungen](modules/Projektmanagement in agilen Umgebungen.md), page: 43
     - Es ist zweimal die gleiche "Lehr- und Lernformen" gelistet. Diese wurden zusammen gefasst, und die entsprechenden Zahlen verdoppelt.
-- [Module: Systemverwaltung](../modules/Systemverwaltung), page: 44
+- [Module: Systemverwaltung](modules/Systemverwaltung.md), page: 44
     - Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
-- [Module: Berufsbezogenes Praktikum Informatik](../modules/Berufsbezogenes Praktikum Informatik), page: 45
+- [Module: Berufsbezogenes Praktikum Informatik](modules/Berufsbezogenes Praktikum Informatik.md), page: 45
     - Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
