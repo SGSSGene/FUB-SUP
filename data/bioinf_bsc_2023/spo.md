@@ -256,10 +256,10 @@ Die Regelstudienzeit beträgt sechs Semester.
 5. Die Bachelorarbeit umfasst etwa 25 Seiten mit
     etwa 7.500 Wörtern. Die Bearbeitungsfrist beträgt zwölf
     Wochen.
-6. Als Beginn der Bearbeitungsfrist giltdas Datum
+6. Als Beginn der Bearbeitungsfrist gilt das Datum
     der Ausgabe des Themas durch den Prüfungsausschuss. Das Thema kann einmal innerhalb der ersten
     zwei Wochen zurückgegeben werden und gilt dann als
-    nicht ausgegeben. Die Fristeinhaltung istaktenkundig
+    nicht ausgegeben. Die Fristeinhaltung ist aktenkundig
     zu machen.
 7. Die Bachelorarbeit ist innerhalb der Bearbeitungszeit in elektronischer Form im Portable-Document-Format (PDF) einzureichen. Die Dateien im PDF-Format
     müssen den Text maschinenlesbar und nicht nur grafisch enthalten; ferner dürfen sie keine Rechtebeschränkungen aufweisen. Anlagen wie Computerprogramme

@@ -352,7 +352,7 @@ Die Regelstudienzeit beträgt sechs Semester.
    über den Antrag.
 4. Der Prüfungsausschuss gibt in Abstimmung mit der Betreuerin oder dem Betreuer
    der Studentin oder dem Studenten das Thema der Bachelorarbeit aus. Die
-   Ausgabe istaktenkundig zu machen. Thema und Aufgabenstellung müssen so
+   Ausgabe ist aktenkundig zu machen. Thema und Aufgabenstellung müssen so
    beschaffen sein, dass die Bearbeitung innerhalb der Bearbeitungsfrist
    abgeschlossen werden kann. Die Fristeinhaltung ist aktenkundig zu machen. Die
    Studentinnen und Studenten erhalten Gelegenheit, eigene Themenvorschläge zu
