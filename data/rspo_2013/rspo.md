@@ -213,7 +213,7 @@ befristet.
    Vorsitzende oder den stellvertretenden Vorsitzenden. Der Prüfungsausschuss
    kann seine Entscheidungsbefugnis widerrufbar für bestimmte Aufgaben der oder
    dem Vorsitzenden übertragen. Die übertragbaren Aufgaben können in den
-   jeweiligen Prüfungsordnungen geregelt werden. Im Eilfallkann die Vorsitzende
+   jeweiligen Prüfungsordnungen geregelt werden. Im Eilfall kann die Vorsitzende
    oder der Vorsitzende die notwendigen Entscheidungen treffen. Sie oder er hat
    dem Prüfungsausschuss über getroffene Eilentscheidungen unverzüglich zu
    berichten. Die Befugnis des Prüfungsausschusses, eigene Entscheidungen zu
@@ -231,7 +231,7 @@ befristet.
 
 1. In Studiengängen einer Hochschule oder einer rechtlich gleichgestellten
    Einrichtung erbrachte Leistungen werden angerechnet, soweit keine
-   wesentlichen Unterschiede entgegenstehen. Dies istder Fall, wenn die durch
+   wesentlichen Unterschiede entgegenstehen. Dies ist der Fall, wenn die durch
    die jeweilige Leistung zu erreichenden Qualifikationsziele und zu erwerbenden
    Kompetenzen in Umfang und Anforderungen dem Studium an der Freien Universität
    Berlin im Wesentlichen entsprechen. Dabei ist kein schematischer Vergleich,
@@ -629,7 +629,7 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Teilnahme an Lehrveranstaltungen ganz oder teilweise zu wiederholen ist. In
    schwerwiegenden Fällen des Satzes 1, welche die Entziehung eines
    Hochschulgrads rechtfertigen würden, kann der Prüfungsausschuss feststellen,
-   dass die gesamte Prüfung endgültig nicht bestanden ist.Weitere Prüfungen zur
+   dass die gesamte Prüfung endgültig nicht bestanden ist. Weitere Prüfungen zur
    Erlangung des angestrebten Abschlusses sind damit an der Freien Universität
    Berlin ausgeschlossen.
 4. Wer den ordnungsgemäßen Ablauf einer Prüfungsleistung stört, kann von der
