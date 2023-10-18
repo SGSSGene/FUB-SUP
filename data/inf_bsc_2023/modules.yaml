@@ -515,7 +515,7 @@
     Zusatzqualifikation)
   differentiated: false
   tags:
-    - Studienbereich Allgemeine Berufsvorbereitung
+    - Studienbereich Allgemeine Berufsvorbereitung - Praktika
   modification:
     - "Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`"
 - page: 19
@@ -2009,7 +2009,7 @@
     Zusatzqualifikationen)
   differentiated: false
   tags:
-    - Studienbereich Allgemeine Berufsvorbereitung
+    - Studienbereich Allgemeine Berufsvorbereitung - Fachnahe Zusatzqualifikationen
 - page: 24
   name: Softwaretechnik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
