@@ -8,12 +8,12 @@ FU-Berlin von 2013. Das Original ist hier zu finden:
 
 ## Präambel
 
-Aufgrund von §9 Abs. 1 Nummer 4 Teilgrundordnung (Erprobungsmodell) der Freien
+Aufgrund von § 9 Abs. 1 Nummer 4 Teilgrundordnung (Erprobungsmodell) der Freien
 Universität Berlin vom 27. Oktober 1998 (FU-Mitteilungen 24/1998) hat der
 Akademische Senat der Freien Universität Berlin am 13. Februar und 20. März 2013
 die folgende Rahmenstudien- und -prüfungsordnung (RSPO) erlassen: [^1]
 
-[^1]: Diese Ordnung istvom Präsidium der Freien Universität Berlin am 25. März
+[^1]: Diese Ordnung ist vom Präsidium der Freien Universität Berlin am 25. März
 2013 und von der für Hochschulen zuständigen Senatsverwaltung am 2. und 17. Juli
 2013 bestätigt worden. Die Geltungsdauer der Ordnung ist bis zum 31. Mai 2014
 befristet.
@@ -109,7 +109,7 @@ befristet.
 
 ## § 4 Modularisierung und studienbegleitendes Prüfungssystem
 
-1. Module sind thematisch und zeitlichin sich geschlossene Studieneinheiten, die
+1. Module sind thematisch und zeitlich in sich geschlossene Studieneinheiten, die
    mit Leistungspunkten versehen sind. Module werden so konzipiert, dass sie in
    der Regel innerhalb eines Semesters oder eines Jahres studiert werden können.
    Die Module sollen einen Umfang von mindestens fünf Leistungspunkten
@@ -409,9 +409,9 @@ befristet.
 ## § 11 Leistungen bei Behinderungen, gesundheitlichen Beeinträchtigungen sowie bei familiären Belastungen
 
 1. Macht eine Studentin oder ein Student durch ein ärztliches Zeugnis glaubhaft,
-   dass sie oder er wegen Behinderungen im Sinne von §2 Abs. 1 SGB IX oder wegen
+   dass sie oder er wegen Behinderungen im Sinne von § 2 Abs. 1 SGB IX oder wegen
    länger andauernden oder ständigen gesundheitlichen Beeinträchtigungen nicht
-   in der Lage ist,eine Leistung ganz oder teilweise in der vorgesehenen Form
+   in der Lage ist, eine Leistung ganz oder teilweise in der vorgesehenen Form
    oder innerhalb der vorgesehenen Zeit abzulegen, hat die oder der Vorsitzende
    des Prüfungsausschusses der Studentin oder dem Studenten zu gestatten,
    gleichwertige Leistungen in einer anderen Form, zu einem anderen
@@ -554,7 +554,7 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Satz 2 und 3 abweichende Gewichtung für eine Abschlussarbeit in einem
    Bachelor- oder Masterstudiengang oder in einem sonstigen modularisierten
    Studiengang oder für einzelne Module vorsehen. Der Gewichtungsfaktor für eine
-   Abschlussarbeit in einem Bacheloroder Masterstudiengang oder in einem
+   Abschlussarbeit in einem Bachelor oder Masterstudiengang oder in einem
    sonstigen modularisierten Studiengang muss zwischen 1,0 und 2,0, derjenige
    für einzelne Module muss zwischen 0,5 und 1,5 liegen. Zur Ermittlung einer
    zusammengefassten Note für mehrere Prüfungsleistungen, der Modulnoten oder
@@ -562,7 +562,7 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    der zugehörigen Leistungspunkte multipliziert, dann addiert und durch die
    Summe der einbezogenen Leistungspunkte dividiert. Soweit gemäß Satz 4 in der
    jeweiligen Prüfungsordnung für eine Prüfungsleistung oder mehrere
-   Prüfungsleistungen eine gesonderte Gewichtung geregelt ist,wird eine
+   Prüfungsleistungen eine gesonderte Gewichtung geregelt ist, wird eine
    zusammengefasste Note wie folgt berechnet: Die gesondert gewichtete Note oder
    die gesondert gewichteten Noten werden jeweils mit der Anzahl der
    Leistungspunkte und dem Gewichtungsfaktor multipliziert, zu den nicht
@@ -592,7 +592,7 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Prüfungsleistungen durch die jeweiligen Prüferinnen oder Prüfer zu bewerten
    sind. Fristüberschreitungen sind nur auf schriftlichen Antrag aufgrund
    zwingender Gründe zulässig. Das Bewertungsverfahren für Prüfungsleistungen
-   sollvier Wochen nicht überschreiten. § 14 Abs. 6 bleibt unberührt.
+   soll vier Wochen nicht überschreiten. § 14 Abs. 6 bleibt unberührt.
 
 ## § 19 Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß, Ungültigkeit von Entscheidungen
 
@@ -601,25 +601,25 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Prüfungstermin ohne triftigen Grund versäumt oder wenn sie oder er von der
    Prüfungsleistung ohne triftigen Grund zurücktritt, nachdem sie oder er diese
    begonnen hat oder die von dem Prüfungsausschuss gemäß § 8 Abs. 1 Satz 4
-   festgelegte Frist verstrichen ist. Dasselbe gilt,wenn die Prüfungsleistung
+   festgelegte Frist verstrichen ist. Dasselbe gilt, wenn die Prüfungsleistung
    nicht innerhalb der vorgegebenen Bearbeitungszeit erbracht wird. Der Grund
    ist dem Prüfungsausschuss unverzüglich schriftlich anzuzeigen und glaubhaft
    zu machen. Bei Krankheit der Studentin oder des Studenten oder eines von ihr
    oder ihm allein zu betreuenden nahen Angehörigen gemäß § 11 Abs. 2 ist ein
    ärztliches Attest vorzulegen. Der Prüfungsausschuss kann auf Antrag im Fall
    von außergewöhnlichen, leistungsmindernden, prüfungsbezogenen Umständen der
-   oder des Geprüften einen Rücktritt von einer nichtbestandenen letztmöglichen
+   oder des Geprüften einen Rücktritt von einer nicht bestandenen letztmöglichen
    Prüfungsleistung auch nach Bekanntgabe des Prüfungsergebnisses zulassen;
    dieser Antrag und entsprechende Nachweise zur Glaubhaftmachung können nur
    innerhalb von drei Monaten nach Bekanntgabe des Ergebnisses der
-   nichtbestandenen letztmöglichen Prüfungsleistung vorgelegt werden.
+   nicht bestandenen letztmöglichen Prüfungsleistung vorgelegt werden.
 2. War eine Studentin oder ein Student wegen eines triftigen Grundes an der
    fristgerechten Bearbeitung einer Abschlussarbeit in einem Bachelor- oder
    Masterstudiengang oder in einem sonstigen modularisierten Studiengang
    gehindert, so kann der Prüfungsausschuss auf Antrag die Bearbeitungsfrist um
    den Zeitraum nachgewiesener Prüfungsunfähigkeit verlängern. In der jeweiligen
    Prüfungsordnung kann geregelt werden, wann die Arbeit erneut erbracht werden
-   solloder muss. Die Prüfungsleistung giltfür den Fall, dass der
+   soll oder muss. Die Prüfungsleistung gilt für den Fall, dass der
    Prüfungsausschuss eine erneute Erbringung verlangt, als nicht unternommen.
 3. Versucht eine Studentin oder ein Student, das Ergebnis einer Prüfungsleistung
    durch Täuschung, insbesondere durch Plagiat, oder durch Benutzung nicht
@@ -773,13 +773,13 @@ unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
    Bachelor- oder Mastergrad oder dem Staatsexamen abschließen, außer Kraft.
    Sofern Prüfungsordnungen für Studiengänge, die mit dem Bachelor- oder
    Mastergrad oder dem Staatsexamen abschließen, auf die Satzung für Allgemeine
-   Prüfungsangelegenheiten gemäß Satz 1 verweisen, trittan die Stelle der
+   Prüfungsangelegenheiten gemäß Satz 1 verweisen, tritt an die Stelle der
    Satzung für Allgemeine Prüfungsangelegenheiten diese Rahmenstudien- und
    -prüfungsordnung.
-3. Auf Studiengänge, die nicht mit dem Bacheloroder Mastergrad oder dem
+3. Auf Studiengänge, die nicht mit dem Bachelor oder Mastergrad oder dem
    Staatsexamen abschließen, findet die Satzung für Allgemeine
    Prüfungsangelegenheiten in der in Abs. 2 Satz 1 bezeichneten Fassung
-   Anwendung. §§ 12, 13, 16 und 19 dieser Rahmenstudienund -prüfungsordnung
+   Anwendung. §§ 12, 13, 16 und 19 dieser Rahmenstudien und -prüfungsordnung
    finden auf Studiengänge gemäß Satz 1 Anwendung.
 4. Die in § 20 Abs. 3 geregelte Begrenzung der Wiederholungsversuche findet ab
    dem 1. Oktober 2015 Anwendung. Vor diesem Zeitpunkt ohne Erfolg abgelegte
