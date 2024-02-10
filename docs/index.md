@@ -11,7 +11,7 @@ Aktuell sind folgende Studien- und Prüfungsordnungen umgesetzt:
 
 | Studiengang                                                    | Status  |
 |----------------------------------------------------------------|---------|
-|Rahmenstudien- und -prüfungsordnung (inkl. 1. Änderungsordnung) | rspo: ✔, anhänge: ✘ |
+|Rahmenstudien- und -prüfungsordnung (inkl. 1., 2. Änderungsordnung) | rspo: ✔, anhänge: ✘ |
 |ABV Module (inkl. 1., 2., 3. Änderungsordnung)                  | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Bachelor 2012 + 1. Änderung 2017                  | sop: ✔, modules: ✔, anhänge: ✘ |
 |Bioinformatik Bachelor 2023                                     | sop: ✔, modules: ✔, anhänge: ✘ |

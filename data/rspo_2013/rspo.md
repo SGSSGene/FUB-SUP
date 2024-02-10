@@ -7,7 +7,9 @@ FU-Berlin von 2013. Das Original ist hier zu finden:
 [RSPO 2013](http://www.fu-berlin.de/service/zuvdocs/amtsblatt/2013/ab322013.pdf).
 Außerdem wurden die Änderungen der
 [1. Änderungsordnung 2021](https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2021/ab292021.pdf#G2156074)
-eingearbeitet.
+und
+[2. Änderungsordnung 2024](https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2024/ab012024.pdf)
+eingearbeitet
 
 
 ## Präambel
@@ -438,30 +440,191 @@ befristet.
    auch in elektronischer oder digitaler Form (elektronische Leistungen)
    erbracht werden. Bei elektronischen Leistungen erfolgt die Durchführung und
    Auswertung unter Verwendung von digitalen Technologien.
-2. Abweichungen bzw. Alternativformate von der in der Studien- und
-   Prüfungsordnung festgelegten Form einer Modulprüfung - insbesondere
-   elektronische Klausuren, häusliche Klausuren, schriftliche Hausarbeiten oder
-   mündliche Leistungen in Form einer Videokonferenz - sind zulässig, wenn die
-   Modulprüfung aufgrund eines außergewöhnlichen Umstands, dessen Folgen nicht
-   auf andere Weise kompensiert werden können, in der vorgesehenen Form nicht
-   durchgeführt werden kann oder die Durchführung bezogen auf den erforderlichen
-   Aufwand unverhältnismäßig oder für bestimmte Studierende unzumutbar wäre. Die
-   Entscheidung, ob und in welcher Form die Modulprüfung stattdessen
-   durchgeführt werden darf, trifft der zuständige Prüfungsausschuss. Die
-   fachlichen Anforderungen der Modulprüfung müssen gewahrt werden. Die
-   Studierenden sind über die getroffene Entscheidung gemäß Satz 2 sowie über
-   Form und Umfang der neu festgelegten zu erbringenden Leistungen, den
-   Zeitpunkt der Modulprüfung oder Abgabefristen unverzüglich zu unterrichten.
-3. Die Authentizität der Urheberin oder des Urhebers und die Integritätder
-   Prüfungsergebnisse sind unter Beachtung der zu gewährleistenden
-   Vertraulichkeit sicherzustellen. Hierfür werden die Prüfungsergebnisse in
-   Form von elektronischen Daten eindeutig identifiziert sowie unverwechselbar
-   der oder dem Studierenden zugeordnet. Es ist zu gewährleisten, dass die
-   elektronischen Daten für die Bewertung und Nachprüfbarkeit unverändert und
-   vollständig sind.
-4. Eine automatisiert erstellte Bewertung einer Prüfungsleistung ist auf Antrag
-   der oder des geprüften Studierenden von einer Prüferin oder einem Prüfer zu
-   überprüfen.
+2. (gestrichen)
+3. (gestrichen)
+4. (gestrichen)
+
+## § 12a Digitale Fernaufsichtsprüfungen
+1. Digitale Fernaufsichtsprüfungen sind Prüfungen unter Fernaufsicht, die auf
+   elektronischem Weg und ohne die Verpflichtung, in einem vorgegebenen
+   Prüfungsraum physisch anwesend sein zu müssen, durchgeführt werden.
+2. Digitale Fernaufsichtsprüfungen können in Form elektronischer oder
+   schriftlicher Aufsichtsarbeiten (digitale Fernklausur) oder als mündliche
+   oder praktische Fernaufsichtsprüfung angeboten werden.
+3. Digitale Fernklausuren werden in einem vorgegebenen Zeitfenster unter
+   Verwendung elektronischer Kommunikationseinrichtungen mit Videoaufsicht
+   angefertigt.
+4. Mündliche und praktische Fernaufsichtsprüfungen werden als Videokonferenz
+   durchgeführt.
+
+## § 12b Prüfungsmodalitäten
+1. Wird eine digitale Fernaufsichtsprüfung angeboten, ist dies grundsätzlich zu Veranstaltungsbeginn, jedenfalls aber in einem angemessenen Zeitraum vor der Prüfung festzulegen.
+2. Die zu prüfenden Personen werden rechtzeitig informiert über:
+    1. die Verarbeitung ihrer personenbezogenen Daten,
+    2. die technischen Anforderungen an die einzusetzenden Kommunikationseinrichtungen, die für eine ordnungsgemäße Durchführung der Prüfung erfüllt sein müssen, insbesondere das Bestehen einer geeigneten Bild- und Tonübertragung zur Videoaufsicht oder Videokonferenz sowie eine qualitativ ausreichende Internetverbindung,
+    3. die organisatorischen Bedingungen für eine ordnungsgemäße Prüfung.
+3. (fehlt, fehler in der Änderungsordnung) !TODO
+4. Für die zu prüfenden Personen soll die Möglichkeit bestehen, die Prüfungssituation in Bezug auf die Technik, die Ausstattung und die räumliche Umgebung im Vorfeld der Prüfung zu erproben.
+
+## § 12c Authentifizierung
+1. Vor Beginn einer digitalen Fernaufsichtsprüfung erfolgt die Authentifizierung
+   mit Hilfe eines gültigen Lichtbildausweises, der nach Aufforderung vorzuzeigen
+   am ist, oder durch andere Authentifizierungsverfahren, die entsprechend
+   geeignet sind. Die Authentifizierung kann auch nach Beginn der Prüfung
+   erfolgen; eine wiederholte Überprüfung ist zulässig.
+2. Eine Speicherung der im Zusammenhang mit der Authentifizierung erhobenen Daten
+   ist über eine technisch erforderliche Zwischenspeicherung hinaus nicht
+   zulässig. Personenbezogene Daten aus der Zwischenspeicherung sind
+   unverzüglich zu löschen.
+
+## § 12d Digitale Fernklausuren
+1. Die zu prüfenden Personen sind verpflichtet, während einer digitalen
+   Fernklausur die Kamera- und Mikrofonfunktion der eingesetzten
+   Kommunikationseinrichtungen dauerhaft zu aktivieren (Videoaufsicht).
+   Die Videoaufsicht istim Übrigen so einzurichten, dass der
+   Persönlichkeitsschutz und die Privatsphäre der Betroffenen nicht mehr als zu
+   berechtigten Kontrollzwecken entsprechend der Aufsicht in Präsenzklausuren
+   eingeschränkt werden.
+2. Die zu prüfenden Personen haben bei der Wahl des Prüfungsorts und der
+   Ausrichtung von Kamera und Mikrofon dafür Sorge zu tragen, dass nicht Bilder
+   oder Töne Dritter übertragen werden. Eine darüberhinausgehende
+   Raumüberwachung findet nicht statt.
+3. Die Videoaufsicht erfolgt durch Aufsichtspersonal der Freien Universität
+   Berlin. Automatisierte Auswertungen von Bild- und Tondaten der Videoaufsicht,
+   Aufzeichnungen der Prüfung oder anderweitige Speicherungen der Bild- und
+   Tondaten sind unzulässig. Personenbezogene Daten aus der Zwischenspeicherung
+   sind unverzüglich zu löschen.
+
+## § 12e Digitale mündliche und praktische Fernaufsichtsprüfungen
+1. Die zu prüfenden Personen sind verpflichtet, während einer mündlichen oder
+   praktischen Fernaufsichtsprüfung im Rahmen von Videokonferenzen dauerhaft die
+   Kamera- und Mikrofonfunktion der eingesetzten Kommunikationseinrichtungen zu
+   aktivieren. Dabei dürfen der Persönlichkeitsschutz und die Privatsphäre der
+   Betroffenen nicht mehr als zu berechtigten Kontrollzwecken entsprechend der
+   Aufsicht in Präsenzprüfungen eingeschränkt werden.
+2. Die zu prüfenden Personen haben bei der Wahl des Prüfungsorts und der
+   Ausrichtung von Kamera und Mikrofon dafür Sorge zu tragen, dass nicht Bilder
+   oder Töne Dritter übertragen werden. Eine darüberhinausgehende
+   Raumüberwachung findet nicht statt.
+3. Die wesentlichen Inhalte einer digitalen mündlichen oder praktischen
+   Fernaufsichtsprüfung werden von einer die Prüfung abnehmenden oder einer
+   beisitzenden Person protokolliert.
+4. Automatisierte Auswertungen von Bild- und Tondaten der Videokonferenz,
+   Aufzeichnungen der Prüfung oder anderweitige Speicherungen der Bild- und
+   Tondaten sind unzulässig. Personenbezogene Daten aus der Zwischenspeicherung
+   sind unverzüglich zu löschen.
+
+## § 12f Wahlrecht
+
+Soll eine digitale Fernaufsichtsprüfung angeboten werden, ist den zu prüfenden
+Personen innerhalb desselben Prüfungszeitraums und unter Beachtung des
+Grundsatzes der Chancengleichheit eine Präsenzprüfung oder andere gleichwertige
+Prüfung als Alternative anzubieten. Der zuständige Prüfungsausschuss legt einen
+Zeitpunkt fest, bis zu dem das Wahlrecht ausgeübt werden kann. Die Wahl muss
+nicht begründet werden. § 12i bleibt unberührt.
+
+## § 12g Technische Störungen
+1. Sind die Übermittlung der Prüfungsaufgabe, die Bearbeitung der
+   Prüfungsaufgabe, die Übermittlung der Prüfungsleistung oder die Videoaufsicht
+   bei einer digitalen Fernklausur zum Zeitpunkt der Prüfung nicht durchführbar,
+   wird die Prüfung beendet und die Prüfungsleistung nicht bewertet. Der
+   Prüfungsversuch gilt als nicht unternommen.
+2. Ist die Bild- oder Tonübertragung bei einer digitalen mündlichen oder
+   praktischen Fernaufsichtsprüfung vorübergehend gestört, wird die Prüfung nach
+   Behebung der Störung fortgesetzt. Dauert die technische Störung an, so dass
+   die Prüfung nicht ordnungsgemäß fortgeführt werden kann, wird die Prüfung zu
+   einem späteren Zeitpunkt wiederholt. Der Prüfungsversuch gilt als nicht
+   unternommen. Tritt die technische Störung auf, nachdem bereits ein
+   wesentlicher Teil der Prüfungsleistung erbracht wurde, kann die mündliche
+   oder praktische Fernaufsichtsprüfung ohne Verwendung von Bilddaten
+   fortgesetzt werden.
+3. Betroffene zu prüfende Personen sind entsprechend den allgemeinen
+   prüfungsrechtlichen Grundsätzen verpflichtet, technische Störungen
+   unverzüglich der Prüfungsbehörde mitzuteilen. Hierfür wird eine gesonderte
+   Mitteilungsmöglichkeit eingerichtet. Störungen sind durch die Freie
+   Universität Berlin zu protokollieren.
+
+## § 12hi Datenverarbeitung
+1. Im Rahmen digitaler Fernaufsichtsprüfungen dürfen personenbezogene Daten
+   verarbeitet werden, soweit dies zur ordnungsgemäßen Durchführung der Prüfung
+   einschließlich ihrer Bewertung zwingend erforderlich ist. Erforderlich ist
+   insbesondere die Verarbeitung einschließlich der Übermittlung
+   personenbezogener Daten, die notwendig sind für:
+    1. die Authentifizierung,
+    2. die Erbringung der Prüfungsleistung einschließlich der Videoaufnahme der
+       zu prüfenden Person während der Prüfung,
+    3. den Umgang mit technischen Problemen,
+    4. die Ergreifung weiterer Maßnahmen zur Sicherung der Chancengleichheit und
+       zum Ausschluss von Täuschungen.
+2. Die Freie Universität Berlin stellt sicher, dass die Datenverarbeitung im
+   Rahmen digitaler Fernaufsichtsprüfungen im Einklang mit den
+   datenschutzrechtlichen Anforderungen, insbesondere mit der
+   Datenschutz-Grundverordnung und dem Berliner Datenschutzgesetz, erfolgt.
+3. Zu verarbeitende Daten sind insbesondere:
+    1. für die Authentifizierung der zu prüfenden Personen notwendige
+       personenbezogene Daten,
+    2. Daten zur Prüfungsleistung, inklusive der individuellen Prüfungsantworten
+       und deren Einzelbewertungen, Bewertungskommentare und die Gesamtbewertung
+       sowie technische Prüfungsverlaufsprotokolle,
+    3. Bild- und Tondaten,
+    4. Text- und Kommunikationsdaten,
+    5. Anmelde- und Account-Daten,
+    6. sonstige Protokoll- und Verbindungsdaten.
+4. Die Zulässigkeit der Erstellung und Nutzung einer gesonderten Protokollierung
+   durch Aufsichtspersonen entsprechend dieser Ordnung und der fachspezifischen
+   Prüfungsordnungen, insbesondere zum Ablauf der Prüfungen und bei
+   Anhaltspunkten zu Täuschungshandlungen, bleibt unberührt.
+5. Die Aufbewahrung der Daten zur Prüfungsleistung, einschließlich individueller
+   Prüfungsantworten und deren Einzelbewertungen, Bewertungskommentare und die
+   Gesamtbewertung sowie der Prüfungsverlaufsprotokolle und Prüfungsprotokolle,
+   richtet sich nach den allgemeinen Aufbewahrungsregelungen für
+   Prüfungsunterlagen der Freien Universität Berlin. Bild- und Tondaten werden
+   nicht gespeichert, soweit nicht zur Diensterbringung eine Zwischenspeicherung
+   technisch notwendig ist. Ist diese notwendig, sind Zwischenspeicherungen
+   unverzüglich zu löschen. Übrige Verbindungsund sonstige technische
+   Protokolldaten sind umgehend, jedoch spätestens nach zehn Tagen, zu löschen.
+   Dies gilt nicht, soweit und solange eine weitere Verarbeitung für die
+   Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich
+   ist.
+6. Die zu prüfenden Personen sind in geeigneter und leicht zugänglicher Form
+   darüber zu informieren, welche personenbezogenen Daten zu welchem Zweck
+   verarbeitet werden und wann diese wieder gelöscht werden.
+7. Bei digitalen Fernaufsichtsprüfungen kann die Nutzung von
+   Lernmanagementsystemen, Prüfungsplattformen, Videokonferenzsystemen und
+   anderen technischen Hilfsmitteln vorgegeben werden. Dabei ist
+   sicherzustellen, dass notwendige Installationen auf den elektronischen
+   Kommunikationseinrichtungen der zu prüfenden Personen nur so erfolgen,
+   dass
+    1. die Funktionsfähigkeit der elektronischen Kommunikationseinrichtung
+       außerhalb der Prüfung nicht und währenddessen nur in dem zur
+       Sicherstellung der Authentifizierung sowie der Unterbindung von
+       Täuschungshandlungen notwendigen Maße beeinträchtigt wird,
+    2. die Informationssicherheit der elektronischen Kommunikationseinrichtung
+       zu keinem Zeitpunkt beeinträchtigt wird,
+    3. die Vertraulichkeit der auf der elektronischen Kommunikationseinrichtung
+       befindlichen Informationen zu keinem Zeitpunkt beeinträchtigt wird und
+    4. eine vollständige Deinstallation nach der Fernaufsichtsprüfung möglich
+       ist.
+
+## § 12i Sonderfälle
+
+Soweit auf Grund infektionsschutzrechtlicher Vorgaben oder sonstiger
+außergewöhnlicher Umstände Prüfungen nicht oder nur mit beschränkter Kapazität
+durchgeführt werden können, schöpft die Freie Universität Berlin die
+Möglichkeiten, den zu prüfenden Personen alternative Prüfungen anzubieten, aus.
+Übersteigt danach die Anzahl der Anmeldungen zur Verfügung stehende
+Prüfungskapazitäten, können zu prüfende Personen auf den nächstmöglichen
+Prüfungstermin verwiesen werden. Bei der Auswahl sind Fälle außergewöhnlicher
+Härte nach ihrem jeweiligen Grad vorab zu berücksichtigen. Die Feststellung von
+Umständen nach Satz 1 trifft das Präsidium. Sie ist auf einen Prüfungszeitraum
+zu befristen. Liegen die Voraussetzungen weiterhin vor, ist eine wiederholte
+Feststellung möglich.
+
+## § 12j Ausführungsvorschriften
+
+Das Präsidium kann im Einvernehmen mit der oder dem behördlichen
+Datenschutzbeauftragten in Ausführungsvorschriften konkretisierende Vorgaben für
+die Bestimmungen der §§ 12a bis i festlegen.
 
 ## § 13 Antwort-Wahl-Verfahren
 
