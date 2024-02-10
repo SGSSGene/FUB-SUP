@@ -5,6 +5,10 @@
 Dies ist eine inoffizielle Kopie der Rahmenstudien- und -prüfungsordnung
 FU-Berlin von 2013. Das Original ist hier zu finden:
 [RSPO 2013](http://www.fu-berlin.de/service/zuvdocs/amtsblatt/2013/ab322013.pdf).
+Außerdem wurden die Änderungen der
+[1. Änderungsordnung 2021](https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2021/ab292021.pdf#G2156074)
+eingearbeitet.
+
 
 ## Präambel
 
@@ -429,29 +433,74 @@ befristet.
 
 ## § 12 Elektronische Leistungen
 
-1. Die Studien- und Prüfungsordnungen können vorsehen, dass Leistungen in
-   elektronischer Form (elektronische Leistungen) erbracht werden. Bei
-   elektronischen Leistungen erfolgt die Durchführung und Auswertung unter
-   Verwendung von digitalen Technologien.
-2. Vor einer Prüfungsleistung unter Verwendung von digitalen Technologien ist
-   die Geeignetheit dieser Technologien im Hinblick auf die vorgesehenen
-   Prüfungsaufgaben und die Durchführung der elektronischen Prüfungsleistung von
-   zwei Prüferinnen oder Prüfern festzustellen.
-3. Die Authentizität der Urheberin oder des Urhebers und die Integrität der
+1. Alle Leistungen, die gemäß den jeweiligen Studien- und Prüfungsordnungen zu
+   erbringen sind, können mit Zustimmung des zuständigen Prüfungsausschusses
+   auch in elektronischer oder digitaler Form (elektronische Leistungen)
+   erbracht werden. Bei elektronischen Leistungen erfolgt die Durchführung und
+   Auswertung unter Verwendung von digitalen Technologien.
+2. Abweichungen bzw. Alternativformate von der in der Studien- und
+   Prüfungsordnung festgelegten Form einer Modulprüfung - insbesondere
+   elektronische Klausuren, häusliche Klausuren, schriftliche Hausarbeiten oder
+   mündliche Leistungen in Form einer Videokonferenz - sind zulässig, wenn die
+   Modulprüfung aufgrund eines außergewöhnlichen Umstands, dessen Folgen nicht
+   auf andere Weise kompensiert werden können, in der vorgesehenen Form nicht
+   durchgeführt werden kann oder die Durchführung bezogen auf den erforderlichen
+   Aufwand unverhältnismäßig oder für bestimmte Studierende unzumutbar wäre. Die
+   Entscheidung, ob und in welcher Form die Modulprüfung stattdessen
+   durchgeführt werden darf, trifft der zuständige Prüfungsausschuss. Die
+   fachlichen Anforderungen der Modulprüfung müssen gewahrt werden. Die
+   Studierenden sind über die getroffene Entscheidung gemäß Satz 2 sowie über
+   Form und Umfang der neu festgelegten zu erbringenden Leistungen, den
+   Zeitpunkt der Modulprüfung oder Abgabefristen unverzüglich zu unterrichten.
+3. Die Authentizität der Urheberin oder des Urhebers und die Integritätder
    Prüfungsergebnisse sind unter Beachtung der zu gewährleistenden
    Vertraulichkeit sicherzustellen. Hierfür werden die Prüfungsergebnisse in
    Form von elektronischen Daten eindeutig identifiziert sowie unverwechselbar
-   und dauerhaft der Studentin oder dem Studenten zugeordnet. Es ist zu
-   gewährleisten, dass die elektronischen Daten für die Bewertung und
-   Nachprüfbarkeit unverändert und vollständig sind.
+   der oder dem Studierenden zugeordnet. Es ist zu gewährleisten, dass die
+   elektronischen Daten für die Bewertung und Nachprüfbarkeit unverändert und
+   vollständig sind.
 4. Eine automatisiert erstellte Bewertung einer Prüfungsleistung ist auf Antrag
-   der geprüften Studentin oder des geprüften Studenten von einer Prüferin oder
-   einem Prüfer zu überprüfen.
+   der oder des geprüften Studierenden von einer Prüferin oder einem Prüfer zu
+   überprüfen.
 
 ## § 13 Antwort-Wahl-Verfahren
 
-Prüfungsverfahren in der Form des Antwort-Wahl-Verfahrens werden in der
-jeweiligen Prüfungsordnung geregelt.
+1. Prüfungsaufgaben in der Form des Antwort-Wahl-Verfahrens sowie damit
+   zusammenhängende Freitextaufgaben sind von zwei Prüfungsberechtigten zu
+   stellen.
+2. Erweist sich bei der Bewertung von Prüfungsleistungen, die nach dem
+   Antwort-Wahl-Verfahren abgelegt worden sind, dass einzelne Prüfungsaufgaben
+   im Hinblick auf die Qualifikationsziele des jeweiligen Moduls keine
+   zuverlässigen Prüfungsergebnisse ermöglichen und damit fehlerhaft sind, so
+   dürfen sich diese bei der Feststellung des Prüfungsergebnisses nicht zum
+   Nachteil von Studierenden auswirken.
+3. Eine im Antwort-Wahl-Verfahren erbrachte Prüfungsleistung ist bestanden, wenn
+   die oder der Studierende mindestens 50 % der erzielbaren Bewertungspunkte
+   erreicht hat (absolute Bestehensgrenze) oder wenn die Zahl der von
+   Studierenden erzielten Bewertungspunkte um nicht mehr als 10 % die von den
+   Teilnehmenden des Prüfungsversuchs der jeweiligen Prüfungsleistung
+   durchschnittlich erzielten Punktzahl unterschreitet (relative
+   Bestehensgrenze). Kommt die relative Bestehensgrenze zum Tragen, so muss die
+   oder der Studierende für das Bestehen der Prüfungsleistung gleichwohl
+   mindestens 40 % der erzielbaren Bewertungspunkte erreicht haben.
+4. Im Antwort-Wahl-Verfahren erbrachte Prüfungsleistungen sind wie folgt zu
+   bewerten: Haben die Studierenden die für das Bestehen der Prüfungsleistung
+   nach Abs. 3 erforderliche Mindestbewertungspunktzahl erreicht, so lautet die
+   Note
+    - sehr gut, wenn sie oder er mindestens 75 %,
+    - gut, wenn sie oder er mindestens 50, aber weniger als 75 %,
+    - befriedigend, wenn sie oder er mindestens 25, aber weniger als 50 %,
+    - ausreichend, wenn sie oder er keine oder weniger als 25 %
+   der über die nach Abs. 3 erforderliche Mindestbewertungspunktzahl hinaus
+   erzielbaren Bewertungspunkte zutreffend beantwortet hat.
+5. Die Bewertungsvorgaben gemäß der Absätzen 3 und 4 finden keine Anwendung,
+   wenn
+    1. die Prüfungsberechtigten, die die Prüfungsaufgaben gemäß Abs. 1 gestellt
+       haben und die im Antwort-Wahl-Verfahren erbrachten Prüfungsleistungen
+       bewerten, identisch sind oder
+    2. der Anteil der erzielbaren Punktzahl in den Prüfungsaufgaben in der Form
+       des Antwort-Wahl-Verfahrens an einer Klausur, die nur teilweise in der
+       Form des Antwort-Wahl-Verfahrens gestellt wird, 25 % nicht übersteigt.
 
 ## § 14 Abschlussarbeit in einem Bachelor- oder Masterstudiengang oder in einem sonstigen modularisierten Studiengang
 
@@ -481,7 +530,9 @@ jeweiligen Prüfungsordnung geregelt.
    datenschutzrechtlichen Bestimmungen eingehalten und die Datensicherheit
    gewährleistet werden. Eingereichte Arbeiten dürfen elektronischen
    Plagiatsprüfungen unterzogen werden; Datenschutz und Datensicherheitsziele
-   sind hierbei zu gewährleisten.
+   sind hierbei zu gewährleisten. Der Prüfungsausschuss kann abweichend von
+   Satz 6 entscheiden, dass die Arbeit ausschließlich in elektronischer Form
+   einzureichen ist.
 4. Die Prüfungsordnungen sehen in der Regel vor, dass ein ausgegebenes Thema
    innerhalb eines festzulegenden Zeitraums einmalig zurückgegeben werden kann.
    Das Thema gilt in diesem Fall als nicht ausgegeben. Der Zeitraum im Sinne von
@@ -515,7 +566,7 @@ gleichwertige Prüfung erfolgreich abgelegt worden ist.
 In den jeweiligen Prüfungsordnungen kann geregelt werden, dass schriftliche
 Prüfungsleistungen, die nicht unter Aufsicht erbracht wurden, auch in
 elektronischer Form eingereicht werden sollen. § 14 Abs. 3 Satz 6 bleibt
-unberührt. § 14 Abs. 3 Sätze 7 und 8 finden entsprechende Anwendung.
+unberührt. § 14 Abs. 3 Sätze 7 bis 9 finden entsprechende Anwendung.
 
 ## § 17 Begründungspflicht bei der Bewertung von Leistungen
 
