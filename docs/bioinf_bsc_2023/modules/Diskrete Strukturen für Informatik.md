@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Diskrete Strukturen für Informatik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2023](../../inf_bsc_2023/modules/Diskrete Strukturen für Informatik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2023 (Diskrete Strukturen für Informatik)](../../inf_bsc_2023/modules/Diskrete Strukturen für Informatik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -109,6 +109,13 @@ Orientierungsstudium, 60-Leistungspunkte-Modulangebot Informatik im Rahmen
 anderer Studiengänge, Masterstudiengang für das Lehramt an Integrierten
 Sekundarschulen und Gymnasien mit dem Profil Quereinstieg,
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Diskrete Strukturen für Informatik)](../../bioinf_bsc_2023/modules/Diskrete Strukturen für Informatik.md)
 
 </td></tr>
 

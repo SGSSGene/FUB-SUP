@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Big Data Analysis in Bioinformatics </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in bioinf_msc_2019](../../bioinf_msc_2019/modules/Big Data Analysis in Bioinformatics.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [bioinf_msc_2019 (Big Data Analysis in Bioinformatics)](../../bioinf_msc_2019/modules/Big Data Analysis in Bioinformatics.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -92,6 +92,14 @@ Minuten) oder Bearbeitung eines Projektes mit schriftlicher Ausarbeitung
 
 Masterstudiengang Bioinformatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Big Data Analysis in Bioinformatics)](../../datasci_msc_2019/modules/Big Data Analysis in Bioinformatics.md)
+- [datasci_msc_2021 (Big Data Analysis in Bioinformatics)](../../datasci_msc_2021/modules/Big Data Analysis in Bioinformatics.md)
 
 </td></tr>
 

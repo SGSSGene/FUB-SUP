@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Mobilkommunikation </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_msc_2014](../../inf_msc_2014/modules/Mobilkommunikation.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_msc_2014 (Mobilkommunikation)](../../inf_msc_2014/modules/Mobilkommunikation.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -94,6 +94,14 @@ Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung
 
 Masterstudiengang Informatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Mobilkommunikation)](../../datasci_msc_2019/modules/Mobilkommunikation.md)
+- [datasci_msc_2021 (Mobilkommunikation)](../../datasci_msc_2021/modules/Mobilkommunikation.md)
 
 </td></tr>
 

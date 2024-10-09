@@ -3297,9 +3297,9 @@
   language: Spanisch
   total_work: 300
   credit_points: 10
-  duration: 'Zwei Semester oder ein Semester einschließlich vorlesungsfreier
-
-    Zeit'
+  duration: |-
+    Zwei Semester oder ein Semester einschließlich vorlesungsfreier
+    Zeit
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen)
@@ -3751,9 +3751,9 @@
   language: Türkisch und Deutsch
   total_work: 300
   credit_points: 10
-  duration: 'Zwei Semester oder ein Semester einschließlich vorlesungsfreier
-
-    Zeit'
+  duration: |-
+    Zwei Semester oder ein Semester einschließlich vorlesungsfreier
+    Zeit
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen)
@@ -4262,6 +4262,9 @@
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations- und
     Medienkompetenz)
   differentiated: false
+  cross_link:
+    - major: lehrinf_bsc_2015
+      subject: Objektorientierte Programmierung
 - page: 74
   name: Layout und Design von Printmedien
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung
@@ -5441,70 +5444,6 @@
   repeat: Unregelmäßig
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Kommunikative
-    Kompetenzen)
-  differentiated: false
-- page: 6
-  name: Gruppenleitung in Lehr-Lern-Kontexten
-  organizer: Freie Universität Berlin/ Career Service Berlin
-  responsible: Career Service
-  requirements: |
-    Keine
-  goals: |
-    Die Studierenden sind in der Lage, studentische Lerngruppen (z. B. in
-    Mentorien oder Tutorien) anzuleiten. Sie verfügen über Grundlagenkenntnisse
-    zu ausgewählten psychologisch-pädagogischen Modellen des Lehrens und Lernens
-    und können diese in die Gestaltung eigener Lehr-Lern-Kontexte einbringen, um
-    eine positive Lernumgebung zu schaffen. Sie kennen aktivierende Methoden für
-    die unterschiedlichen Sozialformen sowie Grundlagen gender- und
-    diversitätsbewusster Didaktik und können diese auf heterogene Lerngruppen
-    übertragen und anwenden. Sie sind in der Lage, komplexe Sachverhalte
-    verständlich und anschaulich zu vermitteln und können eigene Arbeitsprozesse
-    im Rahmen der Leitung von Lerngruppen effizient planen, organisieren und
-    gestalten. Sie können ihr eigenes Verhalten und Auftreten in der Lehrpraxis
-    kritisch bewerten, kennen die Phasen von Gruppenprozessen und können mit
-    typischen Konflikten und Störungen innerhalb einer Gruppe konstruktiv
-    umgehen.
-  content: |
-    Das Modul vermittelt in fachübergreifenden Gruppen lerntheoretische und
-    anwendungsbezogene Grundkenntnisse der Anleitung studentischer Lern- und
-    Arbeitsgruppen. Aspekte der Didaktik und Methodik inklusive genderund
-    diversitätsbewusster Didaktik werden exemplarisch vor dem Hintergrund
-    ausgewählter psychologisch-pädagogischer Modelle des Lehrens und Lernens
-    vorgestellt und in der Gruppe diskutiert. Dabei übernehmen die Studierenden
-    unter Anleitung kleinere Moderationsaufgaben und beraten sich kollegial. In
-    einem begleitenden Workbook und im Austausch mit anderen Teilnehmenden
-    reflektieren die Studierenden ihre eigene Rolle, ihre Art Wissen zu
-    vermitteln und Gruppen anzuleiten sowie Lernstoff zu strukturieren und
-    lerntypendifferenziert aufzubereiten. Einzelne Gelingensaspekte der
-    adressatenorientierten studentisch angeleiteten Lehre werden unter dem
-    Gesichtspunkt fachspezifischer Anforderungen gemeinsam erarbeitet und
-    diskutiert. Unterschiedliche Lern- und Arbeitstechniken, die das
-    selbstgesteuerte Lernen fördern, werden in praktischen Übungen verfestigt.
-    Anhand von Beispielen werden Methoden zum Umgang mit typischen (auch
-    herausfordernden) Kommunikations- und Konfliktsituationen gesammelt. Bei der
-    Vermittlung der Inhalte wird Wert daraufgelegt, unterschiedliche
-    Sozialformen und Gruppendynamiken im Blick zu haben und immer auch auf der
-    Metaebene zu besprechen und zu analysieren.
-  teachingunit:
-    - type: Projektseminar
-      swstime: 2
-      attendance: recommended
-      activity: |
-        Beteiligung an Diskussionen, Moderationen, Präsentationen von Planungen und Arbeitsfortschritten sowie Einzelund Gruppenarbeiten, Planung einer Lerneinheit unter Berücksichtigung fachspezifischer Anforderungen
-  workload:
-    - type: Selbststudium
-      time: 30
-    - type: Vor- und Nachbereitung
-      time: 120
-  exam: |
-    Keine
-  language: Deutsch
-  total_work: 150
-  credit_points: 5
-  duration: Ein Semester
-  repeat: Jedes Semester
-  usability: |
-    Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Kommunikative
     Kompetenzen)
   differentiated: false
 - page: 92

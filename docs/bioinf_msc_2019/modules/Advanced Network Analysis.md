@@ -97,4 +97,11 @@ Masterstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Advanced Network Analysis)](../../datasci_msc_2019/modules/Advanced Network Analysis.md)
+
+</td></tr>
+
 </table>

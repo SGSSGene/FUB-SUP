@@ -89,4 +89,11 @@ Zusatzqualifikationen)
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Arbeits- und Lebensmethodik)](../../inf_bsc_2023/modules/Arbeits- und Lebensmethodik.md)
+
+</td></tr>
+
 </table>

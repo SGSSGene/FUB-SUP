@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen)](../../inf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -111,6 +111,13 @@ Prüfungsleistung (120 Minuten) durchgeführt werden.
 Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
 Lehramt
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen)](../../lehrinf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md)
 
 </td></tr>
 

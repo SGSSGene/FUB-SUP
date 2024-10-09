@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Applied Machine Learning in Bioinformatics </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in bioinf_msc_2019](../../bioinf_msc_2019/modules/Applied Machine Learning in Bioinformatics.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [bioinf_msc_2019 (Applied Machine Learning in Bioinformatics)](../../bioinf_msc_2019/modules/Applied Machine Learning in Bioinformatics.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -84,6 +84,13 @@ Minuten)
 
 Masterstudiengang Bioinformatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2021 (Applied Machine Learning in Bioinformatics)](../../datasci_msc_2021/modules/Applied Machine Learning in Bioinformatics.md)
 
 </td></tr>
 

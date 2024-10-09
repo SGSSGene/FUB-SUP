@@ -101,4 +101,11 @@ Lehramt
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2015 (Algorithmen, Datenstrukturen und Datenabstraktion)](../../lehrinf_bsc_2015/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md)
+
+</td></tr>
+
 </table>

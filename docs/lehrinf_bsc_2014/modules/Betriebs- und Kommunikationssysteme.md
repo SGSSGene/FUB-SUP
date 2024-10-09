@@ -7,7 +7,7 @@ tags:
 
 # Betriebs- und Kommunikationssysteme
 
-[« Auswirkung der Informatik](Auswirkung der Informatik.md){class=prev}
+[« Auswirkungen der Informatik](Auswirkungen der Informatik.md){class=prev}
 [Datenbanksysteme »](Datenbanksysteme.md){class=next}
 {class=prev-next-nav}
 
@@ -102,6 +102,14 @@ Mathematik und Informatik der Freien Universität Berlin verwiesen.
 
 
 - Es ist unklar ob dies ein Pflicht oder Wahlmodul ist. Da der Pflichteil bereits mit 50LP erfüllt ist, gehe ich davon aus das es ein Wahlmodul ist.
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Betriebs- und Kommunikationssysteme)](../../inf_bsc_2023/modules/Betriebs- und Kommunikationssysteme.md)
+- [lehrinf_bsc_2015 (Betriebs- und Kommunikationssysteme)](../../lehrinf_bsc_2015/modules/Betriebs- und Kommunikationssysteme.md)
 
 </td></tr>
 

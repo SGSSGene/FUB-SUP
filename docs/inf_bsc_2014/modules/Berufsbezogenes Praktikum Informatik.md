@@ -91,4 +91,11 @@ Zusatzqualifikation)
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Berufsbezogenes Praktikum Informatik)](../../inf_bsc_2023/modules/Berufsbezogenes Praktikum Informatik.md)
+
+</td></tr>
+
 </table>

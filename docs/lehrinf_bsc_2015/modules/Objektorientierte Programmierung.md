@@ -103,4 +103,11 @@ Bachelorstudiengang Informatik für das Lehramt
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [abv_2018 (Objektorientierte Programmierung)](../../abv_2018/modules/Objektorientierte Programmierung.md)
+
+</td></tr>
+
 </table>

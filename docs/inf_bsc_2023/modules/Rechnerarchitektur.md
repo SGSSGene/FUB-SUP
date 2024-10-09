@@ -108,4 +108,12 @@ und Gymnasien mit dem Profil Quereinstieg 6 LP
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Rechnerarchitektur)](../../lehrinf_bsc_2014/modules/Rechnerarchitektur.md)
+- [lehrinf_bsc_2015 (Rechnerarchitektur)](../../lehrinf_bsc_2015/modules/Rechnerarchitektur.md)
+
+</td></tr>
+
 </table>

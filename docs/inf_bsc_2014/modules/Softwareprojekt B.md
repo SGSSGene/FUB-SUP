@@ -100,4 +100,12 @@ Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Softwareprojekt B)](../../lehrinf_bsc_2014/modules/Softwareprojekt B.md)
+- [lehrinf_bsc_2015 (Softwareprojekt B)](../../lehrinf_bsc_2015/modules/Softwareprojekt B.md)
+
+</td></tr>
+
 </table>

@@ -95,4 +95,13 @@ Lehramt, Bachelorstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Grundlagen der Theoretischen Informatik)](../../inf_bsc_2023/modules/Grundlagen der Theoretischen Informatik.md)
+- [lehrinf_bsc_2014 (Grundlagen der Theoretischen Informatik)](../../lehrinf_bsc_2014/modules/Grundlagen der Theoretischen Informatik.md)
+- [lehrinf_bsc_2015 (Grundlagen der Theoretischen Informatik)](../../lehrinf_bsc_2015/modules/Grundlagen der Theoretischen Informatik.md)
+
+</td></tr>
+
 </table>

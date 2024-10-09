@@ -109,4 +109,13 @@ Lehramt
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2014 (Wissenschaftliches Arbeiten in der Informatik)](../../inf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md)
+- [lehrinf_bsc_2014 (Wissenschaftliches Arbeiten in der Informatik)](../../lehrinf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md)
+- [lehrinf_bsc_2015 (Wissenschaftliches Arbeiten in der Informatik)](../../lehrinf_bsc_2015/modules/Wissenschaftliches Arbeiten in der Informatik.md)
+
+</td></tr>
+
 </table>

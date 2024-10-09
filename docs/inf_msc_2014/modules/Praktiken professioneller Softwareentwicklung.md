@@ -92,4 +92,11 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Praktiken professioneller Softwareentwicklung)](../../inf_bsc_2023/modules/Praktiken professioneller Softwareentwicklung.md)
+
+</td></tr>
+
 </table>

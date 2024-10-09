@@ -95,4 +95,11 @@ Bachelorstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Genetik und Genomforschung)](../../bioinf_bsc_2023/modules/Genetik und Genomforschung.md)
+
+</td></tr>
+
 </table>

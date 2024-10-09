@@ -7,14 +7,14 @@ tags:
 
 # Funktionale Programmierung
 
-[« Funktionale Programmierung](Funktionale Programmierung.md){class=prev}
+[« Forschungspraktikum](Forschungspraktikum.md){class=prev}
 [Gesellschaftliche Aspekte der Informatik »](Gesellschaftliche Aspekte der Informatik.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Funktionale Programmierung </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Funktionale Programmierung.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Funktionale Programmierung)](../../inf_bsc_2014/modules/Funktionale Programmierung.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -100,6 +100,15 @@ Prüfungsleistung (120 Minuten) durchgeführt werden.
 Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
 Lehramt
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Funktionale Programmierung)](../../inf_bsc_2023/modules/Funktionale Programmierung.md)
+- [lehrinf_bsc_2014 (Funktionale Programmierung)](../../lehrinf_bsc_2014/modules/Funktionale Programmierung.md)
+- [lehrinf_bsc_2015 (Funktionale Programmierung)](../../lehrinf_bsc_2015/modules/Funktionale Programmierung.md)
 
 </td></tr>
 

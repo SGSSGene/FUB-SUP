@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Netzbasierte Informationssysteme </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_msc_2014](../../inf_msc_2014/modules/Netzbasierte Informationssysteme.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_msc_2014 (Netzbasierte Informationssysteme)](../../inf_msc_2014/modules/Netzbasierte Informationssysteme.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -104,6 +104,15 @@ Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung
 
 Masterstudiengang Informatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_msc_2019 (Netzbasierte Informationssysteme)](../../bioinf_msc_2019/modules/Netzbasierte Informationssysteme.md)
+- [datasci_msc_2019 (Netzbasierte Informationssysteme)](../../datasci_msc_2019/modules/Netzbasierte Informationssysteme.md)
+- [datasci_msc_2021 (Netzbasierte Informationssysteme)](../../datasci_msc_2021/modules/Netzbasierte Informationssysteme.md)
 
 </td></tr>
 

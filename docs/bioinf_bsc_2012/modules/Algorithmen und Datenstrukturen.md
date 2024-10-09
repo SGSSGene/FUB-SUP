@@ -88,4 +88,12 @@ Bachelorstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Algorithmen und Datenstrukturen)](../../bioinf_bsc_2023/modules/Algorithmen und Datenstrukturen.md)
+- [inf_bsc_2023 (Algorithmen und Datenstrukturen)](../../inf_bsc_2023/modules/Algorithmen und Datenstrukturen.md)
+
+</td></tr>
+
 </table>

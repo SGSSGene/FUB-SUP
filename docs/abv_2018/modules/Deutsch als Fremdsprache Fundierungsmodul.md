@@ -95,4 +95,5 @@ Bachelorstudiengang Studienbereich ABV (Kompetenzbereich Fremdsprachen)
 
 </td></tr>
 
+
 </table>

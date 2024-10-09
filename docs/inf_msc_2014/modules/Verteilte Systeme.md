@@ -116,4 +116,13 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_msc_2019 (Verteilte Systeme)](../../bioinf_msc_2019/modules/Verteilte Systeme.md)
+- [datasci_msc_2019 (Verteilte Systeme)](../../datasci_msc_2019/modules/Verteilte Systeme.md)
+- [datasci_msc_2021 (Verteilte Systeme)](../../datasci_msc_2021/modules/Verteilte Systeme.md)
+
+</td></tr>
+
 </table>

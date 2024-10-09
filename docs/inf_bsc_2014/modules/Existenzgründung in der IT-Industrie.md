@@ -93,4 +93,11 @@ Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_msc_2014 (Existenzgründung in der IT-Industrie)](../../inf_msc_2014/modules/Existenzgründung in der IT-Industrie.md)
+
+</td></tr>
+
 </table>

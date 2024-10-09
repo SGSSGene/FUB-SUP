@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Grundlagen der Theoretischen Informatik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Grundlagen der Theoretischen Informatik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Grundlagen der Theoretischen Informatik)](../../inf_bsc_2014/modules/Grundlagen der Theoretischen Informatik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -91,6 +91,15 @@ Prüfungsleistung (90 Minuten) durchgeführt werden.
 Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
 Lehramt, Bachelorstudiengang Bioinformatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Grundlagen der Theoretischen Informatik)](../../inf_bsc_2023/modules/Grundlagen der Theoretischen Informatik.md)
+- [lehrinf_bsc_2014 (Grundlagen der Theoretischen Informatik)](../../lehrinf_bsc_2014/modules/Grundlagen der Theoretischen Informatik.md)
+- [lehrinf_bsc_2015 (Grundlagen der Theoretischen Informatik)](../../lehrinf_bsc_2015/modules/Grundlagen der Theoretischen Informatik.md)
 
 </td></tr>
 

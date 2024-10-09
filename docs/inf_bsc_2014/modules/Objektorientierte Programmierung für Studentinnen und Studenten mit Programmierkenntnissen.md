@@ -115,4 +115,11 @@ Lehramt
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen)](../../lehrinf_bsc_2014/modules/Objektorientierte Programmierung für Studentinnen und Studenten mit Programmierkenntnissen.md)
+
+</td></tr>
+
 </table>

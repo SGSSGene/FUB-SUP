@@ -131,4 +131,11 @@ Bachelorstudiengang Informatik für das Lehramt
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Nichtsequentielle und verteilte Programmierung für Lehramt)](../../lehrinf_bsc_2014/modules/Nichtsequentielle und verteilte Programmierung für Lehramt.md)
+
+</td></tr>
+
 </table>

@@ -107,4 +107,12 @@ Einführungs- und Orientierungsstudium
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Lineare Algebra für Informatik)](../../bioinf_bsc_2023/modules/Lineare Algebra für Informatik.md)
+- [inf_bsc_2014 (Lineare Algebra für Informatik)](../../inf_bsc_2014/modules/Lineare Algebra für Informatik.md)
+
+</td></tr>
+
 </table>

@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Konzepte der Programmierung </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2023](../../inf_bsc_2023/modules/Konzepte der Programmierung.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2023 (Konzepte der Programmierung)](../../inf_bsc_2023/modules/Konzepte der Programmierung.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -103,6 +103,13 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg,
 Masterstudiengang Wirtschaftsinformatik, Masterstudiengang Computational
 Sciences
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Konzepte der Programmierung)](../../bioinf_bsc_2023/modules/Konzepte der Programmierung.md)
 
 </td></tr>
 

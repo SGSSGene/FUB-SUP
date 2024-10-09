@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Data Science in the Life Sciences </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Mathematik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in datasci_msc_2019](../../datasci_msc_2019/modules/Data Science in the Life Sciences.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [datasci_msc_2019 (Data Science in the Life Sciences)](../../datasci_msc_2019/modules/Data Science in the Life Sciences.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -88,6 +88,13 @@ Bearbeitung von Aufgaben, Kurzvorträge mit Diskussion, Diskussion von Literatur
 
 Masterstudiengang Data Science
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_msc_2019 (Data Science in the Life Sciences)](../../bioinf_msc_2019/modules/Data Science in the Life Sciences.md)
 
 </td></tr>
 

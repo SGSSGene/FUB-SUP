@@ -108,4 +108,13 @@ Zusatzqualifikationen)
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Systemverwaltung)](../../inf_bsc_2023/modules/Systemverwaltung.md)
+- [lehrinf_bsc_2014 (Systemverwaltung)](../../lehrinf_bsc_2014/modules/Systemverwaltung.md)
+- [lehrinf_bsc_2015 (Systemverwaltung)](../../lehrinf_bsc_2015/modules/Systemverwaltung.md)
+
+</td></tr>
+
 </table>

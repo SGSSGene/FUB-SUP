@@ -86,4 +86,5 @@ Studienbereich ABV (Kompetenzbereich Fachnahe Zusatzqualifikationen)
 
 </td></tr>
 
+
 </table>

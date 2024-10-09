@@ -94,4 +94,11 @@ Masterstudiengang Data Science
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2021 (Machine Learning for Data Science)](../../datasci_msc_2021/modules/Machine Learning for Data Science.md)
+
+</td></tr>
+
 </table>

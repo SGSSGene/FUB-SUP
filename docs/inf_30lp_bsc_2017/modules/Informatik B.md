@@ -92,4 +92,11 @@ Prüfungsleistung durchgeführt werden.
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2012 (Informatik B)](../../bioinf_bsc_2012/modules/Informatik B.md)
+
+</td></tr>
+
 </table>

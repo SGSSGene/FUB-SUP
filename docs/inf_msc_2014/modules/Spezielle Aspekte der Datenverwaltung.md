@@ -89,4 +89,13 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_msc_2019 (Spezielle Aspekte der Datenverwaltung)](../../bioinf_msc_2019/modules/Spezielle Aspekte der Datenverwaltung.md)
+- [datasci_msc_2019 (Spezielle Aspekte der Datenverwaltung)](../../datasci_msc_2019/modules/Spezielle Aspekte der Datenverwaltung.md)
+- [datasci_msc_2021 (Spezielle Aspekte der Datenverwaltung)](../../datasci_msc_2021/modules/Spezielle Aspekte der Datenverwaltung.md)
+
+</td></tr>
+
 </table>

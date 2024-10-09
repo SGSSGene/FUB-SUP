@@ -107,4 +107,13 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_msc_2019 (Netzbasierte Informationssysteme)](../../bioinf_msc_2019/modules/Netzbasierte Informationssysteme.md)
+- [datasci_msc_2019 (Netzbasierte Informationssysteme)](../../datasci_msc_2019/modules/Netzbasierte Informationssysteme.md)
+- [datasci_msc_2021 (Netzbasierte Informationssysteme)](../../datasci_msc_2021/modules/Netzbasierte Informationssysteme.md)
+
+</td></tr>
+
 </table>

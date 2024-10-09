@@ -5,6 +5,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Informatik/Algorithmische Bioinformatik
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Konzepte der Programmierung
 - page: 8
   name: Algorithmen und Datenstrukturen
   link: inf_bsc_2023
@@ -12,6 +15,11 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Informatik/Algorithmische Bioinformatik
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Algorithmen und Datenstrukturen
+    - major: inf_bsc_2023
+      subject: Algorithmen und Datenstrukturen
 - page: 8
   name: Algorithmische Bioinformatik I und Numerik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -302,6 +310,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Mathematik/Statistik
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Diskrete Strukturen für Informatik
 - page: 13
   name: Lineare Algebra für Informatik
   link: inf_bsc_2023
@@ -309,6 +320,11 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Mathematik/Statistik
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Lineare Algebra für Informatik
+    - major: inf_bsc_2023
+      subject: Lineare Algebra für Informatik
 - page: 13
   name: Analysis für Informatik
   link: inf_bsc_2023
@@ -316,6 +332,11 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Mathematik/Statistik
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Analysis für Informatik
+    - major: inf_bsc_2023
+      subject: Analysis für Informatik
 - page: 13
   name: Statistik für Bioinformatik I
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
@@ -515,6 +536,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Allgemeine Chemie
 - page: 16
   name: Allgemeine Biologie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biologie
@@ -570,6 +594,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Allgemeine Biologie
 - page: 17
   name: Molekularbiologie und Biochemie I
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biochemie
@@ -628,6 +655,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Molekularbiologie und Biochemie I
 - page: 18
   name: Molekularbiologie und Biochemie II
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biochemie
@@ -692,6 +722,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Molekularbiologie und Biochemie II
 - page: 19
   name: Molekularbiologie und Biochemie III
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biochemie
@@ -748,6 +781,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Molekularbiologie und Biochemie III
 - page: 20
   name: Genetik und Genomforschung
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biologie
@@ -802,6 +838,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Genetik und Genomforschung
 - page: 21
   name: Medizinische Physiologie
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
@@ -877,6 +916,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Medizinische Physiologie
 - page: 22
   name: Neurobiologie
   organizer: Freie Universität Berlin/Biologie, Chemie, Pharmazie/Biologie
@@ -934,6 +976,9 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Neurobiologie
 - page: 23
   name: Projektmanagement im Softwarebereich
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -993,3 +1038,6 @@
     - Pflichtbereich
     - Studienbereich
     - Studienbereich AllgemeineBerufsvorbereitung
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Projektmanagement im Softwarebereich

@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Analysis für Informatik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2023](../../inf_bsc_2023/modules/Analysis für Informatik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2023 (Analysis für Informatik)](../../inf_bsc_2023/modules/Analysis für Informatik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -105,6 +105,14 @@ durchgeführt werden.
 
 Bachelorstudiengang Informatik, Bachelorstudiengang Bioinformatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Analysis für Informatik)](../../bioinf_bsc_2023/modules/Analysis für Informatik.md)
+- [inf_bsc_2014 (Analysis für Informatik)](../../inf_bsc_2014/modules/Analysis für Informatik.md)
 
 </td></tr>
 

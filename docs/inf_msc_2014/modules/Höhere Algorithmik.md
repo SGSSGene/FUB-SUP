@@ -100,4 +100,13 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_msc_2019 (Höhere Algorithmik)](../../bioinf_msc_2019/modules/Höhere Algorithmik.md)
+- [datasci_msc_2019 (Höhere Algorithmik)](../../datasci_msc_2019/modules/Höhere Algorithmik.md)
+- [datasci_msc_2021 (Höhere Algorithmik)](../../datasci_msc_2021/modules/Höhere Algorithmik.md)
+
+</td></tr>
+
 </table>
