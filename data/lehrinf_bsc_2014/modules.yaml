@@ -389,13 +389,10 @@
     - major: lehrinf_bsc_2015
       subject: Softwareprojekt B
 - page: 12
-  name: Auswirkung der Informatik
+  name: Auswirkungen der Informatik
   link: inf_bsc_2014
   tags:
     - Wahlbereich
-  cross_link:
-    - major: lehrinf_bsc_2015
-      subject: Auswirkung der Informatik
 - page: 12
   name: Gesellschaftliche Aspekte der Informatik
   link: inf_bsc_2014
