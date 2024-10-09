@@ -8,13 +8,13 @@ tags:
 # Algorithmen, Datenstrukturen und Datenabstraktion
 
 
-[Auswirkung der Informatik »](Auswirkung der Informatik.md){class=next}
+[Auswirkungen der Informatik »](Auswirkungen der Informatik.md){class=next}
 {class=prev-next-nav}
 
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Algorithmen, Datenstrukturen und Datenabstraktion </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Algorithmen, Datenstrukturen und Datenabstraktion)](../../inf_bsc_2014/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -97,6 +97,13 @@ Prüfungsleistung (120 Minuten) durchgeführt werden.
 Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
 Lehramt
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2015 (Algorithmen, Datenstrukturen und Datenabstraktion)](../../lehrinf_bsc_2015/modules/Algorithmen, Datenstrukturen und Datenabstraktion.md)
 
 </td></tr>
 

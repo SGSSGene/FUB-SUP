@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Informatik B </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_30lp_bsc_2017](../../inf_30lp_bsc_2017/modules/Informatik B.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_30lp_bsc_2017 (Informatik B)](../../inf_30lp_bsc_2017/modules/Informatik B.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -96,6 +96,13 @@ Prüfungsleistung durchgeführt werden.
 
 30-LP-Modulangebot Informatik; Bachelorstudiengang Bioinformatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2012 (Informatik B)](../../bioinf_bsc_2012/modules/Informatik B.md)
 
 </td></tr>
 

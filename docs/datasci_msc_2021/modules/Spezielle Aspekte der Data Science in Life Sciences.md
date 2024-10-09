@@ -87,4 +87,11 @@ Masterstudiengang Data Science
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Spezielle Aspekte der Data Science in Life Sciences)](../../datasci_msc_2019/modules/Spezielle Aspekte der Data Science in Life Sciences.md)
+
+</td></tr>
+
 </table>

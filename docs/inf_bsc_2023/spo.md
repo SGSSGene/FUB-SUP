@@ -159,37 +159,66 @@ Die Regelstudienzeit beträgt sechs Semester.
     - den Wahlbereich im Umfang von 10 LP.
 3. Pflichtbereich: In diesem Studienbereich sind die folgenden Module zu
    absolvieren:
-    - [Konzepte der Programmierung (9LP)](modules/Konzepte der Programmierung.md)
-    - [Diskrete Strukturen für Informatik (9LP)](modules/Diskrete Strukturen für Informatik.md)
-    - [Auswirkungen der Informatik (6LP)](modules/Auswirkungen der Informatik.md)
-    - [Algorithmen und Datenstrukturen (9LP)](modules/Algorithmen und Datenstrukturen.md)
-    - [Lineare Algebra für Informatik (9LP)](modules/Lineare Algebra für Informatik.md)
-    - [Rechnerarchitektur (6LP)](modules/Rechnerarchitektur.md)
-    - [Grundlagen der Theoretischen Informatik (6LP)](modules/Grundlagen der Theoretischen Informatik.md)
-    - [Nebenläufige, parallele und verteilte Programmierung (9LP)](modules/Nebenläufige, parallele und verteilte Programmierung.md)
-    - [Analysis für Informatik (9LP)](modules/Analysis für Informatik.md)
-    - [Betriebs- und Kommunikationssysteme (6LP)](modules/Betriebs- und Kommunikationssysteme.md)
-    - [Datenbanksysteme (6LP)](modules/Datenbanksysteme.md)
-    - [Programmierpraktikum (5LP)](modules/Programmierpraktikum.md)
-    - [Statistik für Informatik (6LP)](modules/Statistik für Informatik.md)
-    - [Informationssicherheit (6LP)](modules/Informationssicherheit.md)
-    - [Softwaretechnik (9LP)](modules/Softwaretechnik.md)
-    - [Wissenschaftliches Arbeiten in der Informatik (6LP)](modules/Wissenschaftliches Arbeiten in der Informatik.md)
+    - Modul: [„Konzepte der Programmierung“](modules/Konzepte der Programmierung.md) (9LP)
+
+    - Modul: [„Diskrete Strukturen für Informatik“](modules/Diskrete Strukturen für Informatik.md) (9LP)
+
+    - Modul: [„Auswirkungen der Informatik“](modules/Auswirkungen der Informatik.md) (6LP)
+
+    - Modul: [„Algorithmen und Datenstrukturen“](modules/Algorithmen und Datenstrukturen.md) (9LP)
+
+    - Modul: [„Lineare Algebra für Informatik“](modules/Lineare Algebra für Informatik.md) (9LP)
+
+    - Modul: [„Rechnerarchitektur“](modules/Rechnerarchitektur.md) (6LP)
+
+    - Modul: [„Grundlagen der Theoretischen Informatik“](modules/Grundlagen der Theoretischen Informatik.md) (6LP)
+
+    - Modul: [„Nebenläufige, parallele und verteilte Programmierung“](modules/Nebenläufige, parallele und verteilte Programmierung.md) (9LP)
+
+    - Modul: [„Analysis für Informatik“](modules/Analysis für Informatik.md) (9LP)
+
+    - Modul: [„Betriebs- und Kommunikationssysteme“](modules/Betriebs- und Kommunikationssysteme.md) (6LP)
+
+    - Modul: [„Datenbanksysteme“](modules/Datenbanksysteme.md) (6LP)
+
+    - Modul: [„Programmierpraktikum“](modules/Programmierpraktikum.md) (5LP)
+
+    - Modul: [„Statistik für Informatik“](modules/Statistik für Informatik.md) (6LP)
+
+    - Modul: [„Informationssicherheit“](modules/Informationssicherheit.md) (6LP)
+
+    - Modul: [„Softwaretechnik“](modules/Softwaretechnik.md) (9LP)
+
+    - Modul: [„Wissenschaftliches Arbeiten in der Informatik“](modules/Wissenschaftliches Arbeiten in der Informatik.md) (6LP)
+
 4. Wahlpflichtbereich: In diesem Studienbereich sind aus den folgenden Modulen
    zwei Module zu wählen und zu absolvieren:
-    - Modul: [Angewandte Biometrie (6LP)](modules/Angewandte Biometrie.md)
-    - Modul: [Architektur eingebetteter Systeme (6LP)](modules/Architektur eingebetteter Systeme.md)
-    - Modul: [Datenvisualisierung (6LP)](modules/Datenvisualisierung.md)
-    - Modul: [Forschungspraktikum (6LP)](modules/Forschungspraktikum.md)
-    - Modul: [Funktionale Programmierung (6LP)](modules/Funktionale Programmierung.md)
-    - Modul: [Informationstheorie (6LP)](modules/Informationstheorie.md)
-    - Modul: [Maschinelles Lernen (6LP)](modules/Maschinelles Lernen.md)
-    - Modul: [Mensch-Computer Interaktion (6LP)](modules/Mensch-Computer Interaktion.md)
-    - Modul: [Praktiken professioneller Softwareentwicklung (6LP)](modules/Praktiken professioneller Softwareentwicklung.md)
-    - Modul: [Grundlagen des Datenschutzrechts (6LP)](modules/Grundlagen des Datenschutzrechts.md)
-    - Modul: [Vertiefung Theoretische Informatik (6LP)](modules/Vertiefung Theoretische Informatik.md)
-    - Modul: [Aktuelle Themen in der Informatik (6LP)](modules/Aktuelle Themen in der Informatik.md)
-    - Modul: [Vertiefte Aspekte der Informatik (6LP)](modules/Vertiefte Aspekte der Informatik.md)
+    - Modul: Modul: [„Angewandte Biometrie“](modules/Angewandte Biometrie.md) (6LP)
+
+    - Modul: Modul: [„Architektur eingebetteter Systeme“](modules/Architektur eingebetteter Systeme.md) (6LP)
+
+    - Modul: Modul: [„Datenvisualisierung“](modules/Datenvisualisierung.md) (6LP)
+
+    - Modul: Modul: [„Forschungspraktikum“](modules/Forschungspraktikum.md) (6LP)
+
+    - Modul: Modul: [„Funktionale Programmierung“](modules/Funktionale Programmierung.md) (6LP)
+
+    - Modul: Modul: [„Informationstheorie“](modules/Informationstheorie.md) (6LP)
+
+    - Modul: Modul: [„Maschinelles Lernen“](modules/Maschinelles Lernen.md) (6LP)
+
+    - Modul: Modul: [„Mensch-Computer Interaktion“](modules/Mensch-Computer Interaktion.md) (6LP)
+
+    - Modul: Modul: [„Praktiken professioneller Softwareentwicklung“](modules/Praktiken professioneller Softwareentwicklung.md) (6LP)
+
+    - Modul: Modul: [„Grundlagen des Datenschutzrechts“](modules/Grundlagen des Datenschutzrechts.md) (6LP)
+
+    - Modul: Modul: [„Vertiefung Theoretische Informatik“](modules/Vertiefung Theoretische Informatik.md) (6LP)
+
+    - Modul: Modul: [„Aktuelle Themen in der Informatik“](modules/Aktuelle Themen in der Informatik.md) (6LP)
+
+    - Modul: Modul: [„Vertiefte Aspekte der Informatik“](modules/Vertiefte Aspekte der Informatik.md) (6LP)
+
 5. Im Wahlbereich können Module beliebiger wissenschaftlicher Studienfächer
    (einschließlich der Informatik) im Umfang von 10 LP absolviert werden, die
    die erworbenen Qualifikationen ergänzen. Im Pflicht- oder Wahlpflichtbereich
@@ -197,17 +226,24 @@ Die Regelstudienzeit beträgt sechs Semester.
    anderen Studiengängen dürfen im Wahlbereich nicht eingebracht werden.
 6. Im Bereich Allgemeine Berufsvorbereitung ist im Kompetenzbereich Fachnahe
    Zusatzqualifikationen das Modul
-   [Softwareprojekt (10LP)](modules/Softwareprojekt.md)
+   Modul: [„Softwareprojekt“](modules/Softwareprojekt.md) (10LP)
+
    zu absolvieren.
    Zusätzlich werden die folgenden Module angeboten:
-    -  Modul: [Arbeits- und Lebensmethodik (5LP)](modules/Arbeits- und Lebensmethodik.md)
-    -  Modul: [Gender and Diversity (5LP)](modules/Gender and Diversity.md)
-    -  Modul: [Planung, Durchführung und Evaluation eines Tutoriums in der Informatik (5LP)](modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md)
-    -  Modul: [Projektmanagement in agilen Umgebungen (5LP)](modules/Projektmanagement in agilen Umgebungen.md)
-    -  Modul: [Systemverwaltung (5LP)](modules/Systemverwaltung.md)
+    -  Modul: Modul: [„Arbeits- und Lebensmethodik“](modules/Arbeits- und Lebensmethodik.md) (5LP)
+
+    -  Modul: Modul: [„Gender and Diversity“](modules/Gender and Diversity.md) (5LP)
+
+    -  Modul: Modul: [„Planung, Durchführung und Evaluation eines Tutoriums in der Informatik“](modules/Planung, Durchführung und Evaluation eines Tutoriums in der Informatik.md) (5LP)
+
+    -  Modul: Modul: [„Projektmanagement in agilen Umgebungen“](modules/Projektmanagement in agilen Umgebungen.md) (5LP)
+
+    -  Modul: Modul: [„Systemverwaltung“](modules/Systemverwaltung.md) (5LP)
+
 
    Im Bereich Praktika wird das Modul
-   [Berufsbezogenes Praktikum Informatik (10LP)](modules/Berufsbezogenes Praktikum Informatik.md)
+   Modul: [„Berufsbezogenes Praktikum Informatik“](modules/Berufsbezogenes Praktikum Informatik.md) (10LP)
+
    angeboten.
 
 7. Über die Zugangsvoraussetzungen, die Inhalte und Qualifikationsziele, die
@@ -328,7 +364,8 @@ Die Regelstudienzeit beträgt sechs Semester.
      1. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
         immatrikuliert gewesen sind und
      2. Module im Umfang von mindestens 90 LP erfolgreich absolviert haben,
-        darunter das Modul [Wissenschaftliches Arbeiten in der Informatik (6LP)](modules/Wissenschaftliches Arbeiten in der Informatik.md).
+        darunter das Modul Modul: [„Wissenschaftliches Arbeiten in der Informatik“](modules/Wissenschaftliches Arbeiten in der Informatik.md) (6LP)
+.
 03. Dem Antrag auf Zulassung zur Bachelorarbeit sind Nachweise über das
     Vorliegen der Voraussetzungen gemäß Abs. 2 beizufügen, ferner die
     Bescheinigung einer prüfungsberechtigten Lehrkraft über die Bereitschaft zur

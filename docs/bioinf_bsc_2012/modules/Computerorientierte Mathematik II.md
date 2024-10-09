@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Computerorientierte Mathematik II </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in math_bsc_2013](../../math_bsc_2013/modules/Computerorientierte Mathematik II.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [math_bsc_2013 (Computerorientierte Mathematik II)](../../math_bsc_2013/modules/Computerorientierte Mathematik II.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -86,6 +86,13 @@ Regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben so
 Bachelorstudiengang Mathematik; Bachelorstudiengang Mathematik für das
 Lehramt, Bachelorstudiengang Bioinformatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2012 (Computerorientierte Mathematik II)](../../bioinf_bsc_2012/modules/Computerorientierte Mathematik II.md)
 
 </td></tr>
 

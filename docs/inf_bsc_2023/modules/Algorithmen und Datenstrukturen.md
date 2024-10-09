@@ -105,4 +105,12 @@ Wirtschaftsinformatik, Masterstudiengang Computational Sciences
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2012 (Algorithmen und Datenstrukturen)](../../bioinf_bsc_2012/modules/Algorithmen und Datenstrukturen.md)
+- [bioinf_bsc_2023 (Algorithmen und Datenstrukturen)](../../bioinf_bsc_2023/modules/Algorithmen und Datenstrukturen.md)
+
+</td></tr>
+
 </table>

@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Lineare Algebra für Informatik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2023](../../inf_bsc_2023/modules/Lineare Algebra für Informatik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2023 (Lineare Algebra für Informatik)](../../inf_bsc_2023/modules/Lineare Algebra für Informatik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -106,6 +106,14 @@ durchgeführt werden.
 Bachelorstudiengang Informatik, Bachelorstudiengang Bioinformatik,
 Einführungs- und Orientierungsstudium
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Lineare Algebra für Informatik)](../../bioinf_bsc_2023/modules/Lineare Algebra für Informatik.md)
+- [inf_bsc_2014 (Lineare Algebra für Informatik)](../../inf_bsc_2014/modules/Lineare Algebra für Informatik.md)
 
 </td></tr>
 

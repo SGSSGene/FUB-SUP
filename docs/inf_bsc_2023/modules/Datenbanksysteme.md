@@ -117,4 +117,13 @@ Wirtschaftsinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2014 (Datenbanksysteme)](../../inf_bsc_2014/modules/Datenbanksysteme.md)
+- [lehrinf_bsc_2014 (Datenbanksysteme)](../../lehrinf_bsc_2014/modules/Datenbanksysteme.md)
+- [lehrinf_bsc_2015 (Datenbanksysteme)](../../lehrinf_bsc_2015/modules/Datenbanksysteme.md)
+
+</td></tr>
+
 </table>

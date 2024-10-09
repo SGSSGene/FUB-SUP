@@ -89,4 +89,12 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Mustererkennung)](../../datasci_msc_2019/modules/Mustererkennung.md)
+- [datasci_msc_2021 (Mustererkennung)](../../datasci_msc_2021/modules/Mustererkennung.md)
+
+</td></tr>
+
 </table>

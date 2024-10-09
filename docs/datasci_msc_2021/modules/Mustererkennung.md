@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Mustererkennung </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_msc_2014](../../inf_msc_2014/modules/Mustererkennung.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_msc_2014 (Mustererkennung)](../../inf_msc_2014/modules/Mustererkennung.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -86,6 +86,14 @@ Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung
 
 Masterstudiengang Informatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Mustererkennung)](../../datasci_msc_2019/modules/Mustererkennung.md)
+- [datasci_msc_2021 (Mustererkennung)](../../datasci_msc_2021/modules/Mustererkennung.md)
 
 </td></tr>
 

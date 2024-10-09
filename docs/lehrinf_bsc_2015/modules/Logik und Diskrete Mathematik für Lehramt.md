@@ -99,4 +99,11 @@ Prüfungsleistung (120 Minuten) durchgeführt werden
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Logik und Diskrete Mathematik für Lehramt)](../../lehrinf_bsc_2014/modules/Logik und Diskrete Mathematik für Lehramt.md)
+
+</td></tr>
+
 </table>

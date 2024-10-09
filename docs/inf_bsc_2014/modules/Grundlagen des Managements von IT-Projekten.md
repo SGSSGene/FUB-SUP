@@ -103,4 +103,11 @@ Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_msc_2014 (Grundlagen des Managements von IT-Projekten)](../../inf_msc_2014/modules/Grundlagen des Managements von IT-Projekten.md)
+
+</td></tr>
+
 </table>

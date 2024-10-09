@@ -82,4 +82,5 @@ Bachelorstudiengang Physik/Studienbereich Allgemeine Berufsvorbereitung
 
 </td></tr>
 
+
 </table>

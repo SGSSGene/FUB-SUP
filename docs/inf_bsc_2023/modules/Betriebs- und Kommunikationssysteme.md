@@ -110,4 +110,12 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Betriebs- und Kommunikationssysteme)](../../lehrinf_bsc_2014/modules/Betriebs- und Kommunikationssysteme.md)
+- [lehrinf_bsc_2015 (Betriebs- und Kommunikationssysteme)](../../lehrinf_bsc_2015/modules/Betriebs- und Kommunikationssysteme.md)
+
+</td></tr>
+
 </table>

@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Grundlagen des Managements von IT-Projekten </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Grundlagen des Managements von IT-Projekten.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Grundlagen des Managements von IT-Projekten)](../../inf_bsc_2014/modules/Grundlagen des Managements von IT-Projekten.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -105,6 +105,13 @@ Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
 
 
 - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_msc_2014 (Grundlagen des Managements von IT-Projekten)](../../inf_msc_2014/modules/Grundlagen des Managements von IT-Projekten.md)
 
 </td></tr>
 

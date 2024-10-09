@@ -7,7 +7,7 @@ tags:
 
 # Gruppenleitung in Lehr-Lern-Kontexten
 
-[« Gruppenleitung in Lehr-Lern-Kontexten](Gruppenleitung in Lehr-Lern-Kontexten.md){class=prev}
+[« Grundlagen, Ideen und Business Modelle zur Unternehmensgründung](Grundlagen, Ideen und Business Modelle zur Unternehmensgründung.md){class=prev}
 [Gründung einer Studentenfirma – Funpreneur-Wettbewerb »](Gründung einer Studentenfirma – Funpreneur-Wettbewerb.md){class=next}
 {class=prev-next-nav}
 
@@ -98,5 +98,6 @@ Kompetenzen)
 
 
 </td></tr>
+
 
 </table>

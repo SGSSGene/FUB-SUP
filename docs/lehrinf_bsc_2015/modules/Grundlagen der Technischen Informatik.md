@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Grundlagen der Technischen Informatik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Grundlagen der Technischen Informatik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Grundlagen der Technischen Informatik)](../../inf_bsc_2014/modules/Grundlagen der Technischen Informatik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -100,6 +100,14 @@ und Protokollbuch)
 
 Bachelorstudiengang Informatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2014 (Grundlagen der Technischen Informatik)](../../lehrinf_bsc_2014/modules/Grundlagen der Technischen Informatik.md)
+- [lehrinf_bsc_2015 (Grundlagen der Technischen Informatik)](../../lehrinf_bsc_2015/modules/Grundlagen der Technischen Informatik.md)
 
 </td></tr>
 

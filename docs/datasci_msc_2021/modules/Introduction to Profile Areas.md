@@ -92,4 +92,11 @@ Masterstudiengang Data Science
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Introduction to Profile Areas)](../../datasci_msc_2019/modules/Introduction to Profile Areas.md)
+
+</td></tr>
+
 </table>

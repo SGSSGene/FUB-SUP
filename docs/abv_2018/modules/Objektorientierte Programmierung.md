@@ -81,4 +81,11 @@ Medienkompetenz)
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [lehrinf_bsc_2015 (Objektorientierte Programmierung)](../../lehrinf_bsc_2015/modules/Objektorientierte Programmierung.md)
+
+</td></tr>
+
 </table>

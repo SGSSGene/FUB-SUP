@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Advanced Network Analysis </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in bioinf_msc_2019](../../bioinf_msc_2019/modules/Advanced Network Analysis.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [bioinf_msc_2019 (Advanced Network Analysis)](../../bioinf_msc_2019/modules/Advanced Network Analysis.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -99,6 +99,13 @@ Masterstudiengang Bioinformatik
 
 
 - This course is supposed to have 10LP via DataScience 2019, but in bioinformatic it is only listet with 5LP
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Advanced Network Analysis)](../../datasci_msc_2019/modules/Advanced Network Analysis.md)
 
 </td></tr>
 

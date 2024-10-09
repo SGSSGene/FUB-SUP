@@ -99,4 +99,11 @@ Bachelorstudiengang Mathematik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [math_msc_2018 (Stochastik II)](../../math_msc_2018/modules/Stochastik II.md)
+
+</td></tr>
+
 </table>

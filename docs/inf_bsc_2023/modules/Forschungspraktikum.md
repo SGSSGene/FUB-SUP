@@ -101,4 +101,12 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2014 (Forschungspraktikum)](../../inf_bsc_2014/modules/Forschungspraktikum.md)
+- [lehrinf_bsc_2015 (Forschungspraktikum)](../../lehrinf_bsc_2015/modules/Forschungspraktikum.md)
+
+</td></tr>
+
 </table>

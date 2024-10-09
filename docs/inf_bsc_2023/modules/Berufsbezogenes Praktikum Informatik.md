@@ -18,7 +18,7 @@ tags:
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
-- Studienbereich Allgemeine Berufsvorbereitung
+- Studienbereich Allgemeine Berufsvorbereitung - Praktika
 
 </td></tr>
 
@@ -93,6 +93,13 @@ Zusatzqualifikation)
 
 
 - Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2014 (Berufsbezogenes Praktikum Informatik)](../../inf_bsc_2014/modules/Berufsbezogenes Praktikum Informatik.md)
 
 </td></tr>
 

@@ -13,7 +13,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Wissenschaftliches Arbeiten in der Informatik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Wissenschaftliches Arbeiten in der Informatik)](../../inf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -100,6 +100,15 @@ Schriftliche Ausarbeitung; Teilnahme an den Diskussionen zum Vortrag
 
 Bachelorstudiengang Informatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Wissenschaftliches Arbeiten in der Informatik)](../../inf_bsc_2023/modules/Wissenschaftliches Arbeiten in der Informatik.md)
+- [lehrinf_bsc_2014 (Wissenschaftliches Arbeiten in der Informatik)](../../lehrinf_bsc_2014/modules/Wissenschaftliches Arbeiten in der Informatik.md)
+- [lehrinf_bsc_2015 (Wissenschaftliches Arbeiten in der Informatik)](../../lehrinf_bsc_2015/modules/Wissenschaftliches Arbeiten in der Informatik.md)
 
 </td></tr>
 

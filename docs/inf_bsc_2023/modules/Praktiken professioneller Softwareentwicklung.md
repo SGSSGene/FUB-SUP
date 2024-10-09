@@ -105,4 +105,11 @@ Integrierten Sekundarschulen und Gymnasien mit dem Profil Quereinstieg
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_msc_2014 (Praktiken professioneller Softwareentwicklung)](../../inf_msc_2014/modules/Praktiken professioneller Softwareentwicklung.md)
+
+</td></tr>
+
 </table>

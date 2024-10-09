@@ -96,4 +96,5 @@ Bachelorstudiengänge Studienbereich ABV (Berufspraktikum)
 
 </td></tr>
 
+
 </table>

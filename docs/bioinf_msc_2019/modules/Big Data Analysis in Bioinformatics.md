@@ -96,4 +96,12 @@ Masterstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Big Data Analysis in Bioinformatics)](../../datasci_msc_2019/modules/Big Data Analysis in Bioinformatics.md)
+- [datasci_msc_2021 (Big Data Analysis in Bioinformatics)](../../datasci_msc_2021/modules/Big Data Analysis in Bioinformatics.md)
+
+</td></tr>
+
 </table>

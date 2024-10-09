@@ -85,4 +85,11 @@ Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [math_bsc_2013 (Algebra I)](../../math_bsc_2013/modules/Algebra I.md)
+
+</td></tr>
+
 </table>

@@ -104,4 +104,11 @@ Bachelorstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Molekularbiologie und Biochemie II)](../../bioinf_bsc_2023/modules/Molekularbiologie und Biochemie II.md)
+
+</td></tr>
+
 </table>

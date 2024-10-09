@@ -111,4 +111,13 @@ Lehramt
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Softwaretechnik)](../../inf_bsc_2023/modules/Softwaretechnik.md)
+- [lehrinf_bsc_2014 (Softwaretechnik)](../../lehrinf_bsc_2014/modules/Softwaretechnik.md)
+- [lehrinf_bsc_2015 (Softwaretechnik)](../../lehrinf_bsc_2015/modules/Softwaretechnik.md)
+
+</td></tr>
+
 </table>

@@ -104,4 +104,12 @@ Masterstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Machine Learning in Bioinformatics)](../../datasci_msc_2019/modules/Machine Learning in Bioinformatics.md)
+- [datasci_msc_2021 (Machine Learning in Bioinformatics)](../../datasci_msc_2021/modules/Machine Learning in Bioinformatics.md)
+
+</td></tr>
+
 </table>

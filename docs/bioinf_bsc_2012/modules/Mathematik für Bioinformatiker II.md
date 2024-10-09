@@ -102,4 +102,5 @@ Berlin verwiesen. Verwendbarkeit: Bachelorstudiengang Bioinformatik
 
 </td></tr>
 
+
 </table>

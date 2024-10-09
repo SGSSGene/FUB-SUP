@@ -92,4 +92,11 @@ Bachelorstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Neurobiologie)](../../bioinf_bsc_2023/modules/Neurobiologie.md)
+
+</td></tr>
+
 </table>

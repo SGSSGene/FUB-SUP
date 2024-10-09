@@ -88,4 +88,11 @@ Masterstudiengang Bioinformatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2021 (Applied Machine Learning in Bioinformatics)](../../datasci_msc_2021/modules/Applied Machine Learning in Bioinformatics.md)
+
+</td></tr>
+
 </table>

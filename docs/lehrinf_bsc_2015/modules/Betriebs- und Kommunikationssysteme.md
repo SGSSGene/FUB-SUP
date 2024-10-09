@@ -7,7 +7,7 @@ tags:
 
 # Betriebs- und Kommunikationssysteme
 
-[« Auswirkung der Informatik](Auswirkung der Informatik.md){class=prev}
+[« Auswirkungen der Informatik](Auswirkungen der Informatik.md){class=prev}
 [Datenbanksysteme »](Datenbanksysteme.md){class=next}
 {class=prev-next-nav}
 
@@ -101,6 +101,14 @@ Verwendbarkeit: 60-LP-Modulangebot Informatik
 
 
 - Dies ist in der Modulbeschreibung als "Pflichtmodul" aber in Paragarph 19 als "Wahlpflichtmodul" gelistet. Ich gehe davon aus das es ein Wahlpflichtmodul ist
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Betriebs- und Kommunikationssysteme)](../../inf_bsc_2023/modules/Betriebs- und Kommunikationssysteme.md)
+- [lehrinf_bsc_2014 (Betriebs- und Kommunikationssysteme)](../../lehrinf_bsc_2014/modules/Betriebs- und Kommunikationssysteme.md)
 
 </td></tr>
 

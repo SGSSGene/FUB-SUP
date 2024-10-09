@@ -77,4 +77,11 @@ Masterstudiengang Data Science
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2021 (Forschungspraxis)](../../datasci_msc_2021/modules/Forschungspraxis.md)
+
+</td></tr>
+
 </table>

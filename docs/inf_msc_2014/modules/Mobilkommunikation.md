@@ -97,4 +97,12 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Mobilkommunikation)](../../datasci_msc_2019/modules/Mobilkommunikation.md)
+- [datasci_msc_2021 (Mobilkommunikation)](../../datasci_msc_2021/modules/Mobilkommunikation.md)
+
+</td></tr>
+
 </table>

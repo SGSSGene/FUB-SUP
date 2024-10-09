@@ -86,4 +86,11 @@ Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [math_bsc_2013 (Diskrete Mathematik I)](../../math_bsc_2013/modules/Diskrete Mathematik I.md)
+
+</td></tr>
+
 </table>

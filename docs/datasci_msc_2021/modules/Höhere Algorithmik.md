@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Höhere Algorithmik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_msc_2014](../../inf_msc_2014/modules/Höhere Algorithmik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_msc_2014 (Höhere Algorithmik)](../../inf_msc_2014/modules/Höhere Algorithmik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -97,6 +97,15 @@ Prüfungsleistung (90 Minuten) durchgeführt werden, oder mündliche Prüfung
 
 Masterstudiengang Informatik
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_msc_2019 (Höhere Algorithmik)](../../bioinf_msc_2019/modules/Höhere Algorithmik.md)
+- [datasci_msc_2019 (Höhere Algorithmik)](../../datasci_msc_2019/modules/Höhere Algorithmik.md)
+- [datasci_msc_2021 (Höhere Algorithmik)](../../datasci_msc_2021/modules/Höhere Algorithmik.md)
 
 </td></tr>
 

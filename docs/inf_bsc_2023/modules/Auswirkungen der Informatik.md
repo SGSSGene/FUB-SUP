@@ -107,4 +107,14 @@ Gymnasien mit dem Profil Quereinstieg
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_30lp_bsc_2017 (Auswirkungen der Informatik)](../../inf_30lp_bsc_2017/modules/Auswirkungen der Informatik.md)
+- [inf_bsc_2014 (Auswirkungen der Informatik)](../../inf_bsc_2014/modules/Auswirkungen der Informatik.md)
+- [lehrinf_bsc_2014 (Auswirkungen der Informatik)](../../lehrinf_bsc_2014/modules/Auswirkungen der Informatik.md)
+- [lehrinf_bsc_2015 (Auswirkungen der Informatik)](../../lehrinf_bsc_2015/modules/Auswirkungen der Informatik.md)
+
+</td></tr>
+
 </table>

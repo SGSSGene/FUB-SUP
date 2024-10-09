@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Partielle Differentialgleichungen I </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in math_msc_2018](../../math_msc_2018/modules/Partielle Differentialgleichungen I.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [math_msc_2018 (Partielle Differentialgleichungen I)](../../math_msc_2018/modules/Partielle Differentialgleichungen I.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -89,6 +89,13 @@ Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
 
 
 - Eigentlich verweist die SPO auf "Differentialgleichungen I" aber der existiert im 2018 master nicht, daher nehme ich an die "Partielle" variante ist gemeint.
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [math_bsc_2013 (Partielle Differentialgleichungen I)](../../math_bsc_2013/modules/Partielle Differentialgleichungen I.md)
 
 </td></tr>
 

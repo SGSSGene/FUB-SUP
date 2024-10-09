@@ -74,4 +74,11 @@ Masterstudiengang Data Science
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Programming for Data Science)](../../datasci_msc_2019/modules/Programming for Data Science.md)
+
+</td></tr>
+
 </table>

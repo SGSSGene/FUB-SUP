@@ -105,4 +105,5 @@ Bachelorstudiengang Bioinformatik
 
 </td></tr>
 
+
 </table>

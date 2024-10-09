@@ -99,4 +99,12 @@ Masterstudiengang Informatik
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [datasci_msc_2019 (Telematik)](../../datasci_msc_2019/modules/Telematik.md)
+- [datasci_msc_2021 (Telematik)](../../datasci_msc_2021/modules/Telematik.md)
+
+</td></tr>
+
 </table>

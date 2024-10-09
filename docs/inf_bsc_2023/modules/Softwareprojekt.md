@@ -18,7 +18,7 @@ tags:
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
-- Studienbereich Allgemeine Berufsvorbereitung
+- Studienbereich Allgemeine Berufsvorbereitung - Fachnahe Zusatzqualifikationen
 
 </td></tr>
 
@@ -92,5 +92,6 @@ Zusatzqualifikationen)
 
 
 </td></tr>
+
 
 </table>

@@ -104,4 +104,13 @@ Lehramt
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Funktionale Programmierung)](../../inf_bsc_2023/modules/Funktionale Programmierung.md)
+- [lehrinf_bsc_2014 (Funktionale Programmierung)](../../lehrinf_bsc_2014/modules/Funktionale Programmierung.md)
+- [lehrinf_bsc_2015 (Funktionale Programmierung)](../../lehrinf_bsc_2015/modules/Funktionale Programmierung.md)
+
+</td></tr>
+
 </table>

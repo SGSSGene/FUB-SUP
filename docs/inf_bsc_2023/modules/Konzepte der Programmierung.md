@@ -104,4 +104,11 @@ Sciences
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [bioinf_bsc_2023 (Konzepte der Programmierung)](../../bioinf_bsc_2023/modules/Konzepte der Programmierung.md)
+
+</td></tr>
+
 </table>

@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Diskrete Mathematik I </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in math_msc_2018](../../math_msc_2018/modules/Diskrete Mathematik I.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [math_msc_2018 (Diskrete Mathematik I)](../../math_msc_2018/modules/Diskrete Mathematik I.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -84,6 +84,13 @@ regelmäßige, schriftliche Ausarbeitung von Lösungen zu den Übungsaufgaben so
 
 Masterstudiengang Mathematik, Berlin Mathematical School-Studienangebot
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [math_bsc_2013 (Diskrete Mathematik I)](../../math_bsc_2013/modules/Diskrete Mathematik I.md)
 
 </td></tr>
 

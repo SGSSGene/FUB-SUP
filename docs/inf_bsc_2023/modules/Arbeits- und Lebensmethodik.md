@@ -88,4 +88,11 @@ Zusatzqualifikationen), Bachelorstudiengang Mathematik: Studienbereich ABV
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2014 (Arbeits- und Lebensmethodik)](../../inf_bsc_2014/modules/Arbeits- und Lebensmethodik.md)
+
+</td></tr>
+
 </table>

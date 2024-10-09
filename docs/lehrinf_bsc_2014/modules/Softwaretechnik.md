@@ -14,7 +14,7 @@ tags:
 <table markdown id="moduledesc">
 <tr markdown class="moduledesc_head"><th colspan="2">Softwaretechnik </th></tr>
 <tr markdown><td colspan="2">**Organisationseinheit**   <br>Freie Universität Berlin/Mathematik und Informatik/Informatik</td></tr>
-<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in inf_bsc_2014](../../inf_bsc_2014/modules/Softwaretechnik.md)</td></tr>
+<tr markdown><td colspan="2">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [inf_bsc_2014 (Softwaretechnik)](../../inf_bsc_2014/modules/Softwaretechnik.md)</td></tr>
 <tr markdown><td colspan="2">**Bereich**<br>
 
 
@@ -107,6 +107,15 @@ durchgeführt werden.
 Bachelorstudiengang Informatik, Bachelorstudiengang Informatik für das
 Lehramt
 
+
+</td></tr>
+
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Softwaretechnik)](../../inf_bsc_2023/modules/Softwaretechnik.md)
+- [lehrinf_bsc_2014 (Softwaretechnik)](../../lehrinf_bsc_2014/modules/Softwaretechnik.md)
+- [lehrinf_bsc_2015 (Softwaretechnik)](../../lehrinf_bsc_2015/modules/Softwaretechnik.md)
 
 </td></tr>
 

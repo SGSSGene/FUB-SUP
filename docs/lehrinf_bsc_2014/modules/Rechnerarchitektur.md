@@ -93,4 +93,12 @@ Mathematik und Informatik der Freien Universität Berlin verwiesen.
 
 </td></tr>
 
+<tr markdown><td colspan="2">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>
+
+
+- [inf_bsc_2023 (Rechnerarchitektur)](../../inf_bsc_2023/modules/Rechnerarchitektur.md)
+- [lehrinf_bsc_2015 (Rechnerarchitektur)](../../lehrinf_bsc_2015/modules/Rechnerarchitektur.md)
+
+</td></tr>
+
 </table>
