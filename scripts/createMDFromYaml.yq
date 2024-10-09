@@ -85,7 +85,7 @@ def cleanup:
     else ""
     end) as $tagstext
 | (if has("origin") then
-    "<tr markdown><td colspan=\"2\">**Ursprung**<br>Dies ist ein Verweis auf [den Eintrag in " + .origin + "](../../" + .origin + "/modules/" + .name + ".md)</td></tr>"
+    "<tr markdown><td colspan=\"2\">**Ursprung**<br>Dies ist ein Verweis auf den Eintrag in [" + .origin + " (\(.name))](../../" + .origin + "/modules/" + .name + ".md)</td></tr>"
     else ""
     end) as $linktext
 | (if (.modification | length) > 0 then
