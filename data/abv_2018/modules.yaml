@@ -4262,6 +4262,9 @@
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Informations- und
     Medienkompetenz)
   differentiated: false
+  cross_link:
+    - major: lehrinf_bsc_2015
+      subject: Objektorientierte Programmierung
 - page: 74
   name: Layout und Design von Printmedien
   organizer: Freie Universität Berlin/Zentraleinrichtung für Datenverarbeitung

@@ -64,6 +64,9 @@
   tags:
     - Pflichtbereich
     - Themengebiet Algorithmen und Programmierung
+  cross_link:
+    - major: lehrinf_bsc_2015
+      subject: Algorithmen, Datenstrukturen und Datenabstraktion
 - page: 76
   name: Analysis für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -131,6 +134,11 @@
   tags:
     - Pflichtbereich
     - Themengebiet Mathematik für Informatikerinnen und Informatiker
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Analysis für Informatik
+    - major: inf_bsc_2023
+      subject: Analysis für Informatik
 - page: 87
   name: Arbeits- und Lebensmethodik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -181,6 +189,9 @@
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Arbeits- und Lebensmethodik
 - page: 71
   name: Auswirkungen der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -240,6 +251,11 @@
   tags:
     - Pflichtbereich
     - Themengebiet Praktische Informatik
+  cross_link:
+    - major: inf_30lp_bsc_2017
+      subject: Auswirkungen der Informatik
+    - major: inf_bsc_2023
+      subject: Auswirkungen der Informatik
 - page: 81
   name: Basisdidaktik Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
@@ -354,6 +370,9 @@
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Berufsbezogenes Praktikum Informatik
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Berufsbezogenes Praktikum Informatik
 - page: 72
   name: Datenbanksysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -429,6 +448,13 @@
   tags:
     - Pflichtbereich
     - Themengebiet Praktische Informatik
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Datenbanksysteme
+    - major: lehrinf_bsc_2014
+      subject: Datenbanksysteme
+    - major: lehrinf_bsc_2015
+      subject: Datenbanksysteme
 - page: 88
   name: Existenzgründung in der IT-Industrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -484,6 +510,9 @@
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
+  cross_link:
+    - major: inf_msc_2014
+      subject: Existenzgründung in der IT-Industrie
 - page: 80
   name: Forschungspraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -534,6 +563,11 @@
   differentiated: true
   tags:
     - Vertiefungsbereich
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Forschungspraktikum
+    - major: lehrinf_bsc_2015
+      subject: Forschungspraktikum
 - page: 64
   name: Funktionale Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -603,6 +637,13 @@
   tags:
     - Pflichtbereich
     - Themengebiet Algorithmen und Programmierung
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Funktionale Programmierung
+    - major: lehrinf_bsc_2014
+      subject: Funktionale Programmierung
+    - major: lehrinf_bsc_2015
+      subject: Funktionale Programmierung
 - page: 89
   name: Gesellschaftliche Aspekte der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -655,6 +696,11 @@
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Gesellschaftliche Aspekte der Informatik
+    - major: lehrinf_bsc_2015
+      subject: Gesellschaftliche Aspekte der Informatik
 - page: 79
   name: Grundlagen der Technischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -723,6 +769,11 @@
   differentiated: true
   tags:
     - Vertiefungsbereich
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Grundlagen der Technischen Informatik
+    - major: lehrinf_bsc_2015
+      subject: Grundlagen der Technischen Informatik
 - page: 74
   name: Grundlagen der Theoretischen Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -783,6 +834,13 @@
   tags:
     - Pflichtbereich
     - Themengebiet Theoretische Informatik
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Grundlagen der Theoretischen Informatik
+    - major: lehrinf_bsc_2014
+      subject: Grundlagen der Theoretischen Informatik
+    - major: lehrinf_bsc_2015
+      subject: Grundlagen der Theoretischen Informatik
 - page: 92
   name: Grundlagen des Managements von IT-Projekten
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -848,6 +906,9 @@
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
+  cross_link:
+    - major: inf_msc_2014
+      subject: Grundlagen des Managements von IT-Projekten
 - page: 76
   name: Lineare Algebra für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -910,6 +971,11 @@
   tags:
     - Pflichtbereich
     - Themengebiet Mathematik für Informatikerinnen und Informatiker
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Lineare Algebra für Informatik
+    - major: inf_bsc_2023
+      subject: Lineare Algebra für Informatik
 - page: 75
   name: Logik und Diskrete Mathematik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1137,6 +1203,10 @@
   tags:
     - Pflichtbereich
     - Themengebiet Algorithmen und Programmierung
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Objektorientierte Programmierung für Studentinnen und Studenten mit
+        Programmierkenntnissen
 - page: 66
   name: Objektorientierte Programmierung für Studentinnen und Studenten ohne Programmierkenntnisse
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1550,6 +1620,11 @@
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Softwareprojekt B
+    - major: lehrinf_bsc_2015
+      subject: Softwareprojekt B
 - page: 73
   name: Softwaretechnik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1626,6 +1701,13 @@
   tags:
     - Pflichtbereich
     - Themengebiet Praktische Informatik
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Softwaretechnik
+    - major: lehrinf_bsc_2014
+      subject: Softwaretechnik
+    - major: lehrinf_bsc_2015
+      subject: Softwaretechnik
 - page: 93
   name: Systemverwaltung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1700,6 +1782,13 @@
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
     - Kompetenzbereich Fachnahe Zusatzqualifikationen
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Systemverwaltung
+    - major: lehrinf_bsc_2014
+      subject: Systemverwaltung
+    - major: lehrinf_bsc_2015
+      subject: Systemverwaltung
 - page: 78
   name: Wissenschaftliches Arbeiten in der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1770,6 +1859,13 @@
   tags:
     - Pflichtbereich
     - Themengebiet Wissenschaft
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Wissenschaftliches Arbeiten in der Informatik
+    - major: lehrinf_bsc_2014
+      subject: Wissenschaftliches Arbeiten in der Informatik
+    - major: lehrinf_bsc_2015
+      subject: Wissenschaftliches Arbeiten in der Informatik
 - page: 82
   name: Wissenschaftliches Arbeiten Praktische Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik

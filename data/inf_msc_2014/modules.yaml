@@ -285,6 +285,9 @@
   modification:
     - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor
       Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Existenzgründung in der IT-Industrie
 - page: 112
   name: Grundlagen des Softwaretestens
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -366,6 +369,9 @@
   modification:
     - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor
       Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Grundlagen des Managements von IT-Projekten
 - page: 113
   name: Künstliche Intelligenz
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -420,6 +426,11 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Künstliche Intelligenz
+    - major: datasci_msc_2021
+      subject: Künstliche Intelligenz
 - page: 114
   name: Medizinische Bildverarbeitung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -607,6 +618,11 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Mustererkennung
+    - major: datasci_msc_2021
+      subject: Mustererkennung
 - page: 117
   name: Netzbasierte Informationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -679,6 +695,13 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Netzbasierte Informationssysteme
+    - major: datasci_msc_2019
+      subject: Netzbasierte Informationssysteme
+    - major: datasci_msc_2021
+      subject: Netzbasierte Informationssysteme
 - page: 118
   name: Projektmanagement
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -901,6 +924,11 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Rechnersicherheit
+    - major: datasci_msc_2021
+      subject: Rechnersicherheit
 - page: 121
   name: Semantisches Geschäftsprozessmanagement
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1167,6 +1195,13 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Verteilte Systeme
+    - major: datasci_msc_2019
+      subject: Verteilte Systeme
+    - major: datasci_msc_2021
+      subject: Verteilte Systeme
 - page: 125
   name: XML-Technologien
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1298,6 +1333,9 @@
   differentiated: false
   tags:
     - Studienbereich Praktische Informatik
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Praktiken professioneller Softwareentwicklung
 - page: 127
   name: Softwareprojekt – Praktische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1695,6 +1733,13 @@
   differentiated: true
   tags:
     - Studienbereich Praktische Informatik
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Spezielle Aspekte der Datenverwaltung
+    - major: datasci_msc_2019
+      subject: Spezielle Aspekte der Datenverwaltung
+    - major: datasci_msc_2021
+      subject: Spezielle Aspekte der Datenverwaltung
 - page: 134
   name: Spezielle Aspekte der Softwareentwicklung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1869,6 +1914,13 @@
   differentiated: true
   tags:
     - Studienbereich Theoretische Informatik
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Höhere Algorithmik
+    - major: datasci_msc_2019
+      subject: Höhere Algorithmik
+    - major: datasci_msc_2021
+      subject: Höhere Algorithmik
 - page: 137
   name: Modelchecking
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2751,6 +2803,11 @@
   differentiated: true
   tags:
     - Studienbereich Technische Informatik
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Mobilkommunikation
+    - major: datasci_msc_2021
+      subject: Mobilkommunikation
 - page: 152
   name: Robotik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2865,6 +2922,11 @@
   differentiated: true
   tags:
     - Studienbereich Technische Informatik
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Telematik
+    - major: datasci_msc_2021
+      subject: Telematik
 - page: 154
   name: Softwareprojekt – Technische Informatik A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik

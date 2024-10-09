@@ -95,7 +95,13 @@ def cleanup:
     ] | flatten | join("\n") + "\n")
     else ""
     end) as $modtext
-
+| (if (.cross_link | length) > 0 then
+    (["<tr markdown><td colspan=\"2\">**Querverweis zu anderen Studien/Prüfungsordnungen mit dem gleichen Titel**<br>\n\n"
+    , ([.cross_link[] | "- [\(.major) (\(.subject))](../../\(.major)/modules/\(.subject).md)"])
+    , "\n</td></tr>"
+    ] | flatten | join("\n") + "\n")
+    else ""
+    end) as $cross_link_text
 | [   "---"
     , "tags:"
     , ("  - " + env.YQ_TAG)
@@ -126,6 +132,7 @@ def cleanup:
     , "<tr markdown><td colspan=\"2\">**Häufigkeit des Angebots**  <br>" + .repeat        + "</td></tr>"
     , "<tr markdown><td colspan=\"2\">**Verwendbarkeit**           <br>\n\n" + .usability     + "\n\n</td></tr>"
     , $modtext
+    , $cross_link_text
     , "</table>"
   ] | flatten
 | .[]

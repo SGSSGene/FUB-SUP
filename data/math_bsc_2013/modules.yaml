@@ -383,6 +383,9 @@
   differentiated: true
   tags:
     - Grundlagenbereich
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Computerorientierte Mathematik I
 - page: 12
   name: Computerorientierte Mathematik II
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -437,6 +440,9 @@
   differentiated: true
   tags:
     - Grundlagenbereich
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Computerorientierte Mathematik II
 - page: 13
   name: Stochastik I
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1046,6 +1052,9 @@
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil A
+  cross_link:
+    - major: math_msc_2018
+      subject: Stochastik II
 - page: 23
   name: Mathematisches Projekt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Mathematik
@@ -1371,36 +1380,54 @@
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil B
+  cross_link:
+    - major: math_msc_2018
+      subject: Partielle Differentialgleichungen I
 - page: 29
   name: Diskrete Mathematik I
   link: math_msc_2018
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil B
+  cross_link:
+    - major: math_msc_2018
+      subject: Diskrete Mathematik I
 - page: 29
   name: Algebra I
   link: math_msc_2018
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil B
+  cross_link:
+    - major: math_msc_2018
+      subject: Algebra I
 - page: 29
   name: Numerik II
   link: math_msc_2018
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil B
+  cross_link:
+    - major: math_msc_2018
+      subject: Numerik II
 - page: 29
   name: Differentialgeometrie I
   link: math_msc_2018
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil B
+  cross_link:
+    - major: math_msc_2018
+      subject: Differentialgeometrie I
 - page: 29
   name: Topologie I
   link: math_msc_2018
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil B
+  cross_link:
+    - major: math_msc_2018
+      subject: Topologie I
 - page: 29
   name: Visualisierung
   link: math_msc_2018

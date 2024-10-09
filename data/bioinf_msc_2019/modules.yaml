@@ -550,6 +550,9 @@
   tags:
     - Profilstudium mit der Ausrichtung Complex Systems
     - V-Modul
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Advanced Network Analysis
 - page: 24
   name: Computer-Aided Drug Design
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -850,6 +853,11 @@
   tags:
     - Profilstudium mit der Ausrichtung Data Science
     - V-Modul
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Machine Learning in Bioinformatics
+    - major: datasci_msc_2021
+      subject: Machine Learning in Bioinformatics
 - page: 30
   name: Big Data Analysis in Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Mathematik
@@ -911,6 +919,11 @@
   tags:
     - Profilstudium mit der Ausrichtung Data Science
     - V-Modul
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Big Data Analysis in Bioinformatics
+    - major: datasci_msc_2021
+      subject: Big Data Analysis in Bioinformatics
 - page: 31
   name: Complex Data Analysis in Physiology
   organizer: Fakultät der Charité – Universitätsmedizin Berlin
@@ -1192,6 +1205,9 @@
   tags:
     - Profilstudium mit der Ausrichtung Data Science
     - Praxismodul
+  cross_link:
+    - major: datasci_msc_2021
+      subject: Applied Machine Learning in Bioinformatics
 - page: 38
   name: Advanced Algorithms for Bioinformatics
   organizer: Freie Universität Berlin/FB Mathematik und Informatik/LE Informatik
@@ -2117,23 +2133,54 @@
   link: inf_msc_2014
   tags:
     - Profilstudium mit der Ausrichtung Advanced Algorithms
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Höhere Algorithmik
+    - major: datasci_msc_2021
+      subject: Höhere Algorithmik
+    - major: inf_msc_2014
+      subject: Höhere Algorithmik
 - page: 3
   name: Spezielle Aspekte der Datenverwaltung
   link: inf_msc_2014
   tags:
     - Profilstudium mit der Ausrichtung Data Science
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Spezielle Aspekte der Datenverwaltung
+    - major: datasci_msc_2021
+      subject: Spezielle Aspekte der Datenverwaltung
+    - major: inf_msc_2014
+      subject: Spezielle Aspekte der Datenverwaltung
 - page: 3
   name: Verteilte Systeme
   link: inf_msc_2014
   tags:
     - Profilstudium mit der Ausrichtung Data Science
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Verteilte Systeme
+    - major: datasci_msc_2021
+      subject: Verteilte Systeme
+    - major: inf_msc_2014
+      subject: Verteilte Systeme
 - page: 3
   name: Data Science in the Life Sciences
   link: datasci_msc_2019
   tags:
     - Profilstudium mit der Ausrichtung Complex Systems
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Data Science in the Life Sciences
 - page: 3
   name: Netzbasierte Informationssysteme
   link: inf_msc_2014
   tags:
     - Profilstudium mit der Ausrichtung Data Science
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Netzbasierte Informationssysteme
+    - major: datasci_msc_2021
+      subject: Netzbasierte Informationssysteme
+    - major: inf_msc_2014
+      subject: Netzbasierte Informationssysteme

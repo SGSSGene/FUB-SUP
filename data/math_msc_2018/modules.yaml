@@ -48,6 +48,9 @@
   differentiated: true
   tags:
     - Basismodul
+  cross_link:
+    - major: math_bsc_2013
+      subject: Algebra I
 - page: 10
   name: Algebra II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -146,6 +149,9 @@
   differentiated: true
   tags:
     - Basismodul
+  cross_link:
+    - major: math_bsc_2013
+      subject: Differentialgeometrie I
 - page: 12
   name: Differentialgeometrie II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -365,6 +371,9 @@
   differentiated: true
   tags:
     - Basismodul
+  cross_link:
+    - major: math_bsc_2013
+      subject: Diskrete Mathematik I
 - page: 16
   name: Diskrete Mathematik II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -577,6 +586,9 @@
   differentiated: true
   tags:
     - Basismodul
+  cross_link:
+    - major: math_bsc_2013
+      subject: Numerik II
 - page: 20
   name: Numerik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -679,6 +691,9 @@
   differentiated: true
   tags:
     - Basismodul
+  cross_link:
+    - major: math_bsc_2013
+      subject: Partielle Differentialgleichungen I
 - page: 22
   name: Partielle Differentialgleichungen II
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -780,6 +795,9 @@
   differentiated: true
   tags:
     - Basismodul
+  cross_link:
+    - major: math_bsc_2013
+      subject: Stochastik II
 - page: 24
   name: Stochastik III
   organizer: Freie Universität Berlin/Mathematik und Informatik
@@ -878,6 +896,9 @@
   differentiated: true
   tags:
     - Basismodul
+  cross_link:
+    - major: math_bsc_2013
+      subject: Topologie I
 - page: 26
   name: Topologie II
   organizer: Freie Universität Berlin/Mathematik und Informatik

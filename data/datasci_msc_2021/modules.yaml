@@ -54,6 +54,9 @@
   differentiated: false
   tags:
     - Grundlagenbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Introduction to Profile Areas
 - page: 12
   name: Statistics for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -113,6 +116,9 @@
   differentiated: false
   tags:
     - Grundlagenbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Statistics for Data Science
 - page: 13
   name: Machine Learning for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -179,6 +185,9 @@
   differentiated: true
   tags:
     - Grundlagenbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Machine Learning for Data Science
 - page: 14
   name: Programming for Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -214,6 +223,9 @@
   differentiated: false
   tags:
     - Grundlagenbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Programming for Data Science
 - page: 15
   name: Ethical Foundations of Data Science
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -260,6 +272,9 @@
   differentiated: false
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Ethical Foundations of Data Science
 - page: 16
   name: Forschungspraxis
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -297,6 +312,9 @@
   differentiated: false
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Forschungspraxis
 - page: 17
   name: Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -405,6 +423,9 @@
   differentiated: true
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Spezielle Aspekte der Data Science in Life Sciences
 - page: 19
   name: Aktuelle Forschungsthemen der Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik
@@ -511,6 +532,9 @@
   differentiated: true
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Ausgewählte Themen der Data Science in Life Sciences
 - page: 21
   name: Masterseminar Data Science in Life Sciences
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -722,6 +746,9 @@
   differentiated: true
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Spezielle Aspekte der Data Science Technologies
 - page: 25
   name: Aktuelle Forschungsthemen der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -775,6 +802,9 @@
   differentiated: true
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Aktuelle Forschungsthemen der Data Science Technologies
 - page: 26
   name: Ausgewählte Themen der Data Science Technologies A
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -954,6 +984,9 @@
   differentiated: true
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Datenbanksysteme Data Science
 - page: 29
   name: Masterseminar der Data Science Technologies
   organizer: Freie Universität Berlin/Mathematik und Informatik/Mathematik und Informatik
@@ -1103,58 +1136,124 @@
   link: bioinf_msc_2019
   tags:
     - Profilbereich
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Machine Learning in Bioinformatics
+    - major: datasci_msc_2019
+      subject: Machine Learning in Bioinformatics
 - page: 31
   name: Big Data Analysis in Bioinformatics
   link: bioinf_msc_2019
   tags:
     - Profilbereich
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Big Data Analysis in Bioinformatics
+    - major: datasci_msc_2019
+      subject: Big Data Analysis in Bioinformatics
 - page: 31
   name: Applied Machine Learning in Bioinformatics
   link: bioinf_msc_2019
   tags:
     - Profilbereich
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Applied Machine Learning in Bioinformatics
 - page: 36
   name: Verteilte Systeme
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Verteilte Systeme
+    - major: datasci_msc_2019
+      subject: Verteilte Systeme
+    - major: inf_msc_2014
+      subject: Verteilte Systeme
 - page: 36
   name: Mobilkommunikation
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Mobilkommunikation
+    - major: inf_msc_2014
+      subject: Mobilkommunikation
 - page: 36
   name: Telematik
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Telematik
+    - major: inf_msc_2014
+      subject: Telematik
 - page: 36
   name: Höhere Algorithmik
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Höhere Algorithmik
+    - major: datasci_msc_2019
+      subject: Höhere Algorithmik
+    - major: inf_msc_2014
+      subject: Höhere Algorithmik
 - page: 36
   name: Rechnersicherheit
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Rechnersicherheit
+    - major: inf_msc_2014
+      subject: Rechnersicherheit
 - page: 36
   name: Mustererkennung
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Mustererkennung
+    - major: inf_msc_2014
+      subject: Mustererkennung
 - page: 36
   name: Netzbasierte Informationssysteme
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Netzbasierte Informationssysteme
+    - major: datasci_msc_2019
+      subject: Netzbasierte Informationssysteme
+    - major: inf_msc_2014
+      subject: Netzbasierte Informationssysteme
 - page: 36
   name: Künstliche Intelligenz
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: datasci_msc_2019
+      subject: Künstliche Intelligenz
+    - major: inf_msc_2014
+      subject: Künstliche Intelligenz
 - page: 36
   name: Spezielle Aspekte der Datenverwaltung
   link: inf_msc_2014
   tags:
     - Profilbereich
+  cross_link:
+    - major: bioinf_msc_2019
+      subject: Spezielle Aspekte der Datenverwaltung
+    - major: datasci_msc_2019
+      subject: Spezielle Aspekte der Datenverwaltung
+    - major: inf_msc_2014
+      subject: Spezielle Aspekte der Datenverwaltung

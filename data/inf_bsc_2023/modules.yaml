@@ -124,6 +124,11 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: bioinf_bsc_2012
+      subject: Algorithmen und Datenstrukturen
+    - major: bioinf_bsc_2023
+      subject: Algorithmen und Datenstrukturen
 - page: 18
   name: Analysis für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -195,6 +200,11 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Analysis für Informatik
+    - major: inf_bsc_2014
+      subject: Analysis für Informatik
 - page: 26
   name: Angewandte Biometrie
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -318,6 +328,9 @@
   differentiated: false
   tags:
     - Studienbereich Allgemeine Berufsvorbereitung
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Arbeits- und Lebensmethodik
 - page: 27
   name: Architektur eingebetteter Systeme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -465,6 +478,11 @@
   modification:
     - |-
       `Sie nehmen{--6--} die Verantwortungsaspekte der Ingenieurtätigkeit an und gestalten Technik und ihren Wandel verantwortungsbewusst mit{--5--}.`
+  cross_link:
+    - major: inf_30lp_bsc_2017
+      subject: Auswirkungen der Informatik
+    - major: inf_bsc_2014
+      subject: Auswirkungen der Informatik
 - page: 45
   name: Berufsbezogenes Praktikum Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -522,6 +540,9 @@
   modification:
     - |-
       Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Berufsbezogenes Praktikum Informatik
 - page: 19
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -597,6 +618,11 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Betriebs- und Kommunikationssysteme
+    - major: lehrinf_bsc_2015
+      subject: Betriebs- und Kommunikationssysteme
 - page: 20
   name: Datenbanksysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -676,6 +702,13 @@
   modification:
     - |-
       Suspicious: "Formen aktiver Teilnahme" ist nur für die Übung annotiert
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Datenbanksysteme
+    - major: lehrinf_bsc_2014
+      subject: Datenbanksysteme
+    - major: lehrinf_bsc_2015
+      subject: Datenbanksysteme
 - page: 28
   name: Datenvisualisierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -820,6 +853,9 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Diskrete Strukturen für Informatik
 - page: 29
   name: Forschungspraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -880,6 +916,11 @@
   modification:
     - |-
       Anpassung der Zugangsvorraussetzungen Textes: `Zugangsvoraussetzungen: {--Erfolgreiche Absolvierung des Moduls „--}Wissenschaftliches Arbeiten in der Informatik{--“--}`
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Forschungspraktikum
+    - major: lehrinf_bsc_2015
+      subject: Forschungspraktikum
 - page: 30
   name: Funktionale Programmierung
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -946,6 +987,13 @@
   modification:
     - |-
       Überflüssiges Leerzeichen entfernt: `Hochschule/Fachbereich/Lehreinheit: Freie Universität Berlin/{-- --}Mathematik und Informatik/Informatik`
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Funktionale Programmierung
+    - major: lehrinf_bsc_2014
+      subject: Funktionale Programmierung
+    - major: lehrinf_bsc_2015
+      subject: Funktionale Programmierung
 - page: 41
   name: Gender and Diversity
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1075,6 +1123,13 @@
   modification:
     - |-
       Qualifikationsziele angepasst: `...untersuchen{--4--} und...`
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Grundlagen der Theoretischen Informatik
+    - major: lehrinf_bsc_2014
+      subject: Grundlagen der Theoretischen Informatik
+    - major: lehrinf_bsc_2015
+      subject: Grundlagen der Theoretischen Informatik
 - page: 35
   name: Grundlagen des Datenschutzrechts
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1361,6 +1416,9 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Konzepte der Programmierung
 - page: 14
   name: Lineare Algebra für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1433,6 +1491,11 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Lineare Algebra für Informatik
+    - major: inf_bsc_2014
+      subject: Lineare Algebra für Informatik
 - page: 32
   name: Maschinelles Lernen
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1785,6 +1848,9 @@
       `{--ul--}{++Modulverantwortung++}: Dozent*in des Moduls gemäß der Zuordnungsliste bei dem*der Studiengangsverantwortlichen`
     - |-
       `{--ul--}{++Zugangsvoraussetzungen++}: Programmierpraktikum, Softwaretechnik`
+  cross_link:
+    - major: inf_msc_2014
+      subject: Praktiken professioneller Softwareentwicklung
 - page: 21
   name: Programmierpraktikum
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -1970,6 +2036,11 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Rechnerarchitektur
+    - major: lehrinf_bsc_2015
+      subject: Rechnerarchitektur
 - page: 39
   name: Softwareprojekt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2095,6 +2166,13 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Softwaretechnik
+    - major: lehrinf_bsc_2014
+      subject: Softwaretechnik
+    - major: lehrinf_bsc_2015
+      subject: Softwaretechnik
 - page: 22
   name: Statistik für Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2241,6 +2319,13 @@
   modification:
     - |-
       Fehlende Klammer hinzugefügt: `Bachelorstudiengang Informatik: Studienbereich ABV (Fachnahe Zusatzqualifikation{++)++}`
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Systemverwaltung
+    - major: lehrinf_bsc_2014
+      subject: Systemverwaltung
+    - major: lehrinf_bsc_2015
+      subject: Systemverwaltung
 - page: 38
   name: Vertiefte Aspekte der Informatik
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2432,3 +2517,10 @@
   modification:
     - |-
       Suspicious: "Formen aktiver Teilnahme" ist nur für das Proseminar annotiert
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Wissenschaftliches Arbeiten in der Informatik
+    - major: lehrinf_bsc_2014
+      subject: Wissenschaftliches Arbeiten in der Informatik
+    - major: lehrinf_bsc_2015
+      subject: Wissenschaftliches Arbeiten in der Informatik

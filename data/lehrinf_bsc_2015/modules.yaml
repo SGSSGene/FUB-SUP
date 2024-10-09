@@ -66,6 +66,9 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: abv_2018
+      subject: Objektorientierte Programmierung
 - page: 12
   name: Logik und Diskrete Mathematik für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -130,6 +133,9 @@
   differentiated: true
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Logik und Diskrete Mathematik für Lehramt
 - page: 13
   name: Rechnerarchitektur
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -187,6 +193,11 @@
       ist
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Rechnerarchitektur
+    - major: lehrinf_bsc_2014
+      subject: Rechnerarchitektur
 - page: 14
   name: Betriebs- und Kommunikationssysteme
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -254,26 +265,55 @@
       ist
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2023
+      subject: Betriebs- und Kommunikationssysteme
+    - major: lehrinf_bsc_2014
+      subject: Betriebs- und Kommunikationssysteme
 - page: 14
   name: Funktionale Programmierung
   link: inf_bsc_2014
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Funktionale Programmierung
+    - major: inf_bsc_2023
+      subject: Funktionale Programmierung
+    - major: lehrinf_bsc_2014
+      subject: Funktionale Programmierung
 - page: 14
   name: Datenbanksysteme
   link: inf_bsc_2014
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Datenbanksysteme
+    - major: inf_bsc_2023
+      subject: Datenbanksysteme
+    - major: lehrinf_bsc_2014
+      subject: Datenbanksysteme
 - page: 14
   name: Grundlagen der Theoretischen Informatik
   link: inf_bsc_2014
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Grundlagen der Theoretischen Informatik
+    - major: inf_bsc_2023
+      subject: Grundlagen der Theoretischen Informatik
+    - major: lehrinf_bsc_2014
+      subject: Grundlagen der Theoretischen Informatik
 - page: 14
   name: Algorithmen, Datenstrukturen und Datenabstraktion
   link: inf_bsc_2014
   tags:
     - Pflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Algorithmen, Datenstrukturen und Datenabstraktion
 - page: 15
   name: Nichtsequentielle und verteilte Programmierung für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -370,43 +410,90 @@
   differentiated: true
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Nichtsequentielle und verteilte Programmierung für Lehramt
 - page: 15
   name: Softwaretechnik
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Softwaretechnik
+    - major: inf_bsc_2023
+      subject: Softwaretechnik
+    - major: lehrinf_bsc_2014
+      subject: Softwaretechnik
 - page: 15
   name: Systemverwaltung
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Systemverwaltung
+    - major: inf_bsc_2023
+      subject: Systemverwaltung
+    - major: lehrinf_bsc_2014
+      subject: Systemverwaltung
 - page: 15
   name: Softwareprojekt B
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Softwareprojekt B
+    - major: lehrinf_bsc_2014
+      subject: Softwareprojekt B
 - page: 15
   name: Auswirkung der Informatik
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: lehrinf_bsc_2014
+      subject: Auswirkung der Informatik
 - page: 15
   name: Gesellschaftliche Aspekte der Informatik
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Gesellschaftliche Aspekte der Informatik
+    - major: lehrinf_bsc_2014
+      subject: Gesellschaftliche Aspekte der Informatik
 - page: 15
   name: Grundlagen der Technischen Informatik
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Grundlagen der Technischen Informatik
+    - major: lehrinf_bsc_2014
+      subject: Grundlagen der Technischen Informatik
 - page: 15
   name: Forschungspraktikum
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Forschungspraktikum
+    - major: inf_bsc_2023
+      subject: Forschungspraktikum
 - page: 15
   name: Wissenschaftliches Arbeiten in der Informatik
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_bsc_2014
+      subject: Wissenschaftliches Arbeiten in der Informatik
+    - major: inf_bsc_2023
+      subject: Wissenschaftliches Arbeiten in der Informatik
+    - major: lehrinf_bsc_2014
+      subject: Wissenschaftliches Arbeiten in der Informatik

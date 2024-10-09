@@ -4,12 +4,18 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Informatik
+  cross_link:
+    - major: inf_30lp_bsc_2017
+      subject: Informatik A
 - page: 6
   name: Informatik B
   link: inf_30lp_bsc_2017
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Informatik
+  cross_link:
+    - major: inf_30lp_bsc_2017
+      subject: Informatik B
 - page: 6
   name: Algorithmen und Datenstrukturen
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -64,6 +70,11 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Informatik
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Algorithmen und Datenstrukturen
+    - major: inf_bsc_2023
+      subject: Algorithmen und Datenstrukturen
 - page: 7
   name: Algorithmen und Datenstrukturen – Praktikum
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -320,12 +331,18 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Mathematik und Statistik
+  cross_link:
+    - major: math_bsc_2013
+      subject: Computerorientierte Mathematik I
 - page: 10
   name: Computerorientierte Mathematik II
   link: math_bsc_2013
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Mathematik und Statistik
+  cross_link:
+    - major: math_bsc_2013
+      subject: Computerorientierte Mathematik II
 - page: 11
   name: Statistik für Biowissenschaften I
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin
@@ -516,6 +533,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Allgemeine Chemie
 - page: 14
   name: Allgemeine Biologie
   organizer: Freie Universität Berlin/Fachbereich BCP/Institut für Biologie
@@ -567,6 +587,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Allgemeine Biologie
 - page: 15
   name: Molekularbiologie und Biochemie I
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -626,6 +649,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Molekularbiologie und Biochemie I
 - page: 16
   name: Molekularbiologie und Biochemie II
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -696,6 +722,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Molekularbiologie und Biochemie II
 - page: 17
   name: Molekularbiologie und Biochemie III
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -759,6 +788,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Molekularbiologie und Biochemie III
 - page: 18
   name: Genetik und Genomforschung
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -820,6 +852,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Genetik und Genomforschung
 - page: 19
   name: Medizinische Physiologie
   organizer: Freie Universität Berlin/Fakultät der Charité – Universitätsmedizin Berlin/
@@ -894,6 +929,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Medizinische Physiologie
 - page: 20
   name: Neurobiologie
   organizer: Freie Universität Berlin/Fachbereich Biologie, Chemie, Pharmazie/Institut
@@ -952,6 +990,9 @@
   tags:
     - Studienbereiche im Pflichtbereich des Kernfaches
     - Studienbereich Biologie/Chemie/Biochemie
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Neurobiologie
 - page: 21
   name: Projektmanagement im Softwarebereich
   organizer: Freie Universität Berlin/Fachbereich Mathematik und Informatik/Institut
@@ -1011,3 +1052,6 @@
   differentiated: false
   tags:
     - Studienbereiche Allgemeine Berufsvorbereitung
+  cross_link:
+    - major: bioinf_bsc_2023
+      subject: Projektmanagement im Softwarebereich
