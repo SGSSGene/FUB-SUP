@@ -1,1 +1,20 @@
-../../data/compsci_msc_2016/home.md
+# Original
+
+Dies ist eine inoffizielle Kopie der Studien- und Prüfungsordnung des
+Computational Sciences Masters an der FU-Berlin. Das Original ist hier zu
+finden:
+[StO/PO 2016 (Master, 0496a)](https://www.imp.fu-berlin.de/fbv/pruefungsbuero/Studien--und-Pruefungsordnungen/StOPO_MSc-Computational-Sciences-2016.pdf).
+
+# Modifikation
+
+Bei der Digitalisierung wurden viele kleinere Anpassungen gemacht. Folgende
+Abweichungen sind bekannt:
+
+- Anlage 2-4: nicht im Markdown übernommen
+- Seite 144: Auflistung in § 7 Abs. 2 wurde von einer auflistung mit buchstaben,
+  zu einer Aufzählung mit Zahlen geändert (sowie es in allen anderen SPOs üblich
+  ist)
+- Seite 153: Modul Einführung in die Theoretische Chemie fehlt Arbeitsaufwand
+  für "Selbststudium am Rechner". Es wird 0 angenommen.
+- [Module: Einführung in die Theoretische Chemie](modules/Einführung in die Theoretische Chemie.md), page: 13
+    - Es fehlt der geschätzte Arbeitsaufwand für Selbststudium am Rechner

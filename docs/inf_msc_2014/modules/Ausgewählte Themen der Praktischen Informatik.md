@@ -88,7 +88,7 @@ Masterstudiengang Informatik
 <tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
 
 
-- Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Vor- und Nachbereitung Zeit Ü {--60--}{++60++} Stunden`
+- Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Vor- und Nachbereitung Zeit Ü {--60--}{++90++} Stunden`
 - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Prüfungsvorbereitung und Prüfung {--30--}{++60++} Stunden`
 
 </td></tr>

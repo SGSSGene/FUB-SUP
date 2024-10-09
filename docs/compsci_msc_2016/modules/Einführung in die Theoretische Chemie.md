@@ -96,7 +96,7 @@ Masterstudiengang Computational Science
 <tr markdown><td colspan="2">**Abänderung in der Modulbeschreibung**<br>
 
 
-- Es felht der geschätzte Arbeitsaufwand für Selbststudium am Rechner
+- Es fehlt der geschätzte Arbeitsaufwand für Selbststudium am Rechner
 
 </td></tr>
 
