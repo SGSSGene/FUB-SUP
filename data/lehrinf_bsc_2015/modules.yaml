@@ -260,11 +260,6 @@
   tags:
     - Pflichtbereich
 - page: 14
-  name: Funktionale Programmierung
-  link: inf_bsc_2014
-  tags:
-    - Pflichtbereich
-- page: 14
   name: Datenbanksysteme
   link: inf_bsc_2014
   tags:
