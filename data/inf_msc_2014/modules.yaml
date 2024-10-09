@@ -1844,7 +1844,7 @@
   differentiated: true
   modification:
     - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Vor-
-      und Nachbereitung Zeit Ü {--60--}{++60++} Stunden`
+      und Nachbereitung Zeit Ü {--60--}{++90++} Stunden`
     - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Prüfungsvorbereitung
       und Prüfung {--30--}{++60++} Stunden`
   tags:
