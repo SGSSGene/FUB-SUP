@@ -452,6 +452,15 @@
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
+  cross_link:
+    - major: inf_30lp_bsc_2017
+      subject: Auswirkungen der Informatik
+    - major: inf_bsc_2014
+      subject: Auswirkungen der Informatik
+    - major: inf_bsc_2023
+      subject: Auswirkungen der Informatik
+    - major: lehrinf_bsc_2014
+      subject: Auswirkungen der Informatik
 - page: 15
   name: Gesellschaftliche Aspekte der Informatik
   link: inf_bsc_2014
