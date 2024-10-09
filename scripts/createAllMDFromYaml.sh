@@ -25,7 +25,7 @@ done
 # generate home.md
 if [ -e ${input}/home.md.mustache ]; then
     rm -rf ${output}/home.md
-    yq '[.[] | if .modification == null then null else . end] | sort_by(.page)' ${input}/modules.yaml \
+    yq '[.[] | select(.modification != null)] | sort_by(.page)' ${input}/modules.yaml \
         | mustache - ${input}/home.md.mustache > ${output}/home.md
 fi
 

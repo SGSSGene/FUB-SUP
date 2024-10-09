@@ -17,6 +17,3 @@ Abweichungen sind bekannt:
 - [Module: Ausgewählte Themen der Praktischen Informatik](modules/Ausgewählte Themen der Praktischen Informatik.md), page: 135
     - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Vor- und Nachbereitung Zeit Ü {--60--}{++90++} Stunden`
     - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Prüfungsvorbereitung und Prüfung {--30--}{++60++} Stunden`
-- [Module: Ausgewählte Themen der Praktischen Informatik](modules/Ausgewählte Themen der Praktischen Informatik.md), page: 135
-    - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Vor- und Nachbereitung Zeit Ü {--60--}{++90++} Stunden`
-    - Anpassung der Aufwandsstuden, damit den Geschwistern Modulen entspricht `Prüfungsvorbereitung und Prüfung {--30--}{++60++} Stunden`
