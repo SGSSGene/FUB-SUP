@@ -540,9 +540,9 @@
   total_work: 480
   credit_points: 16
   duration: Zwei Semester
-  repeat: 'Einmal im Studienjahr (Vorlesung 1 im Sommersemester, Vorlesung 2 im
-
-    Wintersemester)'
+  repeat: |-
+    Einmal im Studienjahr (Vorlesung 1 im Sommersemester, Vorlesung 2 im
+    Wintersemester)
   usability: |
     Bachelorstudiengang Physik, Bachelorstudiengang Meteorologie
   differentiated: true

@@ -3297,9 +3297,9 @@
   language: Spanisch
   total_work: 300
   credit_points: 10
-  duration: 'Zwei Semester oder ein Semester einschließlich vorlesungsfreier
-
-    Zeit'
+  duration: |-
+    Zwei Semester oder ein Semester einschließlich vorlesungsfreier
+    Zeit
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen)
@@ -3751,9 +3751,9 @@
   language: Türkisch und Deutsch
   total_work: 300
   credit_points: 10
-  duration: 'Zwei Semester oder ein Semester einschließlich vorlesungsfreier
-
-    Zeit'
+  duration: |-
+    Zwei Semester oder ein Semester einschließlich vorlesungsfreier
+    Zeit
   repeat: Jedes Semester
   usability: |
     Bachelorstudiengänge Studienbereich ABV (Kompetenzbereich Fremdsprachen)

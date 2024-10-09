@@ -182,8 +182,9 @@
     60-LP-Modulangebot Informatik
   differentiated: true
   modification:
-    - Dies ist in der Modulbeschreibung als "Pflichtmodul" aber in Paragarph 19 als "Wahlpflichtmodul" gelistet.
-      Ich gehe davon aus das es ein Wahlpflichtmodul ist
+    - Dies ist in der Modulbeschreibung als "Pflichtmodul" aber in Paragarph 19 als
+      "Wahlpflichtmodul" gelistet. Ich gehe davon aus das es ein Wahlpflichtmodul
+      ist
   tags:
     - Wahlpflichtbereich
 - page: 14
@@ -248,8 +249,9 @@
     Verwendbarkeit: 60-LP-Modulangebot Informatik
   differentiated: true
   modification:
-    - Dies ist in der Modulbeschreibung als "Pflichtmodul" aber in Paragarph 19 als "Wahlpflichtmodul" gelistet.
-      Ich gehe davon aus das es ein Wahlpflichtmodul ist
+    - Dies ist in der Modulbeschreibung als "Pflichtmodul" aber in Paragarph 19 als
+      "Wahlpflichtmodul" gelistet. Ich gehe davon aus das es ein Wahlpflichtmodul
+      ist
   tags:
     - Wahlpflichtbereich
 - page: 14
@@ -261,22 +263,22 @@
   name: Funktionale Programmierung
   link: inf_bsc_2014
   tags:
-   - Pflichtbereich
+    - Pflichtbereich
 - page: 14
   name: Datenbanksysteme
   link: inf_bsc_2014
   tags:
-   - Pflichtbereich
+    - Pflichtbereich
 - page: 14
   name: Grundlagen der Theoretischen Informatik
   link: inf_bsc_2014
   tags:
-   - Pflichtbereich
+    - Pflichtbereich
 - page: 14
   name: Algorithmen, Datenstrukturen und Datenabstraktion
   link: inf_bsc_2014
   tags:
-   - Pflichtbereich
+    - Pflichtbereich
 - page: 15
   name: Nichtsequentielle und verteilte Programmierung für Lehramt
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -408,7 +410,6 @@
   link: inf_bsc_2014
   tags:
     - Wahlpflichtbereich
-
 - page: 15
   name: Wissenschaftliches Arbeiten in der Informatik
   link: inf_bsc_2014

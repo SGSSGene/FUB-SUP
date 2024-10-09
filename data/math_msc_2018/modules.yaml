@@ -2533,7 +2533,8 @@
     Masterstudiengang Mathematik; Berlin Mathematical School-Studienangebot
   differentiated: false
   modification:
-    - The name of this module is actually 'What is …?'...but this breaks currently so many things
+    - The name of this module is actually 'What is …?'...but this breaks currently
+      so many things
   tags:
     - Ergänzungsmodul
     - gemäß § 7 Abs. 7

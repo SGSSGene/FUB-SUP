@@ -1109,9 +1109,9 @@
   total_work: 300
   credit_points: 10
   duration: Ein Semester
-  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in
-
-    der vorlesungsfreien Zeit als Blockveranstaltung'
+  repeat: |-
+    Mindestens einmal im Jahr, teilweise im Semester und teilweise in
+    der vorlesungsfreien Zeit als Blockveranstaltung
   usability: |
     Masterstudiengang Data Science
   differentiated: true
@@ -1364,7 +1364,8 @@
   tags:
     - Profilbereich
   modification:
-    - This course is supposed to have 10LP via DataScience 2019, but in bioinformatic it is only listet with 5LP
+    - This course is supposed to have 10LP via DataScience 2019, but in bioinformatic
+      it is only listet with 5LP
 - page: 36
   name: Verteilte Systeme
   link: inf_msc_2014

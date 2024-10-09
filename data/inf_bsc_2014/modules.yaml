@@ -242,8 +242,7 @@
     - Themengebiet Praktische Informatik
 - page: 81
   name: Basisdidaktik Informatik
-  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut
-    für Informatik
+  organizer: Freie Universität Berlin/Mathematik und Informatik/Institut für Informatik
   responsible: Dozentin oder Dozent des Moduls
   requirements: |
     Erfolgreiche Absolvierung des Moduls Funktionale Programmierung oder des Moduls
@@ -299,7 +298,8 @@
     Bachelorstudiengang Informatik
   differentiated: true
   modification:
-    - "Anpassung des Fachbereichs: `Freie Universität Berlin/{--Fachbereich --}Mathematik und Informatik/{--Institut für --}Informatik"
+    - |-
+      Anpassung des Fachbereichs: `Freie Universität Berlin/{--Fachbereich --}Mathematik und Informatik/{--Institut für --}Informatik
   tags:
     - Vertiefungsbereich
 - page: 94

@@ -606,7 +606,8 @@
   total_work: 300
   credit_points: 10
   duration: Ein Semester
-  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in der vorlesungsfreien Zeit als Blockveranstaltung.'
+  repeat: Mindestens einmal im Jahr, teilweise im Semester und teilweise in der vorlesungsfreien
+    Zeit als Blockveranstaltung.
   usability: |
     Masterstudiengang Data Science
   differentiated: true
@@ -662,7 +663,8 @@
   total_work: 300
   credit_points: 10
   duration: Ein Semester
-  repeat: 'Mindestens einmal im Jahr, teilweise im Semester und teilweise in der vorlesungsfreien Zeit als Blockveranstaltung.'
+  repeat: Mindestens einmal im Jahr, teilweise im Semester und teilweise in der vorlesungsfreien
+    Zeit als Blockveranstaltung.
   usability: |
     Masterstudiengang Data Science
   differentiated: true
@@ -1092,7 +1094,7 @@
   duration: Ein Semester
   repeat: Unregelmäßig
   usability: |
-      Masterstudiengang Data Science
+    Masterstudiengang Data Science
   differentiated: true
   tags:
     - Profilbereich

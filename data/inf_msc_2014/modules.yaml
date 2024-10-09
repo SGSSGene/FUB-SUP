@@ -283,7 +283,8 @@
   tags:
     - Studienbereich Praktische Informatik
   modification:
-    - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
+    - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor
+      Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
 - page: 112
   name: Grundlagen des Softwaretestens
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -363,7 +364,8 @@
   tags:
     - Studienbereich Praktische Informatik
   modification:
-    - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
+    - Es ist wird aus der Studienordnung nicht klar, dass dieses Modul aus dem Bachelor
+      Informatik 2014 stammt, im bsc 2023 ist er scheinbar auch nicht vorhanden.
 - page: 113
   name: Künstliche Intelligenz
   organizer: Freie Universität Berlin/Mathematik und Informatik/Informatik
@@ -2451,12 +2453,12 @@
   language: Deutsch (ggf. Englisch)
   total_work: 300
   credit_points: 10
-  duration: 'Ein Semester
-
-    Regelmäßig in Abwechslung mit den anderen Softwareprojekten,'
-  repeat: 'teilweise im Semester und teilweise in der vorlesungsfreien Zeit als
-
-    Blockveranstaltung'
+  duration: |-
+    Ein Semester
+    Regelmäßig in Abwechslung mit den anderen Softwareprojekten,
+  repeat: |-
+    teilweise im Semester und teilweise in der vorlesungsfreien Zeit als
+    Blockveranstaltung
   usability: |
     Masterstudiengang Informatik
   differentiated: false

@@ -1366,7 +1366,8 @@
   name: Partielle Differentialgleichungen I
   link: math_msc_2018
   modification:
-    - Eigentlich verweist die SPO auf "Differentialgleichungen I" aber der existiert im 2018 master nicht, daher nehme ich an die "Partielle" variante ist gemeint.
+    - Eigentlich verweist die SPO auf "Differentialgleichungen I" aber der existiert
+      im 2018 master nicht, daher nehme ich an die "Partielle" variante ist gemeint.
   tags:
     - Vertiefungsbereich
     - Wahlbereich - Teil B
