@@ -58,7 +58,7 @@ werden. Module werden mit nur einer Prüfungsleistung (Modulprüfung)
 abgeschlossen. Die Modulprüfung ist auf die Qualifikationsziele des Moduls zu
 beziehen und überprüft die Erreichung der Ziele des Moduls exemplarisch. Der
 Prüfungsumfang wird auf das dafür notwendige Maß beschränkt. In Modulen, in
-denen alternative Prüfungsformen vorgesehen sind, istdie Prüfungsform des
+denen alternative Prüfungsformen vorgesehen sind, ist die Prüfungsform des
 jeweiligen Semesters von der verantwortlichen Lehrkraft spätestens im ersten
 Lehrveranstaltungstermin festzulegen. Die aktive und - soweit vorgesehen -
 regelmäßige Teilnahme an den Lehr- und Lernformen sowie die erfolgreiche

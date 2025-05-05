@@ -341,7 +341,7 @@ Die Regelstudienzeit beträgt sechs Semester.
    angemessen darzustellen und zu dokumentieren.
 2. Studentinnen und Studenten werden auf Antrag zur Bachelorarbeit zugelassen,
    wenn sie
-    1. Module im Umfang von mindestens 120 LP einser schließlich des Moduls
+    1. Module im Umfang von mindestens 120 LP einschließlich des Moduls
        „Algorithmische Bioinformatik“ erfolgreich absolviert haben und
     2. im Bachelorstudiengang zuletzt an der Freien Universität Berlin
        immatrikuliert gewesen sind.
